@@ -1,0 +1,32 @@
+{
+  "schools": {
+    "source": "data/processed/schools.parquet",
+    "sha256": "e7818696abc7674ba068a766f0378d1367375c97e59ab646de52c9b95a1d74ce",
+    "rows": 33
+  },
+  "scores": {
+    "source": "data/processed/middle_school_scores.parquet",
+    "sha256": "becb24248ac3b67cd6cf7911050a2d9dfdd4e035079aaf103633768a695bef2c",
+    "rows": 19
+  },
+  "apartments": {
+    "source": "data/interim/apartment_master.parquet",
+    "sha256": "9676a849900715e4544921a122e925ba7ab9efd4dd32b04b3154eba4028a7ffe",
+    "rows": 80
+  },
+  "catchments": {
+    "source": "data/interim/haeundae_elementary_catchment_2025.parquet",
+    "sha256": "baa86f06f15de69bf88c5c397cb36eb85c2122b16fe765ccdcc2cd738398a916",
+    "rows": 226
+  },
+  "groups": {
+    "source": "data/interim/haeundae_middle_school_groups_2025.parquet",
+    "sha256": "3ded981fb964d5ec58a68da9e79dfd41b815af5f4e216a9b85b48e73dd94b7ff",
+    "rows": 76
+  },
+  "assignment": {
+    "source": "data/interim/haeundae_middle_assignment_2025.parquet",
+    "sha256": "fffbdce03e76f739557f9d2e5f2202ae0660cbc21fc292743353180bb4ce6047",
+    "rows": 24
+  }
+}

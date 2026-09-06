@@ -1,0 +1,38 @@
+﻿번호,항목명,항목 ID,학교급
+1,시도교육청,ATPT_OFCDC_ORG_NM,전체
+2,시도교육청코드,ATPT_OFCDC_ORG_CODE,전체
+3,교육지원청,JU_ORG_NM,전체
+4,교육지원청코드,JU_ORG_CODE,전체
+5,지역,ADRCD_NM,전체
+6,지역코드,ADRCD_CD,전체
+7,소재지구분코드,LCTN_SC_CODE,전체
+8,정보공시 학교코드,SCHUL_CODE,전체
+9,학교명,SCHUL_NM,전체
+10,학교급코드,SCHUL_KND_SC_CODE,전체
+11,설립구분,FOND_SC_CODE,전체
+12,학교특성,HS_KND_SC_NM,전체
+13,분교여부,BNHH_YN,전체
+14,설립유형,SCHUL_FOND_TYP_CODE,전체
+15,주야구분,DGHT_SC_CODE,전체
+16,개교기념일,FOAS_MEMRD,전체
+17,설립일,FOND_YMD,전체
+18,법정동코드,ADRCD_ID,전체
+19,주소내역,ADRES_BRKDN,전체
+20,상세주소내역,DTLAD_BRKDN,전체
+21,우편번호,ZIP_CODE,전체
+22,학교도로명 우편번호,SCHUL_RDNZC,전체
+23,학교도로명 주소,SCHUL_RDNMA,전체
+24,학교도로명 상세주소,SCHUL_RDNDA,전체
+25,위도,LTTUD,전체
+26,경도,LGTUD,전체
+27,전화번호,USER_TELNO,전체
+28,전화번호(교무실),USER_TELNO_SW,전체
+29,전화번호(행정실),USER_TELNO_GA,전체
+30,팩스번호,PERC_FAXNO,전체
+31,홈페이지 주소,HMPG_ADRES,전체
+32,남녀공학 구분,COEDU_SC_CODE,전체
+33,폐교여부,ABSCH_YN,전체
+34,폐교일자,ABSCH_YMD,전체
+35,휴교여부,CLOSE_YN,전체
+36,학교과정구분값(2-3-4),SCHUL_CRSE_SC_VALUE,각종
+37,학교과정구분명(초-중-고),SCHUL_CRSE_SC_VALUE_NM,각종
