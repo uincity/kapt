@@ -1,0 +1,5 @@
+alias,canonical_name,alias_type,source,manual_verified
+삼성래미안,래미안,brand,manual_seed,true
+포스코더샵,더샵,brand,manual_seed,true
+롯데 캐슬,롯데캐슬,spelling_variant,manual_seed,true
+센텀파크 1차,센텀파크1차,phase_expression,manual_seed,true

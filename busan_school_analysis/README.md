@@ -13,7 +13,9 @@
   Plotly HTML 보고서를 구현했다. [실수집 결과와 해석](reports/phase3_findings.md)을 참고한다.
 - **Phase 4 완료**: 2025학년도 해운대교육지원청 통학구역·중입 원문 보존, 정규화 및 검증 PoC.
 - **Phase 5 완료**: 센텀/재송 통학구역의 K-apt 후보 검증, 중학교 관계별 성과 연결, 최소 Streamlit 검증 화면.
-- Phase 6–9의 부산 전체 확대, 아파트 학군점수, 완성형 대시보드는 후속 단계다.
+- **Phase 6 공식 공간경계 보완 완료**: 학구도안내서비스 2025-09-22 경계 309개와 학교 연계 324건을
+  부산 5개 교육지원청에 적용했다. 좌표 보유 아파트 1,468개 중 1,466개를 경계에 연결했다.
+- Phase 7–9의 아파트 학군점수, 완성형 대시보드, 품질보고서 확장은 후속 단계다.
   최종 `apartment_school_features.parquet`는 아직 제공하지 않는다.
 
 ## Phase 4: 해운대교육지원청 학교구역 PoC
@@ -107,6 +109,58 @@ kapt_code, complex_name, override_type, evidence_source, evidence_text, reason, 
 테스트는 `tests/fixtures/phase5/`의 실제 로컬 스냅샷과 합성 반례를 사용한다. 네트워크 접속이나
 API 키 없이 실행하며 원본 해시는 `provenance.json`에 기록했다. Streamlit 테스트는 임시 폴더에
 검증 데이터를 만들어 앱의 학교 선택과 500세대 필터를 확인한다. 서버를 상시 실행하지 않는다.
+
+## Phase 6: 2025 공식 학구도 공간경계
+
+[학구도안내서비스 공공데이터 목록](https://schoolzone.emac.kr/publicData/publicDataList.do)의
+`초등학교 통학구역 및 공동통학구역(2025.09.22.)` Shapefile과 같은 기준일의
+`학교-학구도 연계정보` CSV를 사용한다. 수집기는 게시물·첨부 식별자를 고정하고 원본 ZIP의
+SHA256, 기준일, 수집시각, 공식 목록 및 다운로드 URL을 메타데이터로 기록한다.
+
+```powershell
+python main.py collect-schoolzone --year 2025
+python main.py build-schoolzone --year 2025
+python main.py phase6-report
+```
+
+부산 코드(`SD_CD=26`)만 추출하고 원 좌표계 EPSG:5186을 GeoParquet에 보존한다. 일반 통학구역과
+공동통학구역을 구분하며 공동통학구역의 여러 학교 관계를 한 학교로 축약하지 않는다. 공식 학구 ID와
+외부 학교 ID를 주 근거로 보존하고, 내부 `school_id`는 활성 학교명과 교육지원청을 이용해 별도 연결한다.
+2025 자료의 휴교 표기와 2026 학교 마스터 상태가 다른 1건은 수동검토로 유지한다.
+
+아파트 좌표는 WGS84에서 경계 좌표계로 변환한 후 `intersects`로 판정한다. 현재 K-apt 스냅샷을
+2025 주소로 간주하지 않으며 `address_temporal_match=False`로 기록한다. 좌표 누락 3,053개는
+`COORDINATE_MISSING`, 경계에서 약 18m와 22m 벗어난 2개는 `OUTSIDE_OFFICIAL_BOUNDARY`로
+보존한다. 학구도 파일에는 행정동·법정동 코드가 없으므로 해당 코드를 공간 경계에서 추정하지 않는다.
+
+| 파일 | 내용 |
+|---|---|
+| `data/raw/schoolzone/2025/` | 공식 ZIP, SHA256·기준일 메타데이터, 안전 추출본 |
+| `data/processed/busan_elementary_catchment_boundaries_2025.parquet` | 부산 공식 학구 GeoParquet 309개 |
+| `data/processed/busan_schoolzone_school_link_2025.parquet` | 학교-학구도 관계 324건과 내부 ID 매핑 근거 |
+| `data/processed/busan_apartment_elementary_match_2025.parquet` | 4,521개 단지 전체의 공간 판정과 검토 상태 |
+| `reports/schoolzone_2025_quality.csv` | 교육지원청별 경계·공동통학·단지 매칭 수 |
+| `reports/phase6_validation.md` | Phase 6 통합 판정과 Phase 7 선행조건 |
+
+## Phase 6.5: 아파트 좌표 보완
+
+K-apt 좌표가 없는 거래 기반 단지에는 국토교통부 실거래 원천의 도로명·지번 주소를 복원한다.
+기존 좌표를 다시 지오코딩하지 않으며 도로명, 지번, 단지명+법정동 순서로 후보를 처리한다.
+성공과 실패는 모두 질의 해시로 캐시하고 반환 주소의 부산·구군·법정동·도로명·건물번호를 검증한
+좌표만 공간매칭에 사용한다. 단지명 후보는 자동 확정하지 않는다.
+
+```powershell
+python main.py phase65-audit
+python main.py phase65-geocode
+python main.py phase65-geocode --retry-failed
+python main.py phase65-build
+```
+
+최종 좌표는 `data/processed/busan_apartment_coordinates_2025.parquet`, 주소 후보와 시도 이력은
+`data/interim/apartment_coordinate_candidates_2025.parquet` 및 `geocode_attempts.parquet`에 저장한다.
+기존 공식 직접 근거와 공간근거를 병합한 관계는
+`data/processed/busan_apartment_elementary_relation_2025.parquet`이며 `evidence_types`와
+`cross_validated`를 보존한다. 상세 품질 판정은 `reports/phase65_validation.md`에서 확인한다.
 
 ## Python 환경 설치
 

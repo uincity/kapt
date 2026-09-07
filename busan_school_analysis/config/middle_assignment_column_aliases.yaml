@@ -1,0 +1,20 @@
+elementary_school:
+  - 초등학교
+  - 출신초
+  - 출신학교
+  - 졸업학교
+school_group:
+  - 학교군
+  - 중학교군
+middle_school:
+  - 중학교
+  - 배정학교
+  - 배정중학교
+region:
+  - 지역
+  - 동
+  - 통
+  - 반
+  - 주소
+gender:
+  - 성별
