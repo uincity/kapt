@@ -15,8 +15,9 @@
 - **Phase 5 완료**: 센텀/재송 통학구역의 K-apt 후보 검증, 중학교 관계별 성과 연결, 최소 Streamlit 검증 화면.
 - **Phase 6 공식 공간경계 보완 완료**: 학구도안내서비스 2025-09-22 경계 309개와 학교 연계 324건을
   부산 5개 교육지원청에 적용했다. 좌표 보유 아파트 1,468개 중 1,466개를 경계에 연결했다.
-- Phase 7–9의 아파트 학군점수, 완성형 대시보드, 품질보고서 확장은 후속 단계다.
-  최종 `apartment_school_features.parquet`는 아직 제공하지 않는다.
+- **Phase 7 완료**: 공식 초→중 관계의 신뢰도, 중학교 성과 분포, 초등 직선거리와 자료 품질을
+  결합한 설명 가능한 아파트 학군점수를 구축했다. 미확보 관계는 `UNRESOLVED`로 유지한다.
+- Phase 8–9의 가격 프리미엄 분석과 최종 품질보고서는 후속 단계다.
 
 ## Phase 4: 해운대교육지원청 학교구역 PoC
 
@@ -52,6 +53,31 @@ legacy HWP는 원본만 보존하고 자동 해석하지 않는다. 수동 보�
 | `data/interim/haeundae_middle_assignment_2025.parquet` | PDF에 명시된 조건부 관계 |
 | `reports/haeundae_parse_review_2025.csv` | PARTIAL/REVIEW 검수 대상 |
 | `reports/haeundae_phase4_validation.md` | 건수, 성공률, 연도 및 관계 수준 검증 |
+
+## Phase 7: 설명 가능한 아파트 학군점수
+
+```powershell
+python main.py phase7-audit
+python main.py phase7-build
+python main.py phase7-build --assignment-year 2026
+python -m streamlit run streamlit_app.py
+```
+
+가중치는 `config/school_score.yaml`에서 관리한다. 관계 가중치는 배정확률이 아니라 공식 근거의
+신뢰도 proxy다. `EXACT`, `ELIGIBLE`, `CONDITIONAL`, `GROUP_MEMBERSHIP`, `UNRESOLVED`를 구분하며
+학교군 포함을 배정 확정으로 해석하지 않는다. 최고점 편향을 막기 위해 가중평균과 최저점,
+후보 분산, exclusivity를 함께 사용한다. Phase 3 원점수와 소표본 경고는 수정하지 않는다.
+
+최종 단지 파일은 4,521개 `internal_complex_id`를 1행씩 보존하며 기존 아파트 프로젝트에서
+왼쪽 결합할 수 있다. 직선거리는 실제 보행거리와 다르며, 좌표 REVIEW 단지는 공식 직접 근거가
+없는 한 점수에서 제외한다. 상세 한계와 Phase 8 준비 판정은 `reports/phase7_validation.md`에 있다.
+
+사용자가 제공한 북부·서부 2026학년도 공식 PDF는 `--assignment-year 2026`으로 별도 파싱한다.
+남녀 중입 배정 열만 사용하며 전학 배정 열은 점수 후보에서 제외한다. 2026 관계를 2025 관계에
+덮어쓰지 않는다. 2026 아파트 점수는 2025-09-22 공간경계와 Phase 3의 2025 성과점수를 함께
+참고하므로 각 기준연도를 결과와 검증보고서에 명시한다.
+수작업으로 확보한 `em_school/수작업 초_중배정내역(260908).csv`의 진학 가능 관계도 같은 명령에서
+병합한다. 이 관계는 `ELIGIBLE`, `manual_review=True`로 구분하고 CSV 행 번호와 SHA256을 보존한다.
 
 ## 실행 환경
 

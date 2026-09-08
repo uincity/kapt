@@ -7,7 +7,7 @@ from src.inspect_apartments import inspect_apartments
 
 
 def main(argv=None):
-    parser = argparse.ArgumentParser(description='부산 학군 데이터 검증: Phase 1-6')
+    parser = argparse.ArgumentParser(description='부산 학군 데이터 검증: Phase 1-7')
     sub = parser.add_subparsers(dest='command', required=True)
     sub.add_parser('inspect-apartments')
     collect = sub.add_parser('collect-schools')
@@ -32,6 +32,9 @@ def main(argv=None):
     phase65_geocode = sub.add_parser('phase65-geocode')
     phase65_geocode.add_argument('--retry-failed', action='store_true')
     sub.add_parser('phase65-build')
+    sub.add_parser('phase7-audit')
+    phase7_build_parser = sub.add_parser('phase7-build')
+    phase7_build_parser.add_argument('--assignment-year', type=int, choices=[2025, 2026], default=2025)
     review = sub.add_parser('import-advancement')
     review.add_argument('--csv', required=True)
     geo = sub.add_parser('geocode-schools')
@@ -82,6 +85,16 @@ def main(argv=None):
         elif args.command == 'phase65-build':
             from src.phase65_coordinates import phase65_build
             result = phase65_build()
+        elif args.command == 'phase7-audit':
+            from src.phase7_scoring import phase7_audit
+            result = phase7_audit()
+        elif args.command == 'phase7-build':
+            if args.assignment_year == 2026:
+                from src.phase7_assignment_2026 import build_assignment_2026
+                result = build_assignment_2026()
+            else:
+                from src.phase7_scoring import phase7_build
+                result = phase7_build()
         elif args.command == 'collect-admin-codes':
             from src.collect_admin_codes import collect_admin_codes
             result = collect_admin_codes()

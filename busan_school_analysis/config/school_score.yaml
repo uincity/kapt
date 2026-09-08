@@ -1,0 +1,52 @@
+middle_relation_weights:
+  EXACT: 1.00
+  ELIGIBLE: 0.80
+  CONDITIONAL: 0.50
+  GROUP_MEMBERSHIP: 0.25
+  UNRESOLVED: 0.00
+
+assignment_quality:
+  EXACT: 100
+  ELIGIBLE: 85
+  CONDITIONAL: 65
+  GROUP_MEMBERSHIP: 45
+  UNRESOLVED: 0
+
+elementary_feeder_score:
+  weighted_middle_score: 0.65
+  worst_middle_score: 0.15
+  feeder_exclusivity: 0.10
+  assignment_data_quality: 0.10
+
+feeder_exclusivity:
+  exact_share: 0.40
+  candidate_concentration: 0.30
+  strong_relation_share: 0.30
+
+accessibility_bands:
+  - {max_distance_m: 300, score: 100}
+  - {max_distance_m: 500, score: 90}
+  - {max_distance_m: 700, score: 80}
+  - {max_distance_m: 1000, score: 65}
+  - {max_distance_m: 1500, score: 45}
+  - {max_distance_m: null, score: 25}
+
+apartment_scenarios:
+  BASE: {feeder: 0.80, accessibility: 0.10, confidence: 0.10}
+  QUALITY_FOCUSED: {feeder: 0.90, accessibility: 0.05, confidence: 0.05}
+  STABILITY_FOCUSED: {feeder: 0.80, accessibility: 0.10, confidence: 0.10,
+                      feeder_mean: 0.50, feeder_worst: 0.30, exclusivity: 0.20}
+
+percentile_grades:
+  S: 95
+  A: 85
+  B: 65
+  C: 35
+  D: 15
+  E: 0
+
+ranking_sensitive_range: 20
+
+readiness_500plus_coverage:
+  ready: 0.95
+  ready_with_review: 0.80
