@@ -1,0 +1,2 @@
+﻿elementary_school_id,elementary_school_name,middle_school_id,middle_school_name,relation_type,relation_status,assignment_share,override_reason,override_source,updated_at
+E1,센텀초,M1,센텀중,EXACT,ACTIVE,1,실제 배정 확인,검증 문서,2026-09-09T20:26:34.739631+09:00

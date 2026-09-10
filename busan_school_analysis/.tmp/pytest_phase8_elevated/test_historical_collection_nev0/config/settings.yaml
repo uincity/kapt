@@ -1,0 +1,25 @@
+apartment_project: ../busan_apartment_analysis
+schoolinfo:
+  endpoint: https://www.schoolinfo.go.kr/openApi.do
+  timeout: 30
+  retries: 3
+  interval: 0.2
+  levels: ['02', '03']
+kakao:
+  endpoint: https://dapi.kakao.com/v2/local/search/address.json
+  timeout: 10
+  retries: 3
+  interval: 0.05
+education_offices:
+  haeundae:
+    elementary_catchment_url: https://home.pen.go.kr/haeundae/cm/cntnts/cntntsView.do?cntntsId=311&mi=11750
+    middle_assignment_board_url: https://home.pen.go.kr/haeundae/na/ntt/selectNttList.do?bbsId=3550&mi=11419
+    middle_school_groups_url: https://home.pen.go.kr/haeundae/cm/cntnts/cntntsView.do?cntntsId=253&mi=11431
+# 중학교 점수는 Phase 3 구현. apartment_weights는 Phase 7 예정.
+scoring:
+  year_weights: [0.5, 0.3, 0.2]
+  shrinkage_k: 100
+  small_sample_threshold: 30
+  middle_weights: {science: 0.45, foreign_international: 0.35, autonomous_private: 0.20}
+  apartment_weights: {feeder_quality: 0.80, elementary_accessibility: 0.10, assignment_confidence: 0.10}
+  minimum_households: 500

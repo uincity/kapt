@@ -166,11 +166,35 @@ def test_original_middle_score_unchanged():
 def test_phase7_dashboard_pages():
     from streamlit.testing.v1 import AppTest
     app = AppTest.from_file(str(ROOT / "streamlit_app.py")).run(timeout=30)
-    assert not app.exception and app.selectbox[0].value == "Overview"
+    assert not app.exception and app.radio[0].value == "Overview"
     for page in ["Middle ranking", "Feeder ranking", "Apartment ranking", "Centum validation",
                  "Score sensitivity", "Data quality"]:
-        app.selectbox[0].select(page).run(timeout=30)
+        app.radio[0].set_value(page).run(timeout=30)
         assert not app.exception
+
+
+def test_assignment_editor_filters_elementary_by_sigungu():
+    from streamlit.testing.v1 import AppTest
+    app = AppTest.from_file(str(ROOT / "streamlit_app.py")).run(timeout=30)
+    app.radio[0].set_value("Centum validation").run(timeout=30)
+    assert not app.exception
+    assert app.selectbox[0].label == "구·군 선택"
+    assert app.selectbox[1].label == "초등학교 선택"
+    assert app.selectbox[0].value == "해운대구" and "센텀초" in app.selectbox[1].options
+    app.selectbox[0].select("강서구").run(timeout=30)
+    assert not app.exception and "센텀초" not in app.selectbox[1].options
+
+
+def test_feeder_ranking_filters_by_sigungu():
+    from streamlit.testing.v1 import AppTest
+    app = AppTest.from_file(str(ROOT / "streamlit_app.py")).run(timeout=30)
+    app.radio[0].set_value("Feeder ranking").run(timeout=30)
+    assert not app.exception and app.selectbox[0].label == "진학권 순위 구·군"
+    app.selectbox[0].select("해운대구").run(timeout=30)
+    assert not app.exception
+    visible = app.dataframe[0].value
+    assert len(visible) and visible.sigungu.eq("해운대구").all()
+    assert {"busan_feeder_rank", "sigungu_feeder_rank"}.issubset(visible.columns)
 
 
 def test_bukbu_2026_intake_excludes_transfer_candidates():
@@ -211,4 +235,7 @@ def test_assignment_2026_output_interface():
 def test_assignment_2026_named_middle_ids_resolved():
     relations = pd.read_parquet(ROOT / "data/processed/busan_elementary_middle_relation_2026.parquet")
     named = relations[relations.middle_school_name.notna()]
-    assert named.middle_school_id.notna().all()
+    unmatched = named[named.middle_school_id.isna()]
+    assert unmatched.parser_version.eq("phase7-manual-assignment-2026-1.0").all()
+    assert unmatched.manual_review.astype(bool).all()
+    assert named[~named.index.isin(unmatched.index)].middle_school_id.notna().all()

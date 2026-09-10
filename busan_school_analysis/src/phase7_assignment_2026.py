@@ -12,6 +12,7 @@ from .config import ROOT, atomic_bytes, write_csv, write_parquet
 from .parsers.pdf_parser import parse_pdf
 from .phase7_scoring import (_school_key, _names, build_apartment_scores,
                              build_feeder_scores, load_score_config, _rank_sensitivity)
+from .relation_overrides import apply_relation_overrides
 
 OFFICIAL_ABBREVIATION_ALIASES = {
     "영선중": "부산영선중학교",
@@ -19,10 +20,11 @@ OFFICIAL_ABBREVIATION_ALIASES = {
     "중앙여중": "부산중앙여자중학교",
     "이사벨여중": "이사벨중학교",
     "내성중": "부산내성중학교",
+    "수영중": "부산수영중학교",
 }
 
 DISTRICT_OFFICES = {
-    "서구": "seobu", "영도구": "seobu", "사하구": "seobu",
+    "중구": "seobu", "서구": "seobu", "영도구": "seobu", "사하구": "seobu",
     "남구": "nambu", "동구": "nambu", "부산진구": "nambu",
     "북구": "bukbu", "사상구": "bukbu", "강서구": "bukbu",
     "동래구": "dongnae", "금정구": "dongnae", "연제구": "dongnae",
@@ -152,11 +154,16 @@ def build_assignment_2026(root=ROOT):
     root = Path(root); base = root / "em_school"
     bukbu_path = base / "01.북부교육지청_2026학년도 중입배정 및 전학배정표.pdf"
     seobu_path = base / "02.서부교육지청_2026학년도 입학배정.pdf"
-    manual_path = base / "수작업 초_중배정내역(260908).csv"
+    manual_paths = [
+        base / "수작업 초_중배정내역(260909).csv",
+        base / "수작업 초_중배정내역(260908).csv",
+    ]
     official_relations = pd.concat(
         [parse_bukbu_2026(bukbu_path), parse_seobu_2026(seobu_path)], ignore_index=True
     )
-    manual_relations = parse_manual_assignment_2026(manual_path)
+    manual_relations = pd.concat(
+        [parse_manual_assignment_2026(path) for path in manual_paths], ignore_index=True
+    )
     relations = pd.concat([official_relations, manual_relations], ignore_index=True)
     schools = pd.read_parquet(root / "data/processed/schools.parquet")
     elementary = schools[schools.school_level.astype(str).str.lower().isin(["elementary", "초등학교"])].copy()
@@ -171,16 +178,43 @@ def build_assignment_2026(root=ROOT):
     relations = relations.merge(middle[["_key", "school_id"]].drop_duplicates("_key").rename(
         columns={"_key": "_middle_key", "school_id": "middle_school_id"}), on="_middle_key", how="left")
     relations = relations.drop_duplicates(
-        ["elementary_school_id", "middle_school_id", "relation_type", "gender_condition"], keep="first"
+        ["_elementary_key", "_middle_key", "relation_type", "gender_condition"], keep="first"
     )
     config = load_score_config(root)
     relations["assignment_reliability_weight"] = relations.relation_type.map(config["middle_relation_weights"]).astype(float)
     relations["assignment_data_quality"] = relations.relation_type.map(config["assignment_quality"]).astype(float)
     relations["guaranteed_assignment"] = False
+    # Keep the user's raw label and a stable status for every relation.  Named
+    # schools that cannot be resolved to one current official school remain in
+    # the evidence table but never enter feeder scoring because their ID is NA.
+    relations["raw_middle_school_name"] = relations["middle_school_name"]
+    relations["source_page"] = relations["source_page_or_section"]
+    relations["relation_status"] = "ACTIVE"
+    ambiguous = (
+        relations.parser_version.eq("phase7-manual-assignment-2026-1.0")
+        & relations.middle_school_name.notna()
+        & relations.middle_school_id.isna()
+    )
+    relations.loc[ambiguous, "relation_status"] = "EXCLUDED_AMBIGUOUS_SCHOOL"
+    unresolved = relations.relation_type.eq("UNRESOLVED") & ~ambiguous
+    relations.loc[unresolved, "relation_status"] = "UNRESOLVED_EXTERNAL_OFFICE"
+    relations = apply_relation_overrides(relations, root / "config/manual_elementary_middle_overrides.csv")
+    config = load_score_config(root)
+    relations["assignment_reliability_weight"] = relations.relation_type.map(config["middle_relation_weights"]).astype(float)
+    relations["assignment_data_quality"] = relations.relation_type.map(config["assignment_quality"]).astype(float)
+    relations.loc[relations.relation_status.ne("ACTIVE"), ["assignment_reliability_weight", "assignment_data_quality"]] = 0.0
+    relations["guaranteed_assignment"] = relations.relation_type.eq("EXACT") & relations.relation_status.eq("ACTIVE")
     relations["source_sha256"] = relations.source_document.map(
         lambda p: hashlib.sha256(Path(p).read_bytes()).hexdigest())
     relations = relations.drop(columns=["_elementary_key", "_middle_key"])
+    manual_integrated = relations[
+        relations.parser_version.eq("phase7-manual-assignment-2026-1.0")
+    ].copy()
     write_parquet(root / "data/processed/busan_elementary_middle_relation_2026.parquet", relations)
+    manual_review = manual_integrated[
+        manual_integrated.elementary_school_id.isna() | manual_integrated.middle_school_id.isna()
+    ].copy()
+    write_csv(root / "reports/phase7_assignment_2026_manual_review.csv", manual_review)
 
     middle_scores = pd.read_parquet(root / "data/processed/middle_school_scores.parquet")
     cols = ["middle_school_id", "middle_school_score", "busan_rank", "sample_warning", "score_stability", "score_reference_year"]
@@ -214,7 +248,10 @@ def build_assignment_2026(root=ROOT):
     quality = pd.DataFrame([{"metric": "bukbu_elementaries", "value": relations.loc[relations.education_office.eq("bukbu"), "elementary_school_id"].nunique()},
                             {"metric": "seobu_elementaries", "value": relations.loc[relations.education_office.eq("seobu"), "elementary_school_id"].nunique()},
                             {"metric": "manual_source_rows", "value": len(manual_relations)},
+                            {"metric": "manual_integrated_rows", "value": len(manual_integrated)},
                             {"metric": "manual_source_elementaries", "value": manual_relations.elementary_school_name.nunique()},
+                            {"metric": "manual_source_files", "value": len(manual_paths)},
+                            {"metric": "manual_unmatched_rows", "value": len(manual_review)},
                             {"metric": "relation_rows", "value": len(relations)},
                             {"metric": "unmatched_elementary_ids", "value": relations.elementary_school_id.isna().sum()},
                             {"metric": "unresolved_external_office_rows", "value": relations.relation_type.eq("UNRESOLVED").sum()},
@@ -227,7 +264,7 @@ def build_assignment_2026(root=ROOT):
 ## 입력
 - 북부: `{bukbu_path.name}`
 - 서부: `{seobu_path.name}`
-- 수작업 확보 관계: `{manual_path.name}`
+- 수작업 확보 관계: {', '.join(f'`{path.name}`' for path in manual_paths)}
 - 모든 입력 파일의 SHA256을 관계 행에 저장했다.
 
 ## 파싱 원칙
@@ -239,7 +276,9 @@ def build_assignment_2026(root=ROOT):
 - 관계 행: {len(relations):,}
 - 북부 초등학교: {relations.loc[relations.education_office.eq('bukbu'), 'elementary_school_id'].nunique():,}
 - 서부 초등학교: {relations.loc[relations.education_office.eq('seobu'), 'elementary_school_id'].nunique():,}
-- 수작업 관계: {len(manual_relations):,}행 / {manual_relations.elementary_school_name.nunique():,}개 초등학교
+- 수작업 입력 유효행: {len(manual_relations):,}행
+- 수작업 최종 통합 관계: {len(manual_integrated):,}행 / {manual_integrated.elementary_school_id.nunique():,}개 초등학교
+- 수작업 검수 대상: {len(manual_review):,}행
 - feeder 점수: {feeders.elementary_feeder_score.notna().sum():,}
 - 아파트 점수: {apartments.school_zone_score.notna().sum():,}/{len(apartments):,}
 - 500세대 이상: {large.school_zone_score.notna().sum():,}/{len(large):,}
@@ -251,8 +290,10 @@ def build_assignment_2026(root=ROOT):
 """
     atomic_bytes(root / "reports/phase7_assignment_2026_validation.md", report.encode("utf-8"))
     return {"relations": len(relations), "elementaries": int(relations.elementary_school_id.nunique()),
-            "manual_relations": len(manual_relations),
-            "manual_elementaries": int(manual_relations.elementary_school_name.nunique()),
+            "manual_input_rows": len(manual_relations),
+            "manual_relations": len(manual_integrated),
+            "manual_elementaries": int(manual_integrated.elementary_school_id.nunique()),
+            "manual_review_rows": len(manual_review),
             "feeders": int(feeders.elementary_feeder_score.notna().sum()),
             "apartments_scored": int(apartments.school_zone_score.notna().sum()),
             "apartments_500plus_scored": int(large.school_zone_score.notna().sum()),

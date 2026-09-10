@@ -1,0 +1,2 @@
+﻿elementary_school_id,elementary_school_name,middle_school_id,middle_school_name,relation_type,relation_status,assignment_share,override_reason,override_source,updated_at
+E1,센텀초,M2,재송중,ELIGIBLE,EXCLUDED_NOT_APPLICABLE,0,비배정 확인,검증 문서,2026-09-09T20:28:50.313152+09:00

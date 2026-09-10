@@ -1,0 +1,16 @@
+assignment_school_year: 2026
+school_zone_reference_date: "2025-09-22"
+score_version: phase7-2026-final
+periods:
+  12M: 12
+  36M: 36
+  SINCE_2020: null
+primary_households: 500
+low_sample_trade_count: 3
+quality_primary: [HIGH]
+quality_secondary: [HIGH, MEDIUM]
+area_scopes: [ALL, 80_90, 55_65]
+winsor_limits: [0.01, 0.99]
+pair_households_relative_difference: 0.30
+pair_age_difference_years: 5
+pair_min_score_gap: 10

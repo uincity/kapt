@@ -1,0 +1,2 @@
+﻿middle_school_id,middle_school_name,requested_year,observed_year,availability,eligible_for_scoring,manual_review,review_reason,source_document
+S020001910,센텀중학교,2025,2025,available,True,False,,official_public_html_fixture

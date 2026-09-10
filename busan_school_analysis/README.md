@@ -76,8 +76,10 @@ python -m streamlit run streamlit_app.py
 남녀 중입 배정 열만 사용하며 전학 배정 열은 점수 후보에서 제외한다. 2026 관계를 2025 관계에
 덮어쓰지 않는다. 2026 아파트 점수는 2025-09-22 공간경계와 Phase 3의 2025 성과점수를 함께
 참고하므로 각 기준연도를 결과와 검증보고서에 명시한다.
-수작업으로 확보한 `em_school/수작업 초_중배정내역(260908).csv`의 진학 가능 관계도 같은 명령에서
-병합한다. 이 관계는 `ELIGIBLE`, `manual_review=True`로 구분하고 CSV 행 번호와 SHA256을 보존한다.
+수작업으로 확보한 `em_school/수작업 초_중배정내역(260908).csv`와
+`em_school/수작업 초_중배정내역(260909).csv`의 진학 가능 관계도 같은 명령에서 병합한다.
+이 관계는 `ELIGIBLE`, `manual_review=True`로 구분하고 CSV 행 번호와 SHA256을 보존한다.
+현행 학교 마스터에서 단일 학교를 확정할 수 없는 표기는 검수 CSV에 남기고 점수에서 제외한다.
 
 ## 실행 환경
 
@@ -391,6 +393,30 @@ result = apartment_data.merge(features, on='internal_complex_id', how='left', va
 
 기존 프로젝트 코드를 바꾸거나 월별 수집 작업에 학교 API를 추가할 필요가 없다.
 연도별 파일 선택은 결합 전에 명시하며 초등학교/중학교 다중 후보 상세 테이블은 별도로 둔다.
+
+## Phase 8 학군 프리미엄 검증
+
+인접 `busan_apartment_analysis` 프로젝트의 개별 실거래와 월별 패널을
+`internal_complex_id`로 읽기 전용 결합한다. Phase 7 점수는 snapshot으로
+고정하며 가격과의 상관, quintile, 유사단지 pair, 군집 표준오차 회귀 및
+상승·하락 월 분석을 생성한다.
+
+```powershell
+python main.py phase8-build
+streamlit run streamlit_app.py
+```
+
+분석 설정은 `config/phase8_analysis.yaml`, 핵심 해석은
+`reports/phase8_validation.md`에 기록된다. 84㎡/59㎡ 분석은 각각 실제
+80~90㎡/55~65㎡ 거래만 사용한다.
+
+대시보드의 전체 메뉴는 사이드바에 펼쳐서 표시한다. **초등학교 배정관계 수정**
+화면에서는 구·군을 먼저 선택한 뒤 해당 지역의 초등학교를 선택하고
+중학교별 관계유형, 점수 반영상태와 실제 배정비율을 편집할 수 있다. 수정값은
+`config/manual_elementary_middle_overrides.csv`에 원본과 분리해 저장되며,
+저장 버튼을 누르면 2026학년도 feeder와 아파트 학군점수를 다시 계산한다.
+**초등학교 진학권 순위**에서도 전체 또는 구·군을 선택해 부산 순위와 구·군 내
+순위를 함께 비교할 수 있다.
 
 ## 검증
 

@@ -7,7 +7,7 @@ from src.inspect_apartments import inspect_apartments
 
 
 def main(argv=None):
-    parser = argparse.ArgumentParser(description='부산 학군 데이터 검증: Phase 1-7')
+    parser = argparse.ArgumentParser(description='부산 학군 데이터 검증: Phase 1-9')
     sub = parser.add_subparsers(dest='command', required=True)
     sub.add_parser('inspect-apartments')
     collect = sub.add_parser('collect-schools')
@@ -35,6 +35,11 @@ def main(argv=None):
     sub.add_parser('phase7-audit')
     phase7_build_parser = sub.add_parser('phase7-build')
     phase7_build_parser.add_argument('--assignment-year', type=int, choices=[2025, 2026], default=2025)
+    sub.add_parser('phase8-build')
+    phase9_collect = sub.add_parser('phase9-collect')
+    phase9_collect.add_argument('--years', type=int, nargs='+', default=[2024, 2025, 2026])
+    phase9_collect.add_argument('--force', action='store_true')
+    sub.add_parser('phase9-build')
     review = sub.add_parser('import-advancement')
     review.add_argument('--csv', required=True)
     geo = sub.add_parser('geocode-schools')
@@ -95,6 +100,15 @@ def main(argv=None):
             else:
                 from src.phase7_scoring import phase7_build
                 result = phase7_build()
+        elif args.command == 'phase8-build':
+            from src.phase8_analysis import build_phase8
+            result = build_phase8()
+        elif args.command == 'phase9-collect':
+            from src.phase9_elementary_demand import collect_phase9_schoolinfo
+            result = collect_phase9_schoolinfo(args.years, force=args.force)
+        elif args.command == 'phase9-build':
+            from src.phase9_elementary_demand import build_phase9
+            result = build_phase9()
         elif args.command == 'collect-admin-codes':
             from src.collect_admin_codes import collect_admin_codes
             result = collect_admin_codes()

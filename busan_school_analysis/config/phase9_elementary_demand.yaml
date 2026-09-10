@@ -1,0 +1,15 @@
+years: [2024, 2025, 2026]
+api_types:
+  grade_students: "09"
+  transfers: "10"
+school_level_code: "02"
+shrinkage_k: 100
+winsor_limits: [0.01, 0.99]
+score_weights:
+  size: 0.20
+  mobility: 0.25
+  growth: 0.25
+  upper_cohort: 0.30
+cluster_k: [3, 4, 5, 6]
+minimum_cluster_size: 10
+
