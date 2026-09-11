@@ -1,0 +1,10 @@
+﻿metric,value
+longitudinal_rows,909
+unique_schools,307
+scored_schools,302
+three_year_complete,299
+school_id_duplicates,0
+student_reconciliation_mismatch_rows,0
+official_ids_not_in_master,0
+open_master_ids_not_in_2026_api,3
+closed_master_ids_not_in_2026_api,14

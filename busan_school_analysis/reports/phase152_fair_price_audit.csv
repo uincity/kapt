@@ -1,0 +1,164 @@
+﻿apartment_id,apartment_name,legal_dong,issue_type,model_confidence,recommended_action
+A10020002,드파인 광안,광안동,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A10020002,드파인 광안,광안동,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A10020004,롯데캐슬인피니엘,문현동,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A10020020,부산에코델타시티 디에트르 더 퍼스트아파트,강동동,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A10020020,부산에코델타시티 디에트르 더 퍼스트아파트,강동동,SCHOOL_DATA_LOW_CONFIDENCE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A10020020,부산에코델타시티 디에트르 더 퍼스트아파트,강동동,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A10020213,가야역롯데캐슬스카이엘,가야동,INSUFFICIENT_RECENT_TRANSACTIONS,MEDIUM,Phase 15.3 confidence filter 또는 별도 검토
+A10020213,가야역롯데캐슬스카이엘,가야동,SYSTEMATIC_RESIDUAL,MEDIUM,Phase 15.3 confidence filter 또는 별도 검토
+A10020264,에코델타 더 베르힐 아파트,강동동,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A10020264,에코델타 더 베르힐 아파트,강동동,SCHOOL_DATA_LOW_CONFIDENCE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A10020264,에코델타 더 베르힐 아파트,강동동,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A10020289,두산위브더제니스 오션시티 ,우암동,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A10020289,두산위브더제니스 오션시티 ,우암동,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A10020313,일광동원로얄듀크,일광읍,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A10020313,일광동원로얄듀크,일광읍,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A10020378,에코델타시티 푸르지오린,강동동,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A10020378,에코델타시티 푸르지오린,강동동,SCHOOL_DATA_LOW_CONFIDENCE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A10020378,에코델타시티 푸르지오린,강동동,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A10020498,시청앞 행복주택1단지,연산동,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A10020498,시청앞 행복주택1단지,연산동,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A10020569,에코델타시티 푸르지오 센터파크,강동동,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A10020569,에코델타시티 푸르지오 센터파크,강동동,SCHOOL_DATA_LOW_CONFIDENCE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A10020569,에코델타시티 푸르지오 센터파크,강동동,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A10020645,강서자이에코델타,강동동,INSUFFICIENT_RECENT_TRANSACTIONS,MEDIUM,Phase 15.3 confidence filter 또는 별도 검토
+A10020645,강서자이에코델타,강동동,SCHOOL_DATA_LOW_CONFIDENCE,MEDIUM,Phase 15.3 confidence filter 또는 별도 검토
+A10020649,e편한세상 에코델타 센터포인트,강동동,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A10020649,e편한세상 에코델타 센터포인트,강동동,SCHOOL_DATA_LOW_CONFIDENCE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A10020649,e편한세상 에코델타 센터포인트,강동동,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A10022541,에코델타스마트시티수자인,강동동,SCHOOL_DATA_LOW_CONFIDENCE,MEDIUM,Phase 15.3 confidence filter 또는 별도 검토
+A10022696,에코델타호반써밋스마트시티,강동동,INSUFFICIENT_RECENT_TRANSACTIONS,MEDIUM,Phase 15.3 confidence filter 또는 별도 검토
+A10022696,에코델타호반써밋스마트시티,강동동,SCHOOL_DATA_LOW_CONFIDENCE,MEDIUM,Phase 15.3 confidence filter 또는 별도 검토
+A10022847,대연비치,대연동,EXTREME_PREDICTION,HIGH,Phase 15.3 confidence filter 또는 별도 검토
+A10022985,경동포레스트힐 행복주택 아미,아미동2가,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A10022985,경동포레스트힐 행복주택 아미,아미동2가,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A10023014,시청앞 행복주택2단지,연산동,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A10023014,시청앞 행복주택2단지,연산동,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A10023021,서면비스타동원,당감동,SYSTEMATIC_RESIDUAL,MEDIUM,Phase 15.3 confidence filter 또는 별도 검토
+A10023283,금호센트럴베이 행복주택 일광,일광읍,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A10023283,금호센트럴베이 행복주택 일광,일광읍,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A10023420,남천자이,남천동,EXTREME_PREDICTION,MEDIUM,Phase 15.3 confidence filter 또는 별도 검토
+A10023627,가야롯데캐슬골드아너,가야동,SYSTEMATIC_RESIDUAL,MEDIUM,Phase 15.3 confidence filter 또는 별도 검토
+A10023778,이지더원2차포레온아파트,일광읍,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A10023778,이지더원2차포레온아파트,일광읍,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A10024185,부산사하중흥S-클래스,구평동,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A10024185,부산사하중흥S-클래스,구평동,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A10025181,엘시티,중동,EXTREME_PREDICTION,MEDIUM,Phase 15.3 confidence filter 또는 별도 검토
+A10025749,부산정관 행복주택,정관읍,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A10025749,부산정관 행복주택,정관읍,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A10025901,부산전포동 사랑으로 부영아파트,전포동,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A10025901,부산전포동 사랑으로 부영아파트,전포동,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A10025923,스위트팰리스,명지동,INSUFFICIENT_RECENT_TRANSACTIONS,HIGH,Phase 15.3 confidence filter 또는 별도 검토
+A10025932,명지금강펜테리움센트럴파크3차,명지동,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A10025932,명지금강펜테리움센트럴파크3차,명지동,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A10026391,더블유,용호동,EXTREME_PREDICTION,HIGH,Phase 15.3 confidence filter 또는 별도 검토
+A10026813,정관 엘에이치 7단지,정관읍,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A10026813,정관 엘에이치 7단지,정관읍,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A10027340,전포LH아파트,전포동,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A10027340,전포LH아파트,전포동,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A10028081,정관이지더원3차아파트,정관읍,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A10028081,정관이지더원3차아파트,정관읍,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A10028191,감전엘에이치,감전동,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A10028191,감전엘에이치,감전동,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A60275201,남부민풀리페,남부민동,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A60275201,남부민풀리페,남부민동,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A60403002,신평럭키무지개타운,신평동,EXTREME_PREDICTION,MEDIUM,Phase 15.3 confidence filter 또는 별도 검토
+A60474307,다대해송,다대동,EXTREME_PREDICTION,HIGH,Phase 15.3 confidence filter 또는 별도 검토
+A60474307,다대해송,다대동,SYSTEMATIC_RESIDUAL,HIGH,Phase 15.3 confidence filter 또는 별도 검토
+A60475309,3지구도개공아파트,다대동,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A60475309,3지구도개공아파트,다대동,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A60475408,국제그린,다대동,EXTREME_PREDICTION,HIGH,Phase 15.3 confidence filter 또는 별도 검토
+A60475411,도개공다대4지구영구임대아파트,다대동,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A60475411,도개공다대4지구영구임대아파트,다대동,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A60475412,다송,다대동,SYSTEMATIC_RESIDUAL,HIGH,Phase 15.3 confidence filter 또는 별도 검토
+A60476805,현대,신평동,SCHOOL_DATA_LOW_CONFIDENCE,HIGH,Phase 15.3 confidence filter 또는 별도 검토
+A60476805,현대,신평동,EXTREME_PREDICTION,HIGH,Phase 15.3 confidence filter 또는 별도 검토
+A60482712,5지구몰운대영구임대아파트,다대동,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A60482712,5지구몰운대영구임대아파트,다대동,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A60483404,한신,신평동,EXTREME_PREDICTION,MEDIUM,Phase 15.3 confidence filter 또는 별도 검토
+A60670101,도시공사동삼2지구영구임대아파트,동삼동,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A60670101,도시공사동삼2지구영구임대아파트,동삼동,SCHOOL_DATA_LOW_CONFIDENCE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A60670101,도시공사동삼2지구영구임대아파트,동삼동,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A60676104,부산동삼1,동삼동,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A60676104,부산동삼1,동삼동,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A60676205,부산동삼2주공,동삼동,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A60676205,부산동삼2주공,동삼동,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A60680912,절영아파트(215동-217동),동삼동,SCHOOL_DATA_LOW_CONFIDENCE,HIGH,Phase 15.3 confidence filter 또는 별도 검토
+A60777206,부산안락4휴먼시아,안락동,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A60777206,부산안락4휴먼시아,안락동,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A60976501,부곡시영,부곡동,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A60976501,부곡시영,부곡동,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61180503,유림아시아드,거제동,SYSTEMATIC_RESIDUAL,HIGH,Phase 15.3 confidence filter 또는 별도 검토
+A61202004,대우트럼프월드센텀,우동,SYSTEMATIC_RESIDUAL,MEDIUM,Phase 15.3 confidence filter 또는 별도 검토
+A61204001,송정1단지주공아파트,송정동,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61204001,송정1단지주공아파트,송정동,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61204002,부산송정2휴먼시아,송정동,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61204002,부산송정2휴먼시아,송정동,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61271204,더샵센텀파크1차,재송동,EXTREME_PREDICTION,MEDIUM,Phase 15.3 confidence filter 또는 별도 검토
+A61273009,부산도시공사 반송영구임대아파트,반송동,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61273009,부산도시공사 반송영구임대아파트,반송동,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61273609,부산반송주공,반송동,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61273609,부산반송주공,반송동,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61278214,센텀우신골든빌,재송동,SYSTEMATIC_RESIDUAL,MEDIUM,Phase 15.3 confidence filter 또는 별도 검토
+A61282705,센텀센시빌,우동,SYSTEMATIC_RESIDUAL,MEDIUM,Phase 15.3 confidence filter 또는 별도 검토
+A61283410,장산동국,재송동,SYSTEMATIC_RESIDUAL,MEDIUM,Phase 15.3 confidence filter 또는 별도 검토
+A61301003,삼익비치,남천동,EXTREME_PREDICTION,MEDIUM,Phase 15.3 confidence filter 또는 별도 검토
+A61310007,쌍용예가디오션,광안동,SYSTEMATIC_RESIDUAL,MEDIUM,Phase 15.3 confidence filter 또는 별도 검토
+A61476004,범천LH,범천동,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61476004,범천LH,범천동,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61477403,시영(1~5동),개금동,SYSTEMATIC_RESIDUAL,HIGH,Phase 15.3 confidence filter 또는 별도 검토
+A61477806,국제백양,당감동,SYSTEMATIC_RESIDUAL,MEDIUM,Phase 15.3 confidence filter 또는 별도 검토
+A61480910,개금2지구도개공임대아파트,개금동,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61480910,개금2지구도개공임대아파트,개금동,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61673302,삼한힐파크,화명동,SYSTEMATIC_RESIDUAL,HIGH,Phase 15.3 confidence filter 또는 별도 검토
+A61673305,화명유림,화명동,SYSTEMATIC_RESIDUAL,HIGH,Phase 15.3 confidence filter 또는 별도 검토
+A61674824,부산율리마을,금곡동,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61674824,부산율리마을,금곡동,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61676118,금곡주공1단지,금곡동,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61676118,금곡주공1단지,금곡동,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61676215,금곡주공2단지,금곡동,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61676215,금곡주공2단지,금곡동,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61676422,금곡주공4단지,금곡동,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61676422,금곡주공4단지,금곡동,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61676723,금곡주공7단지,금곡동,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61676723,금곡주공7단지,금곡동,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61677404,덕천주공2단지,덕천동,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61677404,덕천주공2단지,덕천동,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61679609,부산만덕3단지 주공아파트,만덕동,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61679609,부산만덕3단지 주공아파트,만덕동,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61681409,부산도시공사 덕천2지구 아파트,덕천동,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61681409,부산도시공사 덕천2지구 아파트,덕천동,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61775307,부산모라주공3,모라동,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61775307,부산모라주공3,모라동,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61776907,금강,학장동,EXTREME_PREDICTION,HIGH,Phase 15.3 confidence filter 또는 별도 검토
+A61777410,학장1지구도개공임대,학장동,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61777410,학장1지구도개공임대,학장동,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61781706,모라주공1단지,모라동,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61781706,모라주공1단지,모라동,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61823001,지사휴먼시아,지사동,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61823001,지사휴먼시아,지사동,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61872201,부산신호사랑으로부영1차,신호동,INSUFFICIENT_RECENT_TRANSACTIONS,MEDIUM,Phase 15.3 confidence filter 또는 별도 검토
+A61872201,부산신호사랑으로부영1차,신호동,SCHOOL_DATA_LOW_CONFIDENCE,MEDIUM,Phase 15.3 confidence filter 또는 별도 검토
+A61872202,부산신호사랑으로부영2차,신호동,SCHOOL_DATA_LOW_CONFIDENCE,MEDIUM,Phase 15.3 confidence filter 또는 별도 검토
+A61872203,부산신호사랑으로부영5차,신호동,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61872203,부산신호사랑으로부영5차,신호동,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61872204,부산신호3사랑으로부영3차,신호동,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61872204,부산신호3사랑으로부영3차,신호동,SCHOOL_DATA_LOW_CONFIDENCE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61872204,부산신호3사랑으로부영3차,신호동,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61970415,부산기장교리,기장읍,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61970415,부산기장교리,기장읍,SCHOOL_DATA_LOW_CONFIDENCE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61970415,부산기장교리,기장읍,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61987101,고촌휴먼시아,철마면,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61987101,고촌휴먼시아,철마면,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61990108,이진캐스빌블루1차,기장읍교리,SCHOOL_DATA_LOW_CONFIDENCE,MEDIUM,Phase 15.3 confidence filter 또는 별도 검토
+A61990213,내리 휴먼시아1단지,기장읍,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61990213,내리 휴먼시아1단지,기장읍,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61996103,정관신도시휴먼시아2단지,정관읍,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61996103,정관신도시휴먼시아2단지,정관읍,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61996105,정관LH4단지,정관읍,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61996105,정관LH4단지,정관읍,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61996112,정관신도시LH5단지,정관읍,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61996112,정관신도시LH5단지,정관읍,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61996308,정관신도시휴먼시아1단지,정관읍,INSUFFICIENT_RECENT_TRANSACTIONS,LOW,Phase 15.3 confidence filter 또는 별도 검토
+A61996308,정관신도시휴먼시아1단지,정관읍,FAIR_PRICE_NOT_AVAILABLE,LOW,Phase 15.3 confidence filter 또는 별도 검토

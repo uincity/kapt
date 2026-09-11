@@ -1,0 +1,5 @@
+﻿analysis,school_data_year_t,outcome,predictor,n,pearson,spearman,temporal_note
+T_TO_T_PLUS_1_EXPLORATORY,2024,net_transfer_rate,confirmed_middle_quality_median,62,-0.04514715868350153,-0.08886783888014657,Descriptive lag association; current middle-quality series is unavailable by historical year.
+T_TO_T_PLUS_1_EXPLORATORY,2024,net_transfer_rate,broad_middle_quality_median,535,0.20600424133245676,0.2889439947024545,Descriptive lag association; current middle-quality series is unavailable by historical year.
+T_TO_T_PLUS_1_EXPLORATORY,2024,adjusted_upper_grade_index,confirmed_middle_quality_median,62,-0.0034458270398330143,-0.07152976768842562,Descriptive lag association; current middle-quality series is unavailable by historical year.
+T_TO_T_PLUS_1_EXPLORATORY,2024,adjusted_upper_grade_index,broad_middle_quality_median,535,-0.02799653596712362,-0.04416799207898986,Descriptive lag association; current middle-quality series is unavailable by historical year.

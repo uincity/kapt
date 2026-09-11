@@ -1,0 +1,5 @@
+﻿sample,feature,apartment_count,transaction_count,within_legal_dong_spearman,within_n,power_warning
+COMMON_ALL,phase7_school_score,486,22181,0.00426246678574322,438,False
+COMMON_ALL,elementary_demand_score,486,22181,0.3067446268362932,438,False
+STRICT_CONFIRMED_ONLY,phase7_school_score,45,1862,-0.13106464356460334,40,False
+STRICT_CONFIRMED_ONLY,elementary_demand_score,45,1862,0.45755016900331213,40,False

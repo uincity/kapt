@@ -1,0 +1,4 @@
+﻿apartment_id,apartment_name,household_count,missing_reason,source_status,recommended_action
+A60476805,현대,992.0,ELEMENTARY_DEMAND_MISSING,ELEMENTARY_DEMAND_MISSING_API,학교알리미 공식 데이터 관측 시 재검증; 현재 점수 미추정 유지
+A60670101,도시공사동삼2지구영구임대아파트,1120.0,ELEMENTARY_DEMAND_MISSING,ELEMENTARY_DEMAND_MISSING_API,학교알리미 공식 데이터 관측 시 재검증; 현재 점수 미추정 유지
+A60680912,절영아파트(215동-217동),1340.0,ELEMENTARY_DEMAND_MISSING,ELEMENTARY_DEMAND_MISSING_API,학교알리미 공식 데이터 관측 시 재검증; 현재 점수 미추정 유지

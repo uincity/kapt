@@ -1,0 +1,6 @@
+﻿office,documents,supported_documents,table_detected,status,reason
+haeundae,2,1,True,VALIDATED,PDF_LAYOUT_HEADER_ALIASES
+dongnae,5,3,True,VALIDATED,PDF_LAYOUT_HEADER_ALIASES
+nambu,1,1,True,VALIDATED,HWPX_TABLE_HEADER_ALIASES
+bukbu,3,2,True,VALIDATED,PDF_LAYOUT_HEADER_ALIASES
+seobu,5,4,True,VALIDATED,PDF_LAYOUT_HEADER_ALIASES

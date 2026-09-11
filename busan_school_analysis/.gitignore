@@ -6,4 +6,3 @@ __pycache__/
 .pytest_cache/
 .pytest_tmp*/
 reports/*.json
-reports/*.csv

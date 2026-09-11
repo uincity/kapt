@@ -1,0 +1,17 @@
+﻿ambiguity_group,feature,apartment_count,transaction_count,within_legal_dong_spearman,within_n
+ALL,phase7_school_score,486,22181,0.00426246678574322,438
+ALL,elementary_demand_score,486,22181,0.3067446268362932,438
+HIGH,phase7_school_score,97,4707,0.16201821558757087,68
+HIGH,elementary_demand_score,97,4707,0.1408129165306442,68
+LOW,phase7_school_score,188,7747,-0.04374456438345954,172
+LOW,elementary_demand_score,188,7747,0.26553846276823706,172
+MEDIUM,phase7_school_score,201,9727,0.033299973456441555,169
+MEDIUM,elementary_demand_score,201,9727,0.33086559372524554,169
+CANDIDATE_1,phase7_school_score,55,2366,-0.09542364543395611,45
+CANDIDATE_1,elementary_demand_score,55,2366,0.4504667893351006,45
+CANDIDATE_2-3,phase7_school_score,334,15108,0.019727603276883963,298
+CANDIDATE_2-3,elementary_demand_score,334,15108,0.2790209781994286,298
+CANDIDATE_4-5,phase7_school_score,84,4204,0.07039437025140892,56
+CANDIDATE_4-5,elementary_demand_score,84,4204,0.09568818970607293,56
+CANDIDATE_6+,phase7_school_score,13,503,-0.9486832980505139,4
+CANDIDATE_6+,elementary_demand_score,13,503,,4

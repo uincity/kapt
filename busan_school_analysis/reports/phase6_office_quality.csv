@@ -1,0 +1,6 @@
+﻿office,elementary_count,boundary_count,parsed_rate,admin_code_match_rate,matched_apartment_count,middle_relation_rate,school_id_match_rate,manual_review_count,source_year_verified,status
+haeundae,65,66,1.0,0.0,942,0.0,1.0,0,True,OFFICIAL_BOUNDARY_READY
+dongnae,61,56,1.0,0.0,1184,0.0,1.0,0,True,OFFICIAL_BOUNDARY_READY
+nambu,61,57,1.0,0.0,1002,0.0,1.0,1,True,OFFICIAL_BOUNDARY_READY
+bukbu,75,76,1.0,0.0,450,0.0,1.0,0,True,OFFICIAL_BOUNDARY_READY
+seobu,56,54,1.0,0.0,934,0.0,1.0,0,True,OFFICIAL_BOUNDARY_READY
