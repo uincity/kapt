@@ -7,7 +7,7 @@ from src.inspect_apartments import inspect_apartments
 
 
 def main(argv=None):
-    parser = argparse.ArgumentParser(description='부산 학군 데이터 검증: Phase 1-9')
+    parser = argparse.ArgumentParser(description='부산 학군 데이터 검증: Phase 1-10')
     sub = parser.add_subparsers(dest='command', required=True)
     sub.add_parser('inspect-apartments')
     collect = sub.add_parser('collect-schools')
@@ -40,6 +40,20 @@ def main(argv=None):
     phase9_collect.add_argument('--years', type=int, nargs='+', default=[2024, 2025, 2026])
     phase9_collect.add_argument('--force', action='store_true')
     sub.add_parser('phase9-build')
+    sub.add_parser('phase95-build')
+    sub.add_parser('phase10-build')
+    sub.add_parser('phase11-build')
+    sub.add_parser('phase115-build')
+    relation_export = sub.add_parser('export-relation-review')
+    relation_export.add_argument('--output', default='em_school/초중배정관계_일괄검토_2026.csv')
+    relation_import = sub.add_parser('import-relation-review')
+    relation_import.add_argument('--csv', required=True)
+    relation_import.add_argument('--rebuild', action='store_true')
+    sub.add_parser('phase7-auto-exact')
+    sub.add_parser('phase12-build')
+    sub.add_parser('phase125-build')
+    sub.add_parser('phase13-build')
+    sub.add_parser('phase135-145-build')
     review = sub.add_parser('import-advancement')
     review.add_argument('--csv', required=True)
     geo = sub.add_parser('geocode-schools')
@@ -109,6 +123,39 @@ def main(argv=None):
         elif args.command == 'phase9-build':
             from src.phase9_elementary_demand import build_phase9
             result = build_phase9()
+        elif args.command == 'phase95-build':
+            from src.phase95_school_score_integration import build_phase95
+            result = build_phase95()
+        elif args.command == 'phase10-build':
+            from src.phase10_incremental_price_validation import build_phase10
+            result = build_phase10()
+        elif args.command == 'phase11-build':
+            from src.phase11_middle_catchment_demand import build_phase11
+            result = build_phase11()
+        elif args.command == 'phase115-build':
+            from src.phase115_middle_migration_mechanism import build_phase115
+            result = build_phase115()
+        elif args.command == 'export-relation-review':
+            from src.relation_override_batch import export_relation_review
+            result = export_relation_review(output=args.output)
+        elif args.command == 'import-relation-review':
+            from src.relation_override_batch import import_relation_review
+            result = import_relation_review(args.csv, rebuild=args.rebuild)
+        elif args.command == 'phase7-auto-exact':
+            from src.phase7_auto_exact import apply_official_exact_candidates
+            result = apply_official_exact_candidates()
+        elif args.command == 'phase12-build':
+            from src.phase12_elementary_first import build_phase12
+            result = build_phase12()
+        elif args.command == 'phase125-build':
+            from src.phase125_middle_incremental import build_phase125
+            result = build_phase125()
+        elif args.command == 'phase13-build':
+            from src.phase13_school_premium import build_phase13
+            result = build_phase13()
+        elif args.command == 'phase135-145-build':
+            from src.phase135_145_school_value import build_phase135_145
+            result = build_phase135_145()
         elif args.command == 'collect-admin-codes':
             from src.collect_admin_codes import collect_admin_codes
             result = collect_admin_codes()
