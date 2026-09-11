@@ -1,0 +1,35 @@
+{
+  "verdict": "LOCAL_COMPARABLE_MODEL_PARTIALLY_SUPPORTED",
+  "selected_model": "F",
+  "selected_fallback": "F3",
+  "school_feature_verdict": "LOCAL_SCHOOL_FEATURE_USEFUL",
+  "model_apartments": 500,
+  "model_transactions": 132979,
+  "legal_dongs": 93,
+  "temporal_cutoff": "2025-02-03",
+  "train_transactions": 99751,
+  "test_transactions": 33228,
+  "global_rmse": 0.38215465337021326,
+  "dong_fe_rmse": 0.24614026112634435,
+  "selected_rmse": 0.1957385999668175,
+  "selected_mae": 0.14880120254147564,
+  "selected_r2": 0.8599299722114869,
+  "school_rmse_improvement_pct": 5.7433649667498425,
+  "dong_fe_school_rmse_improvement_pct": 2.7224655126806274,
+  "school_positive_dongs": 77,
+  "school_negative_dongs": 15,
+  "fallback_counts": {
+    "0": 44,
+    "1": 53,
+    "2": 4
+  },
+  "fair_price_count": 502,
+  "fair_price_coverage_pct": 89.64285714285715,
+  "median_interval_width_pct": 67.94807341626615,
+  "confidence_counts": {
+    "HIGH": 312,
+    "MEDIUM": 190,
+    "LOW": 58
+  },
+  "official_local_value_gap_created": false
+}

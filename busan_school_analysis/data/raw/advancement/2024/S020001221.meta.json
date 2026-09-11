@@ -1,0 +1,24 @@
+{
+  "school_id": "S020001221",
+  "requested_year": 2024,
+  "collected_at": "2026-09-05T00:57:13.072936+00:00",
+  "sha256": "eed6e03584c5e0f3b405a4f40dd6d9db81ecb9896f5fcac25fa291ec437228ad",
+  "source_url": "https://www.schoolinfo.go.kr/ei/pp/Pneipp_b06_s0p.do",
+  "request_parameters": {
+    "GS_HANGMOK_CD": "06",
+    "GS_HANGMOK_NO": "13-다",
+    "GS_HANGMOK_NM": "졸업생의 진로 현황",
+    "GS_BURYU_CD": "JG040",
+    "JG_BURYU_CD": "JG130",
+    "JG_HANGMOK_CD": "52",
+    "JG_GUBUN": "1",
+    "JG_YEAR2": 2024,
+    "HG_NM": "모라중학교",
+    "SHL_IDF_CD": "e096ec7d-74ca-4414-9b61-aea1c98e7670",
+    "GS_TYPE": "Y",
+    "JG_YEAR": 2024,
+    "CHOSEN_JG_YEAR": 2024,
+    "PRE_JG_YEAR": 2024,
+    "LOAD_TYPE": "single"
+  }
+}

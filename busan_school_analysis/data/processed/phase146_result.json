@@ -1,0 +1,28 @@
+{
+  "valid_6m": 499,
+  "valid_12m": 503,
+  "valid_24m": 503,
+  "temporal_counts": {
+    "STABLE_POSITIVE": 239,
+    "STABLE_NEGATIVE": 209,
+    "INSUFFICIENT": 60,
+    "MIXED": 52
+  },
+  "agreement_counts": {
+    "STRONG_POSITIVE": 177,
+    "STRONG_NEGATIVE": 139,
+    "INSUFFICIENT": 104,
+    "MIXED_POSITIVE_RESIDUAL": 65,
+    "MIXED_POSITIVE_COMPARABLE": 62,
+    "NEUTRAL_OR_ZERO": 13
+  },
+  "method_abs_diff_median": 17.110866526816633,
+  "method_abs_diff_p75": 33.01576788243672,
+  "method_abs_diff_p90": 58.038970568695426,
+  "bootstrap_iterations": 500,
+  "median_positive_probability": 0.638,
+  "probability_ge_075": 224,
+  "probability_ge_090": 190,
+  "pure_12m_vs_adaptive_spearman": 0.9725545462181848,
+  "phase145_exact_reproduction_max_error": 0.0
+}

@@ -1,0 +1,14 @@
+{
+  "data_year": 2025,
+  "snapshot_date": "2025-09-22",
+  "source_name": "학구도안내서비스 공공데이터",
+  "source_title": "한국지방교육행정연구재단 학교-학구도 연계정보(2025.09.22.)",
+  "source_list_url": "https://schoolzone.emac.kr/publicData/publicDataList.do",
+  "source_url": "https://schoolzone.emac.kr/publicData/publicDataFileDownload.do?nttId=2945&atchFileId=FILE_000000100002956&fileSn=0",
+  "ntt_id": "2945",
+  "attachment_id": "FILE_000000100002956",
+  "file_sn": "0",
+  "collected_at": "2026-09-07T00:36:01.883995+00:00",
+  "sha256": "aa15716c61780a4b709ba2f34645bb4d900840be254b12f1d01cc22fe12b2db6",
+  "bytes": 204126
+}

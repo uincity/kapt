@@ -1,0 +1,57 @@
+{
+  "project_state": {
+    "freeze_timestamp": "2026-09-11T21:57:49.441352+09:00",
+    "project_phase": "15.4",
+    "final_model_status": "BUSAN_APARTMENT_VALUE_MODEL_FINAL_FROZEN",
+    "local_value_gap_status": "LOCAL_VALUE_GAP_USABLE_WITH_CAUTION"
+  },
+  "school_model": {
+    "status": "SCHOOL_VALUE_MODEL_FROZEN_WITH_CAUTION",
+    "core_score_coverage": 557,
+    "ten_point_school_premium_effect_pct": 4.3336366222126514,
+    "school_value_gap_status": "FROZEN_WITH_CAUTION",
+    "school_gap_coverage": 500
+  },
+  "local_model": {
+    "selected_model": "F",
+    "selected_fallback": "F3",
+    "global_rmse": 0.38215465337021326,
+    "legal_dong_fe_rmse": 0.24614026112634435,
+    "model_f_rmse": 0.1957385999668175,
+    "model_f_r2": 0.8599299722114869,
+    "school_feature_improvement_pct": 5.7433649667498425,
+    "fair_price_coverage": 502,
+    "prediction_interval_median_width_pct": 67.94807341626615
+  },
+  "local_value": {
+    "status": "LOCAL_VALUE_GAP_USABLE_WITH_CAUTION",
+    "local_gap_coverage": 502,
+    "local_gap_median_pct": 2.9246643719019305,
+    "gap_6m_12m_spearman": 0.9650065445671591,
+    "temporal_direction_agreement_pct": 91.23505976095618,
+    "strong_undervalued_count": 8,
+    "strong_overvalued_count": 4
+  },
+  "dual_signal": {
+    "status": "DUAL_SIGNAL_COMPLEMENTARY",
+    "school_local_spearman": 0.7502096998897081,
+    "double_positive_count": 183,
+    "robust_dual_positive_count": 94
+  },
+  "integrity": {
+    "protected_file_count": 320,
+    "changed_file_count": 0,
+    "previous_pytest_count": 388,
+    "new_pytest_count": 60,
+    "total_pytest_count": 448,
+    "failed_test_count": 0,
+    "pytest_status": "FULL_PASS"
+  },
+  "final_classes": {
+    "CORE_CANDIDATE": 94,
+    "LOCAL_VALUE": 58,
+    "SCHOOL_VALUE": 30,
+    "WATCHLIST": 262,
+    "FULLY_PRICED_OR_NEGATIVE": 116
+  }
+}

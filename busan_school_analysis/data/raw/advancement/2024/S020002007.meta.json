@@ -1,0 +1,24 @@
+{
+  "school_id": "S020002007",
+  "requested_year": 2024,
+  "collected_at": "2026-09-05T00:56:15.493604+00:00",
+  "sha256": "0ecd4ca1f6da389dd3c35a2d775d72ddca9cd4ece9d4a7671c227d565061e2c8",
+  "source_url": "https://www.schoolinfo.go.kr/ei/pp/Pneipp_b06_s0p.do",
+  "request_parameters": {
+    "GS_HANGMOK_CD": "06",
+    "GS_HANGMOK_NO": "13-다",
+    "GS_HANGMOK_NM": "졸업생의 진로 현황",
+    "GS_BURYU_CD": "JG040",
+    "JG_BURYU_CD": "JG130",
+    "JG_HANGMOK_CD": "52",
+    "JG_GUBUN": "1",
+    "JG_YEAR2": 2024,
+    "HG_NM": "오륙도중학교",
+    "SHL_IDF_CD": "c2751b22-f71a-4107-b909-cecc9e79cd27",
+    "GS_TYPE": "Y",
+    "JG_YEAR": 2024,
+    "CHOSEN_JG_YEAR": 2024,
+    "PRE_JG_YEAR": 2024,
+    "LOAD_TYPE": "single"
+  }
+}

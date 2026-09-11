@@ -1,0 +1,24 @@
+{
+  "school_id": "S020000624",
+  "requested_year": 2026,
+  "collected_at": "2026-09-05T00:59:59.432220+00:00",
+  "sha256": "8f4719a539cb61f236fdd6459b2535063e93763d626c927328a99e0c80572a3f",
+  "source_url": "https://www.schoolinfo.go.kr/ei/pp/Pneipp_b06_s0p.do",
+  "request_parameters": {
+    "GS_HANGMOK_CD": "06",
+    "GS_HANGMOK_NO": "13-다",
+    "GS_HANGMOK_NM": "졸업생의 진로 현황",
+    "GS_BURYU_CD": "JG040",
+    "JG_BURYU_CD": "JG130",
+    "JG_HANGMOK_CD": "52",
+    "JG_GUBUN": "1",
+    "JG_YEAR2": 2026,
+    "HG_NM": "해연중학교",
+    "SHL_IDF_CD": "e023ae9c-902a-4dc3-88c3-c9b85dd8bf1f",
+    "GS_TYPE": "Y",
+    "JG_YEAR": 2026,
+    "CHOSEN_JG_YEAR": 2026,
+    "PRE_JG_YEAR": 2026,
+    "LOAD_TYPE": "single"
+  }
+}

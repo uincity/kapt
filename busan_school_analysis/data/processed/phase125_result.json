@@ -1,0 +1,23 @@
+{
+  "verdict": "MIDDLE_INCREMENTAL_VALUE_PARTIALLY_SUPPORTED",
+  "criteria": {
+    "adjusted_r2_gain": true,
+    "aic_improves": true,
+    "bic_improves": true,
+    "oos_rmse_improves_0_5pct": true,
+    "oos_mae_improves_0_5pct": false,
+    "eligible_quality_positive": true,
+    "eligible_quality_significant": false,
+    "guaranteed_quality_component_positive_significant": true,
+    "gold_guaranteed_positive": false,
+    "middle_joint_lr_significant": true
+  },
+  "recent_transactions": 22181,
+  "recent_apartments": 486,
+  "gold_transactions": 1862,
+  "gold_apartments": 45,
+  "gold_schools": 19,
+  "lr_stat": 587.8013508942921,
+  "lr_df": 5.0,
+  "lr_p_value": 8.738517240519703e-125
+}

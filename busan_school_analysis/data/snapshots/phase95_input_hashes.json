@@ -1,0 +1,11 @@
+{
+  "input_hashes": {
+    "data/snapshots/school_scores_2026_phase7_final.parquet": "9a36ac09974d641c4e17a67b575a0ff5c77517feaed396d373fa0d8c2ef5890b",
+    "data/snapshots/phase8_baseline_benchmark.json": "1d0f4a0a321936087ffeea5a8580f1944dd2a57cb4bd5619ac0bbd13db54092d",
+    "data/processed/phase9_elementary_demand_scores.parquet": "87bb5be716a8605c315f9fb319e6f95ef6f0f71f11c79eb79b775e442763c6b3"
+  },
+  "cutoffs": {
+    "e_cutoff": 64.17737306843267,
+    "m_cutoff": 58.94117647058824
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "school_id": "S020001629",
+  "requested_year": 2023,
+  "collected_at": "2026-09-05T00:54:31.939985+00:00",
+  "sha256": "a2a950f3bb3a52109a32a86b383c01b6a89b48abd15ce67a0e9c3c7266f5454a",
+  "source_url": "https://www.schoolinfo.go.kr/ei/pp/Pneipp_b06_s0p.do",
+  "request_parameters": {
+    "GS_HANGMOK_CD": "06",
+    "GS_HANGMOK_NO": "13-다",
+    "GS_HANGMOK_NM": "졸업생의 진로 현황",
+    "GS_BURYU_CD": "JG040",
+    "JG_BURYU_CD": "JG130",
+    "JG_HANGMOK_CD": "52",
+    "JG_GUBUN": "1",
+    "JG_YEAR2": 2023,
+    "HG_NM": "반안중학교",
+    "SHL_IDF_CD": "77cd8689-266e-451d-b2e5-4dd8a465cd22",
+    "GS_TYPE": "Y",
+    "JG_YEAR": 2023,
+    "CHOSEN_JG_YEAR": 2023,
+    "PRE_JG_YEAR": 2023,
+    "LOAD_TYPE": "single"
+  }
+}

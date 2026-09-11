@@ -1,0 +1,24 @@
+{
+  "school_id": "S020000793",
+  "requested_year": 2025,
+  "collected_at": "2026-09-05T00:57:53.334407+00:00",
+  "sha256": "53fb3bdf6ee0fdcbff2864cfc5ca9fe57b5fac023a7905d5d0a9a3b872e49b71",
+  "source_url": "https://www.schoolinfo.go.kr/ei/pp/Pneipp_b06_s0p.do",
+  "request_parameters": {
+    "GS_HANGMOK_CD": "06",
+    "GS_HANGMOK_NO": "13-다",
+    "GS_HANGMOK_NM": "졸업생의 진로 현황",
+    "GS_BURYU_CD": "JG040",
+    "JG_BURYU_CD": "JG130",
+    "JG_HANGMOK_CD": "52",
+    "JG_GUBUN": "1",
+    "JG_YEAR2": 2025,
+    "HG_NM": "온천중학교",
+    "SHL_IDF_CD": "1b42e4fd-c1f6-405d-90fd-1cf2c638f1d2",
+    "GS_TYPE": "Y",
+    "JG_YEAR": 2025,
+    "CHOSEN_JG_YEAR": 2025,
+    "PRE_JG_YEAR": 2025,
+    "LOAD_TYPE": "single"
+  }
+}

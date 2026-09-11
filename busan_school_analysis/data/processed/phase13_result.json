@@ -1,0 +1,13 @@
+{
+  "apartments_500plus": 560,
+  "core_scored": 557,
+  "coverage_pct": 99.46428571428572,
+  "guaranteed_middle_apartments": 58,
+  "confidence_counts": {
+    "B": 514,
+    "A": 30,
+    "C": 16
+  },
+  "unusual_count": 42,
+  "structure": "ELEMENTARY_CORE_WITH_MIDDLE_ADDON_FINAL"
+}

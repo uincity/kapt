@@ -1,0 +1,11 @@
+{
+  "c2209774e8d21822ec5f9d53ab3e1ea5211a1a17da01a62c2c9fbc186b188179": {
+    "status": "success",
+    "latitude": 35.18,
+    "longitude": 129.12,
+    "address": "부산광역시 예시로 10",
+    "collected_at": "2026-09-06T11:56:09.260228+00:00",
+    "source_url": "https://dapi.kakao.com/v2/local/search/address.json",
+    "parser_version": "0.1.0"
+  }
+}

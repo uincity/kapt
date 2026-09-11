@@ -1,0 +1,14 @@
+{
+  "verdict": "ELEMENTARY_CORE_SUPPORTED",
+  "criteria": {
+    "positive_coefficient": true,
+    "within_dong_better": true,
+    "oos_rmse_not_worse": true,
+    "temporal_direction_stable": true
+  },
+  "temporal_directions": "+++",
+  "recent_transactions": 22181,
+  "recent_apartments": 486,
+  "all_transactions": 130238,
+  "all_apartments": 486
+}

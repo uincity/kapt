@@ -1,0 +1,24 @@
+{
+  "school_id": "S020000973",
+  "requested_year": 2026,
+  "collected_at": "2026-09-05T00:59:35.589361+00:00",
+  "sha256": "435b8a3532ad75227aa296fc4dbbef90b05a50124b5b48923711ce638680cd43",
+  "source_url": "https://www.schoolinfo.go.kr/ei/pp/Pneipp_b06_s0p.do",
+  "request_parameters": {
+    "GS_HANGMOK_CD": "06",
+    "GS_HANGMOK_NO": "13-다",
+    "GS_HANGMOK_NM": "졸업생의 진로 현황",
+    "GS_BURYU_CD": "JG040",
+    "JG_BURYU_CD": "JG130",
+    "JG_HANGMOK_CD": "52",
+    "JG_GUBUN": "1",
+    "JG_YEAR2": 2026,
+    "HG_NM": "부산진여자중학교",
+    "SHL_IDF_CD": "82b43372-a02c-422f-a974-07ca81190b46",
+    "GS_TYPE": "Y",
+    "JG_YEAR": 2026,
+    "CHOSEN_JG_YEAR": 2026,
+    "PRE_JG_YEAR": 2026,
+    "LOAD_TYPE": "single"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "school_id": "S020001434",
+  "requested_year": 2024,
+  "collected_at": "2026-09-05T00:55:43.643714+00:00",
+  "sha256": "679de3c7e6c48b532b63aa6cf1782cdc79605b32a8e628304beeec33341e2271",
+  "source_url": "https://www.schoolinfo.go.kr/ei/pp/Pneipp_b06_s0p.do",
+  "request_parameters": {
+    "GS_HANGMOK_CD": "06",
+    "GS_HANGMOK_NO": "13-다",
+    "GS_HANGMOK_NM": "졸업생의 진로 현황",
+    "GS_BURYU_CD": "JG040",
+    "JG_BURYU_CD": "JG130",
+    "JG_HANGMOK_CD": "52",
+    "JG_GUBUN": "1",
+    "JG_YEAR2": 2024,
+    "HG_NM": "영도제일중학교",
+    "SHL_IDF_CD": "1df5d717-18c4-4e55-9e15-9204fc00b52f",
+    "GS_TYPE": "Y",
+    "JG_YEAR": 2024,
+    "CHOSEN_JG_YEAR": 2024,
+    "PRE_JG_YEAR": 2024,
+    "LOAD_TYPE": "single"
+  }
+}

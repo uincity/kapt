@@ -1,0 +1,24 @@
+{
+  "school_id": "S020000770",
+  "requested_year": 2024,
+  "collected_at": "2026-09-05T00:56:49.205608+00:00",
+  "sha256": "f3ce53630aa53b7cfe7c2c40b61d895947aa4ba75ea0eb98071d4a6f69b78a39",
+  "source_url": "https://www.schoolinfo.go.kr/ei/pp/Pneipp_b06_s0p.do",
+  "request_parameters": {
+    "GS_HANGMOK_CD": "06",
+    "GS_HANGMOK_NO": "13-다",
+    "GS_HANGMOK_NM": "졸업생의 진로 현황",
+    "GS_BURYU_CD": "JG040",
+    "JG_BURYU_CD": "JG130",
+    "JG_HANGMOK_CD": "52",
+    "JG_GUBUN": "1",
+    "JG_YEAR2": 2024,
+    "HG_NM": "남산중학교",
+    "SHL_IDF_CD": "5e68b4f0-ddd2-4ae4-b411-0770172c2f55",
+    "GS_TYPE": "Y",
+    "JG_YEAR": 2024,
+    "CHOSEN_JG_YEAR": 2024,
+    "PRE_JG_YEAR": 2024,
+    "LOAD_TYPE": "single"
+  }
+}

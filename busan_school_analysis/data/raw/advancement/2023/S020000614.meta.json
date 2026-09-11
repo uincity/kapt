@@ -1,0 +1,24 @@
+{
+  "school_id": "S020000614",
+  "requested_year": 2023,
+  "collected_at": "2026-09-05T00:53:48.545731+00:00",
+  "sha256": "19fad3ca0808d9ee5e04b3fc9076e7aa0d62d9b5b977b833932233e84c8e997a",
+  "source_url": "https://www.schoolinfo.go.kr/ei/pp/Pneipp_b06_s0p.do",
+  "request_parameters": {
+    "GS_HANGMOK_CD": "06",
+    "GS_HANGMOK_NO": "13-다",
+    "GS_HANGMOK_NM": "졸업생의 진로 현황",
+    "GS_BURYU_CD": "JG040",
+    "JG_BURYU_CD": "JG130",
+    "JG_HANGMOK_CD": "52",
+    "JG_GUBUN": "1",
+    "JG_YEAR2": 2023,
+    "HG_NM": "부산서중학교",
+    "SHL_IDF_CD": "54d146db-75bf-4ce8-96bb-79f763c35e77",
+    "GS_TYPE": "Y",
+    "JG_YEAR": 2023,
+    "CHOSEN_JG_YEAR": 2023,
+    "PRE_JG_YEAR": 2023,
+    "LOAD_TYPE": "single"
+  }
+}

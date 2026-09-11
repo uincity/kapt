@@ -1,0 +1,24 @@
+{
+  "school_id": "S020000778",
+  "requested_year": 2026,
+  "collected_at": "2026-09-05T01:00:39.074468+00:00",
+  "sha256": "c62f7471217f1454723489ffe420ec642dc12b8c6fc7a21f58ed93523c06e4a4",
+  "source_url": "https://www.schoolinfo.go.kr/ei/pp/Pneipp_b06_s0p.do",
+  "request_parameters": {
+    "GS_HANGMOK_CD": "06",
+    "GS_HANGMOK_NO": "13-다",
+    "GS_HANGMOK_NM": "졸업생의 진로 현황",
+    "GS_BURYU_CD": "JG040",
+    "JG_BURYU_CD": "JG130",
+    "JG_HANGMOK_CD": "52",
+    "JG_GUBUN": "1",
+    "JG_YEAR2": 2026,
+    "HG_NM": "부곡중학교",
+    "SHL_IDF_CD": "5644e594-b990-4ef5-8836-275a6412165c",
+    "GS_TYPE": "Y",
+    "JG_YEAR": 2026,
+    "CHOSEN_JG_YEAR": 2026,
+    "PRE_JG_YEAR": 2026,
+    "LOAD_TYPE": "single"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "education_office": "dongnae",
+  "requested_year": 2025,
+  "data_year": 2026,
+  "data_year_source": "page_body",
+  "data_year_confidence": "high",
+  "source_url": "https://home.pen.go.kr/dongnae/cm/cntnts/cntntsView.do?cntntsId=2020&mi=14063",
+  "download_time": "2026-09-06T11:47:15.357971+00:00",
+  "sha256": "2c9762260d9622e6235b8f5aa318776a7a5f8747fbe713a26e955dce9223e219",
+  "publication_status": "year_mismatch"
+}

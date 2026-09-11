@@ -1,0 +1,11 @@
+{
+  "education_office": "seobu",
+  "requested_year": 2025,
+  "data_year": 2026,
+  "data_year_source": "page_body",
+  "data_year_confidence": "high",
+  "source_url": "https://home.pen.go.kr/seobu/cm/cntnts/cntntsView.do?cntntsId=50&mi=9974",
+  "download_time": "2026-09-06T11:47:19.101911+00:00",
+  "sha256": "e68e6c0779462026f2ed32f3d4cae1cfd93a76bc3bcc82390aea870fe167a33f",
+  "publication_status": "year_mismatch"
+}

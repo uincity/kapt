@@ -1,0 +1,14 @@
+{
+  "data_year": 2025,
+  "snapshot_date": "2025-09-22",
+  "source_name": "학구도안내서비스 공공데이터",
+  "source_title": "한국지방교육행정연구재단 초등학교 통학구역 및 공동통학구역(2025.09.22.)",
+  "source_list_url": "https://schoolzone.emac.kr/publicData/publicDataList.do",
+  "source_url": "https://schoolzone.emac.kr/publicData/publicDataFileDownload.do?nttId=2950&atchFileId=FILE_000000100002961&fileSn=0",
+  "ntt_id": "2950",
+  "attachment_id": "FILE_000000100002961",
+  "file_sn": "0",
+  "collected_at": "2026-09-07T05:57:53.002009+00:00",
+  "sha256": "3ede65fa86963a79b2e633f578df1dcd52d2c5353d1490266580587ca42f189a",
+  "bytes": 128
+}

@@ -1,0 +1,11 @@
+{
+  "education_office": "bukbu",
+  "requested_year": 2025,
+  "data_year": null,
+  "data_year_source": "not_verified",
+  "data_year_confidence": "unknown",
+  "source_url": "https://home.pen.go.kr/bukbu/cm/cntnts/cntntsView.do?cntntsId=166&mi=13616",
+  "download_time": "2026-09-06T11:47:17.496564+00:00",
+  "sha256": "1a4f279345ad69338f3982947dcdd21dca0318a6a706d400d400a210a6364393",
+  "publication_status": "year_mismatch"
+}

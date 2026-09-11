@@ -1,0 +1,11 @@
+{
+  "freeze_status": "SCHOOL_VALUE_MODEL_FROZEN_WITH_CAUTION",
+  "master_apartments": 560,
+  "score_coverage_pct": 99.46428571428572,
+  "gap_coverage_pct": 89.28571428571429,
+  "tier_counts": {
+    "TIER_1": 30
+  },
+  "pytest_count": 263,
+  "pytest_status": "FULL_PASS"
+}

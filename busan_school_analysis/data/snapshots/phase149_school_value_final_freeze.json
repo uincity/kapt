@@ -1,0 +1,35 @@
+{
+  "timestamp": "2026-09-11T14:51:47.032906+09:00",
+  "git_commit": "f64d9a595700125dde8895e1ffdf6b7668754d0e",
+  "protected_file_count": 199,
+  "sha256_summary": "1a187ba6578ab54f0fb79499ff8b82255dbb6612186eb7ba6eee03034f52ca02",
+  "total_apartments": 560,
+  "score_coverage": 99.46428571428572,
+  "gap_coverage": 89.28571428571429,
+  "tier_counts": {
+    "TIER_1": 30
+  },
+  "model_specification": "LINEAR_CORE_SCORE_WITH_PHASE14_CONTROLS",
+  "linear_coefficient": 0.04242362280189306,
+  "ten_point_price_effect_pct": 4.3336366222126514,
+  "lodo_summary": {
+    "sensitivity_verdict": "MODERATELY_ROBUST",
+    "original_sanity_count": 95,
+    "major_count": 131,
+    "minor_count": 122,
+    "lodo_dongs": 43,
+    "lodo_positive_ratio": 0.4883720930232558,
+    "lodo_median_spearman": 0.0,
+    "lodo_weighted_spearman": 0.026439387130671784,
+    "lodo_positive_dongs": 21,
+    "lodo_negative_dongs": 21
+  },
+  "bootstrap_iterations": 500,
+  "random_seed": 20260911,
+  "pytest_count": 263,
+  "existing_pytest_count": 226,
+  "new_pytest_count": 37,
+  "pytest_status": "FULL_PASS",
+  "freeze_status": "SCHOOL_VALUE_MODEL_FROZEN_WITH_CAUTION",
+  "pytest_verified_at": "2026-09-11T15:44:48.762684+09:00"
+}

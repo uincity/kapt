@@ -1,0 +1,9 @@
+{
+  "original_candidates": 30,
+  "tier_counts": {
+    "TIER_1": 30
+  },
+  "tier1_retention_pct": 100.0,
+  "original_top20_tier1_retention_pct": 100.0,
+  "robust_near_candidates": 7
+}

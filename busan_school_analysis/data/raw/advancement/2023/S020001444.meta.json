@@ -1,0 +1,24 @@
+{
+  "school_id": "S020001444",
+  "requested_year": 2023,
+  "collected_at": "2026-09-05T00:54:52.740985+00:00",
+  "sha256": "9725c4925f837387ad4598913c06b349b88f05230a1a82a563cf04d49ad00a33",
+  "source_url": "https://www.schoolinfo.go.kr/ei/pp/Pneipp_b06_s0p.do",
+  "request_parameters": {
+    "GS_HANGMOK_CD": "06",
+    "GS_HANGMOK_NO": "13-다",
+    "GS_HANGMOK_NM": "졸업생의 진로 현황",
+    "GS_BURYU_CD": "JG040",
+    "JG_BURYU_CD": "JG130",
+    "JG_HANGMOK_CD": "52",
+    "JG_GUBUN": "1",
+    "JG_YEAR2": 2023,
+    "HG_NM": "하단중학교",
+    "SHL_IDF_CD": "26e32c59-427e-4318-a237-bd5d6bb0f87a",
+    "GS_TYPE": "Y",
+    "JG_YEAR": 2023,
+    "CHOSEN_JG_YEAR": 2023,
+    "PRE_JG_YEAR": 2023,
+    "LOAD_TYPE": "single"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "school_id": "S020000765",
+  "requested_year": 2024,
+  "collected_at": "2026-09-05T00:56:46.303125+00:00",
+  "sha256": "2f3b27ee56dbb9318f2144ec389b1646c50ebbb43980f9b8450c3ee165c9ac7a",
+  "source_url": "https://www.schoolinfo.go.kr/ei/pp/Pneipp_b06_s0p.do",
+  "request_parameters": {
+    "GS_HANGMOK_CD": "06",
+    "GS_HANGMOK_NO": "13-다",
+    "GS_HANGMOK_NM": "졸업생의 진로 현황",
+    "GS_BURYU_CD": "JG040",
+    "JG_BURYU_CD": "JG130",
+    "JG_HANGMOK_CD": "52",
+    "JG_GUBUN": "1",
+    "JG_YEAR2": 2024,
+    "HG_NM": "구서여자중학교",
+    "SHL_IDF_CD": "00f09d14-f894-4b50-85d9-cce11de3fa16",
+    "GS_TYPE": "Y",
+    "JG_YEAR": 2024,
+    "CHOSEN_JG_YEAR": 2024,
+    "PRE_JG_YEAR": 2024,
+    "LOAD_TYPE": "single"
+  }
+}

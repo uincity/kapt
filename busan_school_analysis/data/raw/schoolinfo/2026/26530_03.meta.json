@@ -1,0 +1,12 @@
+{
+  "data_year": 2026,
+  "collected_at": "2026-09-05T00:47:23.831977+00:00",
+  "sha256": "f7fe7f70ebfc8d67d51b8256a0206a621cc37b896278360e90e8d60e1901eb7f",
+  "source_url": "https://www.schoolinfo.go.kr/openApi.do",
+  "params": {
+    "apiType": "0",
+    "sidoCode": "26",
+    "sggCode": "26530",
+    "schulKndCode": "03"
+  }
+}

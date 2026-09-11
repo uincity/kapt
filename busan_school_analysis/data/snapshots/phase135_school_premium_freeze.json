@@ -1,0 +1,7 @@
+{
+  "status": "SCHOOL_PREMIUM_INDEX_FROZEN",
+  "source_path": "data/processed/phase13_school_premium_index.csv",
+  "source_sha256": "ab0e724b2dd0fcc15b2d6968bcd4685104d58ab3941faa72fab8aaa27f00291a",
+  "row_count": 560,
+  "apartment_id_unique": true
+}

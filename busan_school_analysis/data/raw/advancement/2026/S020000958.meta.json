@@ -1,0 +1,24 @@
+{
+  "school_id": "S020000958",
+  "requested_year": 2026,
+  "collected_at": "2026-09-05T01:00:53.000416+00:00",
+  "sha256": "fa302d8ef8fa43d1de748e76f41fc1e03030d738b6355906f642235cfbdafd23",
+  "source_url": "https://www.schoolinfo.go.kr/ei/pp/Pneipp_b06_s0p.do",
+  "request_parameters": {
+    "GS_HANGMOK_CD": "06",
+    "GS_HANGMOK_NO": "13-다",
+    "GS_HANGMOK_NM": "졸업생의 진로 현황",
+    "GS_BURYU_CD": "JG040",
+    "JG_BURYU_CD": "JG130",
+    "JG_HANGMOK_CD": "52",
+    "JG_GUBUN": "1",
+    "JG_YEAR2": 2026,
+    "HG_NM": "거성중학교",
+    "SHL_IDF_CD": "0e621458-fc1c-48b1-8e38-78d1ce7f12de",
+    "GS_TYPE": "Y",
+    "JG_YEAR": 2026,
+    "CHOSEN_JG_YEAR": 2026,
+    "PRE_JG_YEAR": 2026,
+    "LOAD_TYPE": "single"
+  }
+}

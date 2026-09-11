@@ -1,0 +1,24 @@
+{
+  "school_id": "S020000978",
+  "requested_year": 2025,
+  "collected_at": "2026-09-05T00:58:54.969501+00:00",
+  "sha256": "da1867e257528adeb78c8f9cc22a63e648b157dcf245db7a464357872630879b",
+  "source_url": "https://www.schoolinfo.go.kr/ei/pp/Pneipp_b06_s0p.do",
+  "request_parameters": {
+    "GS_HANGMOK_CD": "06",
+    "GS_HANGMOK_NO": "13-다",
+    "GS_HANGMOK_NM": "졸업생의 진로 현황",
+    "GS_BURYU_CD": "JG040",
+    "JG_BURYU_CD": "JG130",
+    "JG_HANGMOK_CD": "52",
+    "JG_GUBUN": "1",
+    "JG_YEAR2": 2025,
+    "HG_NM": "연산중학교",
+    "SHL_IDF_CD": "d38b285e-df77-431e-8112-8d8e1f4cf357",
+    "GS_TYPE": "Y",
+    "JG_YEAR": 2025,
+    "CHOSEN_JG_YEAR": 2025,
+    "PRE_JG_YEAR": 2025,
+    "LOAD_TYPE": "single"
+  }
+}

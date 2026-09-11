@@ -1,0 +1,23 @@
+{
+  "total_apartments": 4521,
+  "phase7_scored": 4288,
+  "apartments_500plus": 560,
+  "scored_500plus": 546,
+  "coverage_pct": 97.5,
+  "transactions": 223932,
+  "panel_rows": 581334,
+  "primary_sample": 487,
+  "pearson": 0.398,
+  "spearman": 0.375,
+  "within_sigungu_spearman": 0.19,
+  "within_legal_dong_demeaned_spearman": 0.005,
+  "legal_dong_fe_10point_pct": 3.1,
+  "legal_dong_fe_p_value": 0.1887,
+  "feature_status": "USEFUL_FEATURE",
+  "frozen_at": "2026-09-10T01:15:55.250635+00:00",
+  "source_hashes": {
+    "phase8_validation.md": "8597f4486c014bd1839fcf6ae5ef4671bffb8f025c187e9e14b04ab037db6a52",
+    "phase8_regression_results.csv": "6206aeeb59116547c85cd346dddbf13e772da2e6a0a34cc5b50e06472f2d3476",
+    "school_scores_2026_phase7_final.parquet": "9a36ac09974d641c4e17a67b575a0ff5c77517feaed396d373fa0d8c2ef5890b"
+  }
+}

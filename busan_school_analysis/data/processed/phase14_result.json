@@ -1,0 +1,13 @@
+{
+  "selected_model": "LINEAR",
+  "reference_score": 50.0,
+  "model_transactions": 132979,
+  "model_apartments": 500,
+  "priced_apartments": 500,
+  "oos_rmse": 0.2464899880403007,
+  "oos_mae": 0.18735868114680584,
+  "premium_median": 3.181559938449885,
+  "premium_p25": -3.7980173120546494,
+  "premium_p75": 7.536238145773233,
+  "ten_point_effect_at_50_pct": 4.3336366222126514
+}

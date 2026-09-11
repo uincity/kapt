@@ -1,0 +1,17 @@
+{
+  "input_hashes": {
+    "data/snapshots/school_scores_2026_phase7_final.parquet": "9a36ac09974d641c4e17a67b575a0ff5c77517feaed396d373fa0d8c2ef5890b",
+    "data/snapshots/phase8_baseline_benchmark.json": "1d0f4a0a321936087ffeea5a8580f1944dd2a57cb4bd5619ac0bbd13db54092d",
+    "data/processed/busan_apartment_school_scores_2026.parquet": "55e7085d660d540b8b1815e7571dc6cc1ad743c0142830a05a27222e512e5e34",
+    "data/processed/elementary_feeder_scores_2026.parquet": "e8bcd8e0f711336ee83c542a72bfa1ca9f53ca5adce82530e9233e397c0d099e",
+    "data/processed/elementary_middle_score_detail_2026.parquet": "f43f79aef278b536e8de8e4c8faab515e4c7c86d6d13cfcde2d2140697902ac8",
+    "data/processed/phase9_elementary_demand_scores.parquet": "87bb5be716a8605c315f9fb319e6f95ef6f0f71f11c79eb79b775e442763c6b3",
+    "data/processed/phase95_elementary_middle_combined.parquet": "f20ecd145f8eb9ab85dfe0ce0c14dcb44f10c3e8ebd81e6b6bbac5c3e7609b62",
+    "data/processed/phase10_common_sample.parquet": "a533b9d71c9281e7761e9f5b29bd21ed3057377183c830a837179c0a114bf43a",
+    "data/processed/phase11_middle_catchment_demand.parquet": "f9393f1362d696f62eaccef4e1ed67cb13622cc3028c49385ef448b69fa45c4b",
+    "data/processed/phase11_school_network.parquet": "f3cb52544c0c11834fbc974093a8eb3da7f33f9fde255258edf005f6ff4a78d4",
+    "data/processed/phase115_elementary_migration_features.parquet": "59f4f7c93c6711dad45cda07378fe108a270fac7765550471a370d72a906b2f6",
+    "data/processed/busan_elementary_middle_relation_2026.parquet": "6ac86e5a25bc212b239c08a7e7faabf30661fd36a11a1745e029f990a87d21ec",
+    "config/manual_elementary_middle_overrides.csv": "9f3d70184c7d66dfbbc7d43cc8e754462a1a3607fdd88a8c385fe0ed04c4b4d6"
+  }
+}

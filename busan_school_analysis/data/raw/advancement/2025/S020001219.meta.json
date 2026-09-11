@@ -1,0 +1,24 @@
+{
+  "school_id": "S020001219",
+  "requested_year": 2025,
+  "collected_at": "2026-09-05T00:58:15.645769+00:00",
+  "sha256": "2bc6257be46a9d11fc882177b2679c2c23feb7a384ef3cad4cc06465367829ea",
+  "source_url": "https://www.schoolinfo.go.kr/ei/pp/Pneipp_b06_s0p.do",
+  "request_parameters": {
+    "GS_HANGMOK_CD": "06",
+    "GS_HANGMOK_NO": "13-다",
+    "GS_HANGMOK_NM": "졸업생의 진로 현황",
+    "GS_BURYU_CD": "JG040",
+    "JG_BURYU_CD": "JG130",
+    "JG_HANGMOK_CD": "52",
+    "JG_GUBUN": "1",
+    "JG_YEAR2": 2025,
+    "HG_NM": "만덕중학교",
+    "SHL_IDF_CD": "5b50580b-d422-455f-bd39-c634bbe25d5c",
+    "GS_TYPE": "Y",
+    "JG_YEAR": 2025,
+    "CHOSEN_JG_YEAR": 2025,
+    "PRE_JG_YEAR": 2025,
+    "LOAD_TYPE": "single"
+  }
+}

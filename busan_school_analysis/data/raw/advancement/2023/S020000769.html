@@ -1,0 +1,933 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+<!-- 소셜로그인 정보 -->
+
+
+
+
+
+
+<script type="text/javascript">
+function goJipyo06(hg_course_gb){
+	console.log("hg_course_gb : ", hg_course_gb);
+	var hg_jongryu_gb = "3";
+	var formId = "goJipyoForm01";
+	if(hg_course_gb == "3") {
+		formId = "goJipyoForm01";
+	} else if(hg_course_gb == "4") {
+		formId = "goJipyoForm02";
+	}
+	
+	if( 'single' == 'single' ){//현재 페이지에 load 된 공시 갯수가 1개일 경우
+		$("#" + formId +" [name=TRANS_DT]").val( $("#select_trans_dt").text() );
+		
+		if(hg_jongryu_gb == "5") {
+			$("#" + formId +" [name=HG_COURSE_GB]").val( hg_course_gb );
+		}else {
+			$("#" + formId +" [name=HG_COURSE_GB]").val( hg_jongryu_gb );
+		}
+		
+		$("#jipyoTableBox").load("/ei/ss/pneiss_a03_s0p.do", $("#" + formId +"").serializeArray(), function(res, status, xhr) {
+			$(".schoolinfo_table").mCustomScrollbar({ 
+				axis:"x"
+			});
+			
+			$("#jipyoTableBox").attr('tabindex', -1).focus();
+			$("#jipyoTableBox").removeAttr('tabindex');
+		});
+		
+	}else{
+		$("#gongsiInfo06 #" + formId +" [name=TRANS_DT]").val( $("#gongsiInfo06 #select_trans_dt").text() );
+		
+		if(hg_jongryu_gb == "5") {
+			$("#gongsiInfo06 #" + formId +" [name=HG_COURSE_GB]").val( hg_course_gb );
+		}else {
+			$("#gongsiInfo06 #" + formId +" [name=HG_COURSE_GB]").val( hg_jongryu_gb );
+		}
+		
+		$("#gongsiInfo06 #jipyoTableBox").load("/ei/ss/pneiss_a03_s0p.do", $("#gongsiInfo06 #" + formId +"").serializeArray(), function(res, status, xhr) {
+			$(".schoolinfo_table").mCustomScrollbar({ 
+				axis:"x"
+			});
+		});
+	}
+}
+
+//엑셀출력 스크립트
+function open_excel(){
+	var excel = document.getElementById("excelprint");
+	excel.ExcelData.value = $('#excel').html();
+	excel.submit();
+}
+</script>
+<noscript><p>JavaScript를 사용할 수 없습니다. 일부 콘텐츠가 정상적으로 작동하지 않을 가능성이 있습니다.</p></noscript>
+<form id="srcForm" name="srcForm" method="post" action="/ei/pp/Pneipp_b06_s0p.do">
+	<input type="hidden" name="SHL_IDF_CD" value="77d0ec60-4065-4a5d-93e3-b21056225bb0" />
+	<input type="hidden" name="HG_NM" value="금정중학교" />
+	<input type="hidden" name="GS_BURYU_CD" value="JG040" />
+	<input type="hidden" name="GS_HANGMOK_CD" value="06" />
+	<input type="hidden" name="JG_BURYU_CD" value="JG130" />
+	<input type="hidden" name="JG_HANGMOK_CD" value="52" />
+	<input type="hidden" name="GS_HANGMOK_NO" value="13-다" />
+	<input type="hidden" name="GS_HANGMOK_NM" value="졸업생의 진로 현황" />
+	<input type="hidden" name="JG_YEAR" value="2023" />
+	<input type="hidden" name="JG_CHASU" value="4" />
+	<input type="hidden" name="adminYN" value="N"/>
+	<input type="hidden" name="SORT" value="" />
+	<input type="hidden" name="POP_YN" value=""/>
+	<input type="hidden" name="PRE_JG_YEAR" value="2023" />
+	<input type="hidden" name="LOAD_TYPE" value="single" /><!-- 학교별공시, 관리자에서 호출하는지 구분  -->
+</form>
+<!-- 인근지역 학교비교 폼 추가 -->
+<form id="goJipyoForm01" name="goJipyoForm01" method="post" >
+	<input type="hidden" name="SHL_IDF_CD" value="77d0ec60-4065-4a5d-93e3-b21056225bb0" />
+	<input type="hidden" name="HG_JONGRYU_GB" value="03" />
+	<input type="hidden" name="HG_COURSE_GB" value="" />
+	<input type="hidden" name="HIGH_JONGRYU_GB" value="" />
+	<input type="hidden" name="GS_BURYU_CD" value="JG040" />
+	<input type="hidden" name="GS_HANGMOK_CD" value="06" />	
+	<input type="hidden" name="JG_BURYU_CD" value="JG130" />	
+	<input type="hidden" name="JG_HANGMOK_CD" value="52" />
+	<input type="hidden" id="GS_HANGMOK_NM" value="졸업생의 진로 현황" />
+	<input type="hidden" name="JG_YEAR" value="2023" />
+	<input type="hidden" name="JG_CHASU" value="4" />
+	<input type="hidden" name="SORT" value="" />
+	<input type="hidden" name="POP_YN" value=""/>
+
+
+	<input type="hidden" name="JIPYO_CD" value="JG1305220" />
+	<input type="hidden" id="JIPYO_NM"  value="진학률(%)" />
+	<input type="hidden" name="JIPYO_COLUMN"  value="MI_ERTDS_RAT" />
+	<input type="hidden" id="JIPYO_DANWI"  value="" />
+
+	<input type="hidden" name="JIPYO_CD" value="JG1305221" />
+	<input type="hidden" id="JIPYO_NM"  value="일반고진학률(%)" />
+	<input type="hidden" name="JIPYO_COLUMN"  value="GNRL_ORD_HS_ERTDS_RAT" />
+	<input type="hidden" id="JIPYO_DANWI"  value="" />
+
+	<input type="hidden" name="JIPYO_CD" value="JG1305222" />
+	<input type="hidden" id="JIPYO_NM"  value="특성화고진학률(%)" />
+	<input type="hidden" name="JIPYO_COLUMN"  value="CHRTR_ORD_HS_ERTDS_RAT" />
+	<input type="hidden" id="JIPYO_DANWI"  value="" />
+
+	<input type="hidden" name="JIPYO_CD" value="JG1305223" />
+	<input type="hidden" id="JIPYO_NM"  value="특수목적고진학률(%)" />
+	<input type="hidden" name="JIPYO_COLUMN"  value="SPCLY_ORD_HS_ERTDS_RAT" />
+	<input type="hidden" id="JIPYO_DANWI"  value="" />
+
+	<input type="hidden" name="JIPYO_CD" value="JG1305224" />
+	<input type="hidden" id="JIPYO_NM"  value="자율고진학률(%)" />
+	<input type="hidden" name="JIPYO_COLUMN"  value="SLCTL_ORD_HS_ERTDS_RAT" />
+	<input type="hidden" id="JIPYO_DANWI"  value="" />
+
+	<input type="hidden" name="JIPYO_CD" value="JG1305225" />
+	<input type="hidden" id="JIPYO_NM"  value="기타(%)" />
+	<input type="hidden" name="JIPYO_COLUMN"  value="ETC_RAT" />
+	<input type="hidden" id="JIPYO_DANWI"  value="" />
+
+	<input type="hidden" name="SULRIP_GB" value="1" />
+
+	<input type="hidden" name="SULRIP_GB" value="2" />
+
+	<input type="hidden" name="SULRIP_GB" value="3" />
+	
+	
+	<input type="hidden" name="adminYN" value="N" />
+</form>
+<form id="goJipyoForm02" name="goJipyoForm02" method="post">
+	<input type="hidden" name="SHL_IDF_CD" value="77d0ec60-4065-4a5d-93e3-b21056225bb0" />
+	<input type="hidden" name="HG_JONGRYU_GB" value="03" />
+	<input type="hidden" name="HG_COURSE_GB" value="" />
+	<input type="hidden" name="HIGH_JONGRYU_GB" value="" />
+	<input type="hidden" name="GS_BURYU_CD" value="JG040" />
+	<input type="hidden" name="GS_HANGMOK_CD" value="06" />	
+	<input type="hidden" name="JG_BURYU_CD" value="JG130" />	
+	<input type="hidden" name="JG_HANGMOK_CD" value="52" />
+	<input type="hidden" id="GS_HANGMOK_NM" value="졸업생의 진로 현황" />
+	<input type="hidden" name="JG_YEAR" value="2023" />
+	<input type="hidden" name="JG_CHASU" value="4" />
+	<input type="hidden" name="SORT" value="" />
+	<input type="hidden" name="POP_YN" value=""/>
+
+
+	<input type="hidden" name="JIPYO_CD" value="JG1305226" />
+	<input type="hidden" id="JIPYO_NM"  value="진학률(%)" />
+	<input type="hidden" name="JIPYO_COLUMN"  value="HG_ERTDS_RAT" />
+	<input type="hidden" id="JIPYO_DANWI"  value="" />	
+
+	<input type="hidden" name="JIPYO_CD" value="JG1305227" />
+	<input type="hidden" id="JIPYO_NM"  value="전문대학교진학률(%)" />
+	<input type="hidden" name="JIPYO_COLUMN"  value="JNCLL_UNIV_ERTDS_RAT" />
+	<input type="hidden" id="JIPYO_DANWI"  value="" />	
+
+	<input type="hidden" name="JIPYO_CD" value="JG1305228" />
+	<input type="hidden" id="JIPYO_NM"  value="대학교진학률(%)" />
+	<input type="hidden" name="JIPYO_COLUMN"  value="UNIV_ERTDS_RAT" />
+	<input type="hidden" id="JIPYO_DANWI"  value="" />	
+
+	<input type="hidden" name="JIPYO_CD" value="JG1305229" />
+	<input type="hidden" id="JIPYO_NM"  value="국외진학률(%)" />
+	<input type="hidden" name="JIPYO_COLUMN"  value="OCNTY_ERTDS_RAT" />
+	<input type="hidden" id="JIPYO_DANWI"  value="" />	
+
+	<input type="hidden" name="JIPYO_CD" value="JG1305230" />
+	<input type="hidden" id="JIPYO_NM"  value="취업률(%)" />
+	<input type="hidden" name="JIPYO_COLUMN"  value="EMPLO_RAT" />
+	<input type="hidden" id="JIPYO_DANWI"  value="" />	
+
+	<input type="hidden" name="JIPYO_CD" value="JG1305231" />
+	<input type="hidden" id="JIPYO_NM"  value="기타(%)" />
+	<input type="hidden" name="JIPYO_COLUMN"  value="ETC_RAT" />
+	<input type="hidden" id="JIPYO_DANWI"  value="" />	
+
+	<input type="hidden" name="SULRIP_GB" value="1">
+
+	<input type="hidden" name="SULRIP_GB" value="2">
+
+	<input type="hidden" name="SULRIP_GB" value="3">
+
+	<input type="hidden" name="adminYN" value="N"/>
+</form>
+<form id="excelprint" name="excelprint" method="post" action="/cm/include/ExcelPrint.do">
+	<input type="hidden" name="ExcelData" value="" />
+	<input type="hidden" name="excelname" value="졸업생의진로현황" />
+</form>
+
+<div class="tabtt_wrap">
+   <p class="tabtt">13-다. 졸업생의 진로 현황</p>
+   <div class="fR">
+      <div class="select-group">
+         <label for="select_trans_dt">공시년월</label>
+         <div class="select t4">
+             
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+<!-- 소셜로그인 정보 -->
+
+
+
+
+<style>
+	.tabSelected_data .select.t4 {
+		max-width: none !important;
+</style>
+<script type="text/javascript">
+<!--
+	var focusChk = 0;
+	
+	function chgSelect06()
+	{	
+		
+		
+		 if( 'single' == 'single' ){//현재 페이지에 load 된 공시 갯수가 1개일 경우
+			var str = $('#select_trans_dt option:selected').val();
+			$('#srcForm input[name="JG_YEAR"]').val(str.substring(0,4));
+			$('#srcForm input[name="JG_CHASU"]').val(str.substring(4));
+		}else{
+			var str = $('#gongsiInfo06 #select_trans_dt option:selected').val();
+			console.log('gsHangmokCd : ', 06);
+			console.log('formName : ', srcForm);
+			$('#gongsiInfo06 #srcForm input[name="JG_YEAR"]').val(str.substring(0,4));
+			$('#gongsiInfo06 #srcForm input[name="JG_CHASU"]').val(str.substring(4));
+		}
+
+	}
+	
+	function goSelect06()
+	{	
+		var str = $('#select_trans_dt option:selected').val();
+		
+		 if( 'single' == 'single' ){//현재 페이지에 load 된 공시 갯수가 1개일 경우
+			$('#gongsiInfo').load($('#srcForm').prop('action'), $('#srcForm').serialize(), function(){
+				$(".schoolinfo_table").mCustomScrollbar({
+					axis:"x"
+				});
+			});
+		}else{
+			$('#gongsiInfo06').load($('#gongsiInfo06 #srcForm').prop('action'), $('#gongsiInfo06 #srcForm').serialize(), function(){
+				$(".schoolinfo_table").mCustomScrollbar({
+					axis:"x"
+				});
+				//엑셀다운로드, 인쇄하기 숨김
+				$('a').filter(":contains('엑셀다운로드')").hide();
+				$('a').filter(":contains('인쇄하기')").hide();
+			});
+		}
+	}
+//-->
+</script>
+<div class="custom-select-box">
+<select name="select_trans_dt" id="select_trans_dt"title="공시년월 선택" onchange="chgSelect06();" >
+
+	<option value="20254" >(4차) 2025년 11월</option>
+
+	<option value="20244" >(4차) 2024년 11월</option>
+
+	<option value="20234" selected>(4차) 2023년 11월</option>
+
+</select>
+<div class="select-arrow"></div>
+</div><a href="javascript: goSelect06();" class="choicebtn mr0" title="선택">선택</a>  
+         </div>
+		 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+<!-- 소셜로그인 정보 -->
+
+
+
+
+<script type="text/javascript" src="/js/Printmade3.js"></script>
+
+<script>
+function printPage(printId) {
+	$(printId).printThis({
+		importCSS: true
+		, importStyle: true
+	});
+}
+</script>
+
+	<a href="javascript:;" class="btn mobile_hidden" onclick="printPage('.tabSelected_data')" title="인쇄하기"><i class="remixicon-printer-line"></i>인쇄하기</a>
+
+
+         <a href="javascript:;" class="btn" onclick="open_excel();" title="엑셀다운로드"><i class="remixicon-file-excel-2-line"></i>엑셀다운로드</a>
+     </div>
+   </div>
+</div>
+
+					<!-- 그래프영역 -->
+				
+				<!-- 사용자가 선택한 Max 연도에 공시자료가 없으면 자료가 있는 가장 최근 연도의 공시자료를 보여준다는 도움말 출력 -->
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+<!-- 소셜로그인 정보 -->
+
+
+
+
+				
+			
+
+<div class="table_wrap">
+	
+	<div class="wrap_box boxin1">
+	   <div class="box">
+					
+						
+						
+	                  	
+						
+						
+						
+						
+						
+						
+	                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+<!-- 소셜로그인 정보 -->
+
+
+
+
+
+
+<script type="text/javascript" src="/js/webponent.licenseKey.js"></script>
+<script type="text/javascript" src="/js/raphael.js?ran=6151469"></script>
+<script type="text/javascript" src="/js/webponent.comm.common.js?ran=1009972"></script>
+<script type="text/javascript" src="/js/webponent.chart.js?ran=8867179"></script>
+<script type="text/javascript" src="/js/webponent.visual.pie.js?ran=1992802"></script>
+<table class="box hidden_table">
+	<caption>차트의 대체 텍스트로 
+		
+			일반고, 
+			
+			특성화고, 
+			
+			[특수목적고] 과학고, 
+			
+			[특수목적고] 외고국제고, 
+			
+			[특수목적고] 예고체고, 
+			
+			[특수목적고] 마이스터고, 
+			
+			[자율고] 자율형사립고, 
+			
+			[자율고] 자율형공립고, 
+			
+			기타, 
+			
+			취업자, 
+		
+			[무직자 및 미상]
+		의 정보를 제공한다.
+	</caption>
+	<thead>
+		
+		<th scope="col">일반고</th>
+		
+		<th scope="col">특성화고</th>
+		
+		<th scope="col">[특수목적고] 과학고</th>
+		
+		<th scope="col">[특수목적고] 외고국제고</th>
+		
+		<th scope="col">[특수목적고] 예고체고</th>
+		
+		<th scope="col">[특수목적고] 마이스터고</th>
+		
+		<th scope="col">[자율고] 자율형사립고</th>
+		
+		<th scope="col">[자율고] 자율형공립고</th>
+		
+		<th scope="col">기타</th>
+		
+		<th scope="col">취업자</th>
+		
+		<th scope="col">[무직자 및 미상]</th>
+		
+	</thead>
+	<tbody>
+		
+		<td>86</td>
+		
+		<td>25</td>
+		
+		<td>3</td>
+		
+		<td>1</td>
+		
+		<td>1</td>
+		
+		<td>3</td>
+		
+		<td>1</td>
+		
+		<td>0</td>
+		
+		<td>1</td>
+		
+		<td>0</td>
+		
+		<td>0</td>
+		
+	</tbody>		
+</table>
+<div class="chart106"></div>
+<script>
+//<![CDATA[
+	$(".chart106").css("height", "500px");
+	var options = {
+		data: {
+			data: [
+			
+					{
+						Date: '일반고',
+						price: '86'
+					},
+			
+					{
+						Date: '특성화고',
+						price: '25'
+					},
+			
+					{
+						Date: '[특수목적고] 과학고',
+						price: '3'
+					},
+			
+					{
+						Date: '[특수목적고] 외고국제고',
+						price: '1'
+					},
+			
+					{
+						Date: '[특수목적고] 예고체고',
+						price: '1'
+					},
+			
+					{
+						Date: '[특수목적고] 마이스터고',
+						price: '3'
+					},
+			
+					{
+						Date: '[자율고] 자율형사립고',
+						price: '1'
+					},
+			
+					{
+						Date: '기타',
+						price: '1'
+					},
+			
+			],
+			use: 'price'
+		},
+		legend: {
+			func : function(pie){
+				var legend=[];
+				var dataTotalValue = pie.settings.data.dataTotalValue;
+				var data = pie.settings.data.renderedData;
+				for(var i = 0; i< data.length; i++){
+					var per = Math.round(100 / dataTotalValue * data[i].price*10)/10.0;
+					var date = data[i].Date;
+					var price = data[i].price;
+					var legendValue = '';
+					legendValue = date+ priceDataFormat(price) +'명'+'('+per +'%)'
+					legend.push(legendValue);
+				}
+				return legend;
+			}
+		},
+		toolTip: {
+			use: false
+		}
+		, resize: {
+			use: true
+		}
+	};
+
+	var styles = {
+		layout: {
+			area: {
+				color: 'white'
+			}
+			, line: {
+				width: 0
+			}
+		}
+		, legend: {
+			use: true
+// 			, type: 'insideLegend'
+			, text: {
+				family: "Noto Sans KR"
+// 				, color: 'white'
+			}
+		}
+		, pie: {
+			radius: '70' // 90
+			, animate: {
+				use: true
+				, step: 80
+				, type: 'easeInOutExpo'
+			}
+			, area: {
+				color : ["#4fc2f8", "#766cf3", "#56e0d5", "#5ee57f", "#25cf1f", "#fc6189", "#6cf3db", "#d56df4", "#fead5e", "#4f60f8"]
+			}
+			, hover: {
+				use: false
+			}
+		}
+	};
+	
+	if('chart106'.indexOf('gakjong') > -1){
+		styles.pie.radius = 45;
+		styles.legend.text.size = 11;
+		styles.legend.type = 'lollipop';
+		styles.legend.pin = {length : 5, width : 1, opacity : 2};
+		styles.legend.pinHead = {size: 1,
+		area:{
+			color: '#8397a6'
+		},
+		line:{
+			color: '#8397a6'
+			, width:1
+		}};
+	}
+	
+	pie = webponent.visual.pie.init($(".chart106"), styles, options);
+//]]>
+
+// 기존 컬러
+// 	color : ['#4DB5AF','#F6AB60','#EB785D','#4DB550','#6661C3','#4DB5AF','#F6AB60','#EB785D','#4DB550','#6661C3','#4DB5AF','#F6AB60','#EB785D','#4DB550','#6661C3']
+</script>
+
+		</div>
+	</div>
+</div>
+
+
+					<!-- 그래프영역 끝 -->
+					
+					<!-- 엑셀 출력 범위 설정  -->
+					<div class="DataTable" id="excel">
+					<!-- 테이블영역 -->
+
+       		
+<div class="table_wrap">
+	<div class="table_title">
+		
+		<span class="unit">(단위: 명, %)</span>
+	</div>
+			
+	<div class="schoolinfo_table graytable">
+		<table>
+			<caption>졸업자 진로 현황 (진학·취업·기타)</caption>
+			<thead>
+			<!--
+			'년도' 제거 
+			<tr>
+				<th colspan="16"></th>
+			</tr>
+			 -->
+	           <tr>
+	             <th scope="col" rowspan="3" style="width:4%">구&nbsp;&nbsp;분</th>
+	             <th scope="col" rowspan="3" style="width:4%">졸업자</th>
+	             <th scope="colgroup" colspan="12">진학자</th>
+	             				              
+	              <th scope="col" rowspan="3" style="width:4%">취업자</th>
+	              
+	              				              
+	              <th scope="col" rowspan="3" style="width:4%">대안교육기관진학(학력미인정)</th>
+	              
+	             <th scope="col" rowspan="3" style="width:4%">무직자 및 미상</th>
+	           </tr>
+	           <tr>
+	             <th scope="col" rowspan="2"   style="width:4%">일반고</th>
+	             <th scope="col" rowspan="2"  style="width:4%">특성화고</th>
+	             <th scope="colgroup" colspan="5" >특수목적고</th>
+	             <th scope="colgroup" colspan="3" >자율고</th>
+	             <th scope="col" rowspan="2"  style="width:4%">기타</th>
+	             <th scope="col" rowspan="2"  style="width:4%">진학자계</th>
+	           </tr>
+	           <tr>
+	             <th scope="col"  style="width:4%">과학고</th>
+	             <th scope="col"  style="width:4%">외고국제고</th>
+	             <th scope="col"  style="width:4%">예고체고</th>
+	             <th scope="col"  style="width:4%">마이스터고</th>
+	             <th scope="col"  style="width:4%">소계</th>
+	             <th scope="col"  style="width:4%">자율형사립고</th>
+	             <th scope="col"  style="width:4%">자율형공립고</th>
+	             <th scope="col"  style="width:4%">소계</th>
+	             
+	             
+	           </tr>
+	           </thead>
+			<tbody>
+	           <tr>
+	             <th scope="row" >남</th>
+	             <td  title="졸업자" >121</td>
+	             <td  title="진학자 일반고" >86</td>
+	             <td  title="진학자 특성화고" >25</td>
+	             <td  title="진학자 특수목적고 과학고" >3</td>
+	             <td  title="진학자 특수목적고 외고국제고" >1</td>
+	             <td  title="진학자 특수목적고 예고체고" >1</td>
+	             <td  title="진학자 특수목적고 마이스터고" >3</td>
+	             <td  title="진학자 특수목적고 소계" >8</td>
+	             <td  title="진학자 자율고 자율형사립고" >1</td>
+	             <td  title="진학자 자율고 자율형공립고" >0</td>
+	             <td  title="진학자 자율고 소계" >1</td>
+	             <td  title="진학자 기타" >1</td>
+	             <td  title="진학자 진학자계" >121</td>
+	             
+	              <td  title="취업자" >0</td>
+	              
+	              
+	              <td  title="대안교육기관진학(학력미인정)" >0</td>
+	              
+	             <td  title="무직 및 미상" >0</td>
+	           </tr>
+	           <tr>
+	             <th scope="row" >여</th>
+	             <td  title="졸업자" >0</td>
+	             <td  title="진학자 일반고" >0</td>
+	             <td  title="진학자 특성화고" >0</td>
+	             <td  title="진학자 특수목적고 과학고" >0</td>
+	             <td  title="진학자 특수목적고 외고국제고" >0</td>
+	             <td  title="진학자 특수목적고 예고체고" >0</td>
+	             <td  title="진학자 특수목적고 마이스터고" >0</td>
+	             <td  title="진학자 특수목적고 소계" >0</td>
+	             <td  title="진학자 자율고 자율형사립고" >0</td>
+	             <td  title="진학자 자율고 자율형공립고" >0</td>
+	             <td  title="진학자 자율고 소계" >0</td>
+	             <td  title="진학자 기타" >0</td>
+	             <td  title="진학자 진학자계" >0</td>
+	             
+	              <td  title="취업자" >0</td>
+	              
+	              
+	              <td  title="대안교육기관진학(학력미인정)" >0</td>
+	              
+	             <td  title="무직 및 미상" >0</td>
+	           </tr>
+	           <tr>
+	             <th scope="row" >합계</th>
+	             <td  title="졸업자" >121</td>
+	             <td  title="진학자 일반고" >86</td>
+	             <td  title="진학자 특성화고" >25</td>
+	             <td  title="진학자 특수목적고 과학고" >3</td>
+	             <td  title="진학자 특수목적고 외고국제고" >1</td>
+	             <td  title="진학자 특수목적고 예고체고" >1</td>
+	             <td  title="진학자 특수목적고 마이스터고" >3</td>
+	             <td  title="진학자 특수목적고 소계" >8</td>
+	             <td  title="진학자 자율고 자율형사립고" >1</td>
+	             <td  title="진학자 자율고 자율형공립고" >0</td>
+	             <td  title="진학자 자율고 소계" >1</td>
+	             <td  title="진학자 기타" >1</td>
+	             <td  title="진학자 진학자계" >121</td>
+	             
+	              <td  title="취업자" >0</td>
+	              
+	              
+	              <td  title="대안교육기관진학(학력미인정)" >0</td>
+	              
+	             <td  title="무직 및 미상" >0</td>
+	           </tr>
+	           <tr>
+	             <th scope="row" colspan="2">비&nbsp;&nbsp;율</th>
+	             <td  title="진학자 일반고" >71.1</td>
+	             <td  title="진학자 특성화고" >20.7</td>
+	             <td  title="진학자 특수목적고 과학고" >2.5</td>
+	             <td  title="진학자 특수목적고 외고국제고" >0.8</td>
+	             <td  title="진학자 특수목적고 예고체고" >0.8</td>
+	             <td  title="진학자 특수목적고 마이스터고" >2.5</td>
+	              <td  title="진학자 자율고 소계" >6.6</td>
+	             <td  title="진학자 특수목적고 마이스터고" >0.8</td>
+	              <td  title="진학자 자율고 자율형공립고" >0.0</td>
+	              <td  title="진학자 자율고 소계" >0.8</td>
+	            <td  title="진학자 기타" >0.8</td>
+	             <td  title="진학자 진학자계" >100.0</td>
+	             
+	              <td  title="취업자" >0.0</td>
+	              
+	              
+	              <td  title="대안교육기관진학(학력미인정)" >0.0</td>
+	              
+	             <td  title="무직 및 미상" >0.0</td>
+	           </tr>
+			</tbody>
+		</table>
+	</div>
+</div>
+
+	
+						
+						
+	            		<!-- 작성자테이블 -->
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+<!-- 소셜로그인 정보 -->
+
+
+
+
+<div class="manager_info">
+	<ul>
+		<li>학교 : 금정중학교&nbsp;&nbsp;|</li>
+		<li>작성자 : 최지원&nbsp;&nbsp;|</li>
+		<li>확인자 : 정영훈</li>
+	</ul>
+</div>
+						<!-- //작성자테이블끝-->
+					</div> 
+					<!-- 엑셀 출력 범위 설정 끝 -->
+					<div id="jipyoTableBox"></div>
+
+				
+				<!-- 공시가이드테이블 -->
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+<!-- 소셜로그인 정보 -->
+
+
+
+
+
+<div class="school_wrap">
+	<div class="MD" id="contents">
+		<div class="contents_wrap">
+		<br>
+			<div class="open_nuri_w">
+				<a href="http://www.kogl.or.kr/info/license.do#03-tab" target="_blank" title="공공누리 새 창 열림">
+					<img src="/images/new/openapi/nuri_new.png" alt="공공누리 공공저작물 자유이용허락-출처표시+변경금지">
+				</a>	
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="guide" id="gongsiGuide_06">
+	
+	<p>공시가이드</p>
+	<div>●공시기관 : 중, 고, 특, 각<br>●공시시기 : 매년 11월 (연1회)<br><br>▶ 중학교<br>【졸업자】: 졸업자 인원수 (조기졸업자 포함) <br>   ※ 졸업자 = 진학자 + 취업자 + 대안교육기관진학(학력미인정) + 무직자 및 미상<br>【진학자】진학하여 해당 학교에 등록한 학생수 (1학생 1학교 등록 원칙)<br>   - 일반고 : 특정분야가 아닌 다양한 분야에 걸쳐 일반적인 교육을 실시하는 고등학교<br>   - 특성화고 : 소질과 적성 및 능력이 유사한 학생을 대상으로 특정분야의 인재양성을 목적으로 하는 직업교육 또는 자연현장 실습 등 체험위주의 대안교육을 전문적으로 실시하는 고등학교<br>   - 특수목적고 : 특수분야의 전문적인 교육을 목적으로 하는 고등학교로 과학고, 외국어고, 국제고, 예술고, 체육고, 마이스터고로 분류함<br>   - 자율고 : 교육과정, 학사운영의 자율성을 제고한 고등학교(자율형 공립고와 자율형 사립고를 통칭)<br>   - 기타 : 외국인학교, 특수학교, 각종학교, 영재학교, 국외교육기관(학력인정) 등 진학자<br>   ※ 초·중등교육법에 근거하여 설립된 학교 및 학력인정 학교(국외교육기관 포함) 이외의 학교에 진학한 자는 진학자에서 제외하고 '무직자 및 미상'에 포함<br>【취업자】: 조사기준일(4월1일) 당시 수입을 목적으로 주당 15시간 이상 근무하고 급여를 받는 자<br>【대안교육기관진학(학력미인정)】: 「대안교육기관에 관한 법률」에 의거하여 시도교육청에 등록된 교육기관으로 진학한 자<br>【무직자 및 미상】: 진학하지 않거나, 일정한 직업이 없는자, 졸업 후 상황이 파악되지 않는 자<br><br>◈ 공시기관 구분 (초등학교, 중학교, 고등학교, 특수학교, 각종학교, 기타학교)<br>◈ 허위내용 및 오류 신고 (schoolinfo@keris.or.kr)</div>
+	
+</div>   
+				<!-- //공시가이드테이블끝-->
+				
+					<!-- 테이블영역 -->

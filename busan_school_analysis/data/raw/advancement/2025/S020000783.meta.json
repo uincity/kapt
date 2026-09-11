@@ -1,0 +1,24 @@
+{
+  "school_id": "S020000783",
+  "requested_year": 2025,
+  "collected_at": "2026-09-05T00:57:50.988004+00:00",
+  "sha256": "8b3cac2217e35b3c0a0752a69fcf43ad949d9cd1ae954271d1cf984f7ba60e87",
+  "source_url": "https://www.schoolinfo.go.kr/ei/pp/Pneipp_b06_s0p.do",
+  "request_parameters": {
+    "GS_HANGMOK_CD": "06",
+    "GS_HANGMOK_NO": "13-다",
+    "GS_HANGMOK_NM": "졸업생의 진로 현황",
+    "GS_BURYU_CD": "JG040",
+    "JG_BURYU_CD": "JG130",
+    "JG_HANGMOK_CD": "52",
+    "JG_GUBUN": "1",
+    "JG_YEAR2": 2025,
+    "HG_NM": "사직여자중학교",
+    "SHL_IDF_CD": "dded3e33-e193-46ca-9233-3be36f692338",
+    "GS_TYPE": "Y",
+    "JG_YEAR": 2025,
+    "CHOSEN_JG_YEAR": 2025,
+    "PRE_JG_YEAR": 2025,
+    "LOAD_TYPE": "single"
+  }
+}

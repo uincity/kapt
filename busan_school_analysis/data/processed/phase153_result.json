@@ -1,0 +1,65 @@
+{
+  "verdict": "LOCAL_VALUE_GAP_USABLE_WITH_CAUTION",
+  "dual_signal_verdict": "DUAL_SIGNAL_COMPLEMENTARY",
+  "master_apartments": 560,
+  "fair_price_available": 502,
+  "official_gap_count": 502,
+  "price_6m_count": 499,
+  "price_12m_count": 503,
+  "low_model_excluded": 58,
+  "median_gap_pct": 2.9246643719019305,
+  "p25_gap_pct": -4.738163489695249,
+  "p75_gap_pct": 12.54372547321253,
+  "temporal_counts": {
+    "STABLE_POSITIVE": 273,
+    "STABLE_NEGATIVE": 185,
+    "MIXED": 40,
+    "INSUFFICIENT": 4
+  },
+  "gap_6m_12m_spearman": 0.9650065445671591,
+  "interval_counts": {
+    "POTENTIAL_UNDERVALUED_SIGNAL": 241,
+    "POTENTIAL_OVERVALUED_SIGNAL": 149,
+    "WITHIN_MODEL_RANGE": 100,
+    "STRONG_UNDERVALUED_SIGNAL": 8,
+    "STRONG_OVERVALUED_SIGNAL": 4
+  },
+  "confidence_counts": {
+    "HIGH": 285,
+    "MEDIUM": 134,
+    "LOW": 83
+  },
+  "school_local_correlations": {
+    "all_pearson": 0.5948320148722205,
+    "all_spearman": 0.6609853959415838,
+    "hm_pearson": 0.6299626063672727,
+    "hm_spearman": 0.7502096998897081,
+    "school_core_local_spearman": -0.21909060669204486
+  },
+  "agreement_counts": {
+    "DOUBLE_POSITIVE": 183,
+    "DOUBLE_NEGATIVE": 115,
+    "MIXED_OR_NEUTRAL": 83,
+    "LOCAL_ONLY_POSITIVE": 65,
+    "SCHOOL_ONLY_POSITIVE": 56
+  },
+  "candidate_class_counts": {
+    "UNCERTAIN": 200,
+    "NEGATIVE_OR_FULLY_PRICED": 116,
+    "ROBUST_DUAL_POSITIVE": 94,
+    "LOCAL_VALUE_CANDIDATE": 61,
+    "SCHOOL_VALUE_CANDIDATE": 31
+  },
+  "strong_dual_positive_count": 122,
+  "class_a_count": 94,
+  "dong_bias_count": 10,
+  "phase154_high_priority_count": 33,
+  "thresholds": {
+    "interval_width_p25": 57.54583522180605,
+    "interval_width_median": 67.94807341626615,
+    "interval_width_p75": 98.03771790251936,
+    "interval_width_p90": 98.03771790251967,
+    "extreme_gap_abs_p90": 29.33373956197788,
+    "dong_bias_abs_median_p90": 13.549592621742374
+  }
+}

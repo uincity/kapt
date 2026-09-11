@@ -1,0 +1,24 @@
+{
+  "school_id": "S020001839",
+  "requested_year": 2024,
+  "collected_at": "2026-09-05T00:57:18.614146+00:00",
+  "sha256": "ad98d17dcd772932ff86bcabe8c94dfe50e7242c46e3c945c8d8c7cbfba92dc4",
+  "source_url": "https://www.schoolinfo.go.kr/ei/pp/Pneipp_b06_s0p.do",
+  "request_parameters": {
+    "GS_HANGMOK_CD": "06",
+    "GS_HANGMOK_NO": "13-다",
+    "GS_HANGMOK_NM": "졸업생의 진로 현황",
+    "GS_BURYU_CD": "JG040",
+    "JG_BURYU_CD": "JG130",
+    "JG_HANGMOK_CD": "52",
+    "JG_GUBUN": "1",
+    "JG_YEAR2": 2024,
+    "HG_NM": "대청중학교",
+    "SHL_IDF_CD": "a30fe591-3ff9-499d-857e-5e92bee87bf9",
+    "GS_TYPE": "Y",
+    "JG_YEAR": 2024,
+    "CHOSEN_JG_YEAR": 2024,
+    "PRE_JG_YEAR": 2024,
+    "LOAD_TYPE": "single"
+  }
+}

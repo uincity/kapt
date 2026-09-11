@@ -1,0 +1,20 @@
+{
+  "verdict": "SCHOOL_PREMIUM_INDEX_FROZEN",
+  "criteria": {
+    "within_dong_positive": true,
+    "residual_relation_positive": true,
+    "multiple_volume_bands_positive": true,
+    "confidence_a_b_consistent": true,
+    "no_critical_mapping_error": true
+  },
+  "phase13_apartments": 560,
+  "model_transactions": 132979,
+  "model_apartments": 500,
+  "recent_transactions": 22596,
+  "recent_apartments": 500,
+  "within_legal_dong_spearman": 0.29815759642625006,
+  "residual_coefficient_per_10": 0.04132911329352097,
+  "residual_p_value": 1.7346361269757055e-09,
+  "sanity_flag_count": 95,
+  "missing_score_apartments": 3
+}

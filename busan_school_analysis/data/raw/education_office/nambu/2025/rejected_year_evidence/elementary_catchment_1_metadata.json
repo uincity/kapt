@@ -1,0 +1,11 @@
+{
+  "education_office": "nambu",
+  "requested_year": 2025,
+  "data_year": null,
+  "data_year_source": "not_verified",
+  "data_year_confidence": "unknown",
+  "source_url": "https://home.pen.go.kr/nambu/cm/cntnts/cntntsView.do?cntntsId=100&mi=12307",
+  "download_time": "2026-09-06T11:47:16.187443+00:00",
+  "sha256": "2ff8d14380163f3279f4f23702a54cbe82847852db73640fb75f4d6c1c5eb3bf",
+  "publication_status": "year_mismatch"
+}

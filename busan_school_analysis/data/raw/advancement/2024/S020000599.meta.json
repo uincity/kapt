@@ -1,0 +1,24 @@
+{
+  "school_id": "S020000599",
+  "requested_year": 2024,
+  "collected_at": "2026-09-05T00:56:08.235620+00:00",
+  "sha256": "c1fa48ac88e2d338bcfe82926f45ac0d3e81e268d09e1e39fa82252a289d32fe",
+  "source_url": "https://www.schoolinfo.go.kr/ei/pp/Pneipp_b06_s0p.do",
+  "request_parameters": {
+    "GS_HANGMOK_CD": "06",
+    "GS_HANGMOK_NO": "13-다",
+    "GS_HANGMOK_NM": "졸업생의 진로 현황",
+    "GS_BURYU_CD": "JG040",
+    "JG_BURYU_CD": "JG130",
+    "JG_HANGMOK_CD": "52",
+    "JG_GUBUN": "1",
+    "JG_YEAR2": 2024,
+    "HG_NM": "감만중학교",
+    "SHL_IDF_CD": "6804cb34-773f-492b-8c6e-a22af827de62",
+    "GS_TYPE": "Y",
+    "JG_YEAR": 2024,
+    "CHOSEN_JG_YEAR": 2024,
+    "PRE_JG_YEAR": 2024,
+    "LOAD_TYPE": "single"
+  }
+}

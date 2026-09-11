@@ -1,0 +1,16 @@
+{
+  "verdict": "SCHOOL_VALUE_GAP_USABLE",
+  "apartments": 560,
+  "gap_available_apartments": 500,
+  "confidence_counts": {
+    "LOW": 239,
+    "MEDIUM": 206,
+    "HIGH": 115
+  },
+  "gap_median": 2.1313062430820597,
+  "gap_p25": -17.455950138485033,
+  "gap_p75": 17.70701913300178,
+  "residual_comparable_spearman": 0.6165254071047,
+  "top20_overlap_pct": 55.00000000000001,
+  "potential_candidate_count": 30
+}

@@ -1,0 +1,24 @@
+{
+  "school_id": "S020000617",
+  "requested_year": 2023,
+  "collected_at": "2026-09-05T00:54:17.574735+00:00",
+  "sha256": "b9a88d10bdf9c8910e5d78063faf4bbd007123a34dce5f24a75ae05cb2d33795",
+  "source_url": "https://www.schoolinfo.go.kr/ei/pp/Pneipp_b06_s0p.do",
+  "request_parameters": {
+    "GS_HANGMOK_CD": "06",
+    "GS_HANGMOK_NO": "13-다",
+    "GS_HANGMOK_NM": "졸업생의 진로 현황",
+    "GS_BURYU_CD": "JG040",
+    "JG_BURYU_CD": "JG130",
+    "JG_HANGMOK_CD": "52",
+    "JG_GUBUN": "1",
+    "JG_YEAR2": 2023,
+    "HG_NM": "석포여자중학교",
+    "SHL_IDF_CD": "aa1a5870-33e2-4d43-bf9b-c5d7be66d6d9",
+    "GS_TYPE": "Y",
+    "JG_YEAR": 2023,
+    "CHOSEN_JG_YEAR": 2023,
+    "PRE_JG_YEAR": 2023,
+    "LOAD_TYPE": "single"
+  }
+}

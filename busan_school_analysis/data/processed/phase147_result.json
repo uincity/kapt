@@ -1,0 +1,12 @@
+{
+  "sensitivity_verdict": "MODERATELY_ROBUST",
+  "original_sanity_count": 95,
+  "major_count": 131,
+  "minor_count": 122,
+  "lodo_dongs": 43,
+  "lodo_positive_ratio": 0.4883720930232558,
+  "lodo_median_spearman": 0.0,
+  "lodo_weighted_spearman": 0.026439387130671784,
+  "lodo_positive_dongs": 21,
+  "lodo_negative_dongs": 21
+}

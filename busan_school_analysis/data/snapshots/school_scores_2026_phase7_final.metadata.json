@@ -1,0 +1,12 @@
+{
+  "assignment_school_year": 2026,
+  "school_zone_reference_date": "2025-09-22",
+  "score_version": "phase7-2026-final",
+  "relation_count": 811,
+  "500plus_coverage": "546/560",
+  "created_at": "2026-09-09T20:50:16.754069+09:00",
+  "source_hashes": {
+    "busan_apartment_school_scores_2026.parquet": "30f0523dc4f21fc80b94e30ce65c08154b6e93d25b55ecf17a722b1d7220266a",
+    "busan_elementary_middle_relation_2026.parquet": "19210f8de6e662453a069c22f1dfb1ba793776a5928af26b739b89f8f87db793"
+  }
+}

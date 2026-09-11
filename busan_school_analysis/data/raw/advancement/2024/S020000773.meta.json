@@ -1,0 +1,24 @@
+{
+  "school_id": "S020000773",
+  "requested_year": 2024,
+  "collected_at": "2026-09-05T00:56:00.973404+00:00",
+  "sha256": "5a53d3ddfdbb9c84c66482a2b3e4c0a205255cd91a4c77b80f70d2679d0997e8",
+  "source_url": "https://www.schoolinfo.go.kr/ei/pp/Pneipp_b06_s0p.do",
+  "request_parameters": {
+    "GS_HANGMOK_CD": "06",
+    "GS_HANGMOK_NO": "13-다",
+    "GS_HANGMOK_NM": "졸업생의 진로 현황",
+    "GS_BURYU_CD": "JG040",
+    "JG_BURYU_CD": "JG130",
+    "JG_HANGMOK_CD": "52",
+    "JG_GUBUN": "1",
+    "JG_YEAR2": 2024,
+    "HG_NM": "동래중학교",
+    "SHL_IDF_CD": "be4e841a-34cc-4ab4-b40e-fa5b220fbc16",
+    "GS_TYPE": "Y",
+    "JG_YEAR": 2024,
+    "CHOSEN_JG_YEAR": 2024,
+    "PRE_JG_YEAR": 2024,
+    "LOAD_TYPE": "single"
+  }
+}

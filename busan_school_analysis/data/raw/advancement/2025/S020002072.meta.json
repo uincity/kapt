@@ -1,0 +1,24 @@
+{
+  "school_id": "S020002072",
+  "requested_year": 2025,
+  "collected_at": "2026-09-05T00:59:14.632060+00:00",
+  "sha256": "b81a18e37ced99d5da7e7e06de6890b957bac01a17ae65a9f613fff89fd67cf1",
+  "source_url": "https://www.schoolinfo.go.kr/ei/pp/Pneipp_b06_s0p.do",
+  "request_parameters": {
+    "GS_HANGMOK_CD": "06",
+    "GS_HANGMOK_NO": "13-다",
+    "GS_HANGMOK_NM": "졸업생의 진로 현황",
+    "GS_BURYU_CD": "JG040",
+    "JG_BURYU_CD": "JG130",
+    "JG_HANGMOK_CD": "52",
+    "JG_GUBUN": "1",
+    "JG_YEAR2": 2025,
+    "HG_NM": "정관중학교",
+    "SHL_IDF_CD": "2dc211b5-cb20-46db-a3b8-568b63b5ca8a",
+    "GS_TYPE": "Y",
+    "JG_YEAR": 2025,
+    "CHOSEN_JG_YEAR": 2025,
+    "PRE_JG_YEAR": 2025,
+    "LOAD_TYPE": "single"
+  }
+}

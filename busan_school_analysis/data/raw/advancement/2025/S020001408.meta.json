@@ -1,0 +1,24 @@
+{
+  "school_id": "S020001408",
+  "requested_year": 2025,
+  "collected_at": "2026-09-05T00:58:34.351900+00:00",
+  "sha256": "5ee245d44fcba926ca09937225181a56687a398e87ae6333961d8d14f5d6303d",
+  "source_url": "https://www.schoolinfo.go.kr/ei/pp/Pneipp_b06_s0p.do",
+  "request_parameters": {
+    "GS_HANGMOK_CD": "06",
+    "GS_HANGMOK_NO": "13-다",
+    "GS_HANGMOK_NM": "졸업생의 진로 현황",
+    "GS_BURYU_CD": "JG040",
+    "JG_BURYU_CD": "JG130",
+    "JG_HANGMOK_CD": "52",
+    "JG_GUBUN": "1",
+    "JG_YEAR2": 2025,
+    "HG_NM": "대동중학교",
+    "SHL_IDF_CD": "d9ac0474-6e17-426e-ae67-f2fcc1ab4ba9",
+    "GS_TYPE": "Y",
+    "JG_YEAR": 2025,
+    "CHOSEN_JG_YEAR": 2025,
+    "PRE_JG_YEAR": 2025,
+    "LOAD_TYPE": "single"
+  }
+}

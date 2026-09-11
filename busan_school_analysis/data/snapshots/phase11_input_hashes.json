@@ -1,0 +1,24 @@
+{
+  "input_hashes": {
+    "data/snapshots/school_scores_2026_phase7_final.parquet": "9a36ac09974d641c4e17a67b575a0ff5c77517feaed396d373fa0d8c2ef5890b",
+    "data/snapshots/phase8_baseline_benchmark.json": "1d0f4a0a321936087ffeea5a8580f1944dd2a57cb4bd5619ac0bbd13db54092d",
+    "data/processed/phase9_elementary_demand_scores.parquet": "87bb5be716a8605c315f9fb319e6f95ef6f0f71f11c79eb79b775e442763c6b3",
+    "data/processed/phase95_elementary_middle_combined.parquet": "f20ecd145f8eb9ab85dfe0ce0c14dcb44f10c3e8ebd81e6b6bbac5c3e7609b62",
+    "data/processed/phase10_common_sample.parquet": "a533b9d71c9281e7761e9f5b29bd21ed3057377183c830a837179c0a114bf43a",
+    "reports/phase10_incremental_value_summary.csv": "2f919890bafa42a989b58f2eb3be85e9d31dba830a3191a7c6ebf6f18ebfb082",
+    "data/processed/busan_elementary_middle_relation_2026.parquet": "6ac86e5a25bc212b239c08a7e7faabf30661fd36a11a1745e029f990a87d21ec",
+    "data/processed/middle_school_scores.parquet": "becb24248ac3b67cd6cf7911050a2d9dfdd4e035079aaf103633768a695bef2c"
+  },
+  "relation_rows": 811,
+  "edge_class_counts": {
+    "POSSIBLE": 758,
+    "CONFIRMED": 33,
+    "AMBIGUOUS": 13,
+    "EXCLUDED": 7
+  },
+  "middle_school_rows": 183,
+  "scored_middle_schools": 170,
+  "no_probability_weighting": true,
+  "uncertainty_low": 0.0,
+  "uncertainty_high": 5.098669977924946
+}

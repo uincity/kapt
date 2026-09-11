@@ -1,0 +1,29 @@
+{
+  "verdict": "LEGAL_DONG_BASELINE_PREFERRED",
+  "final_definition": "LEGAL_DONG",
+  "universe_apartments": 560,
+  "eligible_apartments": 494,
+  "excluded_apartments": 66,
+  "transactions": 133772,
+  "feature_count": 11,
+  "selected_k": 3,
+  "algorithm_hierarchical_ari": 0.6797461084442454,
+  "time_12m_24m_ari": 0.9935135498007535,
+  "time_12m_24m_nmi": 0.9883362703081277,
+  "bootstrap_median_stability": 1.0,
+  "bootstrap_ge_080": 491,
+  "bootstrap_ge_090": 487,
+  "legal_to_hybrid_dispersion_improvement_pct": 0.0,
+  "final_market_count": 92,
+  "relationship_counts": {
+    "MIXED": 121,
+    "MULTI_DONG_MARKET": 40
+  },
+  "unique_dong_relationship_counts": {
+    "MIXED": 52,
+    "MULTI_DONG_MARKET": 40
+  },
+  "pure_algorithm_vs_legal_dispersion_improvement_pct": 30.51340386283926,
+  "low_sample_final_markets": 48,
+  "fragmented_algorithm_clusters": 3
+}

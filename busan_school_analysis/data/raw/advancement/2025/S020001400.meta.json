@@ -1,0 +1,24 @@
+{
+  "school_id": "S020001400",
+  "requested_year": 2025,
+  "collected_at": "2026-09-05T00:58:32.237112+00:00",
+  "sha256": "d02c89339e8fc316f8d32c2c53801b4d7a0f0d6d9c9acfc1f03be0583ae6921f",
+  "source_url": "https://www.schoolinfo.go.kr/ei/pp/Pneipp_b06_s0p.do",
+  "request_parameters": {
+    "GS_HANGMOK_CD": "06",
+    "GS_HANGMOK_NO": "13-다",
+    "GS_HANGMOK_NM": "졸업생의 진로 현황",
+    "GS_BURYU_CD": "JG040",
+    "JG_BURYU_CD": "JG130",
+    "JG_HANGMOK_CD": "52",
+    "JG_GUBUN": "1",
+    "JG_YEAR2": 2025,
+    "HG_NM": "건국중학교",
+    "SHL_IDF_CD": "3a15b3f1-ced0-4630-8118-5dba2a3ccbaf",
+    "GS_TYPE": "Y",
+    "JG_YEAR": 2025,
+    "CHOSEN_JG_YEAR": 2025,
+    "PRE_JG_YEAR": 2025,
+    "LOAD_TYPE": "single"
+  }
+}

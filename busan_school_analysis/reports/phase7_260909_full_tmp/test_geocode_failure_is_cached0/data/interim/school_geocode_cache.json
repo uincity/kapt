@@ -1,0 +1,20 @@
+{
+  "c2209774e8d21822ec5f9d53ab3e1ea5211a1a17da01a62c2c9fbc186b188179": {
+    "status": "not_found",
+    "latitude": null,
+    "longitude": null,
+    "address": "부산광역시 예시로 10",
+    "collected_at": "2026-09-09T05:46:16.596559+00:00",
+    "source_url": "https://dapi.kakao.com/v2/local/search/address.json",
+    "parser_version": "0.1.0"
+  },
+  "1302c493ddee6be4650e011b2817e320022f6b327a6e55bdff72690218a9df7a": {
+    "status": "not_found",
+    "latitude": null,
+    "longitude": null,
+    "address": "부산광역시 예시동",
+    "collected_at": "2026-09-09T05:46:16.598915+00:00",
+    "source_url": "https://dapi.kakao.com/v2/local/search/address.json",
+    "parser_version": "0.1.0"
+  }
+}

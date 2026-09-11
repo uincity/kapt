@@ -1,0 +1,10 @@
+{
+  "data_year": 2025,
+  "education_office": "haeundae",
+  "source_url": "https://home.pen.go.kr/haeundae/cm/cntnts/cntntsView.do?cntntsId=253&mi=11431",
+  "collected_at": "2026-09-05T12:02:29.323513+00:00",
+  "http_status": 200,
+  "content_hash": "bd8fd2999c5216d943ce98b12fe45da663c7068e6eff24895a14144ee7503841",
+  "parser_version": "0.1.0",
+  "year_basis": "2025 PoC reference; page itself has no explicit effective year"
+}
