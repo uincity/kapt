@@ -1,0 +1,4 @@
+from src.final_value_dashboard import render_final_value_dashboard
+
+
+render_final_value_dashboard()

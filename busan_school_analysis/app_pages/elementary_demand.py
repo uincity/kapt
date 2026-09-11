@@ -1,0 +1,4 @@
+from src.elementary_demand_dashboard import render_elementary_demand_dashboard
+
+
+render_elementary_demand_dashboard()

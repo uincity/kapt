@@ -1,0 +1,4 @@
+from src.middle_school_score_dashboard import render_middle_school_score_dashboard
+
+
+render_middle_school_score_dashboard()
