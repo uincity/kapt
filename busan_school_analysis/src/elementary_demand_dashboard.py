@@ -8,6 +8,7 @@ import pandas as pd
 import streamlit as st
 
 from .config import ROOT
+from .detail_navigation import detail_selection, school_ranking_table
 
 
 DEMAND_PATH = "data/processed/phase9_elementary_demand_scores.parquet"
@@ -98,7 +99,7 @@ def _school_detail(row: pd.Series) -> pd.DataFrame:
 
 def render_elementary_demand_dashboard(root=ROOT) -> None:
     root = Path(root)
-    st.title("초등학교 수요 분석")
+    st.title("초등학교수요분석")
     st.caption("학교알리미 2024~2026년 학생·학급·전입전출 자료로 산출한 9단계 동결 결과")
     if not (root / DEMAND_PATH).is_file() or not (root / LONGITUDINAL_PATH).is_file():
         st.error("초등학교 수요 동결 자료를 찾을 수 없습니다.")
@@ -107,9 +108,9 @@ def render_elementary_demand_dashboard(root=ROOT) -> None:
 
     with st.sidebar:
         st.header("초등학교 수요 조회 조건")
-        districts = st.multiselect("구·군", sorted(scores.sigungu_requested.dropna().unique()))
-        clusters = st.multiselect("학생수요 유형", sorted(scores.demand_cluster_name.dropna().unique()))
-        qualities = st.multiselect("자료 신뢰도", ["HIGH", "MEDIUM", "LOW"], format_func=lambda value: QUALITY_LABELS[value])
+        districts = st.multiselect("구·군", sorted(scores.sigungu_requested.dropna().unique()), placeholder="선택")
+        clusters = st.multiselect("학생수요 유형", sorted(scores.demand_cluster_name.dropna().unique()), placeholder="선택")
+        qualities = st.multiselect("자료 신뢰도", ["HIGH", "MEDIUM", "LOW"], format_func=lambda value: QUALITY_LABELS[value], placeholder="선택")
         score_range = st.slider("초등학교 수요점수", 0.0, 100.0, (0.0, 100.0))
         minimum_students = st.number_input("최소 학생수", min_value=0, value=0, step=100)
 
@@ -121,7 +122,7 @@ def render_elementary_demand_dashboard(root=ROOT) -> None:
         st.metric("순전입 학생", f"{(filtered.transfer_in.sum() - filtered.transfer_out.sum()):+,.0f}명", border=True)
         st.metric("자료 신뢰도 높음", f"{filtered.demand_score_quality.eq('HIGH').sum():,}개", border=True)
 
-    overview, ranking, detail, trend, guide = st.tabs(["구·군 현황", "학교 순위", "학교 상세", "연도별 추이", "지표 안내"])
+    overview, ranking, detail, trend, guide = st.tabs(["구·군 현황", "학교 순위", "학교 상세", "연도별 추이", "지표 안내"], key="elementary_tabs", on_change="rerun")
     with overview:
         district = filtered.groupby("sigungu_requested", as_index=False).agg(
             school_count=("elementary_school_id", "nunique"),
@@ -138,7 +139,10 @@ def render_elementary_demand_dashboard(root=ROOT) -> None:
 
     with ranking:
         view = _ranking_view(filtered)
-        st.dataframe(view, hide_index=True, column_config={"부산 순위": st.column_config.NumberColumn(format="%.0f위"), "구·군 순위": st.column_config.NumberColumn(format="%.0f위"), "초등학교 수요점수": st.column_config.ProgressColumn(format="%.1f", min_value=0, max_value=100), "부산 백분위": st.column_config.NumberColumn(format="%.1f%%"), "순전입률": st.column_config.NumberColumn(format="percent"), "최근 3개년 학생수 증감률": st.column_config.NumberColumn(format="percent"), "보정 동일학년군 성장률": st.column_config.NumberColumn(format="percent")})
+        school_ranking_table(
+            view, filtered.loc[view.index, "elementary_school_id"],
+            key="elementary_ranking", tab_key="elementary_tabs", selection_key="elementary_detail",
+        )
 
     with detail:
         if filtered.empty:
@@ -146,8 +150,7 @@ def render_elementary_demand_dashboard(root=ROOT) -> None:
         else:
             options = filtered.sort_values(["sigungu_requested", "elementary_school_name"])
             labels = options.sigungu_requested.astype(str) + " · " + options.elementary_school_name.astype(str)
-            selected = st.selectbox("초등학교 선택", labels.tolist())
-            row = options.iloc[labels.tolist().index(selected)]
+            row = detail_selection("초등학교 선택", options, "elementary_school_id", labels.tolist(), key="elementary_detail")
             with st.container(horizontal=True):
                 st.metric("초등학교 수요점수", f"{row.elementary_demand_score:.1f}", border=True)
                 st.metric("부산 순위", f"{int(row.elementary_demand_rank):,}위", border=True)
@@ -170,7 +173,7 @@ def render_elementary_demand_dashboard(root=ROOT) -> None:
         else:
             school_options = filtered.sort_values(["sigungu_requested", "elementary_school_name"])
             school_labels = school_options.sigungu_requested.astype(str) + " · " + school_options.elementary_school_name.astype(str)
-            selected_label = st.selectbox("추이 확인 학교", school_labels.tolist())
+            selected_label = st.selectbox("추이 확인 학교", school_labels.tolist(), placeholder="선택")
             school_id = school_options.iloc[school_labels.tolist().index(selected_label)].elementary_school_id
             selected_history = history_view[history_view.elementary_school_id.eq(school_id)].sort_values("data_year")
             chart_data = selected_history.rename(columns={"data_year": "연도", "total_students": "전체 학생수", "transfer_in": "전입", "transfer_out": "전출"})

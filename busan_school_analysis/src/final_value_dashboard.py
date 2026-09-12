@@ -10,6 +10,7 @@ import pandas as pd
 import streamlit as st
 
 from .config import ROOT
+from .detail_navigation import detail_selection, open_detail
 from .phase154_final_freeze import FINAL_STATUS, validate_phase154_freeze
 
 
@@ -163,7 +164,7 @@ def _range(data: pd.Series, fallback=(0.0, 100.0)) -> tuple[float, float]:
     return low, high
 
 
-def _display_table(data: pd.DataFrame, columns: list[str]) -> None:
+def _display_table(data: pd.DataFrame, columns: list[str], *, selectable=False) -> None:
     labels = {
         "apartment_name": "단지명", "gu": "구", "legal_dong": "법정동", "household_count": "세대수",
         "school_premium_core_score": "학군 핵심 점수", "school_value_gap_pct": "학군 상대가치 격차",
@@ -181,8 +182,20 @@ def _display_table(data: pd.DataFrame, columns: list[str]) -> None:
         if column in view:
             view[column] = view[column].map(korean_value)
     view = view.rename(columns=labels)
+    selection_kwargs = {}
+    if selectable:
+        ids = data.apartment_id.astype(str).tolist()
+
+        def on_select():
+            rows = st.session_state.get("core_candidates", {}).get("selection", {}).get("rows", [])
+            if rows and 0 <= rows[0] < len(ids):
+                open_detail(st.session_state, ids[rows[0]], ids, "premium_tabs", "premium_detail", "단지 상세")
+
+        selection_kwargs = {"key": "core_candidates", "on_select": on_select, "selection_mode": "single-row"}
+        st.caption("단지 행을 클릭하면 해당 단지 상세로 이동합니다.")
     st.dataframe(
         view,
+        **selection_kwargs,
         hide_index=True,
         column_config={
             "세대수": st.column_config.NumberColumn(format="%d"),
@@ -197,7 +210,7 @@ def _display_table(data: pd.DataFrame, columns: list[str]) -> None:
 
 def render_final_value_dashboard(root=ROOT) -> None:
     root = Path(root)
-    st.title("최종 가치분석")
+    st.title("부산아파트 학군프리미엄분석")
     st.caption("15.4단계 동결 결과 조회·검증 화면")
     ok, checks = health_check(root)
     if not ok:
@@ -209,14 +222,14 @@ def render_final_value_dashboard(root=ROOT) -> None:
 
     with st.sidebar:
         st.header("조회 조건")
-        gu = st.multiselect("구", sorted(master.gu.dropna().unique()), key="p154_gu")
+        gu = st.multiselect("구", sorted(master.gu.dropna().unique()), key="p154_gu", placeholder="선택")
         dong_options = sorted(master.loc[master.gu.isin(gu) if gu else master.index.notna(), "legal_dong"].dropna().unique())
-        dong = st.multiselect("법정동", dong_options, key="p154_dong")
-        review_class = st.multiselect("최종 검토 분류", list(CLASS_LABELS), format_func=lambda x: CLASS_LABELS[x])
-        model_conf = st.multiselect("모델 신뢰도", ["HIGH", "MEDIUM", "LOW"], format_func=lambda x: CONFIDENCE_LABELS[x])
-        local_conf = st.multiselect("지역 격차 신뢰도", ["HIGH", "MEDIUM", "LOW"], format_func=lambda x: CONFIDENCE_LABELS[x])
-        school_conf = st.multiselect("학군 격차 신뢰도", ["HIGH", "MEDIUM", "LOW"], format_func=lambda x: CONFIDENCE_LABELS[x])
-        interval = st.multiselect("예측구간 판정", sorted(master.local_gap_interval_status.dropna().unique()), format_func=lambda x: INTERVAL_LABELS.get(x, x))
+        dong = st.multiselect("법정동", dong_options, key="p154_dong", placeholder="선택")
+        review_class = st.multiselect("최종 검토 분류", list(CLASS_LABELS), format_func=lambda x: CLASS_LABELS[x], placeholder="선택")
+        model_conf = st.multiselect("모델 신뢰도", ["HIGH", "MEDIUM", "LOW"], format_func=lambda x: CONFIDENCE_LABELS[x], placeholder="선택")
+        local_conf = st.multiselect("지역 격차 신뢰도", ["HIGH", "MEDIUM", "LOW"], format_func=lambda x: CONFIDENCE_LABELS[x], placeholder="선택")
+        school_conf = st.multiselect("학군 격차 신뢰도", ["HIGH", "MEDIUM", "LOW"], format_func=lambda x: CONFIDENCE_LABELS[x], placeholder="선택")
+        interval = st.multiselect("예측구간 판정", sorted(master.local_gap_interval_status.dropna().unique()), format_func=lambda x: INTERVAL_LABELS.get(x, x), placeholder="선택")
         score_limits = _range(master.school_premium_core_score)
         school_score = st.slider("학군 핵심 점수", score_limits[0], score_limits[1], score_limits)
         local_limits = _range(master.local_value_gap_pct, (-100.0, 100.0))
@@ -225,7 +238,7 @@ def render_final_value_dashboard(root=ROOT) -> None:
         school_gap = st.slider("학군 상대가치 격차(%)", school_limits[0], school_limits[1], school_limits)
         households = st.number_input("최소 세대수", min_value=0, value=0, step=100)
         dong_bias = st.segmented_control("법정동 편향", ["전체", "편향 있음", "편향 없음"], default="전체")
-        audit_priority = st.multiselect("감사 우선순위", ["HIGH", "MEDIUM", "LOW"], format_func=lambda x: AUDIT_LABELS[x])
+        audit_priority = st.multiselect("감사 우선순위", ["HIGH", "MEDIUM", "LOW"], format_func=lambda x: AUDIT_LABELS[x], placeholder="선택")
 
     filtered = filter_master(
         master, gu, dong, review_class, model_conf, local_conf, school_conf, interval,
@@ -244,7 +257,8 @@ def render_final_value_dashboard(root=ROOT) -> None:
     st.caption(f"현재 필터 결과: {len(filtered):,}개")
 
     overview, core_tab, detail_tab, dong_tab, audit_tab, validation_tab = st.tabs(
-        ["전체 현황", "핵심 후보", "단지 상세", "법정동 검증", "감사·추가 검토", "모델 검증"]
+        ["전체 현황", "핵심 후보", "단지 상세", "법정동 검증", "감사·추가 검토", "모델 검증"],
+        key="premium_tabs", on_change="rerun",
     )
 
     with overview:
@@ -275,7 +289,7 @@ def render_final_value_dashboard(root=ROOT) -> None:
 
     with core_tab:
         core = filtered[filtered.final_review_class.eq("CORE_CANDIDATE")].copy()
-        _display_table(core, ["apartment_name", "legal_dong", "household_count", "school_premium_core_score", "school_value_gap_pct", "local_value_gap_pct", "local_fair_total_price", "observed_market_price_12m", "local_gap_interval_status", "model_confidence", "local_gap_confidence", "gap_confidence"])
+        _display_table(core, ["apartment_name", "legal_dong", "household_count", "school_premium_core_score", "school_value_gap_pct", "local_value_gap_pct", "local_fair_total_price", "observed_market_price_12m", "local_gap_interval_status", "model_confidence", "local_gap_confidence", "gap_confidence"], selectable=True)
 
     with detail_tab:
         options = filtered.sort_values(["apartment_name", "apartment_id"])
@@ -283,8 +297,7 @@ def render_final_value_dashboard(root=ROOT) -> None:
             st.info("조회 조건에 맞는 단지가 없습니다.")
         else:
             labels = options.apartment_name.astype(str) + " · " + options.legal_dong.astype(str) + " · " + options.apartment_id.astype(str)
-            selected_label = st.selectbox("단지 선택", labels.tolist())
-            row = options.iloc[labels.tolist().index(selected_label)]
+            row = detail_selection("단지 선택", options, "apartment_id", labels.tolist(), key="premium_detail")
             with st.container(horizontal=True):
                 st.metric("학군 핵심 점수", score_text(row.school_premium_core_score), border=True)
                 st.metric("학군 상대가치 격차", percent_text(row.school_value_gap_pct), border=True)

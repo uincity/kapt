@@ -7,6 +7,7 @@ import pandas as pd
 import streamlit as st
 
 from .config import ROOT
+from .detail_navigation import detail_selection, school_ranking_table
 
 
 MIDDLE_SCORE_PATH = "data/processed/middle_school_scores.parquet"
@@ -97,8 +98,8 @@ def render_middle_school_score_dashboard(root=ROOT) -> None:
 
     with st.sidebar:
         st.header("중학교 점수 조회 조건")
-        districts = st.multiselect("구·군", sorted(scores.sigungu.dropna().unique()), key="middle_district")
-        statuses = st.multiselect("점수 상태", list(STATUS_LABELS), format_func=lambda value: STATUS_LABELS[value])
+        districts = st.multiselect("구·군", sorted(scores.sigungu.dropna().unique()), key="middle_district", placeholder="선택")
+        statuses = st.multiselect("점수 상태", list(STATUS_LABELS), format_func=lambda value: STATUS_LABELS[value], placeholder="선택")
         score_range = st.slider("중학교 점수", 0.0, 100.0, (0.0, 100.0))
         minimum_years = st.number_input("최소 관측연도 수", min_value=0, max_value=3, value=0, step=1)
         warning_filter = st.segmented_control("표본 경고", ["전체", "표본 경고 있음", "표본 경고 없음"], default="전체")
@@ -112,7 +113,7 @@ def render_middle_school_score_dashboard(root=ROOT) -> None:
         st.metric("평균 점수", f"{scored.middle_school_score.mean():.1f}" if len(scored) else "자료 부족", border=True)
         st.metric("표본 경고", f"{filtered.sample_warning.sum():,}개", border=True)
 
-    overview, ranking, detail, guide = st.tabs(["구·군 현황", "중학교 순위", "학교 상세", "점수 안내"])
+    overview, ranking, detail, guide = st.tabs(["구·군 현황", "중학교 순위", "학교 상세", "점수 안내"], key="middle_tabs", on_change="rerun")
     with overview:
         district = filtered.groupby("sigungu", as_index=False).agg(
             school_count=("middle_school_id", "nunique"),
@@ -125,18 +126,10 @@ def render_middle_school_score_dashboard(root=ROOT) -> None:
         st.dataframe(district, hide_index=True, column_config={"평균 점수": st.column_config.NumberColumn(format="%.1f"), "점수 중앙값": st.column_config.NumberColumn(format="%.1f")})
 
     with ranking:
-        st.dataframe(
-            middle_ranking_view(filtered), hide_index=True,
-            column_config={
-                "부산 순위": st.column_config.NumberColumn(format="%.0f위"),
-                "구·군 순위": st.column_config.NumberColumn(format="%.0f위"),
-                "중학교 점수": st.column_config.ProgressColumn(format="%.2f", min_value=0, max_value=100),
-                "부산 백분위": st.column_config.NumberColumn(format="%.1f%%"),
-                "최근 관측연도": st.column_config.NumberColumn(format="%.0f년"),
-                "관측연도 수": st.column_config.NumberColumn(format="%.0f개년"),
-                "누적 졸업자 수": st.column_config.NumberColumn(format="%,.0f명"),
-                "점수 안정성": st.column_config.NumberColumn(format="%.3f"),
-            },
+        view = middle_ranking_view(filtered)
+        school_ranking_table(
+            view, filtered.loc[view.index, "middle_school_id"],
+            key="middle_ranking", tab_key="middle_tabs", selection_key="middle_detail",
         )
 
     with detail:
@@ -145,8 +138,7 @@ def render_middle_school_score_dashboard(root=ROOT) -> None:
         else:
             options = filtered.sort_values(["sigungu", "middle_school_name"])
             labels = options.sigungu.astype(str) + " · " + options.middle_school_name.astype(str)
-            selected = st.selectbox("중학교 선택", labels.tolist())
-            row = options.iloc[labels.tolist().index(selected)]
+            row = detail_selection("중학교 선택", options, "middle_school_id", labels.tolist(), key="middle_detail")
             with st.container(horizontal=True):
                 st.metric("중학교 점수", f"{row.middle_school_score:.2f}" if pd.notna(row.middle_school_score) else "자료 부족", border=True)
                 st.metric("부산 순위", f"{int(row.busan_rank):,}위" if pd.notna(row.busan_rank) else "자료 부족", border=True)

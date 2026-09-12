@@ -312,7 +312,7 @@ def test_44_visible_status_values_translate_to_korean(raw, translated):
 
 def test_45_navigation_exposes_both_korean_menus():
     text = (ROOT / "phase154_streamlit_app.py").read_text(encoding="utf-8")
-    assert "최종 가치분석" in text and "초등학교 수요 분석" in text
+    assert text.index('title="초등학교수요분석"') < text.index('title="중학교 점수"') < text.index('title="학군프리미엄분석"')
 
 
 def test_46_middle_school_frozen_scores_load():
