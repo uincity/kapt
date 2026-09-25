@@ -1,0 +1,4482 @@
+{
+  "A10024328": {
+    "status": "FAILED",
+    "kb_complex_id": "42180",
+    "match_confidence": "high",
+    "attempts": 2,
+    "last_error": "'cp949' codec can't encode character '\\u2713' in position 2: illegal multibyte sequence",
+    "updated_at": "2026-09-18T10:27:52.123333"
+  },
+  "A10024875": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "혼합 단지 (sale_type=혼합)",
+    "updated_at": "2026-09-18T10:29:04.097046"
+  },
+  "A10026034": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "혼합 단지 (sale_type=혼합)",
+    "updated_at": "2026-09-18T10:29:06.116765"
+  },
+  "A10023704": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "혼합 단지 (sale_type=혼합)",
+    "updated_at": "2026-09-18T10:29:08.131855"
+  },
+  "A10024535": {
+    "status": "PENDING",
+    "kb_complex_id": "38311",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "세대수 불일치 (KB합계=783, K-apt=815, 차이=32)",
+    "updated_at": "2026-09-18T10:29:10.352304"
+  },
+  "A10028182": {
+    "status": "PENDING",
+    "kb_complex_id": "26187",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "세대수 불일치 (KB합계=673, K-apt=753, 차이=80)",
+    "updated_at": "2026-09-18T10:29:12.587155"
+  },
+  "A60275104": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5905",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(564) = K-apt 총세대수(564) 일치",
+    "updated_at": "2026-09-18T10:29:14.810040"
+  },
+  "A60270501": {
+    "status": "VERIFIED",
+    "kb_complex_id": "12874",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(613) = K-apt 총세대수(613) 일치",
+    "updated_at": "2026-09-18T10:29:16.993115"
+  },
+  "A10022985": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "임대 단지 (sale_type=임대)",
+    "updated_at": "2026-09-18T10:29:19.015300"
+  },
+  "A60275201": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "임대 단지 (sale_type=임대)",
+    "updated_at": "2026-09-18T10:29:21.027252"
+  },
+  "A10022434": {
+    "status": "VERIFIED",
+    "kb_complex_id": "1097603",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1302) = K-apt 총세대수(1302) 일치",
+    "updated_at": "2026-09-18T10:29:23.219564"
+  },
+  "A10023790": {
+    "status": "VERIFIED",
+    "kb_complex_id": "39443",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1368) = K-apt 총세대수(1368) 일치",
+    "updated_at": "2026-09-18T10:29:25.439259"
+  },
+  "A10024998": {
+    "status": "VERIFIED",
+    "kb_complex_id": "33795",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(856) = K-apt 총세대수(856) 일치",
+    "updated_at": "2026-09-18T10:29:27.623242"
+  },
+  "A10025359": {
+    "status": "VERIFIED",
+    "kb_complex_id": "33044",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(752) = K-apt 총세대수(752) 일치",
+    "updated_at": "2026-09-18T10:29:29.847002"
+  },
+  "A10025380": {
+    "status": "VERIFIED",
+    "kb_complex_id": "31737",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(788) = K-apt 총세대수(788) 일치",
+    "updated_at": "2026-09-18T10:29:32.036903"
+  },
+  "A10023963": {
+    "status": "PENDING",
+    "kb_complex_id": "43695",
+    "match_confidence": "medium",
+    "attempts": 1,
+    "last_error": "KB 매칭 confidence 부족 (medium)",
+    "updated_at": "2026-09-18T10:29:38.414871"
+  },
+  "A10023208": {
+    "status": "VERIFIED",
+    "kb_complex_id": "45796",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(2040) = K-apt 총세대수(2040) 일치",
+    "updated_at": "2026-09-18T10:29:40.625763"
+  },
+  "A10026746": {
+    "status": "VERIFIED",
+    "kb_complex_id": "29905",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(652) = K-apt 총세대수(652) 일치",
+    "updated_at": "2026-09-18T10:29:42.828387"
+  },
+  "A60106001": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5407",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(547) = K-apt 총세대수(547) 일치",
+    "updated_at": "2026-09-18T10:29:45.025671"
+  },
+  "A60106002": {
+    "status": "VERIFIED",
+    "kb_complex_id": "14680",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(690) = K-apt 총세대수(690) 일치",
+    "updated_at": "2026-09-18T10:29:47.257990"
+  },
+  "A60681702": {
+    "status": "VERIFIED",
+    "kb_complex_id": "6034",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(868) = K-apt 총세대수(868) 일치",
+    "updated_at": "2026-09-18T10:29:49.509884"
+  },
+  "A60675801": {
+    "status": "VERIFIED",
+    "kb_complex_id": "6037",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(676) = K-apt 총세대수(676) 일치",
+    "updated_at": "2026-09-18T10:29:51.688393"
+  },
+  "A10024303": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "혼합 단지 (sale_type=혼합)",
+    "updated_at": "2026-09-18T10:29:53.700518"
+  },
+  "A60607003": {
+    "status": "VERIFIED",
+    "kb_complex_id": "13741",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(528) = K-apt 총세대수(528) 일치",
+    "updated_at": "2026-09-18T10:29:55.954385"
+  },
+  "A60607004": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:30:01.193296"
+  },
+  "A10022267": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "혼합 단지 (sale_type=혼합)",
+    "updated_at": "2026-09-18T10:30:03.206983"
+  },
+  "A10023837": {
+    "status": "VERIFIED",
+    "kb_complex_id": "44307",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(846) = K-apt 총세대수(846) 일치",
+    "updated_at": "2026-09-18T10:30:05.437897"
+  },
+  "A60608002": {
+    "status": "PENDING",
+    "kb_complex_id": "6065",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "세대수 불일치 (KB합계=628, K-apt=630, 차이=2)",
+    "updated_at": "2026-09-18T10:30:07.647522"
+  },
+  "A60608303": {
+    "status": "VERIFIED",
+    "kb_complex_id": "293644",
+    "match_confidence": "exact",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수(2088) 등록 완료 (293644)",
+    "updated_at": "2026-09-21T13:30:00.000000"
+  },
+  "A60670101": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "임대 단지 (sale_type=임대)",
+    "updated_at": "2026-09-18T10:30:14.915352"
+  },
+  "A60675110": {
+    "status": "VERIFIED",
+    "kb_complex_id": "6054",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1000) = K-apt 총세대수(1000) 일치",
+    "updated_at": "2026-09-18T10:30:17.085945"
+  },
+  "A60676104": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "임대 단지 (sale_type=임대)",
+    "updated_at": "2026-09-18T10:30:19.094203"
+  },
+  "A60676205": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "임대 단지 (sale_type=임대)",
+    "updated_at": "2026-09-18T10:30:21.111095"
+  },
+  "A60680909": {
+    "status": "VERIFIED",
+    "kb_complex_id": "6056",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(522) = K-apt 총세대수(522) 일치",
+    "updated_at": "2026-09-18T10:30:23.386052"
+  },
+  "A60680912": {
+    "status": "VERIFIED",
+    "kb_complex_id": "6057",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1340) = K-apt 총세대수(1340) 일치",
+    "updated_at": "2026-09-18T10:30:25.635441"
+  },
+  "A10020870": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "혼합 단지 (sale_type=혼합)",
+    "updated_at": "2026-09-18T10:30:27.646206"
+  },
+  "A10023040": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "혼합 단지 (sale_type=혼합)",
+    "updated_at": "2026-09-18T10:30:29.668686"
+  },
+  "A61475403": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:30:35.977483"
+  },
+  "A61479104": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:30:42.254165"
+  },
+  "A61479902": {
+    "status": "VERIFIED",
+    "kb_complex_id": "14276",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(840) = K-apt 총세대수(840) 일치",
+    "updated_at": "2026-09-18T10:30:44.455851"
+  },
+  "A10023625": {
+    "status": "PENDING",
+    "kb_complex_id": "47081",
+    "match_confidence": "medium",
+    "attempts": 1,
+    "last_error": "KB 매칭 confidence 부족 (medium)",
+    "updated_at": "2026-09-18T10:30:50.778833"
+  },
+  "A10024602": {
+    "status": "PENDING",
+    "kb_complex_id": "39358",
+    "match_confidence": "medium",
+    "attempts": 1,
+    "last_error": "KB 매칭 confidence 부족 (medium)",
+    "updated_at": "2026-09-18T10:30:57.095684"
+  },
+  "A10025901": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "임대 단지 (sale_type=임대)",
+    "updated_at": "2026-09-18T10:30:59.116761"
+  },
+  "A10027340": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "임대 단지 (sale_type=임대)",
+    "updated_at": "2026-09-18T10:31:01.134534"
+  },
+  "A61404006": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5515",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(705) = K-apt 총세대수(705) 일치",
+    "updated_at": "2026-09-18T10:31:03.322147"
+  },
+  "A61404007": {
+    "status": "VERIFIED",
+    "kb_complex_id": "13082",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1395) = K-apt 총세대수(1395) 일치",
+    "updated_at": "2026-09-18T10:31:05.546330"
+  },
+  "A61404203": {
+    "status": "PENDING",
+    "kb_complex_id": "17130",
+    "match_confidence": "medium",
+    "attempts": 1,
+    "last_error": "KB 매칭 confidence 부족 (medium)",
+    "updated_at": "2026-09-18T10:31:10.793123"
+  },
+  "A61477302": {
+    "status": "VERIFIED",
+    "kb_complex_id": "13167",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(512) = K-apt 총세대수(512) 일치",
+    "updated_at": "2026-09-18T10:31:12.965186"
+  },
+  "A61486301": {
+    "status": "VERIFIED",
+    "kb_complex_id": "14284",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(511) = K-apt 총세대수(511) 일치",
+    "updated_at": "2026-09-18T10:31:15.167058"
+  },
+  "A61403001": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:31:20.376881"
+  },
+  "A61473002": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5514",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(782) = K-apt 총세대수(782) 일치",
+    "updated_at": "2026-09-18T10:31:22.615248"
+  },
+  "A10023750": {
+    "status": "VERIFIED",
+    "kb_complex_id": "46959",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(998) = K-apt 총세대수(998) 일치",
+    "updated_at": "2026-09-18T10:31:24.821403"
+  },
+  "A10027052": {
+    "status": "VERIFIED",
+    "kb_complex_id": "29268",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(630) = K-apt 총세대수(630) 일치",
+    "updated_at": "2026-09-18T10:31:27.027034"
+  },
+  "A61402003": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:31:32.258715"
+  },
+  "A61476002": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5508",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(950) = K-apt 총세대수(950) 일치",
+    "updated_at": "2026-09-18T10:31:34.439819"
+  },
+  "A61476004": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "임대 단지 (sale_type=임대)",
+    "updated_at": "2026-09-18T10:31:36.455734"
+  },
+  "A61483202": {
+    "status": "VERIFIED",
+    "kb_complex_id": "14814",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(623) = K-apt 총세대수(623) 일치",
+    "updated_at": "2026-09-18T10:31:38.667070"
+  },
+  "A10025540": {
+    "status": "VERIFIED",
+    "kb_complex_id": "31209",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1272) = K-apt 총세대수(1272) 일치",
+    "updated_at": "2026-09-18T10:31:40.853380"
+  },
+  "A10023616": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "혼합 단지 (sale_type=혼합)",
+    "updated_at": "2026-09-18T10:31:42.868402"
+  },
+  "A61478807": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5535",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(654) = K-apt 총세대수(654) 일치",
+    "updated_at": "2026-09-18T10:31:45.063711"
+  },
+  "A61478901": {
+    "status": "PENDING",
+    "kb_complex_id": "16130",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "세대수 불일치 (KB합계=940, K-apt=1011, 차이=71)",
+    "updated_at": "2026-09-18T10:31:47.325636"
+  },
+  "A61485906": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5537",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(554) = K-apt 총세대수(554) 일치",
+    "updated_at": "2026-09-18T10:31:49.610707"
+  },
+  "A61486005": {
+    "status": "VERIFIED",
+    "kb_complex_id": "15291",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(547) = K-apt 총세대수(547) 일치",
+    "updated_at": "2026-09-18T10:31:51.792040"
+  },
+  "A61486008": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5531",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(789) = K-apt 총세대수(789) 일치",
+    "updated_at": "2026-09-18T10:31:53.982907"
+  },
+  "A10022574": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "혼합 단지 (sale_type=혼합)",
+    "updated_at": "2026-09-18T10:31:55.993514"
+  },
+  "A10024953": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "혼합 단지 (sale_type=혼합)",
+    "updated_at": "2026-09-18T10:31:58.013520"
+  },
+  "A10020721": {
+    "status": "VERIFIED",
+    "kb_complex_id": "429022",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1295) = K-apt 총세대수(1295) 일치",
+    "updated_at": "2026-09-18T10:32:00.277715"
+  },
+  "A10022844": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "혼합 단지 (sale_type=혼합)",
+    "updated_at": "2026-09-18T10:32:02.295928"
+  },
+  "A10026861": {
+    "status": "VERIFIED",
+    "kb_complex_id": "30157",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(727) = K-apt 총세대수(727) 일치",
+    "updated_at": "2026-09-18T10:32:04.656453"
+  },
+  "A10028147": {
+    "status": "VERIFIED",
+    "kb_complex_id": "26500",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(751) = K-apt 총세대수(751) 일치",
+    "updated_at": "2026-09-18T10:32:06.854321"
+  },
+  "A61409002": {
+    "status": "VERIFIED",
+    "kb_complex_id": "15228",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(544) = K-apt 총세대수(544) 일치",
+    "updated_at": "2026-09-18T10:32:09.041922"
+  },
+  "A61409003": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:32:15.293690"
+  },
+  "A61409004": {
+    "status": "VERIFIED",
+    "kb_complex_id": "13595",
+    "match_confidence": "exact",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수(566) 등록 완료 (13595)",
+    "updated_at": "2026-09-21T13:30:00.000000"
+  },
+  "A61409005": {
+    "status": "VERIFIED",
+    "kb_complex_id": "19701",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(559) = K-apt 총세대수(559) 일치",
+    "updated_at": "2026-09-18T10:32:22.710386"
+  },
+  "A61409302": {
+    "status": "VERIFIED",
+    "kb_complex_id": "15049",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(630) = K-apt 총세대수(630) 일치",
+    "updated_at": "2026-09-18T10:32:25.013460"
+  },
+  "A61479403": {
+    "status": "VERIFIED",
+    "kb_complex_id": "13083",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(718) = K-apt 총세대수(718) 일치",
+    "updated_at": "2026-09-18T10:32:27.273061"
+  },
+  "A61484004": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5550",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(774) = K-apt 총세대수(774) 일치",
+    "updated_at": "2026-09-18T10:32:29.482281"
+  },
+  "A61484005": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5551",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1811) = K-apt 총세대수(1811) 일치",
+    "updated_at": "2026-09-18T10:32:31.646227"
+  },
+  "A10023021": {
+    "status": "VERIFIED",
+    "kb_complex_id": "314859",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(806) = K-apt 총세대수(806) 일치",
+    "updated_at": "2026-09-18T10:32:33.896185"
+  },
+  "A10025434": {
+    "status": "VERIFIED",
+    "kb_complex_id": "32588",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(535) = K-apt 총세대수(535) 일치",
+    "updated_at": "2026-09-18T10:32:36.141006"
+  },
+  "A61410304": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5560",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1074) = K-apt 총세대수(1074) 일치",
+    "updated_at": "2026-09-18T10:32:38.341457"
+  },
+  "A61475202": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5563",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(668) = K-apt 총세대수(668) 일치",
+    "updated_at": "2026-09-18T10:32:40.577144"
+  },
+  "A61475903": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5556",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(820) = K-apt 총세대수(820) 일치",
+    "updated_at": "2026-09-18T10:32:42.791666"
+  },
+  "A61477806": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5557",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1153) = K-apt 총세대수(1153) 일치",
+    "updated_at": "2026-09-18T10:32:44.965560"
+  },
+  "A61479605": {
+    "status": "VERIFIED",
+    "kb_complex_id": "13271",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1090) = K-apt 총세대수(1090) 일치",
+    "updated_at": "2026-09-18T10:32:47.180900"
+  },
+  "A61482207": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5573",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(2716) = K-apt 총세대수(2716) 일치",
+    "updated_at": "2026-09-18T10:32:49.384680"
+  },
+  "A61482302": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5566",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(851) = K-apt 총세대수(851) 일치",
+    "updated_at": "2026-09-18T10:32:51.587547"
+  },
+  "A61482303": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5564",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1116) = K-apt 총세대수(1116) 일치",
+    "updated_at": "2026-09-18T10:32:53.789800"
+  },
+  "A10020213": {
+    "status": "VERIFIED",
+    "kb_complex_id": "2136163",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(725) = K-apt 총세대수(725) 일치",
+    "updated_at": "2026-09-18T10:32:55.989019"
+  },
+  "A10023627": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "혼합 단지 (sale_type=혼합)",
+    "updated_at": "2026-09-18T10:32:58.000652"
+  },
+  "A61476403": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5495",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1772) = K-apt 총세대수(1772) 일치",
+    "updated_at": "2026-09-18T10:33:00.249838"
+  },
+  "A61479502": {
+    "status": "VERIFIED",
+    "kb_complex_id": "13269",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1048) = K-apt 총세대수(1048) 일치",
+    "updated_at": "2026-09-18T10:33:02.456935"
+  },
+  "A10023409": {
+    "status": "VERIFIED",
+    "kb_complex_id": "43586",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(736) = K-apt 총세대수(736) 일치",
+    "updated_at": "2026-09-18T10:33:04.656880"
+  },
+  "A10026363": {
+    "status": "VERIFIED",
+    "kb_complex_id": "29812",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(620) = K-apt 총세대수(620) 일치",
+    "updated_at": "2026-09-18T10:33:06.851273"
+  },
+  "A61475512": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5575",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(2544) = K-apt 총세대수(2544) 일치",
+    "updated_at": "2026-09-18T10:33:09.046591"
+  },
+  "A61477009": {
+    "status": "VERIFIED",
+    "kb_complex_id": "36293",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(980) = K-apt 총세대수(980) 일치",
+    "updated_at": "2026-09-18T10:33:11.256223"
+  },
+  "A61477105": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5583",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1424) = K-apt 총세대수(1424) 일치",
+    "updated_at": "2026-09-18T10:33:13.517617"
+  },
+  "A61477403": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5585",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(633) = K-apt 총세대수(633) 일치",
+    "updated_at": "2026-09-18T10:33:15.697026"
+  },
+  "A61480908": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5577",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(894) = K-apt 총세대수(894) 일치",
+    "updated_at": "2026-09-18T10:33:17.892355"
+  },
+  "A61480910": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "임대 단지 (sale_type=임대)",
+    "updated_at": "2026-09-18T10:33:19.976634"
+  },
+  "A61481111": {
+    "status": "PENDING",
+    "kb_complex_id": "5572",
+    "match_confidence": "medium",
+    "attempts": 1,
+    "last_error": "KB 매칭 confidence 부족 (medium)",
+    "updated_at": "2026-09-18T10:33:26.332443"
+  },
+  "A10025342": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "혼합 단지 (sale_type=혼합)",
+    "updated_at": "2026-09-18T10:33:28.352573"
+  },
+  "A10026360": {
+    "status": "VERIFIED",
+    "kb_complex_id": "31355",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(702) = K-apt 총세대수(702) 일치",
+    "updated_at": "2026-09-18T10:33:30.547489"
+  },
+  "A10027972": {
+    "status": "VERIFIED",
+    "kb_complex_id": "29234",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(693) = K-apt 총세대수(693) 일치",
+    "updated_at": "2026-09-18T10:33:32.741478"
+  },
+  "A60710004": {
+    "status": "VERIFIED",
+    "kb_complex_id": "13826",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1420) = K-apt 총세대수(1420) 일치",
+    "updated_at": "2026-09-18T10:33:34.914828"
+  },
+  "A60777205": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:33:41.178527"
+  },
+  "A60777206": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "임대 단지 (sale_type=임대)",
+    "updated_at": "2026-09-18T10:33:43.193038"
+  },
+  "A60777604": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5494",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(738) = K-apt 총세대수(738) 일치",
+    "updated_at": "2026-09-18T10:33:45.393500"
+  },
+  "A60778502": {
+    "status": "VERIFIED",
+    "kb_complex_id": "14533",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(814) = K-apt 총세대수(814) 일치",
+    "updated_at": "2026-09-18T10:33:47.546711"
+  },
+  "A60782701": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5485",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(793) = K-apt 총세대수(793) 일치",
+    "updated_at": "2026-09-18T10:33:49.754520"
+  },
+  "A10025662": {
+    "status": "VERIFIED",
+    "kb_complex_id": "31578",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(732) = K-apt 총세대수(732) 일치",
+    "updated_at": "2026-09-18T10:33:51.946919"
+  },
+  "A60775407": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5417",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(632) = K-apt 총세대수(632) 일치",
+    "updated_at": "2026-09-18T10:33:54.153982"
+  },
+  "A60775605": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5414",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(531) = K-apt 총세대수(531) 일치",
+    "updated_at": "2026-09-18T10:33:56.366125"
+  },
+  "A60776006": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5418",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(552) = K-apt 총세대수(552) 일치",
+    "updated_at": "2026-09-18T10:33:58.550524"
+  },
+  "A60780104": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5416",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(511) = K-apt 총세대수(511) 일치",
+    "updated_at": "2026-09-18T10:34:00.739772"
+  },
+  "A60780108": {
+    "status": "VERIFIED",
+    "kb_complex_id": "15051",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(935) = K-apt 총세대수(935) 일치",
+    "updated_at": "2026-09-18T10:34:02.967981"
+  },
+  "A60702002": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5411",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(744) = K-apt 총세대수(744) 일치",
+    "updated_at": "2026-09-18T10:34:05.173011"
+  },
+  "A10023781": {
+    "status": "VERIFIED",
+    "kb_complex_id": "45594",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(874) = K-apt 총세대수(874) 일치",
+    "updated_at": "2026-09-18T10:34:07.391104"
+  },
+  "A10025687": {
+    "status": "VERIFIED",
+    "kb_complex_id": "34200",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(671) = K-apt 총세대수(671) 일치",
+    "updated_at": "2026-09-18T10:34:09.566738"
+  },
+  "A10027690": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "혼합 단지 (sale_type=혼합)",
+    "updated_at": "2026-09-18T10:34:11.576766"
+  },
+  "A60701003": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:34:16.797660"
+  },
+  "A60701004": {
+    "status": "VERIFIED",
+    "kb_complex_id": "25211+25212",
+    "match_confidence": "exact",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수(1285) 등록 완료 (25211+25212)",
+    "updated_at": "2026-09-21T13:30:00.000000"
+  },
+  "A10022002": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "혼합 단지 (sale_type=혼합)",
+    "updated_at": "2026-09-18T10:34:24.022928"
+  },
+  "A10023417": {
+    "status": "VERIFIED",
+    "kb_complex_id": "43564",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(603) = K-apt 총세대수(603) 일치",
+    "updated_at": "2026-09-18T10:34:26.201682"
+  },
+  "A10023975": {
+    "status": "VERIFIED",
+    "kb_complex_id": "960029+960030+956217",
+    "match_confidence": "exact",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(3853) = K-apt 총세대수(3853) 일치 (2단지: 960029, 3단지: 960030, 1,4단지: 956217)",
+    "updated_at": "2026-09-21T09:30:00.000000"
+  },
+  "A10024005": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:34:34.491091"
+  },
+  "A10025463": {
+    "status": "VERIFIED",
+    "kb_complex_id": "30915",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(762) = K-apt 총세대수(762) 일치",
+    "updated_at": "2026-09-18T10:34:36.670948"
+  },
+  "A10026316": {
+    "status": "VERIFIED",
+    "kb_complex_id": "30755",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(582) = K-apt 총세대수(582) 일치",
+    "updated_at": "2026-09-18T10:34:38.908308"
+  },
+  "A60775306": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5434",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1536) = K-apt 총세대수(1536) 일치",
+    "updated_at": "2026-09-18T10:34:42.208440"
+  },
+  "A60783306": {
+    "status": "VERIFIED",
+    "kb_complex_id": "15340",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(648) = K-apt 총세대수(648) 일치",
+    "updated_at": "2026-09-18T10:34:44.428244"
+  },
+  "A60784207": {
+    "status": "VERIFIED",
+    "kb_complex_id": "13877",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1149) = K-apt 총세대수(1149) 일치",
+    "updated_at": "2026-09-18T10:34:46.636874"
+  },
+  "A10022591": {
+    "status": "VERIFIED",
+    "kb_complex_id": "550539",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(690) = K-apt 총세대수(690) 일치",
+    "updated_at": "2026-09-18T10:34:48.877270"
+  },
+  "A10024982": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:34:54.123671"
+  },
+  "A10027054": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "혼합 단지 (sale_type=혼합)",
+    "updated_at": "2026-09-18T10:34:56.142765"
+  },
+  "A10027341": {
+    "status": "VERIFIED",
+    "kb_complex_id": "27382",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(999) = K-apt 총세대수(999) 일치",
+    "updated_at": "2026-09-18T10:34:58.345613"
+  },
+  "A60712001": {
+    "status": "VERIFIED",
+    "kb_complex_id": "14279",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(560) = K-apt 총세대수(560) 일치",
+    "updated_at": "2026-09-18T10:35:00.533634"
+  },
+  "A60712204": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5474",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(710) = K-apt 총세대수(710) 일치",
+    "updated_at": "2026-09-18T10:35:03.772824"
+  },
+  "A60776402": {
+    "status": "VERIFIED",
+    "kb_complex_id": "16124",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(625) = K-apt 총세대수(625) 일치",
+    "updated_at": "2026-09-18T10:35:05.994190"
+  },
+  "A60778608": {
+    "status": "VERIFIED",
+    "kb_complex_id": "14653",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(2947) = K-apt 총세대수(2947) 일치",
+    "updated_at": "2026-09-18T10:35:08.233808"
+  },
+  "A60782005": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:35:14.539427"
+  },
+  "A10022847": {
+    "status": "VERIFIED",
+    "kb_complex_id": "1072913",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1384) = K-apt 총세대수(1384) 일치",
+    "updated_at": "2026-09-18T10:35:16.773350"
+  },
+  "A10022999": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "혼합 단지 (sale_type=혼합)",
+    "updated_at": "2026-09-18T10:35:18.788803"
+  },
+  "A10025593": {
+    "status": "PENDING",
+    "kb_complex_id": "34178",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "세대수 불일치 (KB합계=950, K-apt=965, 차이=15)",
+    "updated_at": "2026-09-18T10:35:21.007587"
+  },
+  "A10026094": {
+    "status": "VERIFIED",
+    "kb_complex_id": "31369",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(994) = K-apt 총세대수(994) 일치",
+    "updated_at": "2026-09-18T10:35:23.234966"
+  },
+  "A10026184": {
+    "status": "VERIFIED",
+    "kb_complex_id": "31111",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1422) = K-apt 총세대수(1422) 일치",
+    "updated_at": "2026-09-18T10:35:25.408521"
+  },
+  "A10026452": {
+    "status": "VERIFIED",
+    "kb_complex_id": "30004",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(3149) = K-apt 총세대수(3149) 일치",
+    "updated_at": "2026-09-18T10:35:27.641720"
+  },
+  "A10028145": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "혼합 단지 (sale_type=혼합)",
+    "updated_at": "2026-09-18T10:35:29.658188"
+  },
+  "A60802001": {
+    "status": "VERIFIED",
+    "kb_complex_id": "26745+26888",
+    "match_confidence": "exact",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수(2304) 등록 완료 (26745+26888)",
+    "updated_at": "2026-09-21T13:40:00.000000"
+  },
+  "A60874408": {
+    "status": "VERIFIED",
+    "kb_complex_id": "13192",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(678) = K-apt 총세대수(678) 일치",
+    "updated_at": "2026-09-18T10:35:37.115357"
+  },
+  "A60875509": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5324",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(691) = K-apt 총세대수(691) 일치",
+    "updated_at": "2026-09-18T10:35:39.315891"
+  },
+  "A60877710": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5328",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(725) = K-apt 총세대수(725) 일치",
+    "updated_at": "2026-09-18T10:35:41.547149"
+  },
+  "A60877907": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5329",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(604) = K-apt 총세대수(604) 일치",
+    "updated_at": "2026-09-18T10:35:43.752955"
+  },
+  "A10023436": {
+    "status": "VERIFIED",
+    "kb_complex_id": "47451",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1725) = K-apt 총세대수(1725) 일치",
+    "updated_at": "2026-09-18T10:35:45.980454"
+  },
+  "A10026391": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 10개)",
+    "updated_at": "2026-09-18T10:35:52.356332"
+  },
+  "A60809002": {
+    "status": "VERIFIED",
+    "kb_complex_id": "15459",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1149) = K-apt 총세대수(1149) 일치",
+    "updated_at": "2026-09-18T10:35:54.574949"
+  },
+  "A60809003": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:35:59.833063"
+  },
+  "A60809004": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5389+5388+5392+12245+12293+13012",
+    "match_confidence": "exact",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(7374) = K-apt 총세대수(7374) 일치 (5389+5388+5392+12245+12293+13012)",
+    "updated_at": "2026-09-21T09:30:00.000000"
+  },
+  "A60876301": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5385",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(518) = K-apt 총세대수(518) 일치",
+    "updated_at": "2026-09-18T10:36:09.473655"
+  },
+  "A60876402": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5384",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(648) = K-apt 총세대수(648) 일치",
+    "updated_at": "2026-09-18T10:36:11.713031"
+  },
+  "A60883203": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:36:17.999538"
+  },
+  "A61202008": {
+    "status": "VERIFIED",
+    "kb_complex_id": "25692",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(773) = K-apt 총세대수(773) 일치",
+    "updated_at": "2026-09-18T10:36:20.265193"
+  },
+  "A60871104": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:36:25.473564"
+  },
+  "A60883003": {
+    "status": "VERIFIED",
+    "kb_complex_id": "14864",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(712) = K-apt 총세대수(712) 일치",
+    "updated_at": "2026-09-18T10:36:27.658698"
+  },
+  "A10020004": {
+    "status": "VERIFIED",
+    "kb_complex_id": "961704",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(715) = K-apt 총세대수(715) 일치",
+    "updated_at": "2026-09-18T10:36:29.920029"
+  },
+  "A10023533": {
+    "status": "VERIFIED",
+    "kb_complex_id": "45612",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(662) = K-apt 총세대수(662) 일치",
+    "updated_at": "2026-09-18T10:36:32.165185"
+  },
+  "A10023872": {
+    "status": "VERIFIED",
+    "kb_complex_id": "43588",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(560) = K-apt 총세대수(560) 일치",
+    "updated_at": "2026-09-18T10:36:34.368057"
+  },
+  "A10024704": {
+    "status": "PENDING",
+    "kb_complex_id": "35250",
+    "match_confidence": "medium",
+    "attempts": 1,
+    "last_error": "KB 매칭 confidence 부족 (medium)",
+    "updated_at": "2026-09-18T10:36:39.607915"
+  },
+  "A10025508": {
+    "status": "VERIFIED",
+    "kb_complex_id": "33363",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(743) = K-apt 총세대수(743) 일치",
+    "updated_at": "2026-09-18T10:36:41.832280"
+  },
+  "A60804003": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5337",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(916) = K-apt 총세대수(916) 일치",
+    "updated_at": "2026-09-18T10:36:44.066169"
+  },
+  "A60872101": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5338",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(521) = K-apt 총세대수(521) 일치",
+    "updated_at": "2026-09-18T10:36:46.281891"
+  },
+  "A60879704": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:36:52.532918"
+  },
+  "A10020289": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "혼합 단지 (sale_type=혼합)",
+    "updated_at": "2026-09-18T10:36:54.544533"
+  },
+  "A60877107": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5354",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(661) = K-apt 총세대수(661) 일치",
+    "updated_at": "2026-09-18T10:36:57.860965"
+  },
+  "A60875305": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5357",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(885) = K-apt 총세대수(885) 일치",
+    "updated_at": "2026-09-18T10:37:00.059684"
+  },
+  "A60880104": {
+    "status": "VERIFIED",
+    "kb_complex_id": "13601",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(548) = K-apt 총세대수(548) 일치",
+    "updated_at": "2026-09-18T10:37:02.282153"
+  },
+  "A10027989": {
+    "status": "PENDING",
+    "kb_complex_id": "27681",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "세대수 불일치 (KB합계=717, K-apt=792, 차이=75)",
+    "updated_at": "2026-09-18T10:37:04.465194"
+  },
+  "A10028138": {
+    "status": "PENDING",
+    "kb_complex_id": "26091",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "세대수 불일치 (KB합계=526, K-apt=529, 차이=3)",
+    "updated_at": "2026-09-18T10:37:06.720429"
+  },
+  "A61673902": {
+    "status": "VERIFIED",
+    "kb_complex_id": "25534+25582",
+    "match_confidence": "exact",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수(538) 등록 완료 (25534+25582)",
+    "updated_at": "2026-09-21T13:30:00.000000"
+  },
+  "A61674824": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "임대 단지 (sale_type=임대)",
+    "updated_at": "2026-09-18T10:37:14.007065"
+  },
+  "A61674912": {
+    "status": "VERIFIED",
+    "kb_complex_id": "13527",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(981) = K-apt 총세대수(981) 일치",
+    "updated_at": "2026-09-18T10:37:16.181702"
+  },
+  "A61676006": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5667",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(532) = K-apt 총세대수(532) 일치",
+    "updated_at": "2026-09-18T10:37:19.439085"
+  },
+  "A61676118": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "임대 단지 (sale_type=임대)",
+    "updated_at": "2026-09-18T10:37:21.466111"
+  },
+  "A61676215": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "임대 단지 (sale_type=임대)",
+    "updated_at": "2026-09-18T10:37:23.486466"
+  },
+  "A61676316": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5665",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1484) = K-apt 총세대수(1484) 일치",
+    "updated_at": "2026-09-18T10:37:25.714565"
+  },
+  "A61676422": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "임대 단지 (sale_type=임대)",
+    "updated_at": "2026-09-18T10:37:27.740937"
+  },
+  "A61676509": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5668",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(713) = K-apt 총세대수(713) 일치",
+    "updated_at": "2026-09-18T10:37:29.926530"
+  },
+  "A61676605": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5669",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(504) = K-apt 총세대수(504) 일치",
+    "updated_at": "2026-09-18T10:37:32.175341"
+  },
+  "A61676723": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "임대 단지 (sale_type=임대)",
+    "updated_at": "2026-09-18T10:37:34.199535"
+  },
+  "A61676814": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:37:39.404197"
+  },
+  "A61677013": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5659",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1026) = K-apt 총세대수(1026) 일치",
+    "updated_at": "2026-09-18T10:37:41.636009"
+  },
+  "A61681107": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5666",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(576) = K-apt 총세대수(576) 일치",
+    "updated_at": "2026-09-18T10:37:43.839160"
+  },
+  "A61681108": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:37:50.092372"
+  },
+  "A61684110": {
+    "status": "VERIFIED",
+    "kb_complex_id": "12107",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(722) = K-apt 총세대수(722) 일치",
+    "updated_at": "2026-09-18T10:37:52.343063"
+  },
+  "A10024341": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "혼합 단지 (sale_type=혼합)",
+    "updated_at": "2026-09-18T10:37:54.357829"
+  },
+  "A10027790": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "혼합 단지 (sale_type=혼합)",
+    "updated_at": "2026-09-18T10:37:56.379578"
+  },
+  "A61612010": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5650",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(743) = K-apt 총세대수(743) 일치",
+    "updated_at": "2026-09-18T10:37:58.600567"
+  },
+  "A61612011": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:38:04.887465"
+  },
+  "A61612013": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:38:11.165615"
+  },
+  "A61612016": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:38:16.372070"
+  },
+  "A61612017": {
+    "status": "VERIFIED",
+    "kb_complex_id": "12816",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1895) = K-apt 총세대수(1895) 일치",
+    "updated_at": "2026-09-18T10:38:18.607857"
+  },
+  "A61612018": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5663",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1950) = K-apt 총세대수(1950) 일치",
+    "updated_at": "2026-09-18T10:38:20.860526"
+  },
+  "A61612019": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5647",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(3382) = K-apt 총세대수(3382) 일치",
+    "updated_at": "2026-09-18T10:38:23.072836"
+  },
+  "A61673302": {
+    "status": "VERIFIED",
+    "kb_complex_id": "12837",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(807) = K-apt 총세대수(807) 일치",
+    "updated_at": "2026-09-18T10:38:25.286575"
+  },
+  "A61673304": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:38:30.548250"
+  },
+  "A61673305": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5655",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(506) = K-apt 총세대수(506) 일치",
+    "updated_at": "2026-09-18T10:38:32.778684"
+  },
+  "A61673308": {
+    "status": "VERIFIED",
+    "kb_complex_id": "22067",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(5239) = K-apt 총세대수(5239) 일치",
+    "updated_at": "2026-09-18T10:38:34.987024"
+  },
+  "A61679206": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5652",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1044) = K-apt 총세대수(1044) 일치",
+    "updated_at": "2026-09-18T10:38:37.186362"
+  },
+  "A61679207": {
+    "status": "VERIFIED",
+    "kb_complex_id": "389318",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(720) = K-apt 총세대수(720) 일치",
+    "updated_at": "2026-09-18T10:38:39.369819"
+  },
+  "A61679208": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:38:44.553686"
+  },
+  "A61683305": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5660",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(900) = K-apt 총세대수(900) 일치",
+    "updated_at": "2026-09-18T10:38:46.796711"
+  },
+  "A61685214": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:38:52.017719"
+  },
+  "A10023725": {
+    "status": "VERIFIED",
+    "kb_complex_id": "45099",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(593) = K-apt 총세대수(593) 일치",
+    "updated_at": "2026-09-18T10:38:54.285506"
+  },
+  "A10024318": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "혼합 단지 (sale_type=혼합)",
+    "updated_at": "2026-09-18T10:38:56.300238"
+  },
+  "A10025235": {
+    "status": "VERIFIED",
+    "kb_complex_id": "34695",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1677) = K-apt 총세대수(1677) 일치",
+    "updated_at": "2026-09-18T10:38:58.588039"
+  },
+  "A10027832": {
+    "status": "VERIFIED",
+    "kb_complex_id": "26496",
+    "match_confidence": "exact",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수(3160) 등록 완료 (26496)",
+    "updated_at": "2026-09-21T13:30:00.000000"
+  },
+  "A61673103": {
+    "status": "VERIFIED",
+    "kb_complex_id": "13477",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(600) = K-apt 총세대수(600) 일치",
+    "updated_at": "2026-09-18T10:39:06.063593"
+  },
+  "A61675601": {
+    "status": "VERIFIED",
+    "kb_complex_id": "14200",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(882) = K-apt 총세대수(882) 일치",
+    "updated_at": "2026-09-18T10:39:08.312654"
+  },
+  "A61675806": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5635",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(600) = K-apt 총세대수(600) 일치",
+    "updated_at": "2026-09-18T10:39:11.585868"
+  },
+  "A61678209": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5634",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1468) = K-apt 총세대수(1468) 일치",
+    "updated_at": "2026-09-18T10:39:14.835119"
+  },
+  "A61678706": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5630",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(900) = K-apt 총세대수(900) 일치",
+    "updated_at": "2026-09-18T10:39:17.073733"
+  },
+  "A61678804": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5631",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(714) = K-apt 총세대수(714) 일치",
+    "updated_at": "2026-09-18T10:39:19.254804"
+  },
+  "A61679609": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "임대 단지 (sale_type=임대)",
+    "updated_at": "2026-09-18T10:39:21.265991"
+  },
+  "A61682607": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5629",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(816) = K-apt 총세대수(816) 일치",
+    "updated_at": "2026-09-18T10:39:24.531808"
+  },
+  "A61682907": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5637",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(988) = K-apt 총세대수(988) 일치",
+    "updated_at": "2026-09-18T10:39:27.775040"
+  },
+  "A61682908": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5632",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1166) = K-apt 총세대수(1166) 일치",
+    "updated_at": "2026-09-18T10:39:29.974553"
+  },
+  "A10022905": {
+    "status": "VERIFIED",
+    "kb_complex_id": "383941",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(795) = K-apt 총세대수(795) 일치",
+    "updated_at": "2026-09-18T10:39:32.164598"
+  },
+  "A10023684": {
+    "status": "VERIFIED",
+    "kb_complex_id": "48640",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(636) = K-apt 총세대수(636) 일치",
+    "updated_at": "2026-09-18T10:39:34.369026"
+  },
+  "A61610003": {
+    "status": "VERIFIED",
+    "kb_complex_id": "13084",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(705) = K-apt 총세대수(705) 일치",
+    "updated_at": "2026-09-18T10:39:36.575264"
+  },
+  "A61670501": {
+    "status": "VERIFIED",
+    "kb_complex_id": "15303",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(560) = K-apt 총세대수(560) 일치",
+    "updated_at": "2026-09-18T10:39:38.781897"
+  },
+  "A61677404": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "임대 단지 (sale_type=임대)",
+    "updated_at": "2026-09-18T10:39:40.798244"
+  },
+  "A61677608": {
+    "status": "VERIFIED",
+    "kb_complex_id": "22234",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(825) = K-apt 총세대수(825) 일치",
+    "updated_at": "2026-09-18T10:39:42.984208"
+  },
+  "A61681409": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "임대 단지 (sale_type=임대)",
+    "updated_at": "2026-09-18T10:39:44.997271"
+  },
+  "A61682303": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5607",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1320) = K-apt 총세대수(1320) 일치",
+    "updated_at": "2026-09-18T10:39:47.199019"
+  },
+  "A10024201": {
+    "status": "VERIFIED",
+    "kb_complex_id": "42482",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(790) = K-apt 총세대수(790) 일치",
+    "updated_at": "2026-09-18T10:39:49.371527"
+  },
+  "A61609002": {
+    "status": "VERIFIED",
+    "kb_complex_id": "25382",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1079) = K-apt 총세대수(1079) 일치",
+    "updated_at": "2026-09-18T10:39:51.580948"
+  },
+  "A61609206": {
+    "status": "PENDING",
+    "kb_complex_id": "22082",
+    "match_confidence": "medium",
+    "attempts": 1,
+    "last_error": "KB 매칭 confidence 부족 (medium)",
+    "updated_at": "2026-09-18T10:39:56.839780"
+  },
+  "A61680705": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:40:03.069939"
+  },
+  "A61680707": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5590",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1741) = K-apt 총세대수(1741) 일치",
+    "updated_at": "2026-09-18T10:40:05.241559"
+  },
+  "A61273009": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "임대 단지 (sale_type=임대)",
+    "updated_at": "2026-09-18T10:40:07.258321"
+  },
+  "A61273306": {
+    "status": "VERIFIED",
+    "kb_complex_id": "6216",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(764) = K-apt 총세대수(764) 일치",
+    "updated_at": "2026-09-18T10:40:09.468563"
+  },
+  "A61273507": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:40:14.707180"
+  },
+  "A61273609": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "임대 단지 (sale_type=임대)",
+    "updated_at": "2026-09-18T10:40:16.729211"
+  },
+  "A61280805": {
+    "status": "VERIFIED",
+    "kb_complex_id": "6225",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(560) = K-apt 총세대수(560) 일치",
+    "updated_at": "2026-09-18T10:40:18.908057"
+  },
+  "A10022405": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "혼합 단지 (sale_type=혼합)",
+    "updated_at": "2026-09-18T10:40:20.933128"
+  },
+  "A10023647": {
+    "status": "VERIFIED",
+    "kb_complex_id": "47519",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(638) = K-apt 총세대수(638) 일치",
+    "updated_at": "2026-09-18T10:40:23.326217"
+  },
+  "A10024249": {
+    "status": "PENDING",
+    "kb_complex_id": "34612",
+    "match_confidence": "medium",
+    "attempts": 1,
+    "last_error": "KB 매칭 confidence 부족 (medium)",
+    "updated_at": "2026-09-18T10:40:29.604943"
+  },
+  "A61206110": {
+    "status": "VERIFIED",
+    "kb_complex_id": "13908",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(517) = K-apt 총세대수(517) 일치",
+    "updated_at": "2026-09-18T10:40:31.825738"
+  },
+  "A61206113": {
+    "status": "VERIFIED",
+    "kb_complex_id": "6212",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(998) = K-apt 총세대수(998) 일치",
+    "updated_at": "2026-09-18T10:40:34.074962"
+  },
+  "A61206114": {
+    "status": "VERIFIED",
+    "kb_complex_id": "13213",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1165) = K-apt 총세대수(1165) 일치",
+    "updated_at": "2026-09-18T10:40:36.278387"
+  },
+  "A61206118": {
+    "status": "VERIFIED",
+    "kb_complex_id": "15485",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1564) = K-apt 총세대수(1564) 일치",
+    "updated_at": "2026-09-18T10:40:39.554373"
+  },
+  "A61270515": {
+    "status": "VERIFIED",
+    "kb_complex_id": "12927",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1198) = K-apt 총세대수(1198) 일치",
+    "updated_at": "2026-09-18T10:40:41.817355"
+  },
+  "A61271919": {
+    "status": "VERIFIED",
+    "kb_complex_id": "12115",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(2290) = K-apt 총세대수(2290) 일치",
+    "updated_at": "2026-09-18T10:40:44.019274"
+  },
+  "A61272011": {
+    "status": "VERIFIED",
+    "kb_complex_id": "6191",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(600) = K-apt 총세대수(600) 일치",
+    "updated_at": "2026-09-18T10:40:47.291662"
+  },
+  "A61279802": {
+    "status": "VERIFIED",
+    "kb_complex_id": "6196",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(564) = K-apt 총세대수(564) 일치",
+    "updated_at": "2026-09-18T10:40:49.470564"
+  },
+  "A61279804": {
+    "status": "PENDING",
+    "kb_complex_id": "6197",
+    "match_confidence": "medium",
+    "attempts": 1,
+    "last_error": "KB 매칭 confidence 부족 (medium)",
+    "updated_at": "2026-09-18T10:40:54.730943"
+  },
+  "A61281117": {
+    "status": "VERIFIED",
+    "kb_complex_id": "6200",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1500) = K-apt 총세대수(1500) 일치",
+    "updated_at": "2026-09-18T10:40:56.913616"
+  },
+  "A10026557": {
+    "status": "VERIFIED",
+    "kb_complex_id": "29528+29529",
+    "match_confidence": "exact",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수(753) 등록 완료 (29528+29529)",
+    "updated_at": "2026-09-21T13:30:00.000000"
+  },
+  "A61205002": {
+    "status": "VERIFIED",
+    "kb_complex_id": "13992",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(703) = K-apt 총세대수(703) 일치",
+    "updated_at": "2026-09-18T10:41:05.404190"
+  },
+  "A61205003": {
+    "status": "VERIFIED",
+    "kb_complex_id": "15822",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(629) = K-apt 총세대수(629) 일치",
+    "updated_at": "2026-09-18T10:41:07.625535"
+  },
+  "A61271204": {
+    "status": "VERIFIED",
+    "kb_complex_id": "13778",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(2752) = K-apt 총세대수(2752) 일치",
+    "updated_at": "2026-09-18T10:41:09.837753"
+  },
+  "A61271302": {
+    "status": "VERIFIED",
+    "kb_complex_id": "13943",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(998) = K-apt 총세대수(998) 일치",
+    "updated_at": "2026-09-18T10:41:12.128494"
+  },
+  "A61274815": {
+    "status": "VERIFIED",
+    "kb_complex_id": "6167",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(936) = K-apt 총세대수(936) 일치",
+    "updated_at": "2026-09-18T10:41:14.323439"
+  },
+  "A61278214": {
+    "status": "VERIFIED",
+    "kb_complex_id": "661804",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(846) = K-apt 총세대수(846) 일치",
+    "updated_at": "2026-09-18T10:41:16.578342"
+  },
+  "A61281512": {
+    "status": "VERIFIED",
+    "kb_complex_id": "13558",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(774) = K-apt 총세대수(774) 일치",
+    "updated_at": "2026-09-18T10:41:18.791789"
+  },
+  "A61283211": {
+    "status": "VERIFIED",
+    "kb_complex_id": "6180",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(560) = K-apt 총세대수(560) 일치",
+    "updated_at": "2026-09-18T10:41:21.029560"
+  },
+  "A61283410": {
+    "status": "VERIFIED",
+    "kb_complex_id": "6163",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(536) = K-apt 총세대수(536) 일치",
+    "updated_at": "2026-09-18T10:41:23.231684"
+  },
+  "A61286403": {
+    "status": "VERIFIED",
+    "kb_complex_id": "13952",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1190) = K-apt 총세대수(1190) 일치",
+    "updated_at": "2026-09-18T10:41:25.399448"
+  },
+  "A10022568": {
+    "status": "VERIFIED",
+    "kb_complex_id": "1037915",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(632) = K-apt 총세대수(632) 일치",
+    "updated_at": "2026-09-18T10:41:27.582965"
+  },
+  "A10023542": {
+    "status": "VERIFIED",
+    "kb_complex_id": "42014",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(548) = K-apt 총세대수(548) 일치",
+    "updated_at": "2026-09-18T10:41:29.814661"
+  },
+  "A10025214": {
+    "status": "VERIFIED",
+    "kb_complex_id": "32797",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(504) = K-apt 총세대수(504) 일치",
+    "updated_at": "2026-09-18T10:41:32.051283"
+  },
+  "A10026484": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "혼합 단지 (sale_type=혼합)",
+    "updated_at": "2026-09-18T10:41:34.070892"
+  },
+  "A61202004": {
+    "status": "VERIFIED",
+    "kb_complex_id": "14223",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(564) = K-apt 총세대수(564) 일치",
+    "updated_at": "2026-09-18T10:41:36.403475"
+  },
+  "A61202007": {
+    "status": "VERIFIED",
+    "kb_complex_id": "16104",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1788) = K-apt 총세대수(1788) 일치",
+    "updated_at": "2026-09-18T10:41:38.620345"
+  },
+  "A61202009": {
+    "status": "VERIFIED",
+    "kb_complex_id": "24388+31638",
+    "match_confidence": "exact",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수(1008) 등록 완료 (24388+31638)",
+    "updated_at": "2026-09-21T13:30:00.000000"
+  },
+  "A61202011": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "혼합 단지 (sale_type=혼합)",
+    "updated_at": "2026-09-18T10:41:45.871376"
+  },
+  "A61271101": {
+    "status": "VERIFIED",
+    "kb_complex_id": "6108",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(926) = K-apt 총세대수(926) 일치",
+    "updated_at": "2026-09-18T10:41:48.148194"
+  },
+  "A61274011": {
+    "status": "VERIFIED",
+    "kb_complex_id": "6105",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(624) = K-apt 총세대수(624) 일치",
+    "updated_at": "2026-09-18T10:41:50.369356"
+  },
+  "A61274013": {
+    "status": "VERIFIED",
+    "kb_complex_id": "16105",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1631) = K-apt 총세대수(1631) 일치",
+    "updated_at": "2026-09-18T10:41:52.697961"
+  },
+  "A61274114": {
+    "status": "VERIFIED",
+    "kb_complex_id": "6103",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(892) = K-apt 총세대수(892) 일치",
+    "updated_at": "2026-09-18T10:41:54.863302"
+  },
+  "A61274213": {
+    "status": "PENDING",
+    "kb_complex_id": "6104",
+    "match_confidence": "medium",
+    "attempts": 1,
+    "last_error": "KB 매칭 confidence 부족 (medium)",
+    "updated_at": "2026-09-18T10:42:01.163774"
+  },
+  "A61274508": {
+    "status": "VERIFIED",
+    "kb_complex_id": "6109",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1680) = K-apt 총세대수(1680) 일치",
+    "updated_at": "2026-09-18T10:42:03.371396"
+  },
+  "A61274707": {
+    "status": "VERIFIED",
+    "kb_complex_id": "6101",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1076) = K-apt 총세대수(1076) 일치",
+    "updated_at": "2026-09-18T10:42:06.136811"
+  },
+  "A61278912": {
+    "status": "VERIFIED",
+    "kb_complex_id": "6102",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(750) = K-apt 총세대수(750) 일치",
+    "updated_at": "2026-09-18T10:42:08.837863"
+  },
+  "A61282215": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:42:15.134261"
+  },
+  "A61282705": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:42:20.336408"
+  },
+  "A61286810": {
+    "status": "VERIFIED",
+    "kb_complex_id": "14153",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(548) = K-apt 총세대수(548) 일치",
+    "updated_at": "2026-09-18T10:42:22.525508"
+  },
+  "A10024591": {
+    "status": "VERIFIED",
+    "kb_complex_id": "36116",
+    "match_confidence": "exact",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(828) = K-apt 총세대수(828) 일치",
+    "updated_at": "2026-09-18T10:42:24.777562"
+  },
+  "A10025181": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:42:31.058085"
+  },
+  "A10028037": {
+    "status": "VERIFIED",
+    "kb_complex_id": "22942",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(2369) = K-apt 총세대수(2369) 일치",
+    "updated_at": "2026-09-18T10:42:33.424566"
+  },
+  "A61201007": {
+    "status": "VERIFIED",
+    "kb_complex_id": "12592",
+    "match_confidence": "exact",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(792) = K-apt 총세대수(792) 일치",
+    "updated_at": "2026-09-18T10:42:35.627972"
+  },
+  "A61288603": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "혼합 단지 (sale_type=혼합)",
+    "updated_at": "2026-09-18T10:42:37.647695"
+  },
+  "A61203012": {
+    "status": "VERIFIED",
+    "kb_complex_id": "6143",
+    "match_confidence": "exact",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(512) = K-apt 총세대수(512) 일치",
+    "updated_at": "2026-09-18T10:42:41.021626"
+  },
+  "A61203013": {
+    "status": "VERIFIED",
+    "kb_complex_id": "6145",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(632) = K-apt 총세대수(632) 일치",
+    "updated_at": "2026-09-18T10:42:43.213699"
+  },
+  "A61203014": {
+    "status": "VERIFIED",
+    "kb_complex_id": "6152",
+    "match_confidence": "exact",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(655) = K-apt 총세대수(655) 일치",
+    "updated_at": "2026-09-18T10:42:45.482135"
+  },
+  "A61203015": {
+    "status": "VERIFIED",
+    "kb_complex_id": "6139",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(662) = K-apt 총세대수(662) 일치",
+    "updated_at": "2026-09-18T10:42:48.781257"
+  },
+  "A61203016": {
+    "status": "VERIFIED",
+    "kb_complex_id": "6125",
+    "match_confidence": "exact",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(676) = K-apt 총세대수(676) 일치",
+    "updated_at": "2026-09-18T10:42:52.139152"
+  },
+  "A61203017": {
+    "status": "VERIFIED",
+    "kb_complex_id": "6146",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(679) = K-apt 총세대수(679) 일치",
+    "updated_at": "2026-09-18T10:42:55.510647"
+  },
+  "A61203018": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:43:01.821361"
+  },
+  "A61203019": {
+    "status": "VERIFIED",
+    "kb_complex_id": "6135",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(728) = K-apt 총세대수(728) 일치",
+    "updated_at": "2026-09-18T10:43:05.092174"
+  },
+  "A61203020": {
+    "status": "VERIFIED",
+    "kb_complex_id": "6129",
+    "match_confidence": "exact",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(788) = K-apt 총세대수(788) 일치",
+    "updated_at": "2026-09-18T10:43:08.336223"
+  },
+  "A61203021": {
+    "status": "VERIFIED",
+    "kb_complex_id": "6142",
+    "match_confidence": "exact",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(799) = K-apt 총세대수(799) 일치",
+    "updated_at": "2026-09-18T10:43:10.571827"
+  },
+  "A61203022": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:43:16.845233"
+  },
+  "A61203023": {
+    "status": "VERIFIED",
+    "kb_complex_id": "6154",
+    "match_confidence": "exact",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(842) = K-apt 총세대수(842) 일치",
+    "updated_at": "2026-09-18T10:43:19.047066"
+  },
+  "A61203024": {
+    "status": "VERIFIED",
+    "kb_complex_id": "6126",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(852) = K-apt 총세대수(852) 일치",
+    "updated_at": "2026-09-18T10:43:21.243551"
+  },
+  "A61203025": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:43:27.526870"
+  },
+  "A61203026": {
+    "status": "VERIFIED",
+    "kb_complex_id": "6128",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(896) = K-apt 총세대수(896) 일치",
+    "updated_at": "2026-09-18T10:43:29.748667"
+  },
+  "A61203027": {
+    "status": "VERIFIED",
+    "kb_complex_id": "6140",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(928) = K-apt 총세대수(928) 일치",
+    "updated_at": "2026-09-18T10:43:31.976948"
+  },
+  "A61203028": {
+    "status": "VERIFIED",
+    "kb_complex_id": "6138",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(928) = K-apt 총세대수(928) 일치",
+    "updated_at": "2026-09-18T10:43:34.168614"
+  },
+  "A61203029": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:43:40.483005"
+  },
+  "A61203031": {
+    "status": "VERIFIED",
+    "kb_complex_id": "6158",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1000) = K-apt 총세대수(1000) 일치",
+    "updated_at": "2026-09-18T10:43:42.709177"
+  },
+  "A61203032": {
+    "status": "VERIFIED",
+    "kb_complex_id": "6132",
+    "match_confidence": "exact",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1002) = K-apt 총세대수(1002) 일치",
+    "updated_at": "2026-09-18T10:43:44.919041"
+  },
+  "A61203033": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:43:51.234726"
+  },
+  "A61203034": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:43:57.557009"
+  },
+  "A61203035": {
+    "status": "VERIFIED",
+    "kb_complex_id": "6151",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1358) = K-apt 총세대수(1358) 일치",
+    "updated_at": "2026-09-18T10:43:59.748031"
+  },
+  "A61203036": {
+    "status": "VERIFIED",
+    "kb_complex_id": "6144",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1422) = K-apt 총세대수(1422) 일치",
+    "updated_at": "2026-09-18T10:44:01.947875"
+  },
+  "A61203037": {
+    "status": "VERIFIED",
+    "kb_complex_id": "6131",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1424) = K-apt 총세대수(1424) 일치",
+    "updated_at": "2026-09-18T10:44:04.175314"
+  },
+  "A61203038": {
+    "status": "VERIFIED",
+    "kb_complex_id": "6141",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1721) = K-apt 총세대수(1721) 일치",
+    "updated_at": "2026-09-18T10:44:06.377614"
+  },
+  "A61203039": {
+    "status": "VERIFIED",
+    "kb_complex_id": "6153",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1848) = K-apt 총세대수(1848) 일치",
+    "updated_at": "2026-09-18T10:44:09.670019"
+  },
+  "A61275302": {
+    "status": "VERIFIED",
+    "kb_complex_id": "6127",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(957) = K-apt 총세대수(957) 일치",
+    "updated_at": "2026-09-18T10:44:13.062321"
+  },
+  "A61204001": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "임대 단지 (sale_type=임대)",
+    "updated_at": "2026-09-18T10:44:15.105116"
+  },
+  "A61204002": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "임대 단지 (sale_type=임대)",
+    "updated_at": "2026-09-18T10:44:17.117858"
+  },
+  "A10023440": {
+    "status": "VERIFIED",
+    "kb_complex_id": "47133",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1314) = K-apt 총세대수(1314) 일치",
+    "updated_at": "2026-09-18T10:44:19.500478"
+  },
+  "A10023969": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "혼합 단지 (sale_type=혼합)",
+    "updated_at": "2026-09-18T10:44:21.527701"
+  },
+  "A10024383": {
+    "status": "VERIFIED",
+    "kb_complex_id": "41390",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(513) = K-apt 총세대수(513) 일치",
+    "updated_at": "2026-09-18T10:44:23.732297"
+  },
+  "A60471810": {
+    "status": "PENDING",
+    "kb_complex_id": "24378",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "세대수 불일치 (KB합계=494, K-apt=542, 차이=48)",
+    "updated_at": "2026-09-18T10:44:25.935215"
+  },
+  "A60402003": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:44:32.252096"
+  },
+  "A60474905": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5768",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(533) = K-apt 총세대수(533) 일치",
+    "updated_at": "2026-09-18T10:44:34.447405"
+  },
+  "A60476101": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5770",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1746) = K-apt 총세대수(1746) 일치",
+    "updated_at": "2026-09-18T10:44:36.815564"
+  },
+  "A60476206": {
+    "status": "VERIFIED",
+    "kb_complex_id": "1074880",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(2980) = K-apt 총세대수(2980) 일치",
+    "updated_at": "2026-09-18T10:44:39.098887"
+  },
+  "A10023928": {
+    "status": "VERIFIED",
+    "kb_complex_id": "47792",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(969) = K-apt 총세대수(969) 일치",
+    "updated_at": "2026-09-18T10:44:41.298070"
+  },
+  "A10027236": {
+    "status": "VERIFIED",
+    "kb_complex_id": "29662",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(900) = K-apt 총세대수(900) 일치",
+    "updated_at": "2026-09-18T10:44:43.563846"
+  },
+  "A60403002": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5790",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(505) = K-apt 총세대수(505) 일치",
+    "updated_at": "2026-09-18T10:44:45.767650"
+  },
+  "A60475903": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5785",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(937) = K-apt 총세대수(937) 일치",
+    "updated_at": "2026-09-18T10:44:48.025959"
+  },
+  "A60476805": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5784",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(992) = K-apt 총세대수(992) 일치",
+    "updated_at": "2026-09-18T10:44:50.232271"
+  },
+  "A60483404": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5783",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(937) = K-apt 총세대수(937) 일치",
+    "updated_at": "2026-09-18T10:44:53.490884"
+  },
+  "A10022280": {
+    "status": "VERIFIED",
+    "kb_complex_id": "340360",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1643) = K-apt 총세대수(1643) 일치",
+    "updated_at": "2026-09-18T10:44:56.775094"
+  },
+  "A60474002": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:45:02.012656"
+  },
+  "A60474516": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:45:08.321412"
+  },
+  "A60477315": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5793",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(828) = K-apt 총세대수(828) 일치",
+    "updated_at": "2026-09-18T10:45:10.506191"
+  },
+  "A60484514": {
+    "status": "VERIFIED",
+    "kb_complex_id": "14957",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(650) = K-apt 총세대수(650) 일치",
+    "updated_at": "2026-09-18T10:45:12.709495"
+  },
+  "A60405001": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:45:17.914705"
+  },
+  "A60405002": {
+    "status": "VERIFIED",
+    "kb_complex_id": "25408",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1326) = K-apt 총세대수(1326) 일치",
+    "updated_at": "2026-09-18T10:45:20.157765"
+  },
+  "A60472901": {
+    "status": "PENDING",
+    "kb_complex_id": "5824",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "세대수 불일치 (KB합계=772, K-apt=972, 차이=200)",
+    "updated_at": "2026-09-18T10:45:22.340936"
+  },
+  "A60474307": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5818",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(714) = K-apt 총세대수(714) 일치",
+    "updated_at": "2026-09-18T10:45:24.535596"
+  },
+  "A60475305": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5821",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(570) = K-apt 총세대수(570) 일치",
+    "updated_at": "2026-09-18T10:45:26.731393"
+  },
+  "A60475309": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "임대 단지 (sale_type=임대)",
+    "updated_at": "2026-09-18T10:45:28.756700"
+  },
+  "A60475408": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5817",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(996) = K-apt 총세대수(996) 일치",
+    "updated_at": "2026-09-18T10:45:31.008456"
+  },
+  "A60475411": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "임대 단지 (sale_type=임대)",
+    "updated_at": "2026-09-18T10:45:33.033395"
+  },
+  "A60475412": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5820",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(500) = K-apt 총세대수(500) 일치",
+    "updated_at": "2026-09-18T10:45:36.291782"
+  },
+  "A60475507": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5829",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(546) = K-apt 총세대수(546) 일치",
+    "updated_at": "2026-09-18T10:45:38.493271"
+  },
+  "A60475509": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5835",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(640) = K-apt 총세대수(640) 일치",
+    "updated_at": "2026-09-18T10:45:40.780254"
+  },
+  "A60475612": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5816",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(2181) = K-apt 총세대수(2181) 일치",
+    "updated_at": "2026-09-18T10:45:44.053848"
+  },
+  "A60475710": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5815",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1669) = K-apt 총세대수(1669) 일치",
+    "updated_at": "2026-09-18T10:45:47.327935"
+  },
+  "A60476511": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5826",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(987) = K-apt 총세대수(987) 일치",
+    "updated_at": "2026-09-18T10:45:49.520261"
+  },
+  "A60476604": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5822",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(520) = K-apt 총세대수(520) 일치",
+    "updated_at": "2026-09-18T10:45:51.774768"
+  },
+  "A60482013": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:45:58.086362"
+  },
+  "A60482708": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5827",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(546) = K-apt 총세대수(546) 일치",
+    "updated_at": "2026-09-18T10:46:00.311462"
+  },
+  "A60482712": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "임대 단지 (sale_type=임대)",
+    "updated_at": "2026-09-18T10:46:02.332734"
+  },
+  "A10024185": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "임대 단지 (sale_type=임대)",
+    "updated_at": "2026-09-18T10:46:04.358646"
+  },
+  "A10026651": {
+    "status": "VERIFIED",
+    "kb_complex_id": "31341",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(946) = K-apt 총세대수(946) 일치",
+    "updated_at": "2026-09-18T10:46:06.689098"
+  },
+  "A10027306": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:46:12.939507"
+  },
+  "A60481703": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5837",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(584) = K-apt 총세대수(584) 일치",
+    "updated_at": "2026-09-18T10:46:15.177570"
+  },
+  "A60480608": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5845",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(634) = K-apt 총세대수(634) 일치",
+    "updated_at": "2026-09-18T10:46:17.365685"
+  },
+  "A60976902": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5302",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(612) = K-apt 총세대수(612) 일치",
+    "updated_at": "2026-09-18T10:46:20.641342"
+  },
+  "A10027325": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:46:25.902887"
+  },
+  "A60931004": {
+    "status": "VERIFIED",
+    "kb_complex_id": "21533",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(809) = K-apt 총세대수(809) 일치",
+    "updated_at": "2026-09-18T10:46:28.113191"
+  },
+  "A60931207": {
+    "status": "VERIFIED",
+    "kb_complex_id": "14004",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1926) = K-apt 총세대수(1926) 일치",
+    "updated_at": "2026-09-18T10:46:30.318499"
+  },
+  "A60971101": {
+    "status": "VERIFIED",
+    "kb_complex_id": "14003",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1728) = K-apt 총세대수(1728) 일치",
+    "updated_at": "2026-09-18T10:46:32.556590"
+  },
+  "A60975204": {
+    "status": "VERIFIED",
+    "kb_complex_id": "293624",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(616) = K-apt 총세대수(616) 일치",
+    "updated_at": "2026-09-18T10:46:35.797566"
+  },
+  "A60976105": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5268",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(795) = K-apt 총세대수(795) 일치",
+    "updated_at": "2026-09-18T10:46:37.998869"
+  },
+  "A60980506": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5263",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1118) = K-apt 총세대수(1118) 일치",
+    "updated_at": "2026-09-18T10:46:40.310565"
+  },
+  "A10026780": {
+    "status": "VERIFIED",
+    "kb_complex_id": "29934",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1938) = K-apt 총세대수(1938) 일치",
+    "updated_at": "2026-09-18T10:46:42.557509"
+  },
+  "A60939002": {
+    "status": "VERIFIED",
+    "kb_complex_id": "21536",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1306) = K-apt 총세대수(1306) 일치",
+    "updated_at": "2026-09-18T10:46:44.775158"
+  },
+  "A60939003": {
+    "status": "VERIFIED",
+    "kb_complex_id": "20050",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1539) = K-apt 총세대수(1539) 일치",
+    "updated_at": "2026-09-18T10:46:46.993226"
+  },
+  "A60939004": {
+    "status": "VERIFIED",
+    "kb_complex_id": "19915",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(514) = K-apt 총세대수(514) 일치",
+    "updated_at": "2026-09-18T10:46:49.225494"
+  },
+  "A60939005": {
+    "status": "VERIFIED",
+    "kb_complex_id": "25090",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(565) = K-apt 총세대수(565) 일치",
+    "updated_at": "2026-09-18T10:46:51.419242"
+  },
+  "A10024226": {
+    "status": "VERIFIED",
+    "kb_complex_id": "39445",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(610) = K-apt 총세대수(610) 일치",
+    "updated_at": "2026-09-18T10:46:53.685719"
+  },
+  "A60932003": {
+    "status": "VERIFIED",
+    "kb_complex_id": "15109",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(540) = K-apt 총세대수(540) 일치",
+    "updated_at": "2026-09-18T10:46:55.873183"
+  },
+  "A60970301": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5281",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1270) = K-apt 총세대수(1270) 일치",
+    "updated_at": "2026-09-18T10:46:58.109691"
+  },
+  "A60975303": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5275",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1408) = K-apt 총세대수(1408) 일치",
+    "updated_at": "2026-09-18T10:47:00.377618"
+  },
+  "A60975404": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5276",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(990) = K-apt 총세대수(990) 일치",
+    "updated_at": "2026-09-18T10:47:02.603213"
+  },
+  "A60975502": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5277",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1084) = K-apt 총세대수(1084) 일치",
+    "updated_at": "2026-09-18T10:47:05.862727"
+  },
+  "A60976501": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "임대 단지 (sale_type=임대)",
+    "updated_at": "2026-09-18T10:47:07.879910"
+  },
+  "A60976502": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5280",
+    "match_confidence": "exact",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수(735) 등록 완료 (5280)",
+    "updated_at": "2026-09-21T13:30:00.000000"
+  },
+  "A60982103": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5278",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(552) = K-apt 총세대수(552) 일치",
+    "updated_at": "2026-09-18T10:47:16.373090"
+  },
+  "A10020020": {
+    "status": "VERIFIED",
+    "kb_complex_id": "1025812",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(972) = K-apt 총세대수(972) 일치",
+    "updated_at": "2026-09-18T10:47:18.709963"
+  },
+  "A10020264": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:47:24.987985"
+  },
+  "A10020378": {
+    "status": "PENDING",
+    "kb_complex_id": "1044089",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "세대수 불일치 (KB합계=886, K-apt=895, 차이=9)",
+    "updated_at": "2026-09-18T10:47:27.206207"
+  },
+  "A10020569": {
+    "status": "VERIFIED",
+    "kb_complex_id": "659248",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(972) = K-apt 총세대수(972) 일치",
+    "updated_at": "2026-09-18T10:47:29.464710"
+  },
+  "A10020645": {
+    "status": "VERIFIED",
+    "kb_complex_id": "545730",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(856) = K-apt 총세대수(856) 일치",
+    "updated_at": "2026-09-18T10:47:31.670440"
+  },
+  "A10020649": {
+    "status": "VERIFIED",
+    "kb_complex_id": "553270",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(953) = K-apt 총세대수(953) 일치",
+    "updated_at": "2026-09-18T10:47:33.916557"
+  },
+  "A10022541": {
+    "status": "VERIFIED",
+    "kb_complex_id": "432314",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(554) = K-apt 총세대수(554) 일치",
+    "updated_at": "2026-09-18T10:47:36.090762"
+  },
+  "A10022696": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:47:42.402670"
+  },
+  "A10024664": {
+    "status": "VERIFIED",
+    "kb_complex_id": "39467",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1530) = K-apt 총세대수(1530) 일치",
+    "updated_at": "2026-09-18T10:47:44.632042"
+  },
+  "A10024697": {
+    "status": "VERIFIED",
+    "kb_complex_id": "39465",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1406) = K-apt 총세대수(1406) 일치",
+    "updated_at": "2026-09-18T10:47:46.855570"
+  },
+  "A10025776": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:47:52.090761"
+  },
+  "A10025923": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "혼합 단지 (sale_type=혼합)",
+    "updated_at": "2026-09-18T10:47:54.102097"
+  },
+  "A10025932": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "임대 단지 (sale_type=임대)",
+    "updated_at": "2026-09-18T10:47:56.122860"
+  },
+  "A10026157": {
+    "status": "VERIFIED",
+    "kb_complex_id": "33649",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1201) = K-apt 총세대수(1201) 일치",
+    "updated_at": "2026-09-18T10:47:58.314826"
+  },
+  "A10026445": {
+    "status": "VERIFIED",
+    "kb_complex_id": "30511",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(750) = K-apt 총세대수(750) 일치",
+    "updated_at": "2026-09-18T10:48:00.591740"
+  },
+  "A10027139": {
+    "status": "VERIFIED",
+    "kb_complex_id": "29765",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(694) = K-apt 총세대수(694) 일치",
+    "updated_at": "2026-09-18T10:48:02.858225"
+  },
+  "A10027280": {
+    "status": "VERIFIED",
+    "kb_complex_id": "29143",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1664) = K-apt 총세대수(1664) 일치",
+    "updated_at": "2026-09-18T10:48:05.054612"
+  },
+  "A10027282": {
+    "status": "VERIFIED",
+    "kb_complex_id": "29576",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1033) = K-apt 총세대수(1033) 일치",
+    "updated_at": "2026-09-18T10:48:07.254000"
+  },
+  "A10027581": {
+    "status": "VERIFIED",
+    "kb_complex_id": "28808",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(600) = K-apt 총세대수(600) 일치",
+    "updated_at": "2026-09-18T10:48:09.471528"
+  },
+  "A10027621": {
+    "status": "VERIFIED",
+    "kb_complex_id": "28807",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(670) = K-apt 총세대수(670) 일치",
+    "updated_at": "2026-09-18T10:48:11.709787"
+  },
+  "A10027656": {
+    "status": "VERIFIED",
+    "kb_complex_id": "27635",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(737) = K-apt 총세대수(737) 일치",
+    "updated_at": "2026-09-18T10:48:13.905805"
+  },
+  "A10027698": {
+    "status": "VERIFIED",
+    "kb_complex_id": "28794",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(642) = K-apt 총세대수(642) 일치",
+    "updated_at": "2026-09-18T10:48:16.145831"
+  },
+  "A10027918": {
+    "status": "VERIFIED",
+    "kb_complex_id": "27120",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(850) = K-apt 총세대수(850) 일치",
+    "updated_at": "2026-09-18T10:48:18.367668"
+  },
+  "A10027953": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:48:24.713992"
+  },
+  "A10028117": {
+    "status": "PENDING",
+    "kb_complex_id": "27834",
+    "match_confidence": "medium",
+    "attempts": 1,
+    "last_error": "KB 매칭 confidence 부족 (medium)",
+    "updated_at": "2026-09-18T10:48:29.973572"
+  },
+  "A61820001": {
+    "status": "VERIFIED",
+    "kb_complex_id": "15912",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1122) = K-apt 총세대수(1122) 일치",
+    "updated_at": "2026-09-18T10:48:32.186665"
+  },
+  "A61870404": {
+    "status": "VERIFIED",
+    "kb_complex_id": "16015",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1112) = K-apt 총세대수(1112) 일치",
+    "updated_at": "2026-09-18T10:48:34.440355"
+  },
+  "A61870405": {
+    "status": "VERIFIED",
+    "kb_complex_id": "16014",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1102) = K-apt 총세대수(1102) 일치",
+    "updated_at": "2026-09-18T10:48:36.646561"
+  },
+  "A61870406": {
+    "status": "VERIFIED",
+    "kb_complex_id": "16013",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(652) = K-apt 총세대수(652) 일치",
+    "updated_at": "2026-09-18T10:48:39.911638"
+  },
+  "A61870410": {
+    "status": "VERIFIED",
+    "kb_complex_id": "24705",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1256) = K-apt 총세대수(1256) 일치",
+    "updated_at": "2026-09-18T10:48:42.137657"
+  },
+  "A61870411": {
+    "status": "VERIFIED",
+    "kb_complex_id": "27031",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(841) = K-apt 총세대수(841) 일치",
+    "updated_at": "2026-09-18T10:48:44.323488"
+  },
+  "A61881402": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:48:49.537009"
+  },
+  "A10025154": {
+    "status": "VERIFIED",
+    "kb_complex_id": "319970",
+    "match_confidence": "exact",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수(699) 등록 완료 (319970)",
+    "updated_at": "2026-09-21T13:30:00.000000"
+  },
+  "A10027026": {
+    "status": "VERIFIED",
+    "kb_complex_id": "30234",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1013) = K-apt 총세대수(1013) 일치",
+    "updated_at": "2026-09-18T10:48:58.079917"
+  },
+  "A10028069": {
+    "status": "VERIFIED",
+    "kb_complex_id": "27115",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1277) = K-apt 총세대수(1277) 일치",
+    "updated_at": "2026-09-18T10:49:00.304458"
+  },
+  "A61823001": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "임대 단지 (sale_type=임대)",
+    "updated_at": "2026-09-18T10:49:02.327738"
+  },
+  "A61823002": {
+    "status": "VERIFIED",
+    "kb_complex_id": "25699",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1111) = K-apt 총세대수(1111) 일치",
+    "updated_at": "2026-09-18T10:49:04.549463"
+  },
+  "A61829001": {
+    "status": "VERIFIED",
+    "kb_complex_id": "13789",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(671) = K-apt 총세대수(671) 일치",
+    "updated_at": "2026-09-18T10:49:06.809439"
+  },
+  "A61872201": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "혼합 단지 (sale_type=혼합)",
+    "updated_at": "2026-09-18T10:49:08.845130"
+  },
+  "A61872202": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "혼합 단지 (sale_type=혼합)",
+    "updated_at": "2026-09-18T10:49:10.866435"
+  },
+  "A61872203": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "임대 단지 (sale_type=임대)",
+    "updated_at": "2026-09-18T10:49:12.890005"
+  },
+  "A61872204": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "임대 단지 (sale_type=임대)",
+    "updated_at": "2026-09-18T10:49:14.906372"
+  },
+  "A10022890": {
+    "status": "VERIFIED",
+    "kb_complex_id": "1926321+1926323+1926459+1926460+1926461",
+    "match_confidence": "exact",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(4470) = K-apt 총세대수(4470) 일치 (1926321+1926323+1926459+1926460+1926461)",
+    "updated_at": "2026-09-21T09:30:00.000000"
+  },
+  "A10025258": {
+    "status": "VERIFIED",
+    "kb_complex_id": "46817",
+    "match_confidence": "exact",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수(352) 등록 완료 (46817)",
+    "updated_at": "2026-09-21T13:30:00.000000"
+  },
+  "A10025950": {
+    "status": "VERIFIED",
+    "kb_complex_id": "33306",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(878) = K-apt 총세대수(878) 일치",
+    "updated_at": "2026-09-18T10:49:24.422795"
+  },
+  "A61175804": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5956",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(618) = K-apt 총세대수(618) 일치",
+    "updated_at": "2026-09-18T10:49:27.702104"
+  },
+  "A61176513": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5973",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1127) = K-apt 총세대수(1127) 일치",
+    "updated_at": "2026-09-18T10:49:29.937488"
+  },
+  "A61176612": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5974",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1110) = K-apt 총세대수(1110) 일치",
+    "updated_at": "2026-09-18T10:49:32.146568"
+  },
+  "A61176709": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:49:38.441113"
+  },
+  "A61176911": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5965",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(540) = K-apt 총세대수(540) 일치",
+    "updated_at": "2026-09-18T10:49:40.700484"
+  },
+  "A61177214": {
+    "status": "VERIFIED",
+    "kb_complex_id": "13867",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1156) = K-apt 총세대수(1156) 일치",
+    "updated_at": "2026-09-18T10:49:42.926058"
+  },
+  "A61180503": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5981",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1330) = K-apt 총세대수(1330) 일치",
+    "updated_at": "2026-09-18T10:49:45.144349"
+  },
+  "A10020498": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "임대 단지 (sale_type=임대)",
+    "updated_at": "2026-09-18T10:49:47.175775"
+  },
+  "A10022365": {
+    "status": "VERIFIED",
+    "kb_complex_id": "349751",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(612) = K-apt 총세대수(612) 일치",
+    "updated_at": "2026-09-18T10:49:49.359005"
+  },
+  "A10023014": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "임대 단지 (sale_type=임대)",
+    "updated_at": "2026-09-18T10:49:51.384381"
+  },
+  "A10023526": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "혼합 단지 (sale_type=혼합)",
+    "updated_at": "2026-09-18T10:49:53.405071"
+  },
+  "A10024627": {
+    "status": "VERIFIED",
+    "kb_complex_id": "39355",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1230) = K-apt 총세대수(1230) 일치",
+    "updated_at": "2026-09-18T10:49:55.632791"
+  },
+  "A10025135": {
+    "status": "VERIFIED",
+    "kb_complex_id": "33371",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(740) = K-apt 총세대수(740) 일치",
+    "updated_at": "2026-09-18T10:49:57.847550"
+  },
+  "A10025559": {
+    "status": "VERIFIED",
+    "kb_complex_id": "32992",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1071) = K-apt 총세대수(1071) 일치",
+    "updated_at": "2026-09-18T10:50:00.050865"
+  },
+  "A10025994": {
+    "status": "VERIFIED",
+    "kb_complex_id": "31272",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1168) = K-apt 총세대수(1168) 일치",
+    "updated_at": "2026-09-18T10:50:02.310759"
+  },
+  "A10026902": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:50:07.609652"
+  },
+  "A10027085": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:50:12.842474"
+  },
+  "A10027159": {
+    "status": "PENDING",
+    "kb_complex_id": "1061231",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "세대수 불일치 (KB합계=475, K-apt=521, 차이=46)",
+    "updated_at": "2026-09-18T10:50:15.052371"
+  },
+  "A10027937": {
+    "status": "VERIFIED",
+    "kb_complex_id": "26892",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1758) = K-apt 총세대수(1758) 일치",
+    "updated_at": "2026-09-18T10:50:17.314182"
+  },
+  "A10028028": {
+    "status": "VERIFIED",
+    "kb_complex_id": "26647",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(560) = K-apt 총세대수(560) 일치",
+    "updated_at": "2026-09-18T10:50:19.575265"
+  },
+  "A61175110": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5984",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(2038) = K-apt 총세대수(2038) 일치",
+    "updated_at": "2026-09-18T10:50:21.871423"
+  },
+  "A61175209": {
+    "status": "VERIFIED",
+    "kb_complex_id": "6019+6008+6009+6010+6011",
+    "match_confidence": "exact",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수(1452) 등록 완료 (6019+6008+6009+6010+6011)",
+    "updated_at": "2026-09-21T13:30:00.000000"
+  },
+  "A61175901": {
+    "status": "VERIFIED",
+    "kb_complex_id": "16103",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1598) = K-apt 총세대수(1598) 일치",
+    "updated_at": "2026-09-18T10:50:30.444096"
+  },
+  "A61176308": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5987",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(576) = K-apt 총세대수(576) 일치",
+    "updated_at": "2026-09-18T10:50:33.704482"
+  },
+  "A61176411": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5994",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(2302) = K-apt 총세대수(2302) 일치",
+    "updated_at": "2026-09-18T10:50:35.929746"
+  },
+  "A10025433": {
+    "status": "VERIFIED",
+    "kb_complex_id": "32016",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1147) = K-apt 총세대수(1147) 일치",
+    "updated_at": "2026-09-18T10:50:38.158624"
+  },
+  "A61313001": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5946",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(672) = K-apt 총세대수(672) 일치",
+    "updated_at": "2026-09-18T10:50:41.396452"
+  },
+  "A61313002": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:50:46.625644"
+  },
+  "A61313203": {
+    "status": "VERIFIED",
+    "kb_complex_id": "13555",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(530) = K-apt 총세대수(530) 일치",
+    "updated_at": "2026-09-18T10:50:48.837022"
+  },
+  "A61375702": {
+    "status": "VERIFIED",
+    "kb_complex_id": "426731",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1180) = K-apt 총세대수(1180) 일치",
+    "updated_at": "2026-09-18T10:50:52.146534"
+  },
+  "A61383101": {
+    "status": "VERIFIED",
+    "kb_complex_id": "13128",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(684) = K-apt 총세대수(684) 일치",
+    "updated_at": "2026-09-18T10:50:54.389517"
+  },
+  "A10025075": {
+    "status": "VERIFIED",
+    "kb_complex_id": "38319+38320+38321+38322",
+    "match_confidence": "exact",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1038) = K-apt 총세대수(1038) 일치 (38319+38320+38321+38322)",
+    "updated_at": "2026-09-21T09:30:00.000000"
+  },
+  "A10026760": {
+    "status": "VERIFIED",
+    "kb_complex_id": "29371",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(840) = K-apt 총세대수(840) 일치",
+    "updated_at": "2026-09-18T10:51:01.921524"
+  },
+  "A61377105": {
+    "status": "VERIFIED",
+    "kb_complex_id": "12212",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1082) = K-apt 총세대수(1082) 일치",
+    "updated_at": "2026-09-18T10:51:04.198874"
+  },
+  "A61377106": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "혼합 단지 (sale_type=혼합)",
+    "updated_at": "2026-09-18T10:51:06.244057"
+  },
+  "A61377204": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:51:12.565232"
+  },
+  "A10020002": {
+    "status": "PENDING",
+    "kb_complex_id": "1849534",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "세대수 불일치 (KB합계=1169, K-apt=1233, 차이=64)",
+    "updated_at": "2026-09-18T10:51:14.830359"
+  },
+  "A10024695": {
+    "status": "VERIFIED",
+    "kb_complex_id": "39499",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(971) = K-apt 총세대수(971) 일치",
+    "updated_at": "2026-09-18T10:51:17.029548"
+  },
+  "A61310007": {
+    "status": "VERIFIED",
+    "kb_complex_id": "25696",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(928) = K-apt 총세대수(928) 일치",
+    "updated_at": "2026-09-18T10:51:20.293761"
+  },
+  "A61375202": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5926",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(589) = K-apt 총세대수(589) 일치",
+    "updated_at": "2026-09-18T10:51:22.587647"
+  },
+  "A61375603": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5927",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1038) = K-apt 총세대수(1038) 일치",
+    "updated_at": "2026-09-18T10:51:24.797688"
+  },
+  "A10023420": {
+    "status": "VERIFIED",
+    "kb_complex_id": "730329",
+    "match_confidence": "exact",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(913) = K-apt 총세대수(913) 일치",
+    "updated_at": "2026-09-18T10:51:26.993335"
+  },
+  "A10023607": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "혼합 단지 (sale_type=혼합)",
+    "updated_at": "2026-09-18T10:51:29.017078"
+  },
+  "A61301003": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5918",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(3060) = K-apt 총세대수(3060) 일치",
+    "updated_at": "2026-09-18T10:51:32.373684"
+  },
+  "A61381805": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:51:37.600357"
+  },
+  "A61381903": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:51:43.884233"
+  },
+  "A61775202": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5732",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1080) = K-apt 총세대수(1080) 일치",
+    "updated_at": "2026-09-18T10:51:47.124355"
+  },
+  "A61775307": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "임대 단지 (sale_type=임대)",
+    "updated_at": "2026-09-18T10:51:49.154950"
+  },
+  "A61775401": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:51:54.395902"
+  },
+  "A61775706": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5730",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(796) = K-apt 총세대수(796) 일치",
+    "updated_at": "2026-09-18T10:51:56.627281"
+  },
+  "A61781706": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "임대 단지 (sale_type=임대)",
+    "updated_at": "2026-09-18T10:51:58.652997"
+  },
+  "A61781805": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5731",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(780) = K-apt 총세대수(780) 일치",
+    "updated_at": "2026-09-18T10:52:00.834454"
+  },
+  "A61781807": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5734",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1110) = K-apt 총세대수(1110) 일치",
+    "updated_at": "2026-09-18T10:52:04.125662"
+  },
+  "A61781808": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5741",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1620) = K-apt 총세대수(1620) 일치",
+    "updated_at": "2026-09-18T10:52:06.329226"
+  },
+  "A10023104": {
+    "status": "PENDING",
+    "kb_complex_id": "49064",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "세대수 불일치 (KB합계=1492, K-apt=1572, 차이=80)",
+    "updated_at": "2026-09-18T10:52:08.560742"
+  },
+  "A61777903": {
+    "status": "VERIFIED",
+    "kb_complex_id": "25060",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(517) = K-apt 총세대수(517) 일치",
+    "updated_at": "2026-09-18T10:52:10.888371"
+  },
+  "A61781005": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5715",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(780) = K-apt 총세대수(780) 일치",
+    "updated_at": "2026-09-18T10:52:14.118463"
+  },
+  "A10023544": {
+    "status": "VERIFIED",
+    "kb_complex_id": "48448",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(874) = K-apt 총세대수(874) 일치",
+    "updated_at": "2026-09-18T10:52:16.350294"
+  },
+  "A61776003": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:52:22.727793"
+  },
+  "A61780802": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5725",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(600) = K-apt 총세대수(600) 일치",
+    "updated_at": "2026-09-18T10:52:24.894793"
+  },
+  "A10028191": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "임대 단지 (sale_type=임대)",
+    "updated_at": "2026-09-18T10:52:26.926302"
+  },
+  "A10023571": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "혼합 단지 (sale_type=혼합)",
+    "updated_at": "2026-09-18T10:52:28.957831"
+  },
+  "A10026975": {
+    "status": "VERIFIED",
+    "kb_complex_id": "29759",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(839) = K-apt 총세대수(839) 일치",
+    "updated_at": "2026-09-18T10:52:31.185516"
+  },
+  "A61701002": {
+    "status": "VERIFIED",
+    "kb_complex_id": "13182",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(988) = K-apt 총세대수(988) 일치",
+    "updated_at": "2026-09-18T10:52:33.439697"
+  },
+  "A61776104": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:52:39.824034"
+  },
+  "A61776303": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5670",
+    "match_confidence": "exact",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수(1962) 등록 완료 (5670)",
+    "updated_at": "2026-09-21T13:30:00.000000"
+  },
+  "A61778608": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5686",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(831) = K-apt 총세대수(831) 일치",
+    "updated_at": "2026-09-18T10:52:48.377285"
+  },
+  "A61783202": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:52:54.675568"
+  },
+  "A61783203": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:53:00.947765"
+  },
+  "A61783402": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:53:07.268039"
+  },
+  "A61776907": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5690",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(730) = K-apt 총세대수(730) 일치",
+    "updated_at": "2026-09-18T10:53:10.615657"
+  },
+  "A61777010": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5692",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(893) = K-apt 총세대수(893) 일치",
+    "updated_at": "2026-09-18T10:53:12.843837"
+  },
+  "A61777105": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5698",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(526) = K-apt 총세대수(526) 일치",
+    "updated_at": "2026-09-18T10:53:15.003727"
+  },
+  "A61777312": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5691",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(998) = K-apt 총세대수(998) 일치",
+    "updated_at": "2026-09-18T10:53:17.223518"
+  },
+  "A61777409": {
+    "status": "PENDING",
+    "kb_complex_id": "5701",
+    "match_confidence": "medium",
+    "attempts": 1,
+    "last_error": "KB 매칭 confidence 부족 (medium)",
+    "updated_at": "2026-09-18T10:53:22.473535"
+  },
+  "A61777410": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "임대 단지 (sale_type=임대)",
+    "updated_at": "2026-09-18T10:53:24.498234"
+  },
+  "A61777411": {
+    "status": "VERIFIED",
+    "kb_complex_id": "25714",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(511) = K-apt 총세대수(511) 일치",
+    "updated_at": "2026-09-18T10:53:26.753512"
+  },
+  "A61777711": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5702",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(999) = K-apt 총세대수(999) 일치",
+    "updated_at": "2026-09-18T10:53:30.042521"
+  },
+  "A61777806": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5697",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(549) = K-apt 총세대수(549) 일치",
+    "updated_at": "2026-09-18T10:53:32.239847"
+  },
+  "A61784208": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5693",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(763) = K-apt 총세대수(763) 일치",
+    "updated_at": "2026-09-18T10:53:34.480078"
+  },
+  "A61784213": {
+    "status": "VERIFIED",
+    "kb_complex_id": "15573",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1110) = K-apt 총세대수(1110) 일치",
+    "updated_at": "2026-09-18T10:53:36.734834"
+  },
+  "A61776508": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5707",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(741) = K-apt 총세대수(741) 일치",
+    "updated_at": "2026-09-18T10:53:38.931006"
+  },
+  "A61776509": {
+    "status": "VERIFIED",
+    "kb_complex_id": "21574",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1852) = K-apt 총세대수(1852) 일치",
+    "updated_at": "2026-09-18T10:53:41.146613"
+  },
+  "A61776710": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5711",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1016) = K-apt 총세대수(1016) 일치",
+    "updated_at": "2026-09-18T10:53:43.402153"
+  },
+  "A61776811": {
+    "status": "VERIFIED",
+    "kb_complex_id": "5709",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1158) = K-apt 총세대수(1158) 일치",
+    "updated_at": "2026-09-18T10:53:46.649668"
+  },
+  "A61778507": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:53:51.859345"
+  },
+  "A61990514": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:53:58.093353"
+  },
+  "A61970415": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "임대 단지 (sale_type=임대)",
+    "updated_at": "2026-09-18T10:54:00.113411"
+  },
+  "A61990108": {
+    "status": "VERIFIED",
+    "kb_complex_id": "22088",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(620) = K-apt 총세대수(620) 일치",
+    "updated_at": "2026-09-18T10:54:02.342130"
+  },
+  "A61970311": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:54:08.596239"
+  },
+  "A10023692": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "혼합 단지 (sale_type=혼합)",
+    "updated_at": "2026-09-18T10:54:10.614003"
+  },
+  "A61970112": {
+    "status": "VERIFIED",
+    "kb_complex_id": "6230",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(930) = K-apt 총세대수(930) 일치",
+    "updated_at": "2026-09-18T10:54:12.825949"
+  },
+  "A61970210": {
+    "status": "VERIFIED",
+    "kb_complex_id": "12117",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(524) = K-apt 총세대수(524) 일치",
+    "updated_at": "2026-09-18T10:54:15.077775"
+  },
+  "A61990609": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:54:21.349281"
+  },
+  "A10026865": {
+    "status": "VERIFIED",
+    "kb_complex_id": "31050",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(549) = K-apt 총세대수(549) 일치",
+    "updated_at": "2026-09-18T10:54:23.595755"
+  },
+  "A61990213": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "임대 단지 (sale_type=임대)",
+    "updated_at": "2026-09-18T10:54:25.643188"
+  },
+  "A10028142": {
+    "status": "VERIFIED",
+    "kb_complex_id": "28940",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(560) = K-apt 총세대수(560) 일치",
+    "updated_at": "2026-09-18T10:54:27.830183"
+  },
+  "A61996111": {
+    "status": "VERIFIED",
+    "kb_complex_id": "25254",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1249) = K-apt 총세대수(1249) 일치",
+    "updated_at": "2026-09-18T10:54:30.032081"
+  },
+  "A61996102": {
+    "status": "VERIFIED",
+    "kb_complex_id": "22222",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(588) = K-apt 총세대수(588) 일치",
+    "updated_at": "2026-09-18T10:54:32.222181"
+  },
+  "A61996105": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "임대 단지 (sale_type=임대)",
+    "updated_at": "2026-09-18T10:54:34.257359"
+  },
+  "A61996108": {
+    "status": "VERIFIED",
+    "kb_complex_id": "25049",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1028) = K-apt 총세대수(1028) 일치",
+    "updated_at": "2026-09-18T10:54:36.458131"
+  },
+  "A61996112": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "임대 단지 (sale_type=임대)",
+    "updated_at": "2026-09-18T10:54:38.477449"
+  },
+  "A10025749": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "임대 단지 (sale_type=임대)",
+    "updated_at": "2026-09-18T10:54:40.496321"
+  },
+  "A10026813": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "임대 단지 (sale_type=임대)",
+    "updated_at": "2026-09-18T10:54:42.515363"
+  },
+  "A10028081": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:54:48.823483"
+  },
+  "A61990110": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:54:54.021031"
+  },
+  "A61996103": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "임대 단지 (sale_type=임대)",
+    "updated_at": "2026-09-18T10:54:56.044919"
+  },
+  "A61996106": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:55:01.244867"
+  },
+  "A61996109": {
+    "status": "VERIFIED",
+    "kb_complex_id": "21142",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(911) = K-apt 총세대수(911) 일치",
+    "updated_at": "2026-09-18T10:55:03.448991"
+  },
+  "A61996110": {
+    "status": "VERIFIED",
+    "kb_complex_id": "25048",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1638) = K-apt 총세대수(1638) 일치",
+    "updated_at": "2026-09-18T10:55:05.640051"
+  },
+  "A61996114": {
+    "status": "VERIFIED",
+    "kb_complex_id": "25763",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1500) = K-apt 총세대수(1500) 일치",
+    "updated_at": "2026-09-18T10:55:07.843972"
+  },
+  "A61996204": {
+    "status": "VERIFIED",
+    "kb_complex_id": "15938",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(690) = K-apt 총세대수(690) 일치",
+    "updated_at": "2026-09-18T10:55:10.067116"
+  },
+  "A10027503": {
+    "status": "PENDING",
+    "kb_complex_id": "431758",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "세대수 불일치 (KB합계=828, K-apt=830, 차이=2)",
+    "updated_at": "2026-09-18T10:55:12.297862"
+  },
+  "A61996005": {
+    "status": "VERIFIED",
+    "kb_complex_id": "15934",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(761) = K-apt 총세대수(761) 일치",
+    "updated_at": "2026-09-18T10:55:14.504017"
+  },
+  "A61996107": {
+    "status": "VERIFIED",
+    "kb_complex_id": "24325",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1758) = K-apt 총세대수(1758) 일치",
+    "updated_at": "2026-09-18T10:55:16.723337"
+  },
+  "A61996115": {
+    "status": "PENDING",
+    "kb_complex_id": "32684",
+    "match_confidence": "medium",
+    "attempts": 1,
+    "last_error": "KB 매칭 confidence 부족 (medium)",
+    "updated_at": "2026-09-18T10:55:22.001059"
+  },
+  "A61996303": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:55:27.227963"
+  },
+  "A61996306": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "KB 단지 매칭 실패 (후보 0개)",
+    "updated_at": "2026-09-18T10:55:32.447696"
+  },
+  "A61996308": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "임대 단지 (sale_type=임대)",
+    "updated_at": "2026-09-18T10:55:34.465199"
+  },
+  "A10020313": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "임대 단지 (sale_type=임대)",
+    "updated_at": "2026-09-18T10:55:36.488266"
+  },
+  "A10023283": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "임대 단지 (sale_type=임대)",
+    "updated_at": "2026-09-18T10:55:38.576950"
+  },
+  "A10023778": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "임대 단지 (sale_type=임대)",
+    "updated_at": "2026-09-18T10:55:40.613742"
+  },
+  "A10023912": {
+    "status": "PENDING",
+    "kb_complex_id": "39641",
+    "match_confidence": "medium",
+    "attempts": 1,
+    "last_error": "KB 매칭 confidence 부족 (medium)",
+    "updated_at": "2026-09-18T10:55:45.946303"
+  },
+  "A10024606": {
+    "status": "VERIFIED",
+    "kb_complex_id": "42210",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(518) = K-apt 총세대수(518) 일치",
+    "updated_at": "2026-09-18T10:55:48.152367"
+  },
+  "A10024909": {
+    "status": "VERIFIED",
+    "kb_complex_id": "37605",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(1059) = K-apt 총세대수(1059) 일치",
+    "updated_at": "2026-09-18T10:55:50.379782"
+  },
+  "A10024919": {
+    "status": "VERIFIED",
+    "kb_complex_id": "39543",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(701) = K-apt 총세대수(701) 일치",
+    "updated_at": "2026-09-18T10:55:52.564145"
+  },
+  "A10024933": {
+    "status": "VERIFIED",
+    "kb_complex_id": "39023",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(653) = K-apt 총세대수(653) 일치",
+    "updated_at": "2026-09-18T10:55:54.770052"
+  },
+  "A10025042": {
+    "status": "VERIFIED",
+    "kb_complex_id": "37602",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(913) = K-apt 총세대수(913) 일치",
+    "updated_at": "2026-09-18T10:55:56.988979"
+  },
+  "A10024476": {
+    "status": "VERIFIED",
+    "kb_complex_id": "41423",
+    "match_confidence": "high",
+    "attempts": 1,
+    "last_error": "KB 평형별 세대수 합계(917) = K-apt 총세대수(917) 일치",
+    "updated_at": "2026-09-18T10:55:59.278934"
+  },
+  "A61987101": {
+    "status": "PENDING",
+    "kb_complex_id": "",
+    "match_confidence": "unmatched",
+    "attempts": 1,
+    "last_error": "임대 단지 (sale_type=임대)",
+    "updated_at": "2026-09-18T10:56:01.326592"
+  }
+}

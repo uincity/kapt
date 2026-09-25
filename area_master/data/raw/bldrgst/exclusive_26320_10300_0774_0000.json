@@ -1,0 +1,9302 @@
+[
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "702호",
+    "flrNo": "7",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "904호",
+    "flrNo": "9",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "904호",
+    "flrNo": "9",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "305호",
+    "flrNo": "3",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "904호",
+    "flrNo": "9",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "501호",
+    "flrNo": "5",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "207호",
+    "flrNo": "2",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "706호",
+    "flrNo": "7",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "1001호",
+    "flrNo": "10",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "1302호",
+    "flrNo": "13",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "1304호",
+    "flrNo": "13",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "501호",
+    "flrNo": "5",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "903호",
+    "flrNo": "9",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "804호",
+    "flrNo": "8",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "604호",
+    "flrNo": "6",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "105호",
+    "flrNo": "1",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "702호",
+    "flrNo": "7",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "1506호",
+    "flrNo": "15",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "505호",
+    "flrNo": "5",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "1208호",
+    "flrNo": "12",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "105호",
+    "flrNo": "1",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "804호",
+    "flrNo": "8",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "1303호",
+    "flrNo": "13",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "503호",
+    "flrNo": "5",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "1004호",
+    "flrNo": "10",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "1105호",
+    "flrNo": "11",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "5동",
+    "hoNm": "504호",
+    "flrNo": "5",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "906호",
+    "flrNo": "9",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "1002호",
+    "flrNo": "10",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "804호",
+    "flrNo": "8",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "1202호",
+    "flrNo": "12",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "1206호",
+    "flrNo": "12",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "304호",
+    "flrNo": "3",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "701호",
+    "flrNo": "7",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "208호",
+    "flrNo": "2",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "5동",
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "604호",
+    "flrNo": "6",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "205호",
+    "flrNo": "2",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "601호",
+    "flrNo": "6",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "701호",
+    "flrNo": "7",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "상가",
+    "hoNm": "2-206호",
+    "flrNo": "2",
+    "area": "19.2",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "판매시설(카펫트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "1305호",
+    "flrNo": "13",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "906호",
+    "flrNo": "9",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "1202호",
+    "flrNo": "12",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "802호",
+    "flrNo": "8",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "1403호",
+    "flrNo": "14",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "604호",
+    "flrNo": "6",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "701호",
+    "flrNo": "7",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "104호",
+    "flrNo": "1",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "806호",
+    "flrNo": "8",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "405호",
+    "flrNo": "4",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "1301호",
+    "flrNo": "13",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "705호",
+    "flrNo": "7",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "605호",
+    "flrNo": "6",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "5동",
+    "hoNm": "104호",
+    "flrNo": "1",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "801호",
+    "flrNo": "8",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "903호",
+    "flrNo": "9",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "1204호",
+    "flrNo": "12",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "503호",
+    "flrNo": "5",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "703호",
+    "flrNo": "7",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "1403호",
+    "flrNo": "14",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "1203호",
+    "flrNo": "12",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "1506호",
+    "flrNo": "15",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "1004호",
+    "flrNo": "10",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "5동",
+    "hoNm": "501호",
+    "flrNo": "5",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "1308호",
+    "flrNo": "13",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "701호",
+    "flrNo": "7",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "1303호",
+    "flrNo": "13",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "1402호",
+    "flrNo": "14",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "604호",
+    "flrNo": "6",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "304호",
+    "flrNo": "3",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "1006호",
+    "flrNo": "10",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "1103호",
+    "flrNo": "11",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "804호",
+    "flrNo": "8",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "105호",
+    "flrNo": "1",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "1105호",
+    "flrNo": "11",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "1506호",
+    "flrNo": "15",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "903호",
+    "flrNo": "9",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "1201호",
+    "flrNo": "12",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "5동",
+    "hoNm": "503호",
+    "flrNo": "5",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "506호",
+    "flrNo": "5",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "803호",
+    "flrNo": "8",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "405호",
+    "flrNo": "4",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "1501호",
+    "flrNo": "15",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "607호",
+    "flrNo": "6",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "407호",
+    "flrNo": "4",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "106호",
+    "flrNo": "1",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "1405호",
+    "flrNo": "14",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "1102호",
+    "flrNo": "11",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "704호",
+    "flrNo": "7",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "905호",
+    "flrNo": "9",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "808호",
+    "flrNo": "8",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "805호",
+    "flrNo": "8",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "1306호",
+    "flrNo": "13",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "901호",
+    "flrNo": "9",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "1304호",
+    "flrNo": "13",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "1408호",
+    "flrNo": "14",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "604호",
+    "flrNo": "6",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "204호",
+    "flrNo": "2",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "805호",
+    "flrNo": "8",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "5동",
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "404호",
+    "flrNo": "4",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "803호",
+    "flrNo": "8",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "908호",
+    "flrNo": "9",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "104호",
+    "flrNo": "1",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "702호",
+    "flrNo": "7",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "608호",
+    "flrNo": "6",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "508호",
+    "flrNo": "5",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "1101호",
+    "flrNo": "11",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "304호",
+    "flrNo": "3",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "1104호",
+    "flrNo": "11",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "105호",
+    "flrNo": "1",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "803호",
+    "flrNo": "8",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "304호",
+    "flrNo": "3",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "1105호",
+    "flrNo": "11",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "1504호",
+    "flrNo": "15",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "204호",
+    "flrNo": "2",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "706호",
+    "flrNo": "7",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "1001호",
+    "flrNo": "10",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "1503호",
+    "flrNo": "15",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "1503호",
+    "flrNo": "1",
+    "area": "0.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "경비실,어린이놀이터,공중변소"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "1202호",
+    "flrNo": "12",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "804호",
+    "flrNo": "8",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "1304호",
+    "flrNo": "13",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "108호",
+    "flrNo": "1",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "5동",
+    "hoNm": "901호",
+    "flrNo": "9",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "701호",
+    "flrNo": "7",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "1303호",
+    "flrNo": "13",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "1306호",
+    "flrNo": "13",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "901호",
+    "flrNo": "9",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "404호",
+    "flrNo": "4",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "1003호",
+    "flrNo": "10",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "703호",
+    "flrNo": "7",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "1103호",
+    "flrNo": "11",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "905호",
+    "flrNo": "9",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "5동",
+    "hoNm": "1202호",
+    "flrNo": "12",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "304호",
+    "flrNo": "3",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "1505호",
+    "flrNo": "15",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "1003호",
+    "flrNo": "10",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "1101호",
+    "flrNo": "11",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "504호",
+    "flrNo": "5",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "701호",
+    "flrNo": "7",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "708호",
+    "flrNo": "7",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "1301호",
+    "flrNo": "13",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "505호",
+    "flrNo": "5",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "603호",
+    "flrNo": "6",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "206호",
+    "flrNo": "2",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "1105호",
+    "flrNo": "11",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "204호",
+    "flrNo": "2",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "902호",
+    "flrNo": "9",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "506호",
+    "flrNo": "5",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "1301호",
+    "flrNo": "13",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "1105호",
+    "flrNo": "11",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "306호",
+    "flrNo": "3",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "상가",
+    "hoNm": "2-207호",
+    "flrNo": "2",
+    "area": "38.4",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "판매시설(여성의류)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "1302호",
+    "flrNo": "13",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "704호",
+    "flrNo": "7",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "1005호",
+    "flrNo": "10",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "108호",
+    "flrNo": "1",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "605호",
+    "flrNo": "6",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "602호",
+    "flrNo": "6",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "1501호",
+    "flrNo": "15",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "1203호",
+    "flrNo": "12",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "1006호",
+    "flrNo": "10",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "상가",
+    "hoNm": "2-204호",
+    "flrNo": "2",
+    "area": "19.2",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "판매시설(수예점)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "806호",
+    "flrNo": "8",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "705호",
+    "flrNo": "7",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "상가",
+    "hoNm": "3-303호",
+    "flrNo": "3",
+    "area": "19.2",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "판매시설(화장품)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "1503호",
+    "flrNo": "15",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "1007호",
+    "flrNo": "10",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "1203호",
+    "flrNo": "12",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "601호",
+    "flrNo": "6",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "702호",
+    "flrNo": "7",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "1106호",
+    "flrNo": "11",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "705호",
+    "flrNo": "7",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "906호",
+    "flrNo": "9",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "1104호",
+    "flrNo": "11",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "704호",
+    "flrNo": "7",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "204호",
+    "flrNo": "2",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "1007호",
+    "flrNo": "10",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "204호",
+    "flrNo": "2",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "702호",
+    "flrNo": "7",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "1207호",
+    "flrNo": "12",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "상가",
+    "hoNm": "3-306호",
+    "flrNo": "3",
+    "area": "19.2",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "판매시설(비디오)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "903호",
+    "flrNo": "9",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "1404호",
+    "flrNo": "14",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "상가",
+    "hoNm": "3-302호",
+    "flrNo": "3",
+    "area": "19.2",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "404호",
+    "flrNo": "4",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "603호",
+    "flrNo": "6",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "1505호",
+    "flrNo": "15",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "803호",
+    "flrNo": "8",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "1403호",
+    "flrNo": "14",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "601호",
+    "flrNo": "6",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "1406호",
+    "flrNo": "14",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "601호",
+    "flrNo": "6",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "1002호",
+    "flrNo": "10",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "5동",
+    "hoNm": "903호",
+    "flrNo": "9",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "306호",
+    "flrNo": "3",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "901호",
+    "flrNo": "9",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "1307호",
+    "flrNo": "13",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "104호",
+    "flrNo": "1",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "1001호",
+    "flrNo": "10",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "1003호",
+    "flrNo": "10",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "1202호",
+    "flrNo": "12",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "408호",
+    "flrNo": "4",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "602호",
+    "flrNo": "6",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "503호",
+    "flrNo": "5",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "1206호",
+    "flrNo": "12",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "601호",
+    "flrNo": "6",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "1503호",
+    "flrNo": "15",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "1302호",
+    "flrNo": "13",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "1507호",
+    "flrNo": "15",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "1306호",
+    "flrNo": "13",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "1201호",
+    "flrNo": "12",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "5동",
+    "hoNm": "1003호",
+    "flrNo": "10",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "1401호",
+    "flrNo": "14",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "902호",
+    "flrNo": "9",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "905호",
+    "flrNo": "9",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "1503호",
+    "flrNo": "15",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "1204호",
+    "flrNo": "12",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "606호",
+    "flrNo": "6",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "804호",
+    "flrNo": "8",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "404호",
+    "flrNo": "4",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "506호",
+    "flrNo": "5",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "705호",
+    "flrNo": "7",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "707호",
+    "flrNo": "7",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "1301호",
+    "flrNo": "13",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "1501호",
+    "flrNo": "15",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "1001호",
+    "flrNo": "10",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "1006호",
+    "flrNo": "10",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "1006호",
+    "flrNo": "10",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "306호",
+    "flrNo": "3",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "1106호",
+    "flrNo": "11",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "702호",
+    "flrNo": "7",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "5동",
+    "hoNm": "1002호",
+    "flrNo": "10",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "701호",
+    "flrNo": "7",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "406호",
+    "flrNo": "4",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "1407호",
+    "flrNo": "14",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "1002호",
+    "flrNo": "10",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "1008호",
+    "flrNo": "10",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "603호",
+    "flrNo": "6",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "5동",
+    "hoNm": "702호",
+    "flrNo": "7",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "상가",
+    "hoNm": "지하-B호",
+    "flrNo": "1",
+    "area": "240",
+    "mainPurpsCd": "04005",
+    "mainPurpsCdNm": "제조업소",
+    "etcPurps": "제2종근린생활시설(제조업소)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "903호",
+    "flrNo": "9",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "1501호",
+    "flrNo": "15",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "106호",
+    "flrNo": "1",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "1308호",
+    "flrNo": "13",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "606호",
+    "flrNo": "6",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "1102호",
+    "flrNo": "11",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "1306호",
+    "flrNo": "13",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "5동",
+    "hoNm": "603호",
+    "flrNo": "6",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "5동",
+    "hoNm": "704호",
+    "flrNo": "7",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "205호",
+    "flrNo": "2",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "904호",
+    "flrNo": "9",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "806호",
+    "flrNo": "8",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "상가",
+    "hoNm": "4-403호",
+    "flrNo": "4",
+    "area": "57.6",
+    "mainPurpsCd": "04010",
+    "mainPurpsCdNm": "학원",
+    "etcPurps": "제2종근린생활시설(학원)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "1306호",
+    "flrNo": "13",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "906호",
+    "flrNo": "9",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "706호",
+    "flrNo": "7",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "5동",
+    "hoNm": "703호",
+    "flrNo": "7",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "5동",
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "404호",
+    "flrNo": "4",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "601호",
+    "flrNo": "6",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "504호",
+    "flrNo": "5",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "상가",
+    "hoNm": "4-404호",
+    "flrNo": "4",
+    "area": "76.8",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "1402호",
+    "flrNo": "14",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "605호",
+    "flrNo": "6",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "404호",
+    "flrNo": "4",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "5동",
+    "hoNm": "904호",
+    "flrNo": "9",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "602호",
+    "flrNo": "6",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "806호",
+    "flrNo": "8",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "504호",
+    "flrNo": "5",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "1402호",
+    "flrNo": "14",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "1505호",
+    "flrNo": "15",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "404호",
+    "flrNo": "4",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "206호",
+    "flrNo": "2",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "1203호",
+    "flrNo": "12",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "501호",
+    "flrNo": "5",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "1204호",
+    "flrNo": "12",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "106호",
+    "flrNo": "1",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "506호",
+    "flrNo": "5",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "1202호",
+    "flrNo": "12",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "1103호",
+    "flrNo": "11",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "505호",
+    "flrNo": "5",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "1004호",
+    "flrNo": "10",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "1106호",
+    "flrNo": "11",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "1101호",
+    "flrNo": "11",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "1005호",
+    "flrNo": "10",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "703호",
+    "flrNo": "7",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "802호",
+    "flrNo": "8",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "상가",
+    "hoNm": "5-503호",
+    "flrNo": "5",
+    "area": "96",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "106호",
+    "flrNo": "1",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "5동",
+    "hoNm": "602호",
+    "flrNo": "6",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "803호",
+    "flrNo": "8",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "1003호",
+    "flrNo": "10",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "602호",
+    "flrNo": "6",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "906호",
+    "flrNo": "9",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "1208호",
+    "flrNo": "12",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "1203호",
+    "flrNo": "12",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "1202호",
+    "flrNo": "12",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "1505호",
+    "flrNo": "15",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "1501호",
+    "flrNo": "15",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "503호",
+    "flrNo": "5",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "803호",
+    "flrNo": "8",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "905호",
+    "flrNo": "9",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "1401호",
+    "flrNo": "14",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "1003호",
+    "flrNo": "10",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "1205호",
+    "flrNo": "12",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "1001호",
+    "flrNo": "10",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "1506호",
+    "flrNo": "15",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "5동",
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "305호",
+    "flrNo": "3",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "908호",
+    "flrNo": "9",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "602호",
+    "flrNo": "6",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "405호",
+    "flrNo": "4",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "903호",
+    "flrNo": "9",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "1506호",
+    "flrNo": "15",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "701호",
+    "flrNo": "7",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "상가",
+    "hoNm": "1-104호",
+    "flrNo": "1",
+    "area": "30",
+    "mainPurpsCd": "04017",
+    "mainPurpsCdNm": "의약품도매점",
+    "etcPurps": "근린생활시설(약국)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "5동",
+    "hoNm": "803호",
+    "flrNo": "8",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "501호",
+    "flrNo": "5",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "1402호",
+    "flrNo": "14",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "406호",
+    "flrNo": "4",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "1106호",
+    "flrNo": "11",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "1305호",
+    "flrNo": "13",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "802호",
+    "flrNo": "8",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "1201호",
+    "flrNo": "12",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "901호",
+    "flrNo": "9",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "5동",
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "801호",
+    "flrNo": "8",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "605호",
+    "flrNo": "6",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "5동",
+    "hoNm": "801호",
+    "flrNo": "8",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "5동",
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "1005호",
+    "flrNo": "10",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "1104호",
+    "flrNo": "11",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "504호",
+    "flrNo": "5",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "906호",
+    "flrNo": "9",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "1204호",
+    "flrNo": "12",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "501호",
+    "flrNo": "5",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "1503호",
+    "flrNo": "15",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "604호",
+    "flrNo": "6",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "406호",
+    "flrNo": "4",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "602호",
+    "flrNo": "6",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "1205호",
+    "flrNo": "12",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "상가",
+    "hoNm": "3-301호",
+    "flrNo": "3",
+    "area": "47.6",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "상가",
+    "hoNm": "3-307호",
+    "flrNo": "3",
+    "area": "48",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "1502호",
+    "flrNo": "15",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "1207호",
+    "flrNo": "12",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "905호",
+    "flrNo": "9",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "1103호",
+    "flrNo": "11",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "904호",
+    "flrNo": "9",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "1008호",
+    "flrNo": "10",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "705호",
+    "flrNo": "7",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "1306호",
+    "flrNo": "13",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "304호",
+    "flrNo": "3",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "704호",
+    "flrNo": "7",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "205호",
+    "flrNo": "2",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "406호",
+    "flrNo": "4",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "1404호",
+    "flrNo": "14",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "5동",
+    "hoNm": "804호",
+    "flrNo": "8",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "5동",
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "306호",
+    "flrNo": "3",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "1201호",
+    "flrNo": "12",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "1302호",
+    "flrNo": "13",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "902호",
+    "flrNo": "9",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "902호",
+    "flrNo": "9",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "806호",
+    "flrNo": "8",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "603호",
+    "flrNo": "6",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "205호",
+    "flrNo": "2",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "1401호",
+    "flrNo": "14",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "304호",
+    "flrNo": "3",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "1002호",
+    "flrNo": "10",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "802호",
+    "flrNo": "8",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "1408호",
+    "flrNo": "14",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "704호",
+    "flrNo": "7",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "1504호",
+    "flrNo": "15",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "805호",
+    "flrNo": "8",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "1005호",
+    "flrNo": "10",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "1201호",
+    "flrNo": "12",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "1005호",
+    "flrNo": "10",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "1405호",
+    "flrNo": "14",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "503호",
+    "flrNo": "5",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "601호",
+    "flrNo": "6",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "503호",
+    "flrNo": "5",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "5동",
+    "hoNm": "1004호",
+    "flrNo": "10",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "5동",
+    "hoNm": "902호",
+    "flrNo": "9",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "805호",
+    "flrNo": "8",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "903호",
+    "flrNo": "9",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "707호",
+    "flrNo": "7",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "307호",
+    "flrNo": "3",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "5동",
+    "hoNm": "1102호",
+    "flrNo": "11",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "1103호",
+    "flrNo": "11",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "808호",
+    "flrNo": "8",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "1206호",
+    "flrNo": "12",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "1301호",
+    "flrNo": "13",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "504호",
+    "flrNo": "5",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "507호",
+    "flrNo": "5",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "1304호",
+    "flrNo": "13",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "807호",
+    "flrNo": "8",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "1501호",
+    "flrNo": "15",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "1305호",
+    "flrNo": "13",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "1503호",
+    "flrNo": "15",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "1204호",
+    "flrNo": "12",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "1307호",
+    "flrNo": "13",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "1501호",
+    "flrNo": "15",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "상가",
+    "hoNm": "1-105호",
+    "flrNo": "1",
+    "area": "19.2",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "판매시설(수입코너)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "408호",
+    "flrNo": "4",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "1401호",
+    "flrNo": "14",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "1201호",
+    "flrNo": "12",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "604호",
+    "flrNo": "6",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "803호",
+    "flrNo": "8",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "1105호",
+    "flrNo": "11",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "1504호",
+    "flrNo": "15",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "901호",
+    "flrNo": "9",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "1508호",
+    "flrNo": "15",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "5동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "902호",
+    "flrNo": "9",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "501호",
+    "flrNo": "5",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "104호",
+    "flrNo": "1",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "상가",
+    "hoNm": "1-103호",
+    "flrNo": "1",
+    "area": "19.2",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "판매시설(야채과일)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "604호",
+    "flrNo": "6",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "1404호",
+    "flrNo": "14",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "1206호",
+    "flrNo": "12",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "801호",
+    "flrNo": "8",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "905호",
+    "flrNo": "9",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "1102호",
+    "flrNo": "11",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "상가",
+    "hoNm": "1-106호",
+    "flrNo": "1",
+    "area": "19.2",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "1405호",
+    "flrNo": "14",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "204호",
+    "flrNo": "2",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "701호",
+    "flrNo": "7",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "1302호",
+    "flrNo": "13",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "804호",
+    "flrNo": "8",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "907호",
+    "flrNo": "9",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "105호",
+    "flrNo": "1",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "503호",
+    "flrNo": "5",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "상가",
+    "hoNm": "3-304호",
+    "flrNo": "3",
+    "area": "19.2",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설(학원)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "1402호",
+    "flrNo": "14",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "704호",
+    "flrNo": "7",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "1402호",
+    "flrNo": "14",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "703호",
+    "flrNo": "7",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "1301호",
+    "flrNo": "13",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "1406호",
+    "flrNo": "14",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "1001호",
+    "flrNo": "10",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "304호",
+    "flrNo": "3",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "903호",
+    "flrNo": "9",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "1104호",
+    "flrNo": "11",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "1504호",
+    "flrNo": "15",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "304호",
+    "flrNo": "3",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "1206호",
+    "flrNo": "12",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "802호",
+    "flrNo": "8",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "806호",
+    "flrNo": "8",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "1204호",
+    "flrNo": "12",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "206호",
+    "flrNo": "2",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "5동",
+    "hoNm": "1101호",
+    "flrNo": "11",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "906호",
+    "flrNo": "9",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "1304호",
+    "flrNo": "13",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "5동",
+    "hoNm": "604호",
+    "flrNo": "6",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "1106호",
+    "flrNo": "11",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "1004호",
+    "flrNo": "10",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "805호",
+    "flrNo": "8",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "1406호",
+    "flrNo": "14",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "1406호",
+    "flrNo": "14",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "5동",
+    "hoNm": "404호",
+    "flrNo": "4",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "802호",
+    "flrNo": "8",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "703호",
+    "flrNo": "7",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "1403호",
+    "flrNo": "14",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "1105호",
+    "flrNo": "11",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "1302호",
+    "flrNo": "13",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "807호",
+    "flrNo": "8",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "1102호",
+    "flrNo": "11",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "5동",
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "107호",
+    "flrNo": "1",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "306호",
+    "flrNo": "3",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "1404호",
+    "flrNo": "14",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "206호",
+    "flrNo": "2",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "1204호",
+    "flrNo": "12",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "105호",
+    "flrNo": "1",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "704호",
+    "flrNo": "7",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "1404호",
+    "flrNo": "14",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "1505호",
+    "flrNo": "15",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "1205호",
+    "flrNo": "12",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "803호",
+    "flrNo": "8",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "606호",
+    "flrNo": "6",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "1102호",
+    "flrNo": "11",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "1405호",
+    "flrNo": "14",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "1001호",
+    "flrNo": "10",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "1203호",
+    "flrNo": "12",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "602호",
+    "flrNo": "6",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "1502호",
+    "flrNo": "15",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "802호",
+    "flrNo": "8",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "706호",
+    "flrNo": "7",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "1305호",
+    "flrNo": "13",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "1102호",
+    "flrNo": "11",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "305호",
+    "flrNo": "3",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "703호",
+    "flrNo": "7",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "206호",
+    "flrNo": "2",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "907호",
+    "flrNo": "9",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "104호",
+    "flrNo": "1",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "204호",
+    "flrNo": "2",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "504호",
+    "flrNo": "5",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "5동",
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "703호",
+    "flrNo": "7",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "902호",
+    "flrNo": "9",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "1303호",
+    "flrNo": "13",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "104호",
+    "flrNo": "1",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "802호",
+    "flrNo": "8",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "1305호",
+    "flrNo": "13",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "106호",
+    "flrNo": "1",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "504호",
+    "flrNo": "5",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "1101호",
+    "flrNo": "11",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "1406호",
+    "flrNo": "14",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "801호",
+    "flrNo": "8",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "1406호",
+    "flrNo": "14",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "1508호",
+    "flrNo": "15",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "703호",
+    "flrNo": "7",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "205호",
+    "flrNo": "2",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "901호",
+    "flrNo": "9",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "104호",
+    "flrNo": "1",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "1303호",
+    "flrNo": "13",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "501호",
+    "flrNo": "5",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "104호",
+    "flrNo": "1",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "1001호",
+    "flrNo": "10",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "1205호",
+    "flrNo": "12",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "601호",
+    "flrNo": "6",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "1501호",
+    "flrNo": "15",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "505호",
+    "flrNo": "5",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "802호",
+    "flrNo": "8",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "105호",
+    "flrNo": "1",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "603호",
+    "flrNo": "6",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "1305호",
+    "flrNo": "13",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "902호",
+    "flrNo": "9",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "상가",
+    "hoNm": "4-401호",
+    "flrNo": "4",
+    "area": "38.4",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "1006호",
+    "flrNo": "10",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "1204호",
+    "flrNo": "12",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "5동",
+    "hoNm": "204호",
+    "flrNo": "2",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "5동",
+    "hoNm": "1201호",
+    "flrNo": "12",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "306호",
+    "flrNo": "3",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "405호",
+    "flrNo": "4",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "1302호",
+    "flrNo": "13",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "803호",
+    "flrNo": "8",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "608호",
+    "flrNo": "6",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "801호",
+    "flrNo": "8",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "1004호",
+    "flrNo": "10",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "601호",
+    "flrNo": "6",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "1506호",
+    "flrNo": "15",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "904호",
+    "flrNo": "9",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "1505호",
+    "flrNo": "15",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "1502호",
+    "flrNo": "15",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "1005호",
+    "flrNo": "10",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "905호",
+    "flrNo": "9",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "1303호",
+    "flrNo": "13",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "902호",
+    "flrNo": "9",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "상가",
+    "hoNm": "1-107호",
+    "flrNo": "1",
+    "area": "48",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "판매시설(정육점)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "801호",
+    "flrNo": "8",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "702호",
+    "flrNo": "7",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "702호",
+    "flrNo": "7",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "501호",
+    "flrNo": "5",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "1404호",
+    "flrNo": "14",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "602호",
+    "flrNo": "6",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "1104호",
+    "flrNo": "11",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "1103호",
+    "flrNo": "11",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "1402호",
+    "flrNo": "14",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "1503호",
+    "flrNo": "15",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "204호",
+    "flrNo": "2",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "1402호",
+    "flrNo": "14",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "1502호",
+    "flrNo": "15",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "1203호",
+    "flrNo": "12",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "205호",
+    "flrNo": "2",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "606호",
+    "flrNo": "6",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "801호",
+    "flrNo": "8",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "1005호",
+    "flrNo": "10",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "1403호",
+    "flrNo": "14",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "1303호",
+    "flrNo": "13",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "801호",
+    "flrNo": "8",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "1301호",
+    "flrNo": "13",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "1004호",
+    "flrNo": "10",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "1203호",
+    "flrNo": "12",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "1504호",
+    "flrNo": "15",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "804호",
+    "flrNo": "8",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "1304호",
+    "flrNo": "13",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "1104호",
+    "flrNo": "11",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "1003호",
+    "flrNo": "10",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "805호",
+    "flrNo": "8",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "상가",
+    "hoNm": "2-205호",
+    "flrNo": "2",
+    "area": "19.2",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "판매시설(커텐)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "1003호",
+    "flrNo": "10",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "1002호",
+    "flrNo": "10",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "903호",
+    "flrNo": "9",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "206호",
+    "flrNo": "2",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "5동",
+    "hoNm": "304호",
+    "flrNo": "3",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "1101호",
+    "flrNo": "11",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "1003호",
+    "flrNo": "10",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "1303호",
+    "flrNo": "13",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "1002호",
+    "flrNo": "10",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "805호",
+    "flrNo": "8",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "1101호",
+    "flrNo": "11",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "1104호",
+    "flrNo": "11",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "405호",
+    "flrNo": "4",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "504호",
+    "flrNo": "5",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "607호",
+    "flrNo": "6",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "1205호",
+    "flrNo": "12",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "1205호",
+    "flrNo": "12",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "1306호",
+    "flrNo": "13",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "206호",
+    "flrNo": "2",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "5동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "904호",
+    "flrNo": "9",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "606호",
+    "flrNo": "6",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "1004호",
+    "flrNo": "10",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "1505호",
+    "flrNo": "15",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "1001호",
+    "flrNo": "10",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "901호",
+    "flrNo": "9",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "상가",
+    "hoNm": "2-202호",
+    "flrNo": "2",
+    "area": "19.2",
+    "mainPurpsCd": "10003",
+    "mainPurpsCdNm": "학원",
+    "etcPurps": "교육연구시설(학원)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "1107호",
+    "flrNo": "11",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "1404호",
+    "flrNo": "14",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "1403호",
+    "flrNo": "14",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "상가",
+    "hoNm": "5-502호",
+    "flrNo": "5",
+    "area": "57.6",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "1006호",
+    "flrNo": "10",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "1405호",
+    "flrNo": "14",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "405호",
+    "flrNo": "4",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "1003호",
+    "flrNo": "10",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "5동",
+    "hoNm": "1001호",
+    "flrNo": "10",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "803호",
+    "flrNo": "8",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "208호",
+    "flrNo": "2",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "1502호",
+    "flrNo": "15",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "603호",
+    "flrNo": "6",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "506호",
+    "flrNo": "5",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "1104호",
+    "flrNo": "11",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "1401호",
+    "flrNo": "14",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "1502호",
+    "flrNo": "15",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "501호",
+    "flrNo": "5",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "305호",
+    "flrNo": "3",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "1202호",
+    "flrNo": "12",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "804호",
+    "flrNo": "8",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "상가",
+    "hoNm": "3-305호",
+    "flrNo": "3",
+    "area": "19.2",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설(학원)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "5동",
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "603호",
+    "flrNo": "6",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "1101호",
+    "flrNo": "11",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "703호",
+    "flrNo": "7",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "1003호",
+    "flrNo": "10",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "1108호",
+    "flrNo": "11",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "503호",
+    "flrNo": "5",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "603호",
+    "flrNo": "6",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "1101호",
+    "flrNo": "11",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "705호",
+    "flrNo": "7",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "1501호",
+    "flrNo": "15",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "1104호",
+    "flrNo": "11",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "1203호",
+    "flrNo": "12",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "504호",
+    "flrNo": "5",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "1203호",
+    "flrNo": "12",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "1202호",
+    "flrNo": "12",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "1303호",
+    "flrNo": "13",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "1302호",
+    "flrNo": "13",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "605호",
+    "flrNo": "6",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "704호",
+    "flrNo": "7",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "1103호",
+    "flrNo": "11",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "204호",
+    "flrNo": "2",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "1504호",
+    "flrNo": "15",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "701호",
+    "flrNo": "7",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "307호",
+    "flrNo": "3",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "508호",
+    "flrNo": "5",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "501호",
+    "flrNo": "5",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "1106호",
+    "flrNo": "11",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "903호",
+    "flrNo": "9",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "405호",
+    "flrNo": "4",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "603호",
+    "flrNo": "6",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "506호",
+    "flrNo": "5",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "1406호",
+    "flrNo": "14",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "1405호",
+    "flrNo": "14",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "1401호",
+    "flrNo": "14",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "704호",
+    "flrNo": "7",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "상가",
+    "hoNm": "4-402호",
+    "flrNo": "4",
+    "area": "38.4",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "1305호",
+    "flrNo": "13",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "1107호",
+    "flrNo": "11",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "1002호",
+    "flrNo": "10",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "404호",
+    "flrNo": "4",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "1101호",
+    "flrNo": "11",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "상가",
+    "hoNm": "2-203호",
+    "flrNo": "2",
+    "area": "26",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "판매시설(의류메리야스)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "601호",
+    "flrNo": "6",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "702호",
+    "flrNo": "7",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "1504호",
+    "flrNo": "15",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "507호",
+    "flrNo": "5",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "104호",
+    "flrNo": "1",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "505호",
+    "flrNo": "5",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "1102호",
+    "flrNo": "11",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "1201호",
+    "flrNo": "12",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "702호",
+    "flrNo": "7",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "1103호",
+    "flrNo": "11",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "1404호",
+    "flrNo": "14",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "602호",
+    "flrNo": "6",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "1201호",
+    "flrNo": "12",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "207호",
+    "flrNo": "2",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "1002호",
+    "flrNo": "10",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "306호",
+    "flrNo": "3",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "1004호",
+    "flrNo": "10",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "1503호",
+    "flrNo": "15",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "106호",
+    "flrNo": "1",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "406호",
+    "flrNo": "4",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "1002호",
+    "flrNo": "10",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "5동",
+    "hoNm": "701호",
+    "flrNo": "7",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "801호",
+    "flrNo": "8",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "1106호",
+    "flrNo": "11",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "204호",
+    "flrNo": "2",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "1502호",
+    "flrNo": "15",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "1507호",
+    "flrNo": "15",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "1504호",
+    "flrNo": "15",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "308호",
+    "flrNo": "3",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "5동",
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "1004호",
+    "flrNo": "10",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "1506호",
+    "flrNo": "15",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "1205호",
+    "flrNo": "12",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "404호",
+    "flrNo": "4",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "1206호",
+    "flrNo": "12",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "상가",
+    "hoNm": "1-101호",
+    "flrNo": "1",
+    "area": "38.4",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "404호",
+    "flrNo": "4",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "1204호",
+    "flrNo": "12",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "602호",
+    "flrNo": "6",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "801호",
+    "flrNo": "8",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "1301호",
+    "flrNo": "13",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "106호",
+    "flrNo": "1",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "902호",
+    "flrNo": "9",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "107호",
+    "flrNo": "1",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "1403호",
+    "flrNo": "14",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "606호",
+    "flrNo": "6",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "604호",
+    "flrNo": "6",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "605호",
+    "flrNo": "6",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "704호",
+    "flrNo": "7",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "802호",
+    "flrNo": "8",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "304호",
+    "flrNo": "3",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "606호",
+    "flrNo": "6",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "상가",
+    "hoNm": "1-102호",
+    "flrNo": "1",
+    "area": "19.2",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "판매시설(쌀)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "605호",
+    "flrNo": "6",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "902호",
+    "flrNo": "9",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "1206호",
+    "flrNo": "12",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "604호",
+    "flrNo": "6",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "1104호",
+    "flrNo": "11",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "1202호",
+    "flrNo": "12",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "1006호",
+    "flrNo": "10",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "1004호",
+    "flrNo": "10",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "708호",
+    "flrNo": "7",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "1401호",
+    "flrNo": "14",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "1304호",
+    "flrNo": "13",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "1407호",
+    "flrNo": "14",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "706호",
+    "flrNo": "7",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "1403호",
+    "flrNo": "14",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "904호",
+    "flrNo": "9",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "505호",
+    "flrNo": "5",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "901호",
+    "flrNo": "9",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "1102호",
+    "flrNo": "11",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "305호",
+    "flrNo": "3",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "506호",
+    "flrNo": "5",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "504호",
+    "flrNo": "5",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "503호",
+    "flrNo": "5",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "703호",
+    "flrNo": "7",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "1303호",
+    "flrNo": "13",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "505호",
+    "flrNo": "5",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "5동",
+    "hoNm": "802호",
+    "flrNo": "8",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "706호",
+    "flrNo": "7",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "104호",
+    "flrNo": "1",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "603호",
+    "flrNo": "6",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "1401호",
+    "flrNo": "14",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "1502호",
+    "flrNo": "15",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "406호",
+    "flrNo": "4",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "1102호",
+    "flrNo": "11",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "904호",
+    "flrNo": "9",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "1504호",
+    "flrNo": "15",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "205호",
+    "flrNo": "2",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "806호",
+    "flrNo": "8",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "305호",
+    "flrNo": "3",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "1504호",
+    "flrNo": "15",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "1108호",
+    "flrNo": "11",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "305호",
+    "flrNo": "3",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "1404호",
+    "flrNo": "14",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "1304호",
+    "flrNo": "13",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "상가",
+    "hoNm": "5-501호",
+    "flrNo": "5",
+    "area": "43.6",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "상가",
+    "hoNm": "2-201호",
+    "flrNo": "2",
+    "area": "38.4",
+    "mainPurpsCd": "10003",
+    "mainPurpsCdNm": "학원",
+    "etcPurps": "교육연구시설(학원)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "1403호",
+    "flrNo": "14",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "7동",
+    "hoNm": "1204호",
+    "flrNo": "12",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "6동",
+    "hoNm": "1103호",
+    "flrNo": "11",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "407호",
+    "flrNo": "4",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "1404호",
+    "flrNo": "14",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "705호",
+    "flrNo": "7",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "706호",
+    "flrNo": "7",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "1304호",
+    "flrNo": "13",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "1201호",
+    "flrNo": "12",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "1502호",
+    "flrNo": "15",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "308호",
+    "flrNo": "3",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "1503호",
+    "flrNo": "15",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "1302호",
+    "flrNo": "13",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "1402호",
+    "flrNo": "14",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "1304호",
+    "flrNo": "13",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "503호",
+    "flrNo": "5",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "1405호",
+    "flrNo": "14",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "804호",
+    "flrNo": "8",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "9동",
+    "hoNm": "904호",
+    "flrNo": "9",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "1301호",
+    "flrNo": "13",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "1동",
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "3동",
+    "hoNm": "1002호",
+    "flrNo": "10",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "5동",
+    "hoNm": "601호",
+    "flrNo": "6",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "8동",
+    "hoNm": "406호",
+    "flrNo": "4",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "11동",
+    "hoNm": "1103호",
+    "flrNo": "11",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "2동",
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "84.28",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "1401호",
+    "flrNo": "14",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "10동",
+    "hoNm": "901호",
+    "flrNo": "9",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "럭키만덕아파트",
+    "dongNm": "12동",
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "79.195",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  }
+]

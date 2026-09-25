@@ -1,0 +1,1283 @@
+2026-09-18 10:05:07 [INFO] build_kb_area_master: === KB부동산 아파트 평형별 세대수·면적·시세 ETL 파이프라인 시작 ===
+2026-09-18 10:05:07 [INFO] src.kb_area_master.kapt: 보완 대상 560건 로드 완료 (원본: supplement_2026-08.csv)
+2026-09-18 10:05:08 [INFO] src.kb_area_master.kapt: KB 대상 단지 정보 생성 완료: kb_targets.csv (560건)
+2026-09-18 10:05:08 [INFO] build_kb_area_master: 처리 대상: 560개 단지
+2026-09-18 10:05:20 [INFO] src.kb_area_master.kb_browser: KB 브라우저 시작 (headless=False, profile=D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\data\browser\kb_profile)
+2026-09-18 10:05:24 [WARNING] src.kb_area_master.kb_browser: ==================================================
+2026-09-18 10:05:24 [WARNING] src.kb_area_master.kb_browser: [LOGIN REQUIRED] KB부동산 로그인이 필요합니다.
+2026-09-18 10:05:24 [WARNING] src.kb_area_master.kb_browser: 브라우저에서 직접 KB부동산에 로그인해 주세요.
+2026-09-18 10:05:24 [WARNING] src.kb_area_master.kb_browser: 로그인 완료 후 자동으로 감지합니다.
+2026-09-18 10:05:24 [WARNING] src.kb_area_master.kb_browser: ==================================================
+2026-09-18 10:10:28 [ERROR] src.kb_area_master.kb_browser: KB부동산 로그인 대기 시간 초과 (5분)
+2026-09-18 10:10:28 [INFO] src.kb_area_master.kb_browser: KB 브라우저 종료
+2026-09-18 10:26:55 [INFO] build_kb_area_master: === KB부동산 아파트 평형별 세대수·면적·시세 ETL 파이프라인 시작 ===
+2026-09-18 10:26:55 [INFO] src.kb_area_master.kapt: 보완 대상 560건 로드 완료 (원본: supplement_2026-08.csv)
+2026-09-18 10:26:55 [INFO] src.kb_area_master.kapt: KB 대상 단지 정보 생성 완료: kb_targets.csv (560건)
+2026-09-18 10:26:55 [INFO] build_kb_area_master: 처리 대상: 560개 단지
+2026-09-18 10:26:56 [INFO] src.kb_area_master.kb_browser: KB 브라우저 시작 (headless=True, profile=D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\data\browser\kb_profile)
+2026-09-18 10:27:01 [WARNING] src.kb_area_master.kb_browser: ==================================================
+2026-09-18 10:27:01 [WARNING] src.kb_area_master.kb_browser: [LOGIN REQUIRED] KB부동산 로그인이 필요합니다.
+2026-09-18 10:27:01 [WARNING] src.kb_area_master.kb_browser: 브라우저에서 직접 KB부동산에 로그인해 주세요.
+2026-09-18 10:27:01 [WARNING] src.kb_area_master.kb_browser: 로그인 완료 후 자동으로 감지합니다.
+2026-09-18 10:27:01 [WARNING] src.kb_area_master.kb_browser: ==================================================
+2026-09-18 10:27:11 [INFO] src.kb_area_master.kb_browser: 비로그인 상태 확인: KB부동산 공개 API 세션으로 수집을 계속 진행합니다.
+2026-09-18 10:27:11 [INFO] src.kb_area_master.kb_search: KB 검색 API '대연동 대연sk뷰힐스아파트' -> 0개 단지 후보 발견
+2026-09-18 10:27:12 [INFO] src.kb_area_master.kb_search: KB 검색 API '남구 대연동 대연sk뷰힐스아파트' -> 0개 단지 후보 발견
+2026-09-18 10:27:13 [INFO] src.kb_area_master.kb_search: KB 검색 API '대연동 대연sk뷰힐스' -> 2개 단지 후보 발견
+2026-09-18 10:27:13 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 7개 평형 데이터 수집 완료 (단지=31369)
+2026-09-18 10:27:13 [INFO] src.kb_area_master.exporter: KB 원본 데이터 저장: D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\data\raw\kb\kb_area_types.csv (7 rows)
+2026-09-18 10:27:13 [INFO] build_kb_area_master: 파일럿 전용 모드(--pilot): 파일럿 검증 성공 후 작업을 마칩니다.
+2026-09-18 10:27:14 [INFO] src.kb_area_master.kb_browser: KB 브라우저 종료
+2026-09-18 10:27:36 [INFO] build_kb_area_master: === KB부동산 아파트 평형별 세대수·면적·시세 ETL 파이프라인 시작 ===
+2026-09-18 10:27:36 [INFO] src.kb_area_master.kapt: 보완 대상 560건 로드 완료 (원본: supplement_2026-08.csv)
+2026-09-18 10:27:36 [INFO] src.kb_area_master.kapt: KB 대상 단지 정보 생성 완료: kb_targets.csv (560건)
+2026-09-18 10:27:36 [INFO] build_kb_area_master: 처리 대상: 560개 단지
+2026-09-18 10:27:37 [INFO] src.kb_area_master.kb_browser: KB 브라우저 시작 (headless=True, profile=D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\data\browser\kb_profile)
+2026-09-18 10:27:41 [WARNING] src.kb_area_master.kb_browser: ==================================================
+2026-09-18 10:27:41 [WARNING] src.kb_area_master.kb_browser: [LOGIN REQUIRED] KB부동산 로그인이 필요합니다.
+2026-09-18 10:27:41 [WARNING] src.kb_area_master.kb_browser: 브라우저에서 직접 KB부동산에 로그인해 주세요.
+2026-09-18 10:27:41 [WARNING] src.kb_area_master.kb_browser: 로그인 완료 후 자동으로 감지합니다.
+2026-09-18 10:27:41 [WARNING] src.kb_area_master.kb_browser: ==================================================
+2026-09-18 10:27:51 [INFO] src.kb_area_master.kb_browser: 비로그인 상태 확인: KB부동산 공개 API 세션으로 수집을 계속 진행합니다.
+2026-09-18 10:27:51 [INFO] src.kb_area_master.kb_search: KB 검색 API '대연동 대연sk뷰힐스' -> 2개 단지 후보 발견
+2026-09-18 10:27:51 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 7개 평형 데이터 수집 완료 (단지=31369)
+2026-09-18 10:27:51 [INFO] src.kb_area_master.exporter: KB 원본 데이터 저장: D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\data\raw\kb\kb_area_types.csv (7 rows)
+2026-09-18 10:27:51 [INFO] build_kb_area_master: 파일럿 검증 PASS! 나머지 대상 단지 수집을 자동으로 계속 진행합니다.
+2026-09-18 10:27:51 [INFO] src.kb_area_master.kb_search: KB 검색 API '동대신동1가 동대신역비스타동원' -> 1개 단지 후보 발견
+2026-09-18 10:27:52 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 6개 평형 데이터 수집 완료 (단지=42180)
+2026-09-18 10:27:52 [ERROR] build_kb_area_master: 단지 처리 중 예외 (kapt_code=A10024328): 'cp949' codec can't encode character '\u2713' in position 2: illegal multibyte sequence
+Traceback (most recent call last):
+  File "D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\scripts\build_kb_area_master.py", line 614, in run_pipeline
+    progress.update(kapt_code, complex_name, status, details, elapsed)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\src\kb_area_master\progress.py", line 56, in update
+    self._print_progress(kapt_code, complex_name, result, details or {}, elapsed_sec)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\src\kb_area_master\progress.py", line 85, in _print_progress
+    console.print(f"  {status_icon} {key:<15} {value}")
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\정민철\AppData\Local\Programs\Python\Python313\Lib\site-packages\rich\console.py", line 1704, in print
+    with self:
+         ^^^^
+  File "C:\Users\정민철\AppData\Local\Programs\Python\Python313\Lib\site-packages\rich\console.py", line 864, in __exit__
+    self._exit_buffer()
+    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\정민철\AppData\Local\Programs\Python\Python313\Lib\site-packages\rich\console.py", line 820, in _exit_buffer
+    self._check_buffer()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\정민철\AppData\Local\Programs\Python\Python313\Lib\site-packages\rich\console.py", line 2055, in _check_buffer
+    self._write_buffer()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\정민철\AppData\Local\Programs\Python\Python313\Lib\site-packages\rich\console.py", line 2091, in _write_buffer
+    legacy_windows_render(buffer, LegacyWindowsTerm(self.file))
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\정민철\AppData\Local\Programs\Python\Python313\Lib\site-packages\rich\_windows_renderer.py", line 19, in legacy_windows_render
+    term.write_text(text)
+    ~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\정민철\AppData\Local\Programs\Python\Python313\Lib\site-packages\rich\_win32_console.py", line 402, in write_text
+    self.write(text)
+    ~~~~~~~~~~^^^^^^
+UnicodeEncodeError: 'cp949' codec can't encode character '\u2713' in position 2: illegal multibyte sequence
+2026-09-18 10:27:52 [INFO] src.kb_area_master.kb_browser: KB 브라우저 종료
+2026-09-18 10:28:49 [INFO] build_kb_area_master: === KB부동산 아파트 평형별 세대수·면적·시세 ETL 파이프라인 시작 ===
+2026-09-18 10:28:49 [INFO] src.kb_area_master.kapt: 보완 대상 560건 로드 완료 (원본: supplement_2026-08.csv)
+2026-09-18 10:28:49 [INFO] src.kb_area_master.kapt: KB 대상 단지 정보 생성 완료: kb_targets.csv (560건)
+2026-09-18 10:28:49 [INFO] build_kb_area_master: 처리 대상: 560개 단지
+2026-09-18 10:28:50 [INFO] src.kb_area_master.kb_browser: KB 브라우저 시작 (headless=True, profile=D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\data\browser\kb_profile)
+2026-09-18 10:28:53 [WARNING] src.kb_area_master.kb_browser: ==================================================
+2026-09-18 10:28:53 [WARNING] src.kb_area_master.kb_browser: [LOGIN REQUIRED] KB부동산 로그인이 필요합니다.
+2026-09-18 10:28:53 [WARNING] src.kb_area_master.kb_browser: 브라우저에서 직접 KB부동산에 로그인해 주세요.
+2026-09-18 10:28:53 [WARNING] src.kb_area_master.kb_browser: 로그인 완료 후 자동으로 감지합니다.
+2026-09-18 10:28:53 [WARNING] src.kb_area_master.kb_browser: ==================================================
+2026-09-18 10:29:03 [INFO] src.kb_area_master.kb_browser: 비로그인 상태 확인: KB부동산 공개 API 세션으로 수집을 계속 진행합니다.
+2026-09-18 10:29:03 [INFO] src.kb_area_master.state: 상태 파일 로드: 1건 (kb_collection_state.json)
+2026-09-18 10:29:03 [INFO] src.kb_area_master.kb_search: KB 검색 API '대연동 대연sk뷰힐스' -> 2개 단지 후보 발견
+2026-09-18 10:29:04 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 7개 평형 데이터 수집 완료 (단지=31369)
+2026-09-18 10:29:04 [INFO] src.kb_area_master.exporter: KB 원본 데이터 저장: D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\data\raw\kb\kb_area_types.csv (7 rows)
+2026-09-18 10:29:04 [INFO] build_kb_area_master: 파일럿 검증 PASS! 나머지 대상 단지 수집을 자동으로 계속 진행합니다.
+2026-09-18 10:29:04 [INFO] src.kb_area_master.state: 상태 파일 로드: 1건 (kb_collection_state.json)
+2026-09-18 10:29:10 [INFO] src.kb_area_master.kb_search: KB 검색 API '서대신동2가 대신2차푸르지오' -> 1개 단지 후보 발견
+2026-09-18 10:29:10 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 7개 평형 데이터 수집 완료 (단지=38311)
+2026-09-18 10:29:12 [INFO] src.kb_area_master.kb_search: KB 검색 API '서대신동3가 대신롯데캐슬' -> 1개 단지 후보 발견
+2026-09-18 10:29:12 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 6개 평형 데이터 수집 완료 (단지=26187)
+2026-09-18 10:29:14 [INFO] src.kb_area_master.kb_search: KB 검색 API '서대신동3가 남성한빛' -> 1개 단지 후보 발견
+2026-09-18 10:29:14 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 3개 평형 데이터 수집 완료 (단지=5905)
+2026-09-18 10:29:16 [INFO] src.kb_area_master.kb_search: KB 검색 API '부민동3가 부민e-편한세상' -> 1개 단지 후보 발견
+2026-09-18 10:29:16 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 3개 평형 데이터 수집 완료 (단지=12874)
+2026-09-18 10:29:23 [INFO] src.kb_area_master.kb_search: KB 검색 API '암남동 e편한세상 송도 더퍼스트비치' -> 1개 단지 후보 발견
+2026-09-18 10:29:23 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 14개 평형 데이터 수집 완료 (단지=1097603)
+2026-09-18 10:29:25 [INFO] src.kb_area_master.kb_search: KB 검색 API '암남동 힐스테이트이진베이시티' -> 1개 단지 후보 발견
+2026-09-18 10:29:25 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 9개 평형 데이터 수집 완료 (단지=39443)
+2026-09-18 10:29:27 [INFO] src.kb_area_master.kb_search: KB 검색 API '초량동 범양레우스 센트럴베이' -> 2개 단지 후보 발견
+2026-09-18 10:29:27 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=33795)
+2026-09-18 10:29:29 [INFO] src.kb_area_master.kb_search: KB 검색 API '초량동 e편한세상부산항' -> 2개 단지 후보 발견
+2026-09-18 10:29:29 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 6개 평형 데이터 수집 완료 (단지=33044)
+2026-09-18 10:29:31 [INFO] src.kb_area_master.kb_search: KB 검색 API '수정동 협성휴포레부산진역오션뷰' -> 2개 단지 후보 발견
+2026-09-18 10:29:32 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=31737)
+2026-09-18 10:29:34 [INFO] src.kb_area_master.kb_search: KB 검색 API '좌천동 부산항일동미라주더오션' -> 4개 단지 후보 발견
+2026-09-18 10:29:35 [INFO] src.kb_area_master.kb_search: KB 검색 API '부산항일동미라주더오션' -> 4개 단지 후보 발견
+2026-09-18 10:29:36 [INFO] src.kb_area_master.kb_search: KB 검색 API '좌천동 부산항일동미라주더오션아파트' -> 0개 단지 후보 발견
+2026-09-18 10:29:37 [INFO] src.kb_area_master.kb_search: KB 검색 API '동구 좌천동 부산항일동미라주더오션' -> 4개 단지 후보 발견
+2026-09-18 10:29:40 [INFO] src.kb_area_master.kb_search: KB 검색 API '범일동 두산위브더제니스 하버시티' -> 2개 단지 후보 발견
+2026-09-18 10:29:40 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 6개 평형 데이터 수집 완료 (단지=45796)
+2026-09-18 10:29:42 [INFO] src.kb_area_master.kb_search: KB 검색 API '범일동 오션브릿지' -> 2개 단지 후보 발견
+2026-09-18 10:29:42 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=29905)
+2026-09-18 10:29:44 [INFO] src.kb_area_master.kb_search: KB 검색 API '범일동 한성기린프라자' -> 1개 단지 후보 발견
+2026-09-18 10:29:45 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=5407)
+2026-09-18 10:29:47 [INFO] src.kb_area_master.kb_search: KB 검색 API '범일동 두산위브포세이돈Ⅱ' -> 2개 단지 후보 발견
+2026-09-18 10:29:47 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 16개 평형 데이터 수집 완료 (단지=14680)
+2026-09-18 10:29:49 [INFO] src.kb_area_master.kb_search: KB 검색 API '영선동4가 영선동반도보라' -> 1개 단지 후보 발견
+2026-09-18 10:29:49 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=6034)
+2026-09-18 10:29:51 [INFO] src.kb_area_master.kb_search: KB 검색 API '봉래동2가 미광마린타워' -> 1개 단지 후보 발견
+2026-09-18 10:29:51 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=6037)
+2026-09-18 10:29:55 [INFO] src.kb_area_master.kb_search: KB 검색 API '청학동 신영도롯데낙천대' -> 1개 단지 후보 발견
+2026-09-18 10:29:55 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=13741)
+2026-09-18 10:29:58 [INFO] src.kb_area_master.kb_search: KB 검색 API '청학동 청학영도신도브래뉴' -> 0개 단지 후보 발견
+2026-09-18 10:29:59 [INFO] src.kb_area_master.kb_search: KB 검색 API '청학영도신도브래뉴' -> 0개 단지 후보 발견
+2026-09-18 10:30:00 [INFO] src.kb_area_master.kb_search: KB 검색 API '영도구 청학동 청학영도신도브래뉴' -> 0개 단지 후보 발견
+2026-09-18 10:30:05 [INFO] src.kb_area_master.kb_search: KB 검색 API '동삼동 부산오션시티푸르지오' -> 2개 단지 후보 발견
+2026-09-18 10:30:05 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 8개 평형 데이터 수집 완료 (단지=44307)
+2026-09-18 10:30:07 [INFO] src.kb_area_master.kb_search: KB 검색 API '동삼동 조양비취' -> 1개 단지 후보 발견
+2026-09-18 10:30:07 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 8개 평형 데이터 수집 완료 (단지=6065)
+2026-09-18 10:30:09 [INFO] src.kb_area_master.kb_search: KB 검색 API '동삼동 동삼그린힐' -> 1개 단지 후보 발견
+2026-09-18 10:30:10 [INFO] src.kb_area_master.kb_search: KB 검색 API '동삼그린힐' -> 1개 단지 후보 발견
+2026-09-18 10:30:11 [INFO] src.kb_area_master.kb_search: KB 검색 API '영도구 동삼동 동삼그린힐' -> 1개 단지 후보 발견
+2026-09-18 10:30:17 [INFO] src.kb_area_master.kb_search: KB 검색 API '동삼동 함지그린' -> 1개 단지 후보 발견
+2026-09-18 10:30:17 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 2개 평형 데이터 수집 완료 (단지=6054)
+2026-09-18 10:30:23 [INFO] src.kb_area_master.kb_search: KB 검색 API '동삼동 국제마마뉴비치' -> 1개 단지 후보 발견
+2026-09-18 10:30:23 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=6056)
+2026-09-18 10:30:25 [INFO] src.kb_area_master.kb_search: KB 검색 API '동삼동 절영' -> 10개 단지 후보 발견
+2026-09-18 10:30:25 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 1개 평형 데이터 수집 완료 (단지=6057)
+2026-09-18 10:30:31 [INFO] src.kb_area_master.kb_search: KB 검색 API '양정동 양정현대1차' -> 0개 단지 후보 발견
+2026-09-18 10:30:32 [INFO] src.kb_area_master.kb_search: KB 검색 API '양정현대1차' -> 0개 단지 후보 발견
+2026-09-18 10:30:33 [INFO] src.kb_area_master.kb_search: KB 검색 API '양정동 양정현대1차아파트' -> 0개 단지 후보 발견
+2026-09-18 10:30:34 [INFO] src.kb_area_master.kb_search: KB 검색 API '부산진구 양정동 양정현대1차' -> 0개 단지 후보 발견
+2026-09-18 10:30:38 [INFO] src.kb_area_master.kb_search: KB 검색 API '양정동 양정현대2차' -> 0개 단지 후보 발견
+2026-09-18 10:30:39 [INFO] src.kb_area_master.kb_search: KB 검색 API '양정현대2차' -> 0개 단지 후보 발견
+2026-09-18 10:30:40 [INFO] src.kb_area_master.kb_search: KB 검색 API '양정동 양정현대2차아파트' -> 0개 단지 후보 발견
+2026-09-18 10:30:41 [INFO] src.kb_area_master.kb_search: KB 검색 API '부산진구 양정동 양정현대2차' -> 0개 단지 후보 발견
+2026-09-18 10:30:44 [INFO] src.kb_area_master.kb_search: KB 검색 API '양정동 대원칸타빌멤버스' -> 1개 단지 후보 발견
+2026-09-18 10:30:44 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 8개 평형 데이터 수집 완료 (단지=14276)
+2026-09-18 10:30:46 [INFO] src.kb_area_master.kb_search: KB 검색 API '전포동 e편한세상 시민공원' -> 2개 단지 후보 발견
+2026-09-18 10:30:47 [INFO] src.kb_area_master.kb_search: KB 검색 API 'e편한세상 시민공원' -> 2개 단지 후보 발견
+2026-09-18 10:30:48 [INFO] src.kb_area_master.kb_search: KB 검색 API '전포동 e편한세상 시민공원 아파트' -> 2개 단지 후보 발견
+2026-09-18 10:30:49 [INFO] src.kb_area_master.kb_search: KB 검색 API '부산진구 전포동 e편한세상 시민공원' -> 2개 단지 후보 발견
+2026-09-18 10:30:52 [INFO] src.kb_area_master.kb_search: KB 검색 API '전포동 서면아이파크' -> 2개 단지 후보 발견
+2026-09-18 10:30:53 [INFO] src.kb_area_master.kb_search: KB 검색 API '서면아이파크' -> 2개 단지 후보 발견
+2026-09-18 10:30:55 [INFO] src.kb_area_master.kb_search: KB 검색 API '전포동 서면아이파크아파트' -> 0개 단지 후보 발견
+2026-09-18 10:30:56 [INFO] src.kb_area_master.kb_search: KB 검색 API '부산진구 전포동 서면아이파크' -> 2개 단지 후보 발견
+2026-09-18 10:31:03 [INFO] src.kb_area_master.kb_search: KB 검색 API '전포동 서면한신' -> 2개 단지 후보 발견
+2026-09-18 10:31:03 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=5515)
+2026-09-18 10:31:05 [INFO] src.kb_area_master.kb_search: KB 검색 API '전포동 서면롯데캐슬스카이' -> 1개 단지 후보 발견
+2026-09-18 10:31:05 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 9개 평형 데이터 수집 완료 (단지=13082)
+2026-09-18 10:31:07 [INFO] src.kb_area_master.kb_search: KB 검색 API '전포동 서면대우디오빌2' -> 1개 단지 후보 발견
+2026-09-18 10:31:08 [INFO] src.kb_area_master.kb_search: KB 검색 API '서면대우디오빌2' -> 1개 단지 후보 발견
+2026-09-18 10:31:09 [INFO] src.kb_area_master.kb_search: KB 검색 API '부산진구 전포동 서면대우디오빌2' -> 1개 단지 후보 발견
+2026-09-18 10:31:12 [INFO] src.kb_area_master.kb_search: KB 검색 API '전포동 서면유림노르웨이아침' -> 1개 단지 후보 발견
+2026-09-18 10:31:12 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 11개 평형 데이터 수집 완료 (단지=13167)
+2026-09-18 10:31:15 [INFO] src.kb_area_master.kb_search: KB 검색 API '전포동 한라비발디' -> 1개 단지 후보 발견
+2026-09-18 10:31:15 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 6개 평형 데이터 수집 완료 (단지=14284)
+2026-09-18 10:31:17 [INFO] src.kb_area_master.kb_search: KB 검색 API '부전동 서면센트럴스타' -> 0개 단지 후보 발견
+2026-09-18 10:31:18 [INFO] src.kb_area_master.kb_search: KB 검색 API '서면센트럴스타' -> 0개 단지 후보 발견
+2026-09-18 10:31:19 [INFO] src.kb_area_master.kb_search: KB 검색 API '부산진구 부전동 서면센트럴스타' -> 0개 단지 후보 발견
+2026-09-18 10:31:22 [INFO] src.kb_area_master.exporter: 마스터 CSV 저장: D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\config\market_cap_area_master.csv (141 rows, 23단지)
+2026-09-18 10:31:22 [INFO] src.kb_area_master.exporter: KB 원본 데이터 저장: D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\data\raw\kb\kb_area_types.csv (141 rows)
+2026-09-18 10:31:22 [INFO] src.kb_area_master.exporter: KB 매핑 캐시 저장: D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\data\mapping\kb_complex_mapping.csv (31건)
+2026-09-18 10:31:22 [INFO] src.kb_area_master.exporter: Pending 목록 저장: D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\data\review\area_master_pending.csv (26건)
+2026-09-18 10:31:22 [INFO] src.kb_area_master.kb_search: KB 검색 API '부전동 네오스포' -> 1개 단지 후보 발견
+2026-09-18 10:31:22 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=5514)
+2026-09-18 10:31:24 [INFO] src.kb_area_master.kb_search: KB 검색 API '범천동 e편한세상 서면 더센트럴' -> 2개 단지 후보 발견
+2026-09-18 10:31:24 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=46959)
+2026-09-18 10:31:26 [INFO] src.kb_area_master.kb_search: KB 검색 API '범천동 서면DS·협성엘리시안' -> 1개 단지 후보 발견
+2026-09-18 10:31:27 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 6개 평형 데이터 수집 완료 (단지=29268)
+2026-09-18 10:31:29 [INFO] src.kb_area_master.kb_search: KB 검색 API '범천동 서면베르빌2' -> 0개 단지 후보 발견
+2026-09-18 10:31:30 [INFO] src.kb_area_master.kb_search: KB 검색 API '서면베르빌2' -> 0개 단지 후보 발견
+2026-09-18 10:31:31 [INFO] src.kb_area_master.kb_search: KB 검색 API '부산진구 범천동 서면베르빌2' -> 0개 단지 후보 발견
+2026-09-18 10:31:34 [INFO] src.kb_area_master.kb_search: KB 검색 API '범천동 범천경남' -> 1개 단지 후보 발견
+2026-09-18 10:31:34 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 3개 평형 데이터 수집 완료 (단지=5508)
+2026-09-18 10:31:38 [INFO] src.kb_area_master.kb_search: KB 검색 API '범천동 서면e-편한세상' -> 1개 단지 후보 발견
+2026-09-18 10:31:38 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 9개 평형 데이터 수집 완료 (단지=14814)
+2026-09-18 10:31:40 [INFO] src.kb_area_master.kb_search: KB 검색 API '범전동 삼한골든뷰센트럴파크' -> 2개 단지 후보 발견
+2026-09-18 10:31:40 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=31209)
+2026-09-18 10:31:44 [INFO] src.kb_area_master.kb_search: KB 검색 API '연지동 화인연지' -> 1개 단지 후보 발견
+2026-09-18 10:31:45 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=5535)
+2026-09-18 10:31:47 [INFO] src.kb_area_master.kb_search: KB 검색 API '연지동 연지자이2차' -> 1개 단지 후보 발견
+2026-09-18 10:31:47 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 9개 평형 데이터 수집 완료 (단지=16130)
+2026-09-18 10:31:49 [INFO] src.kb_area_master.kb_search: KB 검색 API '연지동 연지2차청구' -> 1개 단지 후보 발견
+2026-09-18 10:31:49 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 3개 평형 데이터 수집 완료 (단지=5537)
+2026-09-18 10:31:51 [INFO] src.kb_area_master.kb_search: KB 검색 API '연지동 연지자이1차' -> 1개 단지 후보 발견
+2026-09-18 10:31:51 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 7개 평형 데이터 수집 완료 (단지=15291)
+2026-09-18 10:31:53 [INFO] src.kb_area_master.kb_search: KB 검색 API '연지동 세동한신' -> 1개 단지 후보 발견
+2026-09-18 10:31:53 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 3개 평형 데이터 수집 완료 (단지=5531)
+2026-09-18 10:32:00 [INFO] src.kb_area_master.kb_search: KB 검색 API '부암동 백양산서희스타힐스' -> 1개 단지 후보 발견
+2026-09-18 10:32:00 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 8개 평형 데이터 수집 완료 (단지=429022)
+2026-09-18 10:32:04 [INFO] src.kb_area_master.kb_search: KB 검색 API '부암동 서면동일파크스위트3차' -> 1개 단지 후보 발견
+2026-09-18 10:32:04 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 6개 평형 데이터 수집 완료 (단지=30157)
+2026-09-18 10:32:06 [INFO] src.kb_area_master.kb_search: KB 검색 API '부암동 서면동일파크스위트1차' -> 1개 단지 후보 발견
+2026-09-18 10:32:06 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 12개 평형 데이터 수집 완료 (단지=26500)
+2026-09-18 10:32:08 [INFO] src.kb_area_master.kb_search: KB 검색 API '부암동 서면쌍용스윗닷홈스카이' -> 1개 단지 후보 발견
+2026-09-18 10:32:09 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=15228)
+2026-09-18 10:32:11 [INFO] src.kb_area_master.kb_search: KB 검색 API '부암동 일성in4' -> 0개 단지 후보 발견
+2026-09-18 10:32:12 [INFO] src.kb_area_master.kb_search: KB 검색 API '일성in4' -> 0개 단지 후보 발견
+2026-09-18 10:32:13 [INFO] src.kb_area_master.kb_search: KB 검색 API '부암동 일성in4아파트' -> 0개 단지 후보 발견
+2026-09-18 10:32:14 [INFO] src.kb_area_master.kb_search: KB 검색 API '부산진구 부암동 일성in4' -> 0개 단지 후보 발견
+2026-09-18 10:32:17 [INFO] src.kb_area_master.kb_search: KB 검색 API '부암동 타워베르빌' -> 2개 단지 후보 발견
+2026-09-18 10:32:18 [INFO] src.kb_area_master.kb_search: KB 검색 API '타워베르빌' -> 2개 단지 후보 발견
+2026-09-18 10:32:19 [INFO] src.kb_area_master.kb_search: KB 검색 API '부산진구 부암동 타워베르빌' -> 2개 단지 후보 발견
+2026-09-18 10:32:22 [INFO] src.kb_area_master.kb_search: KB 검색 API '부암동 서면동문굿모닝힐' -> 1개 단지 후보 발견
+2026-09-18 10:32:22 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 13개 평형 데이터 수집 완료 (단지=19701)
+2026-09-18 10:32:24 [INFO] src.kb_area_master.kb_search: KB 검색 API '부암동 당감뜨란채' -> 1개 단지 후보 발견
+2026-09-18 10:32:25 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 6개 평형 데이터 수집 완료 (단지=15049)
+2026-09-18 10:32:27 [INFO] src.kb_area_master.kb_search: KB 검색 API '부암동 백양산쌍용스윗닷홈' -> 1개 단지 후보 발견
+2026-09-18 10:32:27 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 3개 평형 데이터 수집 완료 (단지=13083)
+2026-09-18 10:32:29 [INFO] src.kb_area_master.kb_search: KB 검색 API '부암동 협성피닉스' -> 1개 단지 후보 발견
+2026-09-18 10:32:29 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 10개 평형 데이터 수집 완료 (단지=5550)
+2026-09-18 10:32:31 [INFO] src.kb_area_master.kb_search: KB 검색 API '부암동 화승삼성' -> 1개 단지 후보 발견
+2026-09-18 10:32:31 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=5551)
+2026-09-18 10:32:33 [INFO] src.kb_area_master.kb_search: KB 검색 API '당감동 서면 비스타동원' -> 1개 단지 후보 발견
+2026-09-18 10:32:33 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 3개 평형 데이터 수집 완료 (단지=314859)
+2026-09-18 10:32:36 [INFO] src.kb_area_master.kb_search: KB 검색 API '당감동 서면2차 봄여름가을겨울' -> 1개 단지 후보 발견
+2026-09-18 10:32:36 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 9개 평형 데이터 수집 완료 (단지=32588)
+2026-09-18 10:32:38 [INFO] src.kb_area_master.kb_search: KB 검색 API '당감동 서면삼익' -> 1개 단지 후보 발견
+2026-09-18 10:32:38 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 7개 평형 데이터 수집 완료 (단지=5560)
+2026-09-18 10:32:40 [INFO] src.kb_area_master.kb_search: KB 검색 API '당감동 태화현대1차' -> 1개 단지 후보 발견
+2026-09-18 10:32:40 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=5563)
+2026-09-18 10:32:42 [INFO] src.kb_area_master.kb_search: KB 검색 API '당감동 태화현대2차' -> 1개 단지 후보 발견
+2026-09-18 10:32:42 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 3개 평형 데이터 수집 완료 (단지=5556)
+2026-09-18 10:32:44 [INFO] src.kb_area_master.kb_search: KB 검색 API '당감동 국제백양' -> 1개 단지 후보 발견
+2026-09-18 10:32:44 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 6개 평형 데이터 수집 완료 (단지=5557)
+2026-09-18 10:32:47 [INFO] src.kb_area_master.kb_search: KB 검색 API '당감동 당감동일스위트' -> 1개 단지 후보 발견
+2026-09-18 10:32:47 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=13271)
+2026-09-18 10:32:49 [INFO] src.kb_area_master.kb_search: KB 검색 API '당감동 개금주공3단지' -> 1개 단지 후보 발견
+2026-09-18 10:32:49 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 11개 평형 데이터 수집 완료 (단지=5573)
+2026-09-18 10:32:51 [INFO] src.kb_area_master.kb_search: KB 검색 API '당감동 백양뜨란채' -> 1개 단지 후보 발견
+2026-09-18 10:32:51 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 7개 평형 데이터 수집 완료 (단지=5566)
+2026-09-18 10:32:53 [INFO] src.kb_area_master.kb_search: KB 검색 API '당감동 백양푸른채' -> 1개 단지 후보 발견
+2026-09-18 10:32:53 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 8개 평형 데이터 수집 완료 (단지=5564)
+2026-09-18 10:32:55 [INFO] src.kb_area_master.kb_search: KB 검색 API '가야동 가야역롯데캐슬스카이엘' -> 1개 단지 후보 발견
+2026-09-18 10:32:55 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=2136163)
+2026-09-18 10:33:00 [INFO] src.kb_area_master.kb_search: KB 검색 API '가야동 가야벽산' -> 1개 단지 후보 발견
+2026-09-18 10:33:00 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 10개 평형 데이터 수집 완료 (단지=5495)
+2026-09-18 10:33:02 [INFO] src.kb_area_master.kb_search: KB 검색 API '가야동 가야반도보라빌' -> 1개 단지 후보 발견
+2026-09-18 10:33:02 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=13269)
+2026-09-18 10:33:04 [INFO] src.kb_area_master.kb_search: KB 검색 API '개금동 이진젠시티' -> 2개 단지 후보 발견
+2026-09-18 10:33:04 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=43586)
+2026-09-18 10:33:06 [INFO] src.kb_area_master.kb_search: KB 검색 API '개금동 금강펜테리움 더 스퀘어' -> 2개 단지 후보 발견
+2026-09-18 10:33:06 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 6개 평형 데이터 수집 완료 (단지=29812)
+2026-09-18 10:33:08 [INFO] src.kb_area_master.kb_search: KB 검색 API '개금동 개금주공2단지' -> 1개 단지 후보 발견
+2026-09-18 10:33:09 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 7개 평형 데이터 수집 완료 (단지=5575)
+2026-09-18 10:33:11 [INFO] src.kb_area_master.kb_search: KB 검색 API '개금동 개금우드빌' -> 1개 단지 후보 발견
+2026-09-18 10:33:11 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 2개 평형 데이터 수집 완료 (단지=36293)
+2026-09-18 10:33:13 [INFO] src.kb_area_master.kb_search: KB 검색 API '개금동 개금아이파크' -> 1개 단지 후보 발견
+2026-09-18 10:33:13 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 8개 평형 데이터 수집 완료 (단지=5583)
+2026-09-18 10:33:15 [INFO] src.kb_area_master.kb_search: KB 검색 API '개금동 개금시영' -> 1개 단지 후보 발견
+2026-09-18 10:33:15 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 2개 평형 데이터 수집 완료 (단지=5585)
+2026-09-18 10:33:17 [INFO] src.kb_area_master.kb_search: KB 검색 API '개금동 동원화인패밀리타운' -> 1개 단지 후보 발견
+2026-09-18 10:33:17 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 3개 평형 데이터 수집 완료 (단지=5577)
+2026-09-18 10:33:22 [INFO] src.kb_area_master.exporter: 마스터 CSV 저장: D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\config\market_cap_area_master.csv (370 rows, 62단지)
+2026-09-18 10:33:22 [INFO] src.kb_area_master.exporter: KB 원본 데이터 저장: D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\data\raw\kb\kb_area_types.csv (372 rows)
+2026-09-18 10:33:22 [INFO] src.kb_area_master.exporter: KB 매핑 캐시 저장: D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\data\mapping\kb_complex_mapping.csv (72건)
+2026-09-18 10:33:22 [INFO] src.kb_area_master.exporter: Pending 목록 저장: D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\data\review\area_master_pending.csv (37건)
+2026-09-18 10:33:22 [INFO] src.kb_area_master.kb_search: KB 검색 API '개금동 신개금LG' -> 2개 단지 후보 발견
+2026-09-18 10:33:23 [INFO] src.kb_area_master.kb_search: KB 검색 API '신개금LG' -> 2개 단지 후보 발견
+2026-09-18 10:33:24 [INFO] src.kb_area_master.kb_search: KB 검색 API '개금동 신개금LG아파트' -> 0개 단지 후보 발견
+2026-09-18 10:33:25 [INFO] src.kb_area_master.kb_search: KB 검색 API '부산진구 개금동 신개금LG' -> 2개 단지 후보 발견
+2026-09-18 10:33:30 [INFO] src.kb_area_master.kb_search: KB 검색 API '명장동 동래동일스위트' -> 1개 단지 후보 발견
+2026-09-18 10:33:30 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=31355)
+2026-09-18 10:33:32 [INFO] src.kb_area_master.kb_search: KB 검색 API '안락동 안락경동리인' -> 1개 단지 후보 발견
+2026-09-18 10:33:32 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 13개 평형 데이터 수집 완료 (단지=29234)
+2026-09-18 10:33:34 [INFO] src.kb_area_master.kb_search: KB 검색 API '안락동 안락뜨란채2단지' -> 1개 단지 후보 발견
+2026-09-18 10:33:34 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=13826)
+2026-09-18 10:33:36 [INFO] src.kb_area_master.kb_search: KB 검색 API '안락동 안락1차SK' -> 0개 단지 후보 발견
+2026-09-18 10:33:38 [INFO] src.kb_area_master.kb_search: KB 검색 API '안락1차SK' -> 0개 단지 후보 발견
+2026-09-18 10:33:39 [INFO] src.kb_area_master.kb_search: KB 검색 API '안락동 안락1차SK아파트' -> 0개 단지 후보 발견
+2026-09-18 10:33:40 [INFO] src.kb_area_master.kb_search: KB 검색 API '동래구 안락동 안락1차SK' -> 0개 단지 후보 발견
+2026-09-18 10:33:45 [INFO] src.kb_area_master.kb_search: KB 검색 API '안락동 안락현대' -> 1개 단지 후보 발견
+2026-09-18 10:33:45 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=5494)
+2026-09-18 10:33:47 [INFO] src.kb_area_master.kb_search: KB 검색 API '안락동 강변뜨란채' -> 1개 단지 후보 발견
+2026-09-18 10:33:47 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 3개 평형 데이터 수집 완료 (단지=14533)
+2026-09-18 10:33:49 [INFO] src.kb_area_master.kb_search: KB 검색 API '안락동 동래화목타운' -> 1개 단지 후보 발견
+2026-09-18 10:33:49 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 6개 평형 데이터 수집 완료 (단지=5485)
+2026-09-18 10:33:51 [INFO] src.kb_area_master.kb_search: KB 검색 API '낙민동 포레나동래' -> 1개 단지 후보 발견
+2026-09-18 10:33:51 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 2개 평형 데이터 수집 완료 (단지=31578)
+2026-09-18 10:33:54 [INFO] src.kb_area_master.kb_search: KB 검색 API '낙민동 동원로얄듀크' -> 1개 단지 후보 발견
+2026-09-18 10:33:54 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=5417)
+2026-09-18 10:33:56 [INFO] src.kb_area_master.kb_search: KB 검색 API '낙민동 동래우성' -> 1개 단지 후보 발견
+2026-09-18 10:33:56 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=5414)
+2026-09-18 10:33:58 [INFO] src.kb_area_master.kb_search: KB 검색 API '낙민동 동래한양' -> 1개 단지 후보 발견
+2026-09-18 10:33:58 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=5418)
+2026-09-18 10:34:00 [INFO] src.kb_area_master.kb_search: KB 검색 API '낙민동 중앙하이츠2차' -> 1개 단지 후보 발견
+2026-09-18 10:34:00 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 2개 평형 데이터 수집 완료 (단지=5416)
+2026-09-18 10:34:02 [INFO] src.kb_area_master.kb_search: KB 검색 API '낙민동 낙민한일유앤아이' -> 1개 단지 후보 발견
+2026-09-18 10:34:02 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 8개 평형 데이터 수집 완료 (단지=15051)
+2026-09-18 10:34:05 [INFO] src.kb_area_master.kb_search: KB 검색 API '복천동 우성베스토피아' -> 1개 단지 후보 발견
+2026-09-18 10:34:05 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 8개 평형 데이터 수집 완료 (단지=5411)
+2026-09-18 10:34:07 [INFO] src.kb_area_master.kb_search: KB 검색 API '명륜동 힐스테이트 명륜 트라디움' -> 1개 단지 후보 발견
+2026-09-18 10:34:07 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=45594)
+2026-09-18 10:34:09 [INFO] src.kb_area_master.kb_search: KB 검색 API '명륜동 명륜자이' -> 1개 단지 후보 발견
+2026-09-18 10:34:09 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 12개 평형 데이터 수집 완료 (단지=34200)
+2026-09-18 10:34:13 [INFO] src.kb_area_master.kb_search: KB 검색 API '명륜동 동래센트럴파크하이츠2단지' -> 0개 단지 후보 발견
+2026-09-18 10:34:14 [INFO] src.kb_area_master.kb_search: KB 검색 API '동래센트럴파크하이츠2단지' -> 0개 단지 후보 발견
+2026-09-18 10:34:15 [INFO] src.kb_area_master.kb_search: KB 검색 API '동래구 명륜동 동래센트럴파크하이츠2단지' -> 0개 단지 후보 발견
+2026-09-18 10:34:18 [INFO] src.kb_area_master.kb_search: KB 검색 API '명륜동 명륜아이파크' -> 0개 단지 후보 발견
+2026-09-18 10:34:19 [INFO] src.kb_area_master.kb_search: KB 검색 API '명륜아이파크' -> 0개 단지 후보 발견
+2026-09-18 10:34:20 [INFO] src.kb_area_master.kb_search: KB 검색 API '동래구 명륜동 명륜아이파크' -> 0개 단지 후보 발견
+2026-09-18 10:34:26 [INFO] src.kb_area_master.kb_search: KB 검색 API '온천동 더샵 동래' -> 4개 단지 후보 발견
+2026-09-18 10:34:26 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=43564)
+2026-09-18 10:34:30 [INFO] src.kb_area_master.kb_search: KB 검색 API '온천동 동래3차 SK VIEW' -> 0개 단지 후보 발견
+2026-09-18 10:34:31 [INFO] src.kb_area_master.kb_search: KB 검색 API '동래3차 SK VIEW' -> 0개 단지 후보 발견
+2026-09-18 10:34:32 [INFO] src.kb_area_master.kb_search: KB 검색 API '온천동 동래3차 SK VIEW 아파트' -> 0개 단지 후보 발견
+2026-09-18 10:34:33 [INFO] src.kb_area_master.kb_search: KB 검색 API '동래구 온천동 동래3차 SK VIEW' -> 0개 단지 후보 발견
+2026-09-18 10:34:36 [INFO] src.kb_area_master.kb_search: KB 검색 API '온천동 동래효성해링턴플레이스' -> 2개 단지 후보 발견
+2026-09-18 10:34:36 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 6개 평형 데이터 수집 완료 (단지=30915)
+2026-09-18 10:34:38 [INFO] src.kb_area_master.kb_search: KB 검색 API '온천동 동래삼정그린코아포레스트' -> 1개 단지 후보 발견
+2026-09-18 10:34:38 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=30755)
+2026-09-18 10:34:40 [INFO] src.kb_area_master.kb_search: KB 검색 API '온천동 동래럭키' -> 0개 단지 후보 발견
+2026-09-18 10:34:42 [INFO] src.kb_area_master.kb_search: KB 검색 API '동래럭키' -> 1개 단지 후보 발견
+2026-09-18 10:34:42 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 8개 평형 데이터 수집 완료 (단지=5434)
+2026-09-18 10:34:44 [INFO] src.kb_area_master.kb_search: KB 검색 API '온천동 벽산 아스타' -> 1개 단지 후보 발견
+2026-09-18 10:34:44 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 13개 평형 데이터 수집 완료 (단지=15340)
+2026-09-18 10:34:46 [INFO] src.kb_area_master.kb_search: KB 검색 API '온천동 온천동반도보라스카이뷰' -> 2개 단지 후보 발견
+2026-09-18 10:34:46 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 10개 평형 데이터 수집 완료 (단지=13877)
+2026-09-18 10:34:48 [INFO] src.kb_area_master.kb_search: KB 검색 API '사직동 사직 하늘채 리센티아' -> 1개 단지 후보 발견
+2026-09-18 10:34:48 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=550539)
+2026-09-18 10:34:50 [INFO] src.kb_area_master.kb_search: KB 검색 API '사직동 쌍용 더 플래티넘 사직 아시아드' -> 0개 단지 후보 발견
+2026-09-18 10:34:52 [INFO] src.kb_area_master.kb_search: KB 검색 API '쌍용 더 플래티넘 사직 아시아드' -> 0개 단지 후보 발견
+2026-09-18 10:34:53 [INFO] src.kb_area_master.kb_search: KB 검색 API '동래구 사직동 쌍용 더 플래티넘 사직 아시아드' -> 0개 단지 후보 발견
+2026-09-18 10:34:58 [INFO] src.kb_area_master.kb_search: KB 검색 API '사직동 사직KCC스위첸' -> 1개 단지 후보 발견
+2026-09-18 10:34:58 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 15개 평형 데이터 수집 완료 (단지=27382)
+2026-09-18 10:35:00 [INFO] src.kb_area_master.kb_search: KB 검색 API '사직동 사직2차삼정그린코아' -> 1개 단지 후보 발견
+2026-09-18 10:35:00 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 9개 평형 데이터 수집 완료 (단지=14279)
+2026-09-18 10:35:02 [INFO] src.kb_area_master.kb_search: KB 검색 API '사직동 사직한신' -> 0개 단지 후보 발견
+2026-09-18 10:35:03 [INFO] src.kb_area_master.kb_search: KB 검색 API '사직한신' -> 1개 단지 후보 발견
+2026-09-18 10:35:03 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 6개 평형 데이터 수집 완료 (단지=5474)
+2026-09-18 10:35:05 [INFO] src.kb_area_master.kb_search: KB 검색 API '사직동 사직2차쌍용예가' -> 1개 단지 후보 발견
+2026-09-18 10:35:05 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=16124)
+2026-09-18 10:35:08 [INFO] src.kb_area_master.kb_search: KB 검색 API '사직동 사직쌍용예가' -> 1개 단지 후보 발견
+2026-09-18 10:35:08 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=14653)
+2026-09-18 10:35:10 [INFO] src.kb_area_master.kb_search: KB 검색 API '사직동 사직삼정그린코아' -> 0개 단지 후보 발견
+2026-09-18 10:35:11 [INFO] src.kb_area_master.kb_search: KB 검색 API '사직삼정그린코아' -> 0개 단지 후보 발견
+2026-09-18 10:35:12 [INFO] src.kb_area_master.kb_search: KB 검색 API '사직동 사직삼정그린코아아파트' -> 0개 단지 후보 발견
+2026-09-18 10:35:13 [INFO] src.kb_area_master.kb_search: KB 검색 API '동래구 사직동 사직삼정그린코아' -> 0개 단지 후보 발견
+2026-09-18 10:35:16 [INFO] src.kb_area_master.kb_search: KB 검색 API '대연동 더비치푸르지오써밋' -> 1개 단지 후보 발견
+2026-09-18 10:35:16 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 10개 평형 데이터 수집 완료 (단지=1072913)
+2026-09-18 10:35:20 [INFO] src.kb_area_master.kb_search: KB 검색 API '대연동 대연자이' -> 1개 단지 후보 발견
+2026-09-18 10:35:21 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 8개 평형 데이터 수집 완료 (단지=34178)
+2026-09-18 10:35:23 [INFO] src.kb_area_master.kb_search: KB 검색 API '대연동 대연sk뷰힐스' -> 2개 단지 후보 발견
+2026-09-18 10:35:23 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 7개 평형 데이터 수집 완료 (단지=31369)
+2026-09-18 10:35:25 [INFO] src.kb_area_master.kb_search: KB 검색 API '대연동 대연파크푸르지오' -> 1개 단지 후보 발견
+2026-09-18 10:35:25 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 8개 평형 데이터 수집 완료 (단지=31111)
+2026-09-18 10:35:27 [INFO] src.kb_area_master.kb_search: KB 검색 API '대연동 대연롯데캐슬레전드' -> 1개 단지 후보 발견
+2026-09-18 10:35:27 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 16개 평형 데이터 수집 완료 (단지=30004)
+2026-09-18 10:35:31 [INFO] src.kb_area_master.kb_search: KB 검색 API '대연동 대연힐스테이트푸르지오' -> 3개 단지 후보 발견
+2026-09-18 10:35:32 [INFO] src.kb_area_master.kb_search: KB 검색 API '대연힐스테이트푸르지오' -> 3개 단지 후보 발견
+2026-09-18 10:35:33 [INFO] src.kb_area_master.kb_search: KB 검색 API '남구 대연동 대연힐스테이트푸르지오' -> 3개 단지 후보 발견
+2026-09-18 10:35:37 [INFO] src.kb_area_master.kb_search: KB 검색 API '대연동 대연동푸르지오' -> 1개 단지 후보 발견
+2026-09-18 10:35:37 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 13개 평형 데이터 수집 완료 (단지=13192)
+2026-09-18 10:35:39 [INFO] src.kb_area_master.kb_search: KB 검색 API '대연동 대우그린' -> 2개 단지 후보 발견
+2026-09-18 10:35:39 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 3개 평형 데이터 수집 완료 (단지=5324)
+2026-09-18 10:35:41 [INFO] src.kb_area_master.exporter: 마스터 CSV 저장: D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\config\market_cap_area_master.csv (603 rows, 95단지)
+2026-09-18 10:35:41 [INFO] src.kb_area_master.exporter: KB 원본 데이터 저장: D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\data\raw\kb\kb_area_types.csv (606 rows)
+2026-09-18 10:35:41 [INFO] src.kb_area_master.exporter: KB 매핑 캐시 저장: D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\data\mapping\kb_complex_mapping.csv (108건)
+2026-09-18 10:35:41 [INFO] src.kb_area_master.exporter: Pending 목록 저장: D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\data\review\area_master_pending.csv (54건)
+2026-09-18 10:35:41 [INFO] src.kb_area_master.kb_search: KB 검색 API '대연동 삼익그린타운' -> 1개 단지 후보 발견
+2026-09-18 10:35:41 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=5328)
+2026-09-18 10:35:43 [INFO] src.kb_area_master.kb_search: KB 검색 API '대연동 대연청구' -> 1개 단지 후보 발견
+2026-09-18 10:35:43 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 6개 평형 데이터 수집 완료 (단지=5329)
+2026-09-18 10:35:45 [INFO] src.kb_area_master.kb_search: KB 검색 API '용호동 데시앙해링턴플레이스파크시티' -> 1개 단지 후보 발견
+2026-09-18 10:35:45 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 9개 평형 데이터 수집 완료 (단지=47451)
+2026-09-18 10:35:48 [INFO] src.kb_area_master.kb_search: KB 검색 API '용호동 W' -> 0개 단지 후보 발견
+2026-09-18 10:35:49 [INFO] src.kb_area_master.kb_search: KB 검색 API 'W' -> 10개 단지 후보 발견
+2026-09-18 10:35:50 [INFO] src.kb_area_master.kb_search: KB 검색 API '용호동 W 아파트' -> 0개 단지 후보 발견
+2026-09-18 10:35:51 [INFO] src.kb_area_master.kb_search: KB 검색 API '남구 용호동 W' -> 0개 단지 후보 발견
+2026-09-18 10:35:54 [INFO] src.kb_area_master.kb_search: KB 검색 API '용호동 GS하이츠자이' -> 1개 단지 후보 발견
+2026-09-18 10:35:54 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 6개 평형 데이터 수집 완료 (단지=15459)
+2026-09-18 10:35:56 [INFO] src.kb_area_master.kb_search: KB 검색 API '용호동 오륙도SK VIEW' -> 0개 단지 후보 발견
+2026-09-18 10:35:57 [INFO] src.kb_area_master.kb_search: KB 검색 API '오륙도SK VIEW' -> 0개 단지 후보 발견
+2026-09-18 10:35:58 [INFO] src.kb_area_master.kb_search: KB 검색 API '남구 용호동 오륙도SK VIEW' -> 0개 단지 후보 발견
+2026-09-18 10:36:01 [INFO] src.kb_area_master.kb_search: KB 검색 API '용호동 LG메트로시티' -> 6개 단지 후보 발견
+2026-09-18 10:36:03 [INFO] src.kb_area_master.kb_search: KB 검색 API 'LG메트로시티' -> 6개 단지 후보 발견
+2026-09-18 10:36:04 [INFO] src.kb_area_master.kb_search: KB 검색 API '용호동 LG메트로시티아파트' -> 0개 단지 후보 발견
+2026-09-18 10:36:05 [INFO] src.kb_area_master.kb_search: KB 검색 API '남구 용호동 LG메트로시티' -> 6개 단지 후보 발견
+2026-09-18 10:36:08 [INFO] src.kb_area_master.kb_search: KB 검색 API '용호동 용호일신프리빌리지' -> 0개 단지 후보 발견
+2026-09-18 10:36:09 [INFO] src.kb_area_master.kb_search: KB 검색 API '용호일신프리빌리지' -> 1개 단지 후보 발견
+2026-09-18 10:36:09 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=5385)
+2026-09-18 10:36:11 [INFO] src.kb_area_master.kb_search: KB 검색 API '용호동 현대비치' -> 1개 단지 후보 발견
+2026-09-18 10:36:11 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=5384)
+2026-09-18 10:36:13 [INFO] src.kb_area_master.kb_search: KB 검색 API '용호동 일신-님Ⅱ' -> 0개 단지 후보 발견
+2026-09-18 10:36:14 [INFO] src.kb_area_master.kb_search: KB 검색 API '일신-님Ⅱ' -> 0개 단지 후보 발견
+2026-09-18 10:36:15 [INFO] src.kb_area_master.kb_search: KB 검색 API '용호동 일신-님Ⅱ아파트' -> 0개 단지 후보 발견
+2026-09-18 10:36:16 [INFO] src.kb_area_master.kb_search: KB 검색 API '남구 용호동 일신-님Ⅱ' -> 0개 단지 후보 발견
+2026-09-18 10:36:20 [INFO] src.kb_area_master.kb_search: KB 검색 API '용호동 쌍용예가' -> 1개 단지 후보 발견
+2026-09-18 10:36:20 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 8개 평형 데이터 수집 완료 (단지=25692)
+2026-09-18 10:36:22 [INFO] src.kb_area_master.kb_search: KB 검색 API '용당동 용당현대I-PARK' -> 0개 단지 후보 발견
+2026-09-18 10:36:23 [INFO] src.kb_area_master.kb_search: KB 검색 API '용당현대I-PARK' -> 0개 단지 후보 발견
+2026-09-18 10:36:24 [INFO] src.kb_area_master.kb_search: KB 검색 API '남구 용당동 용당현대I-PARK' -> 0개 단지 후보 발견
+2026-09-18 10:36:27 [INFO] src.kb_area_master.kb_search: KB 검색 API '용당동 신대연코오롱하늘채' -> 1개 단지 후보 발견
+2026-09-18 10:36:27 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=14864)
+2026-09-18 10:36:29 [INFO] src.kb_area_master.kb_search: KB 검색 API '문현동 롯데캐슬 인피니엘' -> 1개 단지 후보 발견
+2026-09-18 10:36:29 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=961704)
+2026-09-18 10:36:32 [INFO] src.kb_area_master.kb_search: KB 검색 API '문현동 오션파라곤' -> 1개 단지 후보 발견
+2026-09-18 10:36:32 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 10개 평형 데이터 수집 완료 (단지=45612)
+2026-09-18 10:36:34 [INFO] src.kb_area_master.kb_search: KB 검색 API '문현동 대연양우내안애' -> 1개 단지 후보 발견
+2026-09-18 10:36:34 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=43588)
+2026-09-18 10:36:36 [INFO] src.kb_area_master.kb_search: KB 검색 API '문현동 문현경동리인' -> 2개 단지 후보 발견
+2026-09-18 10:36:37 [INFO] src.kb_area_master.kb_search: KB 검색 API '문현경동리인' -> 2개 단지 후보 발견
+2026-09-18 10:36:38 [INFO] src.kb_area_master.kb_search: KB 검색 API '남구 문현동 문현경동리인' -> 2개 단지 후보 발견
+2026-09-18 10:36:41 [INFO] src.kb_area_master.kb_search: KB 검색 API '문현동 문현베스티움' -> 2개 단지 후보 발견
+2026-09-18 10:36:41 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=33363)
+2026-09-18 10:36:43 [INFO] src.kb_area_master.kb_search: KB 검색 API '문현동 문현동삼성' -> 1개 단지 후보 발견
+2026-09-18 10:36:44 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=5337)
+2026-09-18 10:36:46 [INFO] src.kb_area_master.kb_search: KB 검색 API '문현동 대림문현시티프라자' -> 1개 단지 후보 발견
+2026-09-18 10:36:46 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 14개 평형 데이터 수집 완료 (단지=5338)
+2026-09-18 10:36:48 [INFO] src.kb_area_master.kb_search: KB 검색 API '문현동 문현현대' -> 0개 단지 후보 발견
+2026-09-18 10:36:49 [INFO] src.kb_area_master.kb_search: KB 검색 API '문현현대' -> 0개 단지 후보 발견
+2026-09-18 10:36:50 [INFO] src.kb_area_master.kb_search: KB 검색 API '문현동 문현현대아파트' -> 0개 단지 후보 발견
+2026-09-18 10:36:51 [INFO] src.kb_area_master.kb_search: KB 검색 API '남구 문현동 문현현대' -> 0개 단지 후보 발견
+2026-09-18 10:36:56 [INFO] src.kb_area_master.kb_search: KB 검색 API '우암동 우암일신보라' -> 0개 단지 후보 발견
+2026-09-18 10:36:57 [INFO] src.kb_area_master.kb_search: KB 검색 API '우암일신보라' -> 1개 단지 후보 발견
+2026-09-18 10:36:57 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=5354)
+2026-09-18 10:36:59 [INFO] src.kb_area_master.kb_search: KB 검색 API '감만동 감만현대1차' -> 1개 단지 후보 발견
+2026-09-18 10:37:00 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 3개 평형 데이터 수집 완료 (단지=5357)
+2026-09-18 10:37:02 [INFO] src.kb_area_master.kb_search: KB 검색 API '감만동 감만동일스위트' -> 1개 단지 후보 발견
+2026-09-18 10:37:02 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=13601)
+2026-09-18 10:37:04 [INFO] src.kb_area_master.kb_search: KB 검색 API '금곡동 신화명리버뷰자이' -> 1개 단지 후보 발견
+2026-09-18 10:37:04 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=27681)
+2026-09-18 10:37:06 [INFO] src.kb_area_master.kb_search: KB 검색 API '금곡동 동원역삼정그린코아' -> 1개 단지 후보 발견
+2026-09-18 10:37:06 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 8개 평형 데이터 수집 완료 (단지=26091)
+2026-09-18 10:37:08 [INFO] src.kb_area_master.kb_search: KB 검색 API '금곡동 율리벽산블루밍' -> 2개 단지 후보 발견
+2026-09-18 10:37:09 [INFO] src.kb_area_master.kb_search: KB 검색 API '율리벽산블루밍' -> 2개 단지 후보 발견
+2026-09-18 10:37:10 [INFO] src.kb_area_master.kb_search: KB 검색 API '북구 금곡동 율리벽산블루밍' -> 2개 단지 후보 발견
+2026-09-18 10:37:16 [INFO] src.kb_area_master.kb_search: KB 검색 API '금곡동 화명뜨란채' -> 1개 단지 후보 발견
+2026-09-18 10:37:16 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 3개 평형 데이터 수집 완료 (단지=13527)
+2026-09-18 10:37:18 [INFO] src.kb_area_master.kb_search: KB 검색 API '금곡동 금곡한솔' -> 0개 단지 후보 발견
+2026-09-18 10:37:19 [INFO] src.kb_area_master.kb_search: KB 검색 API '금곡한솔' -> 1개 단지 후보 발견
+2026-09-18 10:37:19 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 3개 평형 데이터 수집 완료 (단지=5667)
+2026-09-18 10:37:25 [INFO] src.kb_area_master.kb_search: KB 검색 API '금곡동 금곡주공3단지' -> 1개 단지 후보 발견
+2026-09-18 10:37:25 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=5665)
+2026-09-18 10:37:29 [INFO] src.kb_area_master.kb_search: KB 검색 API '금곡동 금곡주공5단지' -> 1개 단지 후보 발견
+2026-09-18 10:37:29 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 3개 평형 데이터 수집 완료 (단지=5668)
+2026-09-18 10:37:32 [INFO] src.kb_area_master.kb_search: KB 검색 API '금곡동 금곡주공6단지' -> 1개 단지 후보 발견
+2026-09-18 10:37:32 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=5669)
+2026-09-18 10:37:36 [INFO] src.kb_area_master.kb_search: KB 검색 API '금곡동 금곡9단지주공' -> 0개 단지 후보 발견
+2026-09-18 10:37:37 [INFO] src.kb_area_master.kb_search: KB 검색 API '금곡9단지주공' -> 0개 단지 후보 발견
+2026-09-18 10:37:38 [INFO] src.kb_area_master.kb_search: KB 검색 API '북구 금곡동 금곡9단지주공' -> 0개 단지 후보 발견
+2026-09-18 10:37:41 [INFO] src.kb_area_master.kb_search: KB 검색 API '금곡동 화명한일유앤아이' -> 1개 단지 후보 발견
+2026-09-18 10:37:41 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=5659)
+2026-09-18 10:37:43 [INFO] src.kb_area_master.kb_search: KB 검색 API '금곡동 금곡화목타운' -> 1개 단지 후보 발견
+2026-09-18 10:37:43 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 1개 평형 데이터 수집 완료 (단지=5666)
+2026-09-18 10:37:45 [INFO] src.kb_area_master.kb_search: KB 검색 API '금곡동 금곡조성협진' -> 0개 단지 후보 발견
+2026-09-18 10:37:46 [INFO] src.kb_area_master.kb_search: KB 검색 API '금곡조성협진' -> 0개 단지 후보 발견
+2026-09-18 10:37:48 [INFO] src.kb_area_master.kb_search: KB 검색 API '금곡동 금곡조성협진아파트' -> 0개 단지 후보 발견
+2026-09-18 10:37:49 [INFO] src.kb_area_master.kb_search: KB 검색 API '북구 금곡동 금곡조성협진' -> 0개 단지 후보 발견
+2026-09-18 10:37:52 [INFO] src.kb_area_master.kb_search: KB 검색 API '금곡동 화명리버빌2차' -> 1개 단지 후보 발견
+2026-09-18 10:37:52 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=12107)
+2026-09-18 10:37:58 [INFO] src.kb_area_master.kb_search: KB 검색 API '화명동 화명2차현대' -> 1개 단지 후보 발견
+2026-09-18 10:37:58 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=5650)
+2026-09-18 10:38:00 [INFO] src.kb_area_master.kb_search: KB 검색 API '화명동 화명대우이안' -> 0개 단지 후보 발견
+2026-09-18 10:38:01 [INFO] src.kb_area_master.kb_search: KB 검색 API '화명대우이안' -> 0개 단지 후보 발견
+2026-09-18 10:38:02 [INFO] src.kb_area_master.kb_search: KB 검색 API '화명동 화명대우이안아파트' -> 0개 단지 후보 발견
+2026-09-18 10:38:03 [INFO] src.kb_area_master.kb_search: KB 검색 API '북구 화명동 화명대우이안' -> 0개 단지 후보 발견
+2026-09-18 10:38:06 [INFO] src.kb_area_master.kb_search: KB 검색 API '화명동 화명코오롱하늘채1차' -> 0개 단지 후보 발견
+2026-09-18 10:38:07 [INFO] src.kb_area_master.kb_search: KB 검색 API '화명코오롱하늘채1차' -> 0개 단지 후보 발견
+2026-09-18 10:38:09 [INFO] src.kb_area_master.kb_search: KB 검색 API '화명동 화명코오롱하늘채1차아파트' -> 0개 단지 후보 발견
+2026-09-18 10:38:10 [INFO] src.kb_area_master.kb_search: KB 검색 API '북구 화명동 화명코오롱하늘채1차' -> 0개 단지 후보 발견
+2026-09-18 10:38:13 [INFO] src.kb_area_master.kb_search: KB 검색 API '화명동 화명수정강변타운' -> 0개 단지 후보 발견
+2026-09-18 10:38:14 [INFO] src.kb_area_master.kb_search: KB 검색 API '화명수정강변타운' -> 0개 단지 후보 발견
+2026-09-18 10:38:15 [INFO] src.kb_area_master.kb_search: KB 검색 API '북구 화명동 화명수정강변타운' -> 0개 단지 후보 발견
+2026-09-18 10:38:18 [INFO] src.kb_area_master.kb_search: KB 검색 API '화명동 대림쌍용강변타운' -> 1개 단지 후보 발견
+2026-09-18 10:38:18 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 7개 평형 데이터 수집 완료 (단지=12816)
+2026-09-18 10:38:20 [INFO] src.kb_area_master.exporter: 마스터 CSV 저장: D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\config\market_cap_area_master.csv (745 rows, 122단지)
+2026-09-18 10:38:20 [INFO] src.kb_area_master.exporter: KB 원본 데이터 저장: D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\data\raw\kb\kb_area_types.csv (748 rows)
+2026-09-18 10:38:20 [INFO] src.kb_area_master.exporter: KB 매핑 캐시 저장: D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\data\mapping\kb_complex_mapping.csv (140건)
+2026-09-18 10:38:20 [INFO] src.kb_area_master.exporter: Pending 목록 저장: D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\data\review\area_master_pending.csv (77건)
+2026-09-18 10:38:20 [INFO] src.kb_area_master.kb_search: KB 검색 API '화명동 화명롯데낙천대' -> 1개 단지 후보 발견
+2026-09-18 10:38:20 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=5663)
+2026-09-18 10:38:22 [INFO] src.kb_area_master.kb_search: KB 검색 API '화명동 화명대림타운' -> 1개 단지 후보 발견
+2026-09-18 10:38:23 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 8개 평형 데이터 수집 완료 (단지=5647)
+2026-09-18 10:38:25 [INFO] src.kb_area_master.kb_search: KB 검색 API '화명동 삼한힐파크' -> 1개 단지 후보 발견
+2026-09-18 10:38:25 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 2개 평형 데이터 수집 완료 (단지=12837)
+2026-09-18 10:38:27 [INFO] src.kb_area_master.kb_search: KB 검색 API '화명동 화명동원로얄듀크' -> 0개 단지 후보 발견
+2026-09-18 10:38:28 [INFO] src.kb_area_master.kb_search: KB 검색 API '화명동원로얄듀크' -> 0개 단지 후보 발견
+2026-09-18 10:38:29 [INFO] src.kb_area_master.kb_search: KB 검색 API '북구 화명동 화명동원로얄듀크' -> 0개 단지 후보 발견
+2026-09-18 10:38:32 [INFO] src.kb_area_master.kb_search: KB 검색 API '화명동 화명유림' -> 1개 단지 후보 발견
+2026-09-18 10:38:32 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 1개 평형 데이터 수집 완료 (단지=5655)
+2026-09-18 10:38:34 [INFO] src.kb_area_master.kb_search: KB 검색 API '화명동 화명롯데캐슬카이저' -> 1개 단지 후보 발견
+2026-09-18 10:38:34 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 15개 평형 데이터 수집 완료 (단지=22067)
+2026-09-18 10:38:37 [INFO] src.kb_area_master.kb_search: KB 검색 API '화명동 벽산강변타운' -> 1개 단지 후보 발견
+2026-09-18 10:38:37 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 2개 평형 데이터 수집 완료 (단지=5652)
+2026-09-18 10:38:39 [INFO] src.kb_area_master.kb_search: KB 검색 API '화명동 도시화명그린' -> 3개 단지 후보 발견
+2026-09-18 10:38:39 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 1개 평형 데이터 수집 완료 (단지=389318)
+2026-09-18 10:38:41 [INFO] src.kb_area_master.kb_search: KB 검색 API '화명동 화명경남아너스빌' -> 0개 단지 후보 발견
+2026-09-18 10:38:42 [INFO] src.kb_area_master.kb_search: KB 검색 API '화명경남아너스빌' -> 0개 단지 후보 발견
+2026-09-18 10:38:43 [INFO] src.kb_area_master.kb_search: KB 검색 API '북구 화명동 화명경남아너스빌' -> 0개 단지 후보 발견
+2026-09-18 10:38:46 [INFO] src.kb_area_master.kb_search: KB 검색 API '화명동 그린숲속' -> 1개 단지 후보 발견
+2026-09-18 10:38:46 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 1개 평형 데이터 수집 완료 (단지=5660)
+2026-09-18 10:38:48 [INFO] src.kb_area_master.kb_search: KB 검색 API '화명동 화명코오롱하늘채2차' -> 0개 단지 후보 발견
+2026-09-18 10:38:49 [INFO] src.kb_area_master.kb_search: KB 검색 API '화명코오롱하늘채2차' -> 0개 단지 후보 발견
+2026-09-18 10:38:51 [INFO] src.kb_area_master.kb_search: KB 검색 API '북구 화명동 화명코오롱하늘채2차' -> 0개 단지 후보 발견
+2026-09-18 10:38:54 [INFO] src.kb_area_master.kb_search: KB 검색 API '만덕동 백양산 베스티움에코포레' -> 1개 단지 후보 발견
+2026-09-18 10:38:54 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 2개 평형 데이터 수집 완료 (단지=45099)
+2026-09-18 10:38:58 [INFO] src.kb_area_master.kb_search: KB 검색 API '만덕동 더래디언트금정산' -> 1개 단지 후보 발견
+2026-09-18 10:38:58 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 12개 평형 데이터 수집 완료 (단지=34695)
+2026-09-18 10:39:00 [INFO] src.kb_area_master.kb_search: KB 검색 API '만덕동 백양디이스트' -> 1개 단지 후보 발견
+2026-09-18 10:39:01 [INFO] src.kb_area_master.kb_search: KB 검색 API '백양디이스트' -> 1개 단지 후보 발견
+2026-09-18 10:39:02 [INFO] src.kb_area_master.kb_search: KB 검색 API '북구 만덕동 백양디이스트' -> 1개 단지 후보 발견
+2026-09-18 10:39:05 [INFO] src.kb_area_master.kb_search: KB 검색 API '만덕동 신만덕쌍용예가' -> 1개 단지 후보 발견
+2026-09-18 10:39:06 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 3개 평형 데이터 수집 완료 (단지=13477)
+2026-09-18 10:39:08 [INFO] src.kb_area_master.kb_search: KB 검색 API '만덕동 만덕 상록한신휴플러스' -> 1개 단지 후보 발견
+2026-09-18 10:39:08 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 3개 평형 데이터 수집 완료 (단지=14200)
+2026-09-18 10:39:10 [INFO] src.kb_area_master.kb_search: KB 검색 API '만덕동 만덕삼성' -> 0개 단지 후보 발견
+2026-09-18 10:39:11 [INFO] src.kb_area_master.kb_search: KB 검색 API '만덕삼성' -> 1개 단지 후보 발견
+2026-09-18 10:39:11 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 3개 평형 데이터 수집 완료 (단지=5635)
+2026-09-18 10:39:13 [INFO] src.kb_area_master.kb_search: KB 검색 API '만덕동 만덕그린코아' -> 0개 단지 후보 발견
+2026-09-18 10:39:14 [INFO] src.kb_area_master.kb_search: KB 검색 API '만덕그린코아' -> 2개 단지 후보 발견
+2026-09-18 10:39:14 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 8개 평형 데이터 수집 완료 (단지=5634)
+2026-09-18 10:39:16 [INFO] src.kb_area_master.kb_search: KB 검색 API '만덕동 럭키만덕1차' -> 1개 단지 후보 발견
+2026-09-18 10:39:17 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 2개 평형 데이터 수집 완료 (단지=5630)
+2026-09-18 10:39:19 [INFO] src.kb_area_master.kb_search: KB 검색 API '만덕동 럭키만덕2차' -> 1개 단지 후보 발견
+2026-09-18 10:39:19 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 1개 평형 데이터 수집 완료 (단지=5631)
+2026-09-18 10:39:23 [INFO] src.kb_area_master.kb_search: KB 검색 API '만덕동 만덕대성타워' -> 0개 단지 후보 발견
+2026-09-18 10:39:24 [INFO] src.kb_area_master.kb_search: KB 검색 API '만덕대성타워' -> 1개 단지 후보 발견
+2026-09-18 10:39:24 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=5629)
+2026-09-18 10:39:26 [INFO] src.kb_area_master.kb_search: KB 검색 API '만덕동 만덕동원' -> 0개 단지 후보 발견
+2026-09-18 10:39:27 [INFO] src.kb_area_master.kb_search: KB 검색 API '만덕동원' -> 2개 단지 후보 발견
+2026-09-18 10:39:27 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 3개 평형 데이터 수집 완료 (단지=5637)
+2026-09-18 10:39:29 [INFO] src.kb_area_master.kb_search: KB 검색 API '만덕동 벽산라인타운' -> 1개 단지 후보 발견
+2026-09-18 10:39:29 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=5632)
+2026-09-18 10:39:32 [INFO] src.kb_area_master.kb_search: KB 검색 API '덕천동 포레나부산덕천2차' -> 1개 단지 후보 발견
+2026-09-18 10:39:32 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 9개 평형 데이터 수집 완료 (단지=383941)
+2026-09-18 10:39:34 [INFO] src.kb_area_master.kb_search: KB 검색 API '덕천동 포레나부산덕천' -> 3개 단지 후보 발견
+2026-09-18 10:39:34 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=48640)
+2026-09-18 10:39:36 [INFO] src.kb_area_master.kb_search: KB 검색 API '덕천동 덕천동롯데' -> 1개 단지 후보 발견
+2026-09-18 10:39:36 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 3개 평형 데이터 수집 완료 (단지=13084)
+2026-09-18 10:39:38 [INFO] src.kb_area_master.kb_search: KB 검색 API '덕천동 덕천삼정그린코아' -> 1개 단지 후보 발견
+2026-09-18 10:39:38 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 6개 평형 데이터 수집 완료 (단지=15303)
+2026-09-18 10:39:42 [INFO] src.kb_area_master.kb_search: KB 검색 API '덕천동 기비골마을' -> 1개 단지 후보 발견
+2026-09-18 10:39:42 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 2개 평형 데이터 수집 완료 (단지=22234)
+2026-09-18 10:39:47 [INFO] src.kb_area_master.kb_search: KB 검색 API '덕천동 덕천주공1단지' -> 1개 단지 후보 발견
+2026-09-18 10:39:47 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 8개 평형 데이터 수집 완료 (단지=5607)
+2026-09-18 10:39:49 [INFO] src.kb_area_master.kb_search: KB 검색 API '구포동 리버파크반도유보라' -> 1개 단지 후보 발견
+2026-09-18 10:39:49 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 7개 평형 데이터 수집 완료 (단지=42482)
+2026-09-18 10:39:51 [INFO] src.kb_area_master.kb_search: KB 검색 API '구포동 동원로얄듀크비스타' -> 1개 단지 후보 발견
+2026-09-18 10:39:51 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=25382)
+2026-09-18 10:39:53 [INFO] src.kb_area_master.kb_search: KB 검색 API '구포동 구포유림노르웨이숲' -> 1개 단지 후보 발견
+2026-09-18 10:39:54 [INFO] src.kb_area_master.kb_search: KB 검색 API '구포유림노르웨이숲' -> 1개 단지 후보 발견
+2026-09-18 10:39:55 [INFO] src.kb_area_master.kb_search: KB 검색 API '북구 구포동 구포유림노르웨이숲' -> 1개 단지 후보 발견
+2026-09-18 10:39:58 [INFO] src.kb_area_master.kb_search: KB 검색 API '구포동 구포삼정그린코아' -> 0개 단지 후보 발견
+2026-09-18 10:39:59 [INFO] src.kb_area_master.kb_search: KB 검색 API '구포삼정그린코아' -> 0개 단지 후보 발견
+2026-09-18 10:40:01 [INFO] src.kb_area_master.kb_search: KB 검색 API '구포동 구포삼정그린코아아파트' -> 0개 단지 후보 발견
+2026-09-18 10:40:02 [INFO] src.kb_area_master.kb_search: KB 검색 API '북구 구포동 구포삼정그린코아' -> 0개 단지 후보 발견
+2026-09-18 10:40:05 [INFO] src.kb_area_master.kb_search: KB 검색 API '구포동 구포현대' -> 1개 단지 후보 발견
+2026-09-18 10:40:05 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 6개 평형 데이터 수집 완료 (단지=5590)
+2026-09-18 10:40:09 [INFO] src.kb_area_master.kb_search: KB 검색 API '반송동 벽산삼협한솔' -> 1개 단지 후보 발견
+2026-09-18 10:40:09 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 1개 평형 데이터 수집 완료 (단지=6216)
+2026-09-18 10:40:11 [INFO] src.kb_area_master.kb_search: KB 검색 API '반송동 반송삼한2차' -> 0개 단지 후보 발견
+2026-09-18 10:40:12 [INFO] src.kb_area_master.kb_search: KB 검색 API '반송삼한2차' -> 0개 단지 후보 발견
+2026-09-18 10:40:13 [INFO] src.kb_area_master.kb_search: KB 검색 API '해운대구 반송동 반송삼한2차' -> 0개 단지 후보 발견
+2026-09-18 10:40:18 [INFO] src.kb_area_master.kb_search: KB 검색 API '반송동 삼한그린타운1차' -> 1개 단지 후보 발견
+2026-09-18 10:40:18 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 1개 평형 데이터 수집 완료 (단지=6225)
+2026-09-18 10:40:23 [INFO] src.kb_area_master.kb_search: KB 검색 API '반여동 센텀KCC스위첸' -> 1개 단지 후보 발견
+2026-09-18 10:40:23 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 6개 평형 데이터 수집 완료 (단지=47519)
+2026-09-18 10:40:25 [INFO] src.kb_area_master.kb_search: KB 검색 API '반여동 센텀트루엘' -> 2개 단지 후보 발견
+2026-09-18 10:40:26 [INFO] src.kb_area_master.kb_search: KB 검색 API '센텀트루엘' -> 2개 단지 후보 발견
+2026-09-18 10:40:27 [INFO] src.kb_area_master.kb_search: KB 검색 API '반여동 센텀트루엘 아파트' -> 2개 단지 후보 발견
+2026-09-18 10:40:28 [INFO] src.kb_area_master.kb_search: KB 검색 API '해운대구 반여동 센텀트루엘' -> 2개 단지 후보 발견
+2026-09-18 10:40:31 [INFO] src.kb_area_master.kb_search: KB 검색 API '반여동 센텀롯데캐슬3차' -> 1개 단지 후보 발견
+2026-09-18 10:40:31 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 3개 평형 데이터 수집 완료 (단지=13908)
+2026-09-18 10:40:33 [INFO] src.kb_area_master.kb_search: KB 검색 API '반여동 우방신세계타운' -> 1개 단지 후보 발견
+2026-09-18 10:40:34 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 6개 평형 데이터 수집 완료 (단지=6212)
+2026-09-18 10:40:36 [INFO] src.kb_area_master.kb_search: KB 검색 API '반여동 센텀롯데캐슬2차' -> 1개 단지 후보 발견
+2026-09-18 10:40:36 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=13213)
+2026-09-18 10:40:38 [INFO] src.kb_area_master.kb_search: KB 검색 API '반여동 메가센텀꿈에그린' -> 0개 단지 후보 발견
+2026-09-18 10:40:39 [INFO] src.kb_area_master.kb_search: KB 검색 API '메가센텀꿈에그린' -> 1개 단지 후보 발견
+2026-09-18 10:40:39 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 9개 평형 데이터 수집 완료 (단지=15485)
+2026-09-18 10:40:41 [INFO] src.kb_area_master.exporter: 마스터 CSV 저장: D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\config\market_cap_area_master.csv (907 rows, 157단지)
+2026-09-18 10:40:41 [INFO] src.kb_area_master.exporter: KB 원본 데이터 저장: D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\data\raw\kb\kb_area_types.csv (910 rows)
+2026-09-18 10:40:41 [INFO] src.kb_area_master.exporter: KB 매핑 캐시 저장: D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\data\mapping\kb_complex_mapping.csv (178건)
+2026-09-18 10:40:41 [INFO] src.kb_area_master.exporter: Pending 목록 저장: D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\data\review\area_master_pending.csv (92건)
+2026-09-18 10:40:41 [INFO] src.kb_area_master.kb_search: KB 검색 API '반여동 센텀롯데캐슬' -> 3개 단지 후보 발견
+2026-09-18 10:40:41 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 6개 평형 데이터 수집 완료 (단지=12927)
+2026-09-18 10:40:43 [INFO] src.kb_area_master.kb_search: KB 검색 API '반여동 아시아선수촌' -> 1개 단지 후보 발견
+2026-09-18 10:40:44 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 9개 평형 데이터 수집 완료 (단지=12115)
+2026-09-18 10:40:46 [INFO] src.kb_area_master.kb_search: KB 검색 API '반여동 반여현대그린' -> 0개 단지 후보 발견
+2026-09-18 10:40:47 [INFO] src.kb_area_master.kb_search: KB 검색 API '반여현대그린' -> 1개 단지 후보 발견
+2026-09-18 10:40:47 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 7개 평형 데이터 수집 완료 (단지=6191)
+2026-09-18 10:40:49 [INFO] src.kb_area_master.kb_search: KB 검색 API '반여동 일동미라주' -> 1개 단지 후보 발견
+2026-09-18 10:40:49 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 1개 평형 데이터 수집 완료 (단지=6196)
+2026-09-18 10:40:51 [INFO] src.kb_area_master.kb_search: KB 검색 API '반여동 센텀SK뷰' -> 1개 단지 후보 발견
+2026-09-18 10:40:52 [INFO] src.kb_area_master.kb_search: KB 검색 API '센텀SK뷰' -> 1개 단지 후보 발견
+2026-09-18 10:40:53 [INFO] src.kb_area_master.kb_search: KB 검색 API '해운대구 반여동 센텀SK뷰' -> 1개 단지 후보 발견
+2026-09-18 10:40:56 [INFO] src.kb_area_master.kb_search: KB 검색 API '반여동 센텀대림' -> 1개 단지 후보 발견
+2026-09-18 10:40:56 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 3개 평형 데이터 수집 완료 (단지=6200)
+2026-09-18 10:40:59 [INFO] src.kb_area_master.kb_search: KB 검색 API '재송동 센텀리슈빌' -> 2개 단지 후보 발견
+2026-09-18 10:41:00 [INFO] src.kb_area_master.kb_search: KB 검색 API '센텀리슈빌' -> 3개 단지 후보 발견
+2026-09-18 10:41:01 [INFO] src.kb_area_master.kb_search: KB 검색 API '재송동 센텀리슈빌 아파트' -> 2개 단지 후보 발견
+2026-09-18 10:41:02 [INFO] src.kb_area_master.kb_search: KB 검색 API '해운대구 재송동 센텀리슈빌' -> 2개 단지 후보 발견
+2026-09-18 10:41:05 [INFO] src.kb_area_master.kb_search: KB 검색 API '재송동 센텀동부센트레빌' -> 1개 단지 후보 발견
+2026-09-18 10:41:05 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 7개 평형 데이터 수집 완료 (단지=13992)
+2026-09-18 10:41:07 [INFO] src.kb_area_master.kb_search: KB 검색 API '재송동 더샵센텀스타' -> 2개 단지 후보 발견
+2026-09-18 10:41:07 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 9개 평형 데이터 수집 완료 (단지=15822)
+2026-09-18 10:41:09 [INFO] src.kb_area_master.kb_search: KB 검색 API '재송동 더샵센텀파크1차' -> 1개 단지 후보 발견
+2026-09-18 10:41:09 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 7개 평형 데이터 수집 완료 (단지=13778)
+2026-09-18 10:41:11 [INFO] src.kb_area_master.kb_search: KB 검색 API '재송동 더샵센텀파크2차' -> 1개 단지 후보 발견
+2026-09-18 10:41:12 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=13943)
+2026-09-18 10:41:14 [INFO] src.kb_area_master.kb_search: KB 검색 API '재송동 센텀삼익' -> 1개 단지 후보 발견
+2026-09-18 10:41:14 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 8개 평형 데이터 수집 완료 (단지=6167)
+2026-09-18 10:41:16 [INFO] src.kb_area_master.kb_search: KB 검색 API '재송동 센텀우신골든빌' -> 1개 단지 후보 발견
+2026-09-18 10:41:16 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=661804)
+2026-09-18 10:41:18 [INFO] src.kb_area_master.kb_search: KB 검색 API '재송동 센텀피오레1차' -> 1개 단지 후보 발견
+2026-09-18 10:41:18 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 2개 평형 데이터 수집 완료 (단지=13558)
+2026-09-18 10:41:20 [INFO] src.kb_area_master.kb_search: KB 검색 API '재송동 재송그린' -> 1개 단지 후보 발견
+2026-09-18 10:41:21 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=6180)
+2026-09-18 10:41:23 [INFO] src.kb_area_master.kb_search: KB 검색 API '재송동 센텀동국' -> 1개 단지 후보 발견
+2026-09-18 10:41:23 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=6163)
+2026-09-18 10:41:25 [INFO] src.kb_area_master.kb_search: KB 검색 API '재송동 센텀이편한세상' -> 1개 단지 후보 발견
+2026-09-18 10:41:25 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=13952)
+2026-09-18 10:41:27 [INFO] src.kb_area_master.kb_search: KB 검색 API '우동 해운대 경동리인뷰2차' -> 1개 단지 후보 발견
+2026-09-18 10:41:27 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 9개 평형 데이터 수집 완료 (단지=1037915)
+2026-09-18 10:41:29 [INFO] src.kb_area_master.kb_search: KB 검색 API '우동 해운대센트럴푸르지오' -> 1개 단지 후보 발견
+2026-09-18 10:41:29 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 3개 평형 데이터 수집 완료 (단지=42014)
+2026-09-18 10:41:31 [INFO] src.kb_area_master.kb_search: KB 검색 API '우동 해운대비스타동원' -> 2개 단지 후보 발견
+2026-09-18 10:41:32 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=32797)
+2026-09-18 10:41:36 [INFO] src.kb_area_master.kb_search: KB 검색 API '우동 트럼프월드센텀' -> 2개 단지 후보 발견
+2026-09-18 10:41:36 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 12개 평형 데이터 수집 완료 (단지=14223)
+2026-09-18 10:41:38 [INFO] src.kb_area_master.kb_search: KB 검색 API '우동 해운대두산위브더제니스' -> 1개 단지 후보 발견
+2026-09-18 10:41:38 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 15개 평형 데이터 수집 완료 (단지=16104)
+2026-09-18 10:41:40 [INFO] src.kb_area_master.kb_search: KB 검색 API '우동 해운대자이' -> 3개 단지 후보 발견
+2026-09-18 10:41:41 [INFO] src.kb_area_master.kb_search: KB 검색 API '해운대자이' -> 3개 단지 후보 발견
+2026-09-18 10:41:42 [INFO] src.kb_area_master.kb_search: KB 검색 API '해운대구 우동 해운대자이' -> 3개 단지 후보 발견
+2026-09-18 10:41:48 [INFO] src.kb_area_master.kb_search: KB 검색 API '우동 센텀삼환' -> 1개 단지 후보 발견
+2026-09-18 10:41:48 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 3개 평형 데이터 수집 완료 (단지=6108)
+2026-09-18 10:41:50 [INFO] src.kb_area_master.kb_search: KB 검색 API '우동 경남마리나' -> 1개 단지 후보 발견
+2026-09-18 10:41:50 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=6105)
+2026-09-18 10:41:52 [INFO] src.kb_area_master.kb_search: KB 검색 API '우동 해운대아이파크' -> 1개 단지 후보 발견
+2026-09-18 10:41:52 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 199개 평형 데이터 수집 완료 (단지=16105)
+2026-09-18 10:41:54 [INFO] src.kb_area_master.kb_search: KB 검색 API '우동 경동마리나' -> 1개 단지 후보 발견
+2026-09-18 10:41:54 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 11개 평형 데이터 수집 완료 (단지=6103)
+2026-09-18 10:41:56 [INFO] src.kb_area_master.kb_search: KB 검색 API '우동 해운대롯데' -> 0개 단지 후보 발견
+2026-09-18 10:41:58 [INFO] src.kb_area_master.kb_search: KB 검색 API '해운대롯데' -> 10개 단지 후보 발견
+2026-09-18 10:41:59 [INFO] src.kb_area_master.kb_search: KB 검색 API '우동 해운대롯데아파트' -> 0개 단지 후보 발견
+2026-09-18 10:42:00 [INFO] src.kb_area_master.kb_search: KB 검색 API '해운대구 우동 해운대롯데' -> 0개 단지 후보 발견
+2026-09-18 10:42:03 [INFO] src.kb_area_master.kb_search: KB 검색 API '우동 동부올림픽' -> 1개 단지 후보 발견
+2026-09-18 10:42:03 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 3개 평형 데이터 수집 완료 (단지=6109)
+2026-09-18 10:42:05 [INFO] src.kb_area_master.kb_search: KB 검색 API '우동 삼호가든' -> 1개 단지 후보 발견
+2026-09-18 10:42:06 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 8개 평형 데이터 수집 완료 (단지=6101)
+2026-09-18 10:42:08 [INFO] src.kb_area_master.kb_search: KB 검색 API '우동 대우마리나3차' -> 1개 단지 후보 발견
+2026-09-18 10:42:08 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 6개 평형 데이터 수집 완료 (단지=6102)
+2026-09-18 10:42:10 [INFO] src.kb_area_master.kb_search: KB 검색 API '우동 대우마리나1,2차' -> 0개 단지 후보 발견
+2026-09-18 10:42:11 [INFO] src.kb_area_master.kb_search: KB 검색 API '대우마리나1,2차' -> 0개 단지 후보 발견
+2026-09-18 10:42:13 [INFO] src.kb_area_master.kb_search: KB 검색 API '우동 대우마리나1,2차아파트' -> 0개 단지 후보 발견
+2026-09-18 10:42:14 [INFO] src.kb_area_master.kb_search: KB 검색 API '해운대구 우동 대우마리나1,2차' -> 0개 단지 후보 발견
+2026-09-18 10:42:17 [INFO] src.kb_area_master.kb_search: KB 검색 API '우동 센텀센시빌구새한센시빌' -> 0개 단지 후보 발견
+2026-09-18 10:42:18 [INFO] src.kb_area_master.kb_search: KB 검색 API '센텀센시빌구새한센시빌' -> 0개 단지 후보 발견
+2026-09-18 10:42:19 [INFO] src.kb_area_master.kb_search: KB 검색 API '해운대구 우동 센텀센시빌구새한센시빌' -> 0개 단지 후보 발견
+2026-09-18 10:42:22 [INFO] src.kb_area_master.kb_search: KB 검색 API '우동 해운대반도보라빌' -> 1개 단지 후보 발견
+2026-09-18 10:42:22 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 3개 평형 데이터 수집 완료 (단지=14153)
+2026-09-18 10:42:24 [INFO] src.kb_area_master.kb_search: KB 검색 API '중동 해운대 롯데캐슬 스타' -> 2개 단지 후보 발견
+2026-09-18 10:42:24 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=36116)
+2026-09-18 10:42:26 [INFO] src.kb_area_master.kb_search: KB 검색 API '중동 해운대 LCT 더샵' -> 0개 단지 후보 발견
+2026-09-18 10:42:27 [INFO] src.kb_area_master.kb_search: KB 검색 API '해운대 LCT 더샵' -> 0개 단지 후보 발견
+2026-09-18 10:42:28 [INFO] src.kb_area_master.kb_search: KB 검색 API '중동 해운대 LCT 더샵아파트' -> 0개 단지 후보 발견
+2026-09-18 10:42:30 [INFO] src.kb_area_master.kb_search: KB 검색 API '해운대구 중동 해운대 LCT 더샵' -> 0개 단지 후보 발견
+2026-09-18 10:42:33 [INFO] src.kb_area_master.kb_search: KB 검색 API '중동 해운대힐스테이트위브' -> 1개 단지 후보 발견
+2026-09-18 10:42:33 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 33개 평형 데이터 수집 완료 (단지=22942)
+2026-09-18 10:42:35 [INFO] src.kb_area_master.kb_search: KB 검색 API '중동 롯데캐슬마린' -> 1개 단지 후보 발견
+2026-09-18 10:42:35 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 3개 평형 데이터 수집 완료 (단지=12592)
+2026-09-18 10:42:39 [INFO] src.kb_area_master.kb_search: KB 검색 API '좌동 해운대영남' -> 0개 단지 후보 발견
+2026-09-18 10:42:40 [INFO] src.kb_area_master.kb_search: KB 검색 API '해운대영남' -> 1개 단지 후보 발견
+2026-09-18 10:42:41 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 3개 평형 데이터 수집 완료 (단지=6143)
+2026-09-18 10:42:43 [INFO] src.kb_area_master.kb_search: KB 검색 API '좌동 두산2차' -> 1개 단지 후보 발견
+2026-09-18 10:42:43 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 3개 평형 데이터 수집 완료 (단지=6145)
+2026-09-18 10:42:45 [INFO] src.kb_area_master.kb_search: KB 검색 API '좌동 경남아너스빌' -> 1개 단지 후보 발견
+2026-09-18 10:42:45 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=6152)
+2026-09-18 10:42:47 [INFO] src.kb_area_master.kb_search: KB 검색 API '좌동 해운대한일' -> 0개 단지 후보 발견
+2026-09-18 10:42:48 [INFO] src.kb_area_master.kb_search: KB 검색 API '해운대한일' -> 2개 단지 후보 발견
+2026-09-18 10:42:48 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=6139)
+2026-09-18 10:42:50 [INFO] src.kb_area_master.kb_search: KB 검색 API '좌동 해운대동신' -> 0개 단지 후보 발견
+2026-09-18 10:42:51 [INFO] src.kb_area_master.kb_search: KB 검색 API '해운대동신' -> 2개 단지 후보 발견
+2026-09-18 10:42:52 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=6125)
+2026-09-18 10:42:54 [INFO] src.kb_area_master.kb_search: KB 검색 API '좌동 해운대동부' -> 0개 단지 후보 발견
+2026-09-18 10:42:55 [INFO] src.kb_area_master.kb_search: KB 검색 API '해운대동부' -> 6개 단지 후보 발견
+2026-09-18 10:42:55 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=6146)
+2026-09-18 10:42:57 [INFO] src.kb_area_master.kb_search: KB 검색 API '좌동 해운대대림2차' -> 0개 단지 후보 발견
+2026-09-18 10:42:58 [INFO] src.kb_area_master.kb_search: KB 검색 API '해운대대림2차' -> 0개 단지 후보 발견
+2026-09-18 10:42:59 [INFO] src.kb_area_master.kb_search: KB 검색 API '좌동 해운대대림2차아파트' -> 0개 단지 후보 발견
+2026-09-18 10:43:00 [INFO] src.kb_area_master.kb_search: KB 검색 API '해운대구 좌동 해운대대림2차' -> 0개 단지 후보 발견
+2026-09-18 10:43:03 [INFO] src.kb_area_master.kb_search: KB 검색 API '좌동 해운대삼성' -> 0개 단지 후보 발견
+2026-09-18 10:43:04 [INFO] src.kb_area_master.kb_search: KB 검색 API '해운대삼성' -> 4개 단지 후보 발견
+2026-09-18 10:43:05 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=6135)
+2026-09-18 10:43:07 [INFO] src.kb_area_master.kb_search: KB 검색 API '좌동 해운대LIG건영' -> 0개 단지 후보 발견
+2026-09-18 10:43:08 [INFO] src.kb_area_master.kb_search: KB 검색 API '해운대LIG건영' -> 2개 단지 후보 발견
+2026-09-18 10:43:08 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=6129)
+2026-09-18 10:43:10 [INFO] src.kb_area_master.exporter: 마스터 CSV 저장: D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\config\market_cap_area_master.csv (1342 rows, 196단지)
+2026-09-18 10:43:10 [INFO] src.kb_area_master.exporter: KB 원본 데이터 저장: D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\data\raw\kb\kb_area_types.csv (1345 rows)
+2026-09-18 10:43:10 [INFO] src.kb_area_master.exporter: KB 매핑 캐시 저장: D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\data\mapping\kb_complex_mapping.csv (221건)
+2026-09-18 10:43:10 [INFO] src.kb_area_master.exporter: Pending 목록 저장: D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\data\review\area_master_pending.csv (103건)
+2026-09-18 10:43:10 [INFO] src.kb_area_master.kb_search: KB 검색 API '좌동 해운대센트럴파크' -> 1개 단지 후보 발견
+2026-09-18 10:43:10 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=6142)
+2026-09-18 10:43:12 [INFO] src.kb_area_master.kb_search: KB 검색 API '좌동 해운대롯데3차' -> 0개 단지 후보 발견
+2026-09-18 10:43:13 [INFO] src.kb_area_master.kb_search: KB 검색 API '해운대롯데3차' -> 0개 단지 후보 발견
+2026-09-18 10:43:14 [INFO] src.kb_area_master.kb_search: KB 검색 API '좌동 해운대롯데3차아파트' -> 0개 단지 후보 발견
+2026-09-18 10:43:15 [INFO] src.kb_area_master.kb_search: KB 검색 API '해운대구 좌동 해운대롯데3차' -> 0개 단지 후보 발견
+2026-09-18 10:43:18 [INFO] src.kb_area_master.kb_search: KB 검색 API '좌동 해운대롯데4차' -> 1개 단지 후보 발견
+2026-09-18 10:43:19 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 3개 평형 데이터 수집 완료 (단지=6154)
+2026-09-18 10:43:21 [INFO] src.kb_area_master.kb_search: KB 검색 API '좌동 대우1차' -> 1개 단지 후보 발견
+2026-09-18 10:43:21 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 6개 평형 데이터 수집 완료 (단지=6126)
+2026-09-18 10:43:23 [INFO] src.kb_area_master.kb_search: KB 검색 API '좌동 해운대벽산1차' -> 0개 단지 후보 발견
+2026-09-18 10:43:24 [INFO] src.kb_area_master.kb_search: KB 검색 API '해운대벽산1차' -> 0개 단지 후보 발견
+2026-09-18 10:43:25 [INFO] src.kb_area_master.kb_search: KB 검색 API '좌동 해운대벽산1차아파트' -> 0개 단지 후보 발견
+2026-09-18 10:43:26 [INFO] src.kb_area_master.kb_search: KB 검색 API '해운대구 좌동 해운대벽산1차' -> 0개 단지 후보 발견
+2026-09-18 10:43:29 [INFO] src.kb_area_master.kb_search: KB 검색 API '좌동 해운대 화목타운' -> 1개 단지 후보 발견
+2026-09-18 10:43:29 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=6128)
+2026-09-18 10:43:31 [INFO] src.kb_area_master.kb_search: KB 검색 API '좌동 LH뜨란채' -> 1개 단지 후보 발견
+2026-09-18 10:43:31 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 2개 평형 데이터 수집 완료 (단지=6140)
+2026-09-18 10:43:34 [INFO] src.kb_area_master.kb_search: KB 검색 API '좌동 코오롱' -> 2개 단지 후보 발견
+2026-09-18 10:43:34 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=6138)
+2026-09-18 10:43:36 [INFO] src.kb_area_master.kb_search: KB 검색 API '좌동 해운대건영2차' -> 0개 단지 후보 발견
+2026-09-18 10:43:37 [INFO] src.kb_area_master.kb_search: KB 검색 API '해운대건영2차' -> 0개 단지 후보 발견
+2026-09-18 10:43:38 [INFO] src.kb_area_master.kb_search: KB 검색 API '좌동 해운대건영2차아파트' -> 0개 단지 후보 발견
+2026-09-18 10:43:39 [INFO] src.kb_area_master.kb_search: KB 검색 API '해운대구 좌동 해운대건영2차' -> 0개 단지 후보 발견
+2026-09-18 10:43:42 [INFO] src.kb_area_master.kb_search: KB 검색 API '좌동 해운대상록' -> 1개 단지 후보 발견
+2026-09-18 10:43:42 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 1개 평형 데이터 수집 완료 (단지=6158)
+2026-09-18 10:43:44 [INFO] src.kb_area_master.kb_search: KB 검색 API '좌동 해운대대우2차' -> 1개 단지 후보 발견
+2026-09-18 10:43:44 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=6132)
+2026-09-18 10:43:47 [INFO] src.kb_area_master.kb_search: KB 검색 API '좌동 해운대벽산2차' -> 0개 단지 후보 발견
+2026-09-18 10:43:48 [INFO] src.kb_area_master.kb_search: KB 검색 API '해운대벽산2차' -> 0개 단지 후보 발견
+2026-09-18 10:43:49 [INFO] src.kb_area_master.kb_search: KB 검색 API '좌동 해운대벽산2차아파트' -> 0개 단지 후보 발견
+2026-09-18 10:43:50 [INFO] src.kb_area_master.kb_search: KB 검색 API '해운대구 좌동 해운대벽산2차' -> 0개 단지 후보 발견
+2026-09-18 10:43:53 [INFO] src.kb_area_master.kb_search: KB 검색 API '좌동 해운대대동타운' -> 0개 단지 후보 발견
+2026-09-18 10:43:54 [INFO] src.kb_area_master.kb_search: KB 검색 API '해운대대동타운' -> 0개 단지 후보 발견
+2026-09-18 10:43:55 [INFO] src.kb_area_master.kb_search: KB 검색 API '좌동 해운대대동타운아파트' -> 0개 단지 후보 발견
+2026-09-18 10:43:56 [INFO] src.kb_area_master.kb_search: KB 검색 API '해운대구 좌동 해운대대동타운' -> 0개 단지 후보 발견
+2026-09-18 10:43:59 [INFO] src.kb_area_master.kb_search: KB 검색 API '좌동 경남선경' -> 1개 단지 후보 발견
+2026-09-18 10:43:59 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=6151)
+2026-09-18 10:44:01 [INFO] src.kb_area_master.kb_search: KB 검색 API '좌동 두산1차' -> 1개 단지 후보 발견
+2026-09-18 10:44:01 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=6144)
+2026-09-18 10:44:04 [INFO] src.kb_area_master.kb_search: KB 검색 API '좌동 대림1차' -> 1개 단지 후보 발견
+2026-09-18 10:44:04 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 6개 평형 데이터 수집 완료 (단지=6131)
+2026-09-18 10:44:06 [INFO] src.kb_area_master.kb_search: KB 검색 API '좌동 SKVIEW' -> 2개 단지 후보 발견
+2026-09-18 10:44:06 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 6개 평형 데이터 수집 완료 (단지=6141)
+2026-09-18 10:44:08 [INFO] src.kb_area_master.kb_search: KB 검색 API '좌동 해운대LG' -> 0개 단지 후보 발견
+2026-09-18 10:44:09 [INFO] src.kb_area_master.kb_search: KB 검색 API '해운대LG' -> 1개 단지 후보 발견
+2026-09-18 10:44:09 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 7개 평형 데이터 수집 완료 (단지=6153)
+2026-09-18 10:44:11 [INFO] src.kb_area_master.kb_search: KB 검색 API '좌동 해운대현대' -> 0개 단지 후보 발견
+2026-09-18 10:44:12 [INFO] src.kb_area_master.kb_search: KB 검색 API '해운대현대' -> 10개 단지 후보 발견
+2026-09-18 10:44:13 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=6127)
+2026-09-18 10:44:19 [INFO] src.kb_area_master.kb_search: KB 검색 API '괴정동 힐스테이트사하역' -> 1개 단지 후보 발견
+2026-09-18 10:44:19 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 6개 평형 데이터 수집 완료 (단지=47133)
+2026-09-18 10:44:23 [INFO] src.kb_area_master.kb_search: KB 검색 API '괴정동 사하역비스타동원' -> 1개 단지 후보 발견
+2026-09-18 10:44:23 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=41390)
+2026-09-18 10:44:25 [INFO] src.kb_area_master.kb_search: KB 검색 API '당리동 당리푸르지오' -> 1개 단지 후보 발견
+2026-09-18 10:44:25 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 7개 평형 데이터 수집 완료 (단지=24378)
+2026-09-18 10:44:28 [INFO] src.kb_area_master.kb_search: KB 검색 API '하단동 하단 SK VIEW' -> 0개 단지 후보 발견
+2026-09-18 10:44:29 [INFO] src.kb_area_master.kb_search: KB 검색 API '하단 SK VIEW' -> 0개 단지 후보 발견
+2026-09-18 10:44:30 [INFO] src.kb_area_master.kb_search: KB 검색 API '하단동 하단 SK VIEW 아파트' -> 0개 단지 후보 발견
+2026-09-18 10:44:31 [INFO] src.kb_area_master.kb_search: KB 검색 API '사하구 하단동 하단 SK VIEW' -> 0개 단지 후보 발견
+2026-09-18 10:44:34 [INFO] src.kb_area_master.kb_search: KB 검색 API '하단동 한신혜성' -> 1개 단지 후보 발견
+2026-09-18 10:44:34 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 3개 평형 데이터 수집 완료 (단지=5768)
+2026-09-18 10:44:36 [INFO] src.kb_area_master.kb_search: KB 검색 API '하단동 가락타운1단지' -> 1개 단지 후보 발견
+2026-09-18 10:44:36 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 3개 평형 데이터 수집 완료 (단지=5770)
+2026-09-18 10:44:38 [INFO] src.kb_area_master.kb_search: KB 검색 API '하단동 가락타운2.3단지' -> 1개 단지 후보 발견
+2026-09-18 10:44:39 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=1074880)
+2026-09-18 10:44:41 [INFO] src.kb_area_master.kb_search: KB 검색 API '신평동 사하코오롱하늘채' -> 1개 단지 후보 발견
+2026-09-18 10:44:41 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=47792)
+2026-09-18 10:44:43 [INFO] src.kb_area_master.kb_search: KB 검색 API '신평동 사하뷰웰' -> 1개 단지 후보 발견
+2026-09-18 10:44:43 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 10개 평형 데이터 수집 완료 (단지=29662)
+2026-09-18 10:44:45 [INFO] src.kb_area_master.kb_search: KB 검색 API '신평동 신평럭키무지개타운' -> 1개 단지 후보 발견
+2026-09-18 10:44:45 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 7개 평형 데이터 수집 완료 (단지=5790)
+2026-09-18 10:44:47 [INFO] src.kb_area_master.kb_search: KB 검색 API '신평동 신익강변타운' -> 1개 단지 후보 발견
+2026-09-18 10:44:48 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 16개 평형 데이터 수집 완료 (단지=5785)
+2026-09-18 10:44:50 [INFO] src.kb_area_master.kb_search: KB 검색 API '신평동 신평현대' -> 1개 단지 후보 발견
+2026-09-18 10:44:50 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=5784)
+2026-09-18 10:44:52 [INFO] src.kb_area_master.kb_search: KB 검색 API '신평동 신평한신' -> 0개 단지 후보 발견
+2026-09-18 10:44:53 [INFO] src.kb_area_master.kb_search: KB 검색 API '신평한신' -> 1개 단지 후보 발견
+2026-09-18 10:44:53 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 8개 평형 데이터 수집 완료 (단지=5783)
+2026-09-18 10:44:55 [INFO] src.kb_area_master.kb_search: KB 검색 API '장림동 두산위브더센트럴사하' -> 0개 단지 후보 발견
+2026-09-18 10:44:56 [INFO] src.kb_area_master.kb_search: KB 검색 API '두산위브더센트럴사하' -> 1개 단지 후보 발견
+2026-09-18 10:44:56 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 8개 평형 데이터 수집 완료 (단지=340360)
+2026-09-18 10:44:58 [INFO] src.kb_area_master.kb_search: KB 검색 API '장림동 장림동원로얄듀크' -> 0개 단지 후보 발견
+2026-09-18 10:44:59 [INFO] src.kb_area_master.kb_search: KB 검색 API '장림동원로얄듀크' -> 0개 단지 후보 발견
+2026-09-18 10:45:01 [INFO] src.kb_area_master.kb_search: KB 검색 API '사하구 장림동 장림동원로얄듀크' -> 0개 단지 후보 발견
+2026-09-18 10:45:04 [INFO] src.kb_area_master.kb_search: KB 검색 API '장림동 장림신세대지큐빌' -> 0개 단지 후보 발견
+2026-09-18 10:45:05 [INFO] src.kb_area_master.kb_search: KB 검색 API '장림신세대지큐빌' -> 0개 단지 후보 발견
+2026-09-18 10:45:06 [INFO] src.kb_area_master.kb_search: KB 검색 API '장림동 장림신세대지큐빌아파트' -> 0개 단지 후보 발견
+2026-09-18 10:45:07 [INFO] src.kb_area_master.kb_search: KB 검색 API '사하구 장림동 장림신세대지큐빌' -> 0개 단지 후보 발견
+2026-09-18 10:45:10 [INFO] src.kb_area_master.kb_search: KB 검색 API '장림동 장림현대' -> 3개 단지 후보 발견
+2026-09-18 10:45:10 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=5793)
+2026-09-18 10:45:12 [INFO] src.kb_area_master.kb_search: KB 검색 API '장림동 장림협성르네상스타운' -> 1개 단지 후보 발견
+2026-09-18 10:45:12 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 3개 평형 데이터 수집 완료 (단지=14957)
+2026-09-18 10:45:14 [INFO] src.kb_area_master.kb_search: KB 검색 API '다대동 다대롯데캐슬몰운대' -> 0개 단지 후보 발견
+2026-09-18 10:45:15 [INFO] src.kb_area_master.kb_search: KB 검색 API '다대롯데캐슬몰운대' -> 0개 단지 후보 발견
+2026-09-18 10:45:16 [INFO] src.kb_area_master.kb_search: KB 검색 API '사하구 다대동 다대롯데캐슬몰운대' -> 0개 단지 후보 발견
+2026-09-18 10:45:20 [INFO] src.kb_area_master.kb_search: KB 검색 API '다대동 다대롯데캐슬블루' -> 1개 단지 후보 발견
+2026-09-18 10:45:20 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 7개 평형 데이터 수집 완료 (단지=25408)
+2026-09-18 10:45:22 [INFO] src.kb_area_master.kb_search: KB 검색 API '다대동 다대푸르지오' -> 1개 단지 후보 발견
+2026-09-18 10:45:22 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 7개 평형 데이터 수집 완료 (단지=5824)
+2026-09-18 10:45:24 [INFO] src.kb_area_master.kb_search: KB 검색 API '다대동 다대해송' -> 1개 단지 후보 발견
+2026-09-18 10:45:24 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 1개 평형 데이터 수집 완료 (단지=5818)
+2026-09-18 10:45:26 [INFO] src.kb_area_master.kb_search: KB 검색 API '다대동 신다대' -> 1개 단지 후보 발견
+2026-09-18 10:45:26 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 1개 평형 데이터 수집 완료 (단지=5821)
+2026-09-18 10:45:30 [INFO] src.kb_area_master.kb_search: KB 검색 API '다대동 국제그린' -> 1개 단지 후보 발견
+2026-09-18 10:45:31 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 1개 평형 데이터 수집 완료 (단지=5817)
+2026-09-18 10:45:35 [INFO] src.kb_area_master.kb_search: KB 검색 API '다대동 다대다송' -> 0개 단지 후보 발견
+2026-09-18 10:45:36 [INFO] src.kb_area_master.kb_search: KB 검색 API '다대다송' -> 5개 단지 후보 발견
+2026-09-18 10:45:36 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 1개 평형 데이터 수집 완료 (단지=5820)
+2026-09-18 10:45:38 [INFO] src.kb_area_master.kb_search: KB 검색 API '다대동 다대대우' -> 1개 단지 후보 발견
+2026-09-18 10:45:38 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 2개 평형 데이터 수집 완료 (단지=5829)
+2026-09-18 10:45:40 [INFO] src.kb_area_master.exporter: 마스터 CSV 저장: D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\config\market_cap_area_master.csv (1504 rows, 230단지)
+2026-09-18 10:45:40 [INFO] src.kb_area_master.exporter: KB 원본 데이터 저장: D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\data\raw\kb\kb_area_types.csv (1507 rows)
+2026-09-18 10:45:40 [INFO] src.kb_area_master.exporter: KB 매핑 캐시 저장: D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\data\mapping\kb_complex_mapping.csv (257건)
+2026-09-18 10:45:40 [INFO] src.kb_area_master.exporter: Pending 목록 저장: D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\data\review\area_master_pending.csv (119건)
+2026-09-18 10:45:40 [INFO] src.kb_area_master.kb_search: KB 검색 API '다대동 다대푸른' -> 1개 단지 후보 발견
+2026-09-18 10:45:40 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 1개 평형 데이터 수집 완료 (단지=5835)
+2026-09-18 10:45:42 [INFO] src.kb_area_master.kb_search: KB 검색 API '다대동 다대현대' -> 0개 단지 후보 발견
+2026-09-18 10:45:43 [INFO] src.kb_area_master.kb_search: KB 검색 API '다대현대' -> 3개 단지 후보 발견
+2026-09-18 10:45:44 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 9개 평형 데이터 수집 완료 (단지=5816)
+2026-09-18 10:45:46 [INFO] src.kb_area_master.kb_search: KB 검색 API '다대동 다대삼환' -> 0개 단지 후보 발견
+2026-09-18 10:45:47 [INFO] src.kb_area_master.kb_search: KB 검색 API '다대삼환' -> 2개 단지 후보 발견
+2026-09-18 10:45:47 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=5815)
+2026-09-18 10:45:49 [INFO] src.kb_area_master.kb_search: KB 검색 API '다대동 다대자유' -> 1개 단지 후보 발견
+2026-09-18 10:45:49 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=5826)
+2026-09-18 10:45:51 [INFO] src.kb_area_master.kb_search: KB 검색 API '다대동 다대코오롱' -> 1개 단지 후보 발견
+2026-09-18 10:45:51 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 6개 평형 데이터 수집 완료 (단지=5822)
+2026-09-18 10:45:53 [INFO] src.kb_area_master.kb_search: KB 검색 API '다대동 다대몰운대' -> 0개 단지 후보 발견
+2026-09-18 10:45:54 [INFO] src.kb_area_master.kb_search: KB 검색 API '다대몰운대' -> 0개 단지 후보 발견
+2026-09-18 10:45:55 [INFO] src.kb_area_master.kb_search: KB 검색 API '다대동 다대몰운대아파트' -> 0개 단지 후보 발견
+2026-09-18 10:45:57 [INFO] src.kb_area_master.kb_search: KB 검색 API '사하구 다대동 다대몰운대' -> 0개 단지 후보 발견
+2026-09-18 10:46:00 [INFO] src.kb_area_master.kb_search: KB 검색 API '다대동 성원' -> 1개 단지 후보 발견
+2026-09-18 10:46:00 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 2개 평형 데이터 수집 완료 (단지=5827)
+2026-09-18 10:46:06 [INFO] src.kb_area_master.kb_search: KB 검색 API '구평동 e-편한세상 사하2차' -> 1개 단지 후보 발견
+2026-09-18 10:46:06 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 8개 평형 데이터 수집 완료 (단지=31341)
+2026-09-18 10:46:08 [INFO] src.kb_area_master.kb_search: KB 검색 API '구평동 대림e편한세상사하1차' -> 0개 단지 후보 발견
+2026-09-18 10:46:09 [INFO] src.kb_area_master.kb_search: KB 검색 API '대림e편한세상사하1차' -> 0개 단지 후보 발견
+2026-09-18 10:46:10 [INFO] src.kb_area_master.kb_search: KB 검색 API '구평동 대림e편한세상사하1차아파트' -> 0개 단지 후보 발견
+2026-09-18 10:46:11 [INFO] src.kb_area_master.kb_search: KB 검색 API '사하구 구평동 대림e편한세상사하1차' -> 0개 단지 후보 발견
+2026-09-18 10:46:15 [INFO] src.kb_area_master.kb_search: KB 검색 API '구평동 구평1차자유' -> 1개 단지 후보 발견
+2026-09-18 10:46:15 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 3개 평형 데이터 수집 완료 (단지=5837)
+2026-09-18 10:46:17 [INFO] src.kb_area_master.kb_search: KB 검색 API '감천동 부영벽산파라빌' -> 1개 단지 후보 발견
+2026-09-18 10:46:17 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=5845)
+2026-09-18 10:46:19 [INFO] src.kb_area_master.kb_search: KB 검색 API '청룡동 청룡경동' -> 0개 단지 후보 발견
+2026-09-18 10:46:20 [INFO] src.kb_area_master.kb_search: KB 검색 API '청룡경동' -> 2개 단지 후보 발견
+2026-09-18 10:46:20 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=5302)
+2026-09-18 10:46:22 [INFO] src.kb_area_master.kb_search: KB 검색 API '구서동 구서 SK VIEW 1단지' -> 0개 단지 후보 발견
+2026-09-18 10:46:23 [INFO] src.kb_area_master.kb_search: KB 검색 API '구서 SK VIEW 1단지' -> 0개 단지 후보 발견
+2026-09-18 10:46:24 [INFO] src.kb_area_master.kb_search: KB 검색 API '금정구 구서동 구서 SK VIEW 1단지' -> 0개 단지 후보 발견
+2026-09-18 10:46:27 [INFO] src.kb_area_master.kb_search: KB 검색 API '구서동 구서동 쌍용예가 2단지' -> 1개 단지 후보 발견
+2026-09-18 10:46:28 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 6개 평형 데이터 수집 완료 (단지=21533)
+2026-09-18 10:46:30 [INFO] src.kb_area_master.kb_search: KB 검색 API '구서동 구서동롯데캐슬골드2단지' -> 1개 단지 후보 발견
+2026-09-18 10:46:30 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 10개 평형 데이터 수집 완료 (단지=14004)
+2026-09-18 10:46:32 [INFO] src.kb_area_master.kb_search: KB 검색 API '구서동 롯데캐슬골드1단지' -> 1개 단지 후보 발견
+2026-09-18 10:46:32 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 7개 평형 데이터 수집 완료 (단지=14003)
+2026-09-18 10:46:34 [INFO] src.kb_area_master.kb_search: KB 검색 API '구서동 구서선경' -> 0개 단지 후보 발견
+2026-09-18 10:46:35 [INFO] src.kb_area_master.kb_search: KB 검색 API '구서선경' -> 2개 단지 후보 발견
+2026-09-18 10:46:35 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 7개 평형 데이터 수집 완료 (단지=293624)
+2026-09-18 10:46:37 [INFO] src.kb_area_master.kb_search: KB 검색 API '구서동 구서선경3차' -> 1개 단지 후보 발견
+2026-09-18 10:46:37 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 7개 평형 데이터 수집 완료 (단지=5268)
+2026-09-18 10:46:40 [INFO] src.kb_area_master.kb_search: KB 검색 API '구서동 구서우성' -> 1개 단지 후보 발견
+2026-09-18 10:46:40 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 3개 평형 데이터 수집 완료 (단지=5263)
+2026-09-18 10:46:42 [INFO] src.kb_area_master.kb_search: KB 검색 API '장전동 래미안 장전' -> 1개 단지 후보 발견
+2026-09-18 10:46:42 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 9개 평형 데이터 수집 완료 (단지=29934)
+2026-09-18 10:46:44 [INFO] src.kb_area_master.kb_search: KB 검색 API '장전동 금정산sk뷰' -> 1개 단지 후보 발견
+2026-09-18 10:46:44 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 6개 평형 데이터 수집 완료 (단지=21536)
+2026-09-18 10:46:46 [INFO] src.kb_area_master.kb_search: KB 검색 API '장전동 벽산블루밍장전디자인시티' -> 1개 단지 후보 발견
+2026-09-18 10:46:46 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 25개 평형 데이터 수집 완료 (단지=20050)
+2026-09-18 10:46:49 [INFO] src.kb_area_master.kb_search: KB 검색 API '장전동 금정산쌍용예가' -> 1개 단지 후보 발견
+2026-09-18 10:46:49 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=19915)
+2026-09-18 10:46:51 [INFO] src.kb_area_master.kb_search: KB 검색 API '장전동 금정산 2차 쌍용 예가' -> 1개 단지 후보 발견
+2026-09-18 10:46:51 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 3개 평형 데이터 수집 완료 (단지=25090)
+2026-09-18 10:46:53 [INFO] src.kb_area_master.kb_search: KB 검색 API '부곡동 삼한골든뷰에듀스테이션' -> 2개 단지 후보 발견
+2026-09-18 10:46:53 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 7개 평형 데이터 수집 완료 (단지=39445)
+2026-09-18 10:46:55 [INFO] src.kb_area_master.kb_search: KB 검색 API '부곡동 부곡동푸르지오' -> 1개 단지 후보 발견
+2026-09-18 10:46:55 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=15109)
+2026-09-18 10:46:57 [INFO] src.kb_area_master.kb_search: KB 검색 API '부곡동 부곡대우' -> 1개 단지 후보 발견
+2026-09-18 10:46:58 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 7개 평형 데이터 수집 완료 (단지=5281)
+2026-09-18 10:47:00 [INFO] src.kb_area_master.kb_search: KB 검색 API '부곡동 경남한신' -> 1개 단지 후보 발견
+2026-09-18 10:47:00 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=5275)
+2026-09-18 10:47:02 [INFO] src.kb_area_master.kb_search: KB 검색 API '부곡동 부곡뉴그린' -> 1개 단지 후보 발견
+2026-09-18 10:47:02 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 8개 평형 데이터 수집 완료 (단지=5276)
+2026-09-18 10:47:04 [INFO] src.kb_area_master.kb_search: KB 검색 API '부곡동 부곡SK' -> 0개 단지 후보 발견
+2026-09-18 10:47:05 [INFO] src.kb_area_master.kb_search: KB 검색 API '부곡SK' -> 1개 단지 후보 발견
+2026-09-18 10:47:05 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 7개 평형 데이터 수집 완료 (단지=5277)
+2026-09-18 10:47:09 [INFO] src.kb_area_master.kb_search: KB 검색 API '부곡동 부곡늘푸른' -> 1개 단지 후보 발견
+2026-09-18 10:47:11 [INFO] src.kb_area_master.kb_search: KB 검색 API '부곡늘푸른' -> 1개 단지 후보 발견
+2026-09-18 10:47:12 [INFO] src.kb_area_master.kb_search: KB 검색 API '부곡동 부곡늘푸른아파트' -> 0개 단지 후보 발견
+2026-09-18 10:47:13 [INFO] src.kb_area_master.kb_search: KB 검색 API '금정구 부곡동 부곡늘푸른' -> 1개 단지 후보 발견
+2026-09-18 10:47:16 [INFO] src.kb_area_master.kb_search: KB 검색 API '부곡동 우신뉴타운' -> 1개 단지 후보 발견
+2026-09-18 10:47:16 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=5278)
+2026-09-18 10:47:18 [INFO] src.kb_area_master.kb_search: KB 검색 API '강동동 부산에코델타시티 디에트르 더 퍼스트' -> 1개 단지 후보 발견
+2026-09-18 10:47:18 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 6개 평형 데이터 수집 완료 (단지=1025812)
+2026-09-18 10:47:20 [INFO] src.kb_area_master.kb_search: KB 검색 API '강동동 에코델타 더 베르힐' -> 0개 단지 후보 발견
+2026-09-18 10:47:21 [INFO] src.kb_area_master.kb_search: KB 검색 API '에코델타 더 베르힐' -> 0개 단지 후보 발견
+2026-09-18 10:47:22 [INFO] src.kb_area_master.kb_search: KB 검색 API '강동동 에코델타 더 베르힐 아파트' -> 0개 단지 후보 발견
+2026-09-18 10:47:23 [INFO] src.kb_area_master.kb_search: KB 검색 API '강서구 강동동 에코델타 더 베르힐' -> 0개 단지 후보 발견
+2026-09-18 10:47:27 [INFO] src.kb_area_master.kb_search: KB 검색 API '강동동 에코델타시티 푸르지오린' -> 1개 단지 후보 발견
+2026-09-18 10:47:27 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 8개 평형 데이터 수집 완료 (단지=1044089)
+2026-09-18 10:47:29 [INFO] src.kb_area_master.kb_search: KB 검색 API '강동동 에코델타시티 푸르지오 센터파크' -> 1개 단지 후보 발견
+2026-09-18 10:47:29 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 10개 평형 데이터 수집 완료 (단지=659248)
+2026-09-18 10:47:31 [INFO] src.kb_area_master.kb_search: KB 검색 API '강동동 강서자이 에코델타' -> 1개 단지 후보 발견
+2026-09-18 10:47:31 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 8개 평형 데이터 수집 완료 (단지=545730)
+2026-09-18 10:47:33 [INFO] src.kb_area_master.kb_search: KB 검색 API '강동동 e편한세상 에코델타 센터포인트' -> 1개 단지 후보 발견
+2026-09-18 10:47:33 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 9개 평형 데이터 수집 완료 (단지=553270)
+2026-09-18 10:47:36 [INFO] src.kb_area_master.kb_search: KB 검색 API '강동동 에코델타 스마트시티 수자인' -> 1개 단지 후보 발견
+2026-09-18 10:47:36 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=432314)
+2026-09-18 10:47:38 [INFO] src.kb_area_master.kb_search: KB 검색 API '강동동 부산호반써밋스마트시티' -> 0개 단지 후보 발견
+2026-09-18 10:47:39 [INFO] src.kb_area_master.kb_search: KB 검색 API '부산호반써밋스마트시티' -> 0개 단지 후보 발견
+2026-09-18 10:47:40 [INFO] src.kb_area_master.kb_search: KB 검색 API '강동동 부산호반써밋스마트시티아파트' -> 0개 단지 후보 발견
+2026-09-18 10:47:41 [INFO] src.kb_area_master.kb_search: KB 검색 API '강서구 강동동 부산호반써밋스마트시티' -> 0개 단지 후보 발견
+2026-09-18 10:47:44 [INFO] src.kb_area_master.kb_search: KB 검색 API '명지동 더샵명지퍼스트월드3단지' -> 1개 단지 후보 발견
+2026-09-18 10:47:44 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 6개 평형 데이터 수집 완료 (단지=39467)
+2026-09-18 10:47:46 [INFO] src.kb_area_master.kb_search: KB 검색 API '명지동 더샵명지퍼스트월드2단지' -> 2개 단지 후보 발견
+2026-09-18 10:47:46 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=39465)
+2026-09-18 10:47:48 [INFO] src.kb_area_master.kb_search: KB 검색 API '명지동 더 힐 시그니처' -> 0개 단지 후보 발견
+2026-09-18 10:47:50 [INFO] src.kb_area_master.kb_search: KB 검색 API '더 힐 시그니처' -> 0개 단지 후보 발견
+2026-09-18 10:47:51 [INFO] src.kb_area_master.kb_search: KB 검색 API '강서구 명지동 더 힐 시그니처' -> 0개 단지 후보 발견
+2026-09-18 10:47:58 [INFO] src.kb_area_master.kb_search: KB 검색 API '명지동 명지더웨스턴' -> 1개 단지 후보 발견
+2026-09-18 10:47:58 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 6개 평형 데이터 수집 완료 (단지=33649)
+2026-09-18 10:48:00 [INFO] src.kb_area_master.kb_search: KB 검색 API '명지동 중흥S-클래스에듀오션' -> 1개 단지 후보 발견
+2026-09-18 10:48:00 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=30511)
+2026-09-18 10:48:02 [INFO] src.kb_area_master.exporter: 마스터 CSV 저장: D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\config\market_cap_area_master.csv (1738 rows, 267단지)
+2026-09-18 10:48:02 [INFO] src.kb_area_master.exporter: KB 원본 데이터 저장: D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\data\raw\kb\kb_area_types.csv (1741 rows)
+2026-09-18 10:48:02 [INFO] src.kb_area_master.exporter: KB 매핑 캐시 저장: D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\data\mapping\kb_complex_mapping.csv (296건)
+2026-09-18 10:48:02 [INFO] src.kb_area_master.exporter: Pending 목록 저장: D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\data\review\area_master_pending.csv (132건)
+2026-09-18 10:48:02 [INFO] src.kb_area_master.kb_search: KB 검색 API '명지동 호반써밋명지국제' -> 1개 단지 후보 발견
+2026-09-18 10:48:02 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=29765)
+2026-09-18 10:48:04 [INFO] src.kb_area_master.kb_search: KB 검색 API '명지동 명지 협성휴포레' -> 1개 단지 후보 발견
+2026-09-18 10:48:05 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 6개 평형 데이터 수집 완료 (단지=29143)
+2026-09-18 10:48:07 [INFO] src.kb_area_master.kb_search: KB 검색 API '명지동 중흥S클래스프라디움' -> 1개 단지 후보 발견
+2026-09-18 10:48:07 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 7개 평형 데이터 수집 완료 (단지=29576)
+2026-09-18 10:48:09 [INFO] src.kb_area_master.kb_search: KB 검색 API '명지동 명지대방노블랜드오션뷰2차' -> 1개 단지 후보 발견
+2026-09-18 10:48:09 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 2개 평형 데이터 수집 완료 (단지=28808)
+2026-09-18 10:48:11 [INFO] src.kb_area_master.kb_search: KB 검색 API '명지동 명지2차 금강펜테리움 센트럴파크' -> 1개 단지 후보 발견
+2026-09-18 10:48:11 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=28807)
+2026-09-18 10:48:13 [INFO] src.kb_area_master.kb_search: KB 검색 API '명지동 대방노블랜드오션뷰1차' -> 1개 단지 후보 발견
+2026-09-18 10:48:13 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 2개 평형 데이터 수집 완료 (단지=27635)
+2026-09-18 10:48:15 [INFO] src.kb_area_master.kb_search: KB 검색 API '명지동 명지 국제신도시 호반베르디움1차' -> 1개 단지 후보 발견
+2026-09-18 10:48:16 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=28794)
+2026-09-18 10:48:18 [INFO] src.kb_area_master.kb_search: KB 검색 API '명지동 명지1차금강펜테리움센트럴파크' -> 1개 단지 후보 발견
+2026-09-18 10:48:18 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=27120)
+2026-09-18 10:48:20 [INFO] src.kb_area_master.kb_search: KB 검색 API '명지동 명지에일린의뜰' -> 0개 단지 후보 발견
+2026-09-18 10:48:21 [INFO] src.kb_area_master.kb_search: KB 검색 API '명지에일린의뜰' -> 0개 단지 후보 발견
+2026-09-18 10:48:22 [INFO] src.kb_area_master.kb_search: KB 검색 API '명지동 명지에일린의뜰아파트' -> 0개 단지 후보 발견
+2026-09-18 10:48:23 [INFO] src.kb_area_master.kb_search: KB 검색 API '강서구 명지동 명지에일린의뜰' -> 0개 단지 후보 발견
+2026-09-18 10:48:26 [INFO] src.kb_area_master.kb_search: KB 검색 API '명지동 명지삼정그린코아' -> 1개 단지 후보 발견
+2026-09-18 10:48:27 [INFO] src.kb_area_master.kb_search: KB 검색 API '명지삼정그린코아' -> 1개 단지 후보 발견
+2026-09-18 10:48:28 [INFO] src.kb_area_master.kb_search: KB 검색 API '강서구 명지동 명지삼정그린코아' -> 1개 단지 후보 발견
+2026-09-18 10:48:32 [INFO] src.kb_area_master.kb_search: KB 검색 API '명지동 명지롯데캐슬' -> 1개 단지 후보 발견
+2026-09-18 10:48:32 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 6개 평형 데이터 수집 완료 (단지=15912)
+2026-09-18 10:48:34 [INFO] src.kb_area_master.kb_search: KB 검색 API '명지동 퀸덤1차아인슈타인타운' -> 1개 단지 후보 발견
+2026-09-18 10:48:34 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 8개 평형 데이터 수집 완료 (단지=16015)
+2026-09-18 10:48:36 [INFO] src.kb_area_master.kb_search: KB 검색 API '명지동 영어도시퀸덤1차링컨타운' -> 1개 단지 후보 발견
+2026-09-18 10:48:36 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 13개 평형 데이터 수집 완료 (단지=16014)
+2026-09-18 10:48:38 [INFO] src.kb_area_master.kb_search: KB 검색 API '명지동 영어도시퀸덤에디슨타운' -> 0개 단지 후보 발견
+2026-09-18 10:48:39 [INFO] src.kb_area_master.kb_search: KB 검색 API '영어도시퀸덤에디슨타운' -> 1개 단지 후보 발견
+2026-09-18 10:48:39 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 9개 평형 데이터 수집 완료 (단지=16013)
+2026-09-18 10:48:42 [INFO] src.kb_area_master.kb_search: KB 검색 API '명지동 명지두산위브포세이돈' -> 1개 단지 후보 발견
+2026-09-18 10:48:42 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 6개 평형 데이터 수집 완료 (단지=24705)
+2026-09-18 10:48:44 [INFO] src.kb_area_master.kb_search: KB 검색 API '명지동 명지오션시티한신휴플러스' -> 1개 단지 후보 발견
+2026-09-18 10:48:44 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 7개 평형 데이터 수집 완료 (단지=27031)
+2026-09-18 10:48:46 [INFO] src.kb_area_master.kb_search: KB 검색 API '명지동 명지극동스타클래스' -> 0개 단지 후보 발견
+2026-09-18 10:48:47 [INFO] src.kb_area_master.kb_search: KB 검색 API '명지극동스타클래스' -> 0개 단지 후보 발견
+2026-09-18 10:48:48 [INFO] src.kb_area_master.kb_search: KB 검색 API '강서구 명지동 명지극동스타클래스' -> 0개 단지 후보 발견
+2026-09-18 10:48:51 [INFO] src.kb_area_master.kb_search: KB 검색 API '화전동 명지화전지구우방아이유쉘' -> 0개 단지 후보 발견
+2026-09-18 10:48:52 [INFO] src.kb_area_master.kb_search: KB 검색 API '명지화전지구우방아이유쉘' -> 0개 단지 후보 발견
+2026-09-18 10:48:53 [INFO] src.kb_area_master.kb_search: KB 검색 API '화전동 명지화전지구우방아이유쉘아파트' -> 0개 단지 후보 발견
+2026-09-18 10:48:54 [INFO] src.kb_area_master.kb_search: KB 검색 API '강서구 화전동 명지화전지구우방아이유쉘' -> 0개 단지 후보 발견
+2026-09-18 10:48:58 [INFO] src.kb_area_master.kb_search: KB 검색 API '지사동 지사과학단지 삼정그린코아' -> 1개 단지 후보 발견
+2026-09-18 10:48:58 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 6개 평형 데이터 수집 완료 (단지=30234)
+2026-09-18 10:49:00 [INFO] src.kb_area_master.kb_search: KB 검색 API '지사동 협성.DS엘리시안' -> 1개 단지 후보 발견
+2026-09-18 10:49:00 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 6개 평형 데이터 수집 완료 (단지=27115)
+2026-09-18 10:49:04 [INFO] src.kb_area_master.kb_search: KB 검색 API '지사동 금강펜테리움' -> 1개 단지 후보 발견
+2026-09-18 10:49:04 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 7개 평형 데이터 수집 완료 (단지=25699)
+2026-09-18 10:49:06 [INFO] src.kb_area_master.kb_search: KB 검색 API '신호동 신호윌더하임' -> 1개 단지 후보 발견
+2026-09-18 10:49:06 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 3개 평형 데이터 수집 완료 (단지=13789)
+2026-09-18 10:49:19 [INFO] src.kb_area_master.kb_search: KB 검색 API '거제동 아시아드코오롱하늘채' -> 1개 단지 후보 발견
+2026-09-18 10:49:20 [INFO] src.kb_area_master.kb_search: KB 검색 API '아시아드코오롱하늘채' -> 1개 단지 후보 발견
+2026-09-18 10:49:21 [INFO] src.kb_area_master.kb_search: KB 검색 API '연제구 거제동 아시아드코오롱하늘채' -> 1개 단지 후보 발견
+2026-09-18 10:49:24 [INFO] src.kb_area_master.kb_search: KB 검색 API '거제동 거제센트럴자이' -> 1개 단지 후보 발견
+2026-09-18 10:49:24 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 9개 평형 데이터 수집 완료 (단지=33306)
+2026-09-18 10:49:26 [INFO] src.kb_area_master.kb_search: KB 검색 API '거제동 거제현대' -> 0개 단지 후보 발견
+2026-09-18 10:49:27 [INFO] src.kb_area_master.kb_search: KB 검색 API '거제현대' -> 5개 단지 후보 발견
+2026-09-18 10:49:27 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 2개 평형 데이터 수집 완료 (단지=5956)
+2026-09-18 10:49:29 [INFO] src.kb_area_master.kb_search: KB 검색 API '거제동 거제1차현대홈타운' -> 1개 단지 후보 발견
+2026-09-18 10:49:29 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 10개 평형 데이터 수집 완료 (단지=5973)
+2026-09-18 10:49:32 [INFO] src.kb_area_master.kb_search: KB 검색 API '거제동 거제2차현대홈타운' -> 1개 단지 후보 발견
+2026-09-18 10:49:32 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=5974)
+2026-09-18 10:49:34 [INFO] src.kb_area_master.kb_search: KB 검색 API '거제동 거제쌍용스윗닷홈' -> 0개 단지 후보 발견
+2026-09-18 10:49:35 [INFO] src.kb_area_master.kb_search: KB 검색 API '거제쌍용스윗닷홈' -> 0개 단지 후보 발견
+2026-09-18 10:49:36 [INFO] src.kb_area_master.kb_search: KB 검색 API '거제동 거제쌍용스윗닷홈아파트' -> 0개 단지 후보 발견
+2026-09-18 10:49:37 [INFO] src.kb_area_master.kb_search: KB 검색 API '연제구 거제동 거제쌍용스윗닷홈' -> 0개 단지 후보 발견
+2026-09-18 10:49:40 [INFO] src.kb_area_master.kb_search: KB 검색 API '거제동 거제동롯데캐슬' -> 2개 단지 후보 발견
+2026-09-18 10:49:40 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 3개 평형 데이터 수집 완료 (단지=5965)
+2026-09-18 10:49:42 [INFO] src.kb_area_master.kb_search: KB 검색 API '거제동 거제동월드메르디앙' -> 1개 단지 후보 발견
+2026-09-18 10:49:42 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 7개 평형 데이터 수집 완료 (단지=13867)
+2026-09-18 10:49:45 [INFO] src.kb_area_master.kb_search: KB 검색 API '거제동 유림아시아드' -> 2개 단지 후보 발견
+2026-09-18 10:49:45 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 8개 평형 데이터 수집 완료 (단지=5981)
+2026-09-18 10:49:49 [INFO] src.kb_area_master.kb_search: KB 검색 API '연산동 연산포레서희스타힐스' -> 1개 단지 후보 발견
+2026-09-18 10:49:49 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 3개 평형 데이터 수집 완료 (단지=349751)
+2026-09-18 10:49:55 [INFO] src.kb_area_master.kb_search: KB 검색 API '연산동 연산롯데캐슬골드포레' -> 1개 단지 후보 발견
+2026-09-18 10:49:55 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 7개 평형 데이터 수집 완료 (단지=39355)
+2026-09-18 10:49:57 [INFO] src.kb_area_master.kb_search: KB 검색 API '연산동 시청역 비스타동원' -> 2개 단지 후보 발견
+2026-09-18 10:49:57 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=33371)
+2026-09-18 10:49:59 [INFO] src.kb_area_master.kb_search: KB 검색 API '연산동 연산더샵' -> 1개 단지 후보 발견
+2026-09-18 10:50:00 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 6개 평형 데이터 수집 완료 (단지=32992)
+2026-09-18 10:50:02 [INFO] src.kb_area_master.kb_search: KB 검색 API '연산동 연제 롯데캐슬앤데시앙' -> 1개 단지 후보 발견
+2026-09-18 10:50:02 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 9개 평형 데이터 수집 완료 (단지=31272)
+2026-09-18 10:50:04 [INFO] src.kb_area_master.kb_search: KB 검색 API '연산동 연산동 일동미라주 더 스타' -> 0개 단지 후보 발견
+2026-09-18 10:50:05 [INFO] src.kb_area_master.kb_search: KB 검색 API '연산동 일동미라주 더 스타' -> 0개 단지 후보 발견
+2026-09-18 10:50:06 [INFO] src.kb_area_master.kb_search: KB 검색 API '연제구 연산동 연산동 일동미라주 더 스타' -> 0개 단지 후보 발견
+2026-09-18 10:50:09 [INFO] src.kb_area_master.kb_search: KB 검색 API '연산동 센텀리버sk뷰' -> 0개 단지 후보 발견
+2026-09-18 10:50:10 [INFO] src.kb_area_master.kb_search: KB 검색 API '센텀리버sk뷰' -> 0개 단지 후보 발견
+2026-09-18 10:50:11 [INFO] src.kb_area_master.kb_search: KB 검색 API '연제구 연산동 센텀리버sk뷰' -> 0개 단지 후보 발견
+2026-09-18 10:50:14 [INFO] src.kb_area_master.kb_search: KB 검색 API '연산동 브라운스톤연제' -> 1개 단지 후보 발견
+2026-09-18 10:50:15 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 6개 평형 데이터 수집 완료 (단지=1061231)
+2026-09-18 10:50:17 [INFO] src.kb_area_master.kb_search: KB 검색 API '연산동 더샵 파크시티' -> 1개 단지 후보 발견
+2026-09-18 10:50:17 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 15개 평형 데이터 수집 완료 (단지=26892)
+2026-09-18 10:50:19 [INFO] src.kb_area_master.kb_search: KB 검색 API '연산동 부산센텀푸르지오' -> 1개 단지 후보 발견
+2026-09-18 10:50:19 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=26647)
+2026-09-18 10:50:21 [INFO] src.kb_area_master.exporter: 마스터 CSV 저장: D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\config\market_cap_area_master.csv (1936 rows, 299단지)
+2026-09-18 10:50:21 [INFO] src.kb_area_master.exporter: KB 원본 데이터 저장: D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\data\raw\kb\kb_area_types.csv (1939 rows)
+2026-09-18 10:50:21 [INFO] src.kb_area_master.exporter: KB 매핑 캐시 저장: D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\data\mapping\kb_complex_mapping.csv (331건)
+2026-09-18 10:50:21 [INFO] src.kb_area_master.exporter: Pending 목록 저장: D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\data\review\area_master_pending.csv (150건)
+2026-09-18 10:50:21 [INFO] src.kb_area_master.kb_search: KB 검색 API '연산동 망미주공' -> 1개 단지 후보 발견
+2026-09-18 10:50:21 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 8개 평형 데이터 수집 완료 (단지=5984)
+2026-09-18 10:50:23 [INFO] src.kb_area_master.kb_search: KB 검색 API '연산동 연산한양' -> 0개 단지 후보 발견
+2026-09-18 10:50:25 [INFO] src.kb_area_master.kb_search: KB 검색 API '연산한양' -> 6개 단지 후보 발견
+2026-09-18 10:50:26 [INFO] src.kb_area_master.kb_search: KB 검색 API '연산동 연산한양아파트' -> 0개 단지 후보 발견
+2026-09-18 10:50:27 [INFO] src.kb_area_master.kb_search: KB 검색 API '연제구 연산동 연산한양' -> 0개 단지 후보 발견
+2026-09-18 10:50:30 [INFO] src.kb_area_master.kb_search: KB 검색 API '연산동 연산자이' -> 1개 단지 후보 발견
+2026-09-18 10:50:30 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 10개 평형 데이터 수집 완료 (단지=16103)
+2026-09-18 10:50:32 [INFO] src.kb_area_master.kb_search: KB 검색 API '연산동 연산선경' -> 0개 단지 후보 발견
+2026-09-18 10:50:33 [INFO] src.kb_area_master.kb_search: KB 검색 API '연산선경' -> 1개 단지 후보 발견
+2026-09-18 10:50:33 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=5987)
+2026-09-18 10:50:35 [INFO] src.kb_area_master.kb_search: KB 검색 API '연산동 연산LG' -> 1개 단지 후보 발견
+2026-09-18 10:50:35 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 6개 평형 데이터 수집 완료 (단지=5994)
+2026-09-18 10:50:38 [INFO] src.kb_area_master.kb_search: KB 검색 API '망미동 수영sk뷰 1단지' -> 1개 단지 후보 발견
+2026-09-18 10:50:38 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 8개 평형 데이터 수집 완료 (단지=32016)
+2026-09-18 10:50:40 [INFO] src.kb_area_master.kb_search: KB 검색 API '망미동 망미삼성' -> 0개 단지 후보 발견
+2026-09-18 10:50:41 [INFO] src.kb_area_master.kb_search: KB 검색 API '망미삼성' -> 1개 단지 후보 발견
+2026-09-18 10:50:41 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 8개 평형 데이터 수집 완료 (단지=5946)
+2026-09-18 10:50:43 [INFO] src.kb_area_master.kb_search: KB 검색 API '망미동 망미동the#파크리치' -> 0개 단지 후보 발견
+2026-09-18 10:50:44 [INFO] src.kb_area_master.kb_search: KB 검색 API '망미동the#파크리치' -> 0개 단지 후보 발견
+2026-09-18 10:50:45 [INFO] src.kb_area_master.kb_search: KB 검색 API '수영구 망미동 망미동the#파크리치' -> 0개 단지 후보 발견
+2026-09-18 10:50:48 [INFO] src.kb_area_master.kb_search: KB 검색 API '망미동 센텀수영강변3차 e-편한세상' -> 1개 단지 후보 발견
+2026-09-18 10:50:48 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 2개 평형 데이터 수집 완료 (단지=13555)
+2026-09-18 10:50:50 [INFO] src.kb_area_master.kb_search: KB 검색 API '수영동 수영현대' -> 0개 단지 후보 발견
+2026-09-18 10:50:52 [INFO] src.kb_area_master.kb_search: KB 검색 API '수영현대' -> 6개 단지 후보 발견
+2026-09-18 10:50:52 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 12개 평형 데이터 수집 완료 (단지=426731)
+2026-09-18 10:50:54 [INFO] src.kb_area_master.kb_search: KB 검색 API '수영동 수영협성르네상스타운' -> 1개 단지 후보 발견
+2026-09-18 10:50:54 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=13128)
+2026-09-18 10:50:56 [INFO] src.kb_area_master.kb_search: KB 검색 API '민락동 e편한세상 오션테라스' -> 4개 단지 후보 발견
+2026-09-18 10:50:57 [INFO] src.kb_area_master.kb_search: KB 검색 API 'e편한세상 오션테라스' -> 4개 단지 후보 발견
+2026-09-18 10:50:58 [INFO] src.kb_area_master.kb_search: KB 검색 API '수영구 민락동 e편한세상 오션테라스' -> 4개 단지 후보 발견
+2026-09-18 10:51:01 [INFO] src.kb_area_master.kb_search: KB 검색 API '민락동 센텀비스타동원' -> 2개 단지 후보 발견
+2026-09-18 10:51:01 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=29371)
+2026-09-18 10:51:04 [INFO] src.kb_area_master.kb_search: KB 검색 API '민락동 센텀비치푸르지오' -> 1개 단지 후보 발견
+2026-09-18 10:51:04 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 8개 평형 데이터 수집 완료 (단지=12212)
+2026-09-18 10:51:08 [INFO] src.kb_area_master.kb_search: KB 검색 API '민락동 롯데캐슬자이안트' -> 0개 단지 후보 발견
+2026-09-18 10:51:09 [INFO] src.kb_area_master.kb_search: KB 검색 API '롯데캐슬자이안트' -> 0개 단지 후보 발견
+2026-09-18 10:51:10 [INFO] src.kb_area_master.kb_search: KB 검색 API '민락동 롯데캐슬자이안트아파트' -> 0개 단지 후보 발견
+2026-09-18 10:51:11 [INFO] src.kb_area_master.kb_search: KB 검색 API '수영구 민락동 롯데캐슬자이안트' -> 0개 단지 후보 발견
+2026-09-18 10:51:14 [INFO] src.kb_area_master.kb_search: KB 검색 API '광안동 드파인 광안' -> 1개 단지 후보 발견
+2026-09-18 10:51:14 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 7개 평형 데이터 수집 완료 (단지=1849534)
+2026-09-18 10:51:16 [INFO] src.kb_area_master.kb_search: KB 검색 API '광안동 광안자이' -> 1개 단지 후보 발견
+2026-09-18 10:51:17 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 6개 평형 데이터 수집 완료 (단지=39499)
+2026-09-18 10:51:19 [INFO] src.kb_area_master.kb_search: KB 검색 API '광안동 광안쌍용예가디오션' -> 0개 단지 후보 발견
+2026-09-18 10:51:20 [INFO] src.kb_area_master.kb_search: KB 검색 API '광안쌍용예가디오션' -> 1개 단지 후보 발견
+2026-09-18 10:51:20 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 12개 평형 데이터 수집 완료 (단지=25696)
+2026-09-18 10:51:22 [INFO] src.kb_area_master.kb_search: KB 검색 API '광안동 광원' -> 1개 단지 후보 발견
+2026-09-18 10:51:22 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 3개 평형 데이터 수집 완료 (단지=5926)
+2026-09-18 10:51:24 [INFO] src.kb_area_master.kb_search: KB 검색 API '광안동 비치-그린' -> 1개 단지 후보 발견
+2026-09-18 10:51:24 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 3개 평형 데이터 수집 완료 (단지=5927)
+2026-09-18 10:51:26 [INFO] src.kb_area_master.kb_search: KB 검색 API '남천동 남천자이' -> 1개 단지 후보 발견
+2026-09-18 10:51:26 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 25개 평형 데이터 수집 완료 (단지=730329)
+2026-09-18 10:51:31 [INFO] src.kb_area_master.kb_search: KB 검색 API '남천동 삼익비치' -> 0개 단지 후보 발견
+2026-09-18 10:51:32 [INFO] src.kb_area_master.kb_search: KB 검색 API '삼익비치' -> 4개 단지 후보 발견
+2026-09-18 10:51:32 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 11개 평형 데이터 수집 완료 (단지=5918)
+2026-09-18 10:51:34 [INFO] src.kb_area_master.kb_search: KB 검색 API '남천동 남천코오롱하늘채골든비치' -> 0개 단지 후보 발견
+2026-09-18 10:51:35 [INFO] src.kb_area_master.kb_search: KB 검색 API '남천코오롱하늘채골든비치' -> 0개 단지 후보 발견
+2026-09-18 10:51:36 [INFO] src.kb_area_master.kb_search: KB 검색 API '수영구 남천동 남천코오롱하늘채골든비치' -> 0개 단지 후보 발견
+2026-09-18 10:51:39 [INFO] src.kb_area_master.kb_search: KB 검색 API '남천동 남천뉴비치' -> 0개 단지 후보 발견
+2026-09-18 10:51:40 [INFO] src.kb_area_master.kb_search: KB 검색 API '남천뉴비치' -> 0개 단지 후보 발견
+2026-09-18 10:51:41 [INFO] src.kb_area_master.kb_search: KB 검색 API '남천동 남천뉴비치아파트' -> 0개 단지 후보 발견
+2026-09-18 10:51:42 [INFO] src.kb_area_master.kb_search: KB 검색 API '수영구 남천동 남천뉴비치' -> 0개 단지 후보 발견
+2026-09-18 10:51:45 [INFO] src.kb_area_master.kb_search: KB 검색 API '모라동 모라백양그린' -> 0개 단지 후보 발견
+2026-09-18 10:51:47 [INFO] src.kb_area_master.kb_search: KB 검색 API '모라백양그린' -> 1개 단지 후보 발견
+2026-09-18 10:51:47 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=5732)
+2026-09-18 10:51:51 [INFO] src.kb_area_master.kb_search: KB 검색 API '모라동 백양푸른숲입주자대표회의' -> 0개 단지 후보 발견
+2026-09-18 10:51:52 [INFO] src.kb_area_master.kb_search: KB 검색 API '백양푸른숲입주자대표회의' -> 0개 단지 후보 발견
+2026-09-18 10:51:53 [INFO] src.kb_area_master.kb_search: KB 검색 API '사상구 모라동 백양푸른숲입주자대표회의' -> 0개 단지 후보 발견
+2026-09-18 10:51:56 [INFO] src.kb_area_master.kb_search: KB 검색 API '모라동 우성' -> 2개 단지 후보 발견
+2026-09-18 10:51:56 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=5730)
+2026-09-18 10:52:00 [INFO] src.kb_area_master.kb_search: KB 검색 API '모라동 모라벽산' -> 1개 단지 후보 발견
+2026-09-18 10:52:00 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 3개 평형 데이터 수집 완료 (단지=5731)
+2026-09-18 10:52:02 [INFO] src.kb_area_master.kb_search: KB 검색 API '모라동 모라동원타운' -> 0개 단지 후보 발견
+2026-09-18 10:52:04 [INFO] src.kb_area_master.kb_search: KB 검색 API '모라동원타운' -> 1개 단지 후보 발견
+2026-09-18 10:52:04 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 6개 평형 데이터 수집 완료 (단지=5734)
+2026-09-18 10:52:06 [INFO] src.kb_area_master.kb_search: KB 검색 API '모라동 우신모라' -> 1개 단지 후보 발견
+2026-09-18 10:52:06 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 6개 평형 데이터 수집 완료 (단지=5741)
+2026-09-18 10:52:08 [INFO] src.kb_area_master.kb_search: KB 검색 API '덕포동 사상 중흥S-클래스 그랜드센트럴' -> 1개 단지 후보 발견
+2026-09-18 10:52:08 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=49064)
+2026-09-18 10:52:10 [INFO] src.kb_area_master.kb_search: KB 검색 API '덕포동 덕포경동메르빌' -> 1개 단지 후보 발견
+2026-09-18 10:52:10 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 10개 평형 데이터 수집 완료 (단지=25060)
+2026-09-18 10:52:12 [INFO] src.kb_area_master.kb_search: KB 검색 API '덕포동 덕포자유' -> 0개 단지 후보 발견
+2026-09-18 10:52:14 [INFO] src.kb_area_master.kb_search: KB 검색 API '덕포자유' -> 1개 단지 후보 발견
+2026-09-18 10:52:14 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 13개 평형 데이터 수집 완료 (단지=5715)
+2026-09-18 10:52:16 [INFO] src.kb_area_master.kb_search: KB 검색 API '괘법동 센트럴 스타힐스' -> 2개 단지 후보 발견
+2026-09-18 10:52:16 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 6개 평형 데이터 수집 완료 (단지=48448)
+2026-09-18 10:52:18 [INFO] src.kb_area_master.kb_search: KB 검색 API '괘법동 괘법2차한신' -> 0개 단지 후보 발견
+2026-09-18 10:52:19 [INFO] src.kb_area_master.kb_search: KB 검색 API '괘법2차한신' -> 0개 단지 후보 발견
+2026-09-18 10:52:20 [INFO] src.kb_area_master.kb_search: KB 검색 API '괘법동 괘법2차한신아파트' -> 0개 단지 후보 발견
+2026-09-18 10:52:21 [INFO] src.kb_area_master.kb_search: KB 검색 API '사상구 괘법동 괘법2차한신' -> 0개 단지 후보 발견
+2026-09-18 10:52:24 [INFO] src.kb_area_master.kb_search: KB 검색 API '괘법동 사상강변동원' -> 1개 단지 후보 발견
+2026-09-18 10:52:24 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 3개 평형 데이터 수집 완료 (단지=5725)
+2026-09-18 10:52:31 [INFO] src.kb_area_master.kb_search: KB 검색 API '주례동 주례경동리인' -> 1개 단지 후보 발견
+2026-09-18 10:52:31 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 7개 평형 데이터 수집 완료 (단지=29759)
+2026-09-18 10:52:33 [INFO] src.kb_area_master.kb_search: KB 검색 API '주례동 주례한일유앤아이' -> 1개 단지 후보 발견
+2026-09-18 10:52:33 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=13182)
+2026-09-18 10:52:35 [INFO] src.kb_area_master.kb_search: KB 검색 API '주례동 주례반도보라매머드' -> 0개 단지 후보 발견
+2026-09-18 10:52:36 [INFO] src.kb_area_master.kb_search: KB 검색 API '주례반도보라매머드' -> 0개 단지 후보 발견
+2026-09-18 10:52:37 [INFO] src.kb_area_master.kb_search: KB 검색 API '주례동 주례반도보라매머드아파트' -> 0개 단지 후보 발견
+2026-09-18 10:52:38 [INFO] src.kb_area_master.kb_search: KB 검색 API '사상구 주례동 주례반도보라매머드' -> 0개 단지 후보 발견
+2026-09-18 10:52:41 [INFO] src.kb_area_master.kb_search: KB 검색 API '주례동 주례럭키' -> 1개 단지 후보 발견
+2026-09-18 10:52:42 [INFO] src.kb_area_master.kb_search: KB 검색 API '주례럭키' -> 1개 단지 후보 발견
+2026-09-18 10:52:44 [INFO] src.kb_area_master.kb_search: KB 검색 API '주례동 주례럭키아파트' -> 0개 단지 후보 발견
+2026-09-18 10:52:45 [INFO] src.kb_area_master.kb_search: KB 검색 API '사상구 주례동 주례럭키' -> 1개 단지 후보 발견
+2026-09-18 10:52:48 [INFO] src.kb_area_master.kb_search: KB 검색 API '주례동 주례청구' -> 1개 단지 후보 발견
+2026-09-18 10:52:48 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 6개 평형 데이터 수집 완료 (단지=5686)
+2026-09-18 10:52:50 [INFO] src.kb_area_master.kb_search: KB 검색 API '주례동 신주례2차LG' -> 0개 단지 후보 발견
+2026-09-18 10:52:51 [INFO] src.kb_area_master.kb_search: KB 검색 API '신주례2차LG' -> 0개 단지 후보 발견
+2026-09-18 10:52:52 [INFO] src.kb_area_master.kb_search: KB 검색 API '주례동 신주례2차LG아파트' -> 0개 단지 후보 발견
+2026-09-18 10:52:53 [INFO] src.kb_area_master.kb_search: KB 검색 API '사상구 주례동 신주례2차LG' -> 0개 단지 후보 발견
+2026-09-18 10:52:56 [INFO] src.kb_area_master.kb_search: KB 검색 API '주례동 LG신주례1단지' -> 0개 단지 후보 발견
+2026-09-18 10:52:57 [INFO] src.kb_area_master.kb_search: KB 검색 API 'LG신주례1단지' -> 0개 단지 후보 발견
+2026-09-18 10:52:58 [INFO] src.kb_area_master.kb_search: KB 검색 API '주례동 LG신주례1단지아파트' -> 0개 단지 후보 발견
+2026-09-18 10:52:59 [INFO] src.kb_area_master.kb_search: KB 검색 API '사상구 주례동 LG신주례1단지' -> 0개 단지 후보 발견
+2026-09-18 10:53:03 [INFO] src.kb_area_master.kb_search: KB 검색 API '주례동 주례현대무지개' -> 0개 단지 후보 발견
+2026-09-18 10:53:04 [INFO] src.kb_area_master.kb_search: KB 검색 API '주례현대무지개' -> 0개 단지 후보 발견
+2026-09-18 10:53:05 [INFO] src.kb_area_master.kb_search: KB 검색 API '주례동 주례현대무지개아파트' -> 0개 단지 후보 발견
+2026-09-18 10:53:06 [INFO] src.kb_area_master.kb_search: KB 검색 API '사상구 주례동 주례현대무지개' -> 0개 단지 후보 발견
+2026-09-18 10:53:09 [INFO] src.kb_area_master.exporter: 마스터 CSV 저장: D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\config\market_cap_area_master.csv (2144 rows, 328단지)
+2026-09-18 10:53:09 [INFO] src.kb_area_master.exporter: KB 원본 데이터 저장: D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\data\raw\kb\kb_area_types.csv (2147 rows)
+2026-09-18 10:53:09 [INFO] src.kb_area_master.exporter: KB 매핑 캐시 저장: D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\data\mapping\kb_complex_mapping.csv (365건)
+2026-09-18 10:53:09 [INFO] src.kb_area_master.exporter: Pending 목록 저장: D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\data\review\area_master_pending.csv (171건)
+2026-09-18 10:53:09 [INFO] src.kb_area_master.kb_search: KB 검색 API '학장동 학장금강' -> 0개 단지 후보 발견
+2026-09-18 10:53:10 [INFO] src.kb_area_master.kb_search: KB 검색 API '학장금강' -> 1개 단지 후보 발견
+2026-09-18 10:53:10 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 3개 평형 데이터 수집 완료 (단지=5690)
+2026-09-18 10:53:12 [INFO] src.kb_area_master.kb_search: KB 검색 API '학장동 학장무학' -> 1개 단지 후보 발견
+2026-09-18 10:53:12 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 2개 평형 데이터 수집 완료 (단지=5692)
+2026-09-18 10:53:14 [INFO] src.kb_area_master.kb_search: KB 검색 API '학장동 학장벽산' -> 1개 단지 후보 발견
+2026-09-18 10:53:15 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 2개 평형 데이터 수집 완료 (단지=5698)
+2026-09-18 10:53:17 [INFO] src.kb_area_master.kb_search: KB 검색 API '학장동 학장반도보라타운' -> 1개 단지 후보 발견
+2026-09-18 10:53:17 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=5691)
+2026-09-18 10:53:19 [INFO] src.kb_area_master.kb_search: KB 검색 API '학장동 구덕대림' -> 0개 단지 후보 발견
+2026-09-18 10:53:20 [INFO] src.kb_area_master.kb_search: KB 검색 API '구덕대림' -> 2개 단지 후보 발견
+2026-09-18 10:53:21 [INFO] src.kb_area_master.kb_search: KB 검색 API '사상구 학장동 구덕대림' -> 0개 단지 후보 발견
+2026-09-18 10:53:26 [INFO] src.kb_area_master.kb_search: KB 검색 API '학장동 학장삼정그린코아' -> 1개 단지 후보 발견
+2026-09-18 10:53:26 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=25714)
+2026-09-18 10:53:28 [INFO] src.kb_area_master.kb_search: KB 검색 API '학장동 학장목화' -> 0개 단지 후보 발견
+2026-09-18 10:53:29 [INFO] src.kb_area_master.kb_search: KB 검색 API '학장목화' -> 1개 단지 후보 발견
+2026-09-18 10:53:30 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 2개 평형 데이터 수집 완료 (단지=5702)
+2026-09-18 10:53:32 [INFO] src.kb_area_master.kb_search: KB 검색 API '학장동 학장동2차삼성' -> 1개 단지 후보 발견
+2026-09-18 10:53:32 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=5697)
+2026-09-18 10:53:34 [INFO] src.kb_area_master.kb_search: KB 검색 API '학장동 신구덕우성' -> 1개 단지 후보 발견
+2026-09-18 10:53:34 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=5693)
+2026-09-18 10:53:36 [INFO] src.kb_area_master.kb_search: KB 검색 API '학장동 구학마을' -> 1개 단지 후보 발견
+2026-09-18 10:53:36 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 1개 평형 데이터 수집 완료 (단지=15573)
+2026-09-18 10:53:38 [INFO] src.kb_area_master.kb_search: KB 검색 API '엄궁동 엄궁대림' -> 1개 단지 후보 발견
+2026-09-18 10:53:38 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 3개 평형 데이터 수집 완료 (단지=5707)
+2026-09-18 10:53:41 [INFO] src.kb_area_master.kb_search: KB 검색 API '엄궁동 엄궁롯데캐슬리버' -> 1개 단지 후보 발견
+2026-09-18 10:53:41 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 10개 평형 데이터 수집 완료 (단지=21574)
+2026-09-18 10:53:43 [INFO] src.kb_area_master.kb_search: KB 검색 API '엄궁동 엄궁한신2차' -> 1개 단지 후보 발견
+2026-09-18 10:53:43 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=5711)
+2026-09-18 10:53:45 [INFO] src.kb_area_master.kb_search: KB 검색 API '엄궁동 엄궁코오롱' -> 0개 단지 후보 발견
+2026-09-18 10:53:46 [INFO] src.kb_area_master.kb_search: KB 검색 API '엄궁코오롱' -> 1개 단지 후보 발견
+2026-09-18 10:53:46 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 6개 평형 데이터 수집 완료 (단지=5709)
+2026-09-18 10:53:48 [INFO] src.kb_area_master.kb_search: KB 검색 API '엄궁동 엄궁쌍용스윗닷홈' -> 0개 단지 후보 발견
+2026-09-18 10:53:49 [INFO] src.kb_area_master.kb_search: KB 검색 API '엄궁쌍용스윗닷홈' -> 0개 단지 후보 발견
+2026-09-18 10:53:50 [INFO] src.kb_area_master.kb_search: KB 검색 API '사상구 엄궁동 엄궁쌍용스윗닷홈' -> 0개 단지 후보 발견
+2026-09-18 10:53:53 [INFO] src.kb_area_master.kb_search: KB 검색 API '기장읍 기장한신그린코아' -> 0개 단지 후보 발견
+2026-09-18 10:53:54 [INFO] src.kb_area_master.kb_search: KB 검색 API '기장한신그린코아' -> 0개 단지 후보 발견
+2026-09-18 10:53:56 [INFO] src.kb_area_master.kb_search: KB 검색 API '기장읍 기장한신그린코아아파트' -> 0개 단지 후보 발견
+2026-09-18 10:53:57 [INFO] src.kb_area_master.kb_search: KB 검색 API '기장군 기장읍 기장한신그린코아' -> 0개 단지 후보 발견
+2026-09-18 10:54:02 [INFO] src.kb_area_master.kb_search: KB 검색 API '기장읍 이진캐스빌블루1차' -> 1개 단지 후보 발견
+2026-09-18 10:54:02 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 11개 평형 데이터 수집 완료 (단지=22088)
+2026-09-18 10:54:04 [INFO] src.kb_area_master.kb_search: KB 검색 API '기장읍 기장서부주공' -> 0개 단지 후보 발견
+2026-09-18 10:54:05 [INFO] src.kb_area_master.kb_search: KB 검색 API '기장서부주공' -> 0개 단지 후보 발견
+2026-09-18 10:54:06 [INFO] src.kb_area_master.kb_search: KB 검색 API '기장읍 기장서부주공아파트' -> 0개 단지 후보 발견
+2026-09-18 10:54:07 [INFO] src.kb_area_master.kb_search: KB 검색 API '기장군 기장읍 기장서부주공' -> 0개 단지 후보 발견
+2026-09-18 10:54:12 [INFO] src.kb_area_master.kb_search: KB 검색 API '기장읍 기장현대' -> 1개 단지 후보 발견
+2026-09-18 10:54:12 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=6230)
+2026-09-18 10:54:14 [INFO] src.kb_area_master.kb_search: KB 검색 API '기장읍 우신네오빌' -> 1개 단지 후보 발견
+2026-09-18 10:54:15 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=12117)
+2026-09-18 10:54:17 [INFO] src.kb_area_master.kb_search: KB 검색 API '기장읍 기장2주공' -> 0개 단지 후보 발견
+2026-09-18 10:54:18 [INFO] src.kb_area_master.kb_search: KB 검색 API '기장2주공' -> 0개 단지 후보 발견
+2026-09-18 10:54:19 [INFO] src.kb_area_master.kb_search: KB 검색 API '기장읍 기장2주공아파트' -> 0개 단지 후보 발견
+2026-09-18 10:54:20 [INFO] src.kb_area_master.kb_search: KB 검색 API '기장군 기장읍 기장2주공' -> 0개 단지 후보 발견
+2026-09-18 10:54:23 [INFO] src.kb_area_master.kb_search: KB 검색 API '기장읍 동부산 삼정그린코아 더베스트' -> 1개 단지 후보 발견
+2026-09-18 10:54:23 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=31050)
+2026-09-18 10:54:27 [INFO] src.kb_area_master.kb_search: KB 검색 API '정관읍 가화만사성정관타운' -> 1개 단지 후보 발견
+2026-09-18 10:54:27 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=28940)
+2026-09-18 10:54:29 [INFO] src.kb_area_master.kb_search: KB 검색 API '정관읍 정관동원로얄듀크2차' -> 1개 단지 후보 발견
+2026-09-18 10:54:30 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=25254)
+2026-09-18 10:54:32 [INFO] src.kb_area_master.kb_search: KB 검색 API '정관읍 정관센트럴파크' -> 1개 단지 후보 발견
+2026-09-18 10:54:32 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 8개 평형 데이터 수집 완료 (단지=22222)
+2026-09-18 10:54:36 [INFO] src.kb_area_master.kb_search: KB 검색 API '정관읍 정관1차동원로얄듀크' -> 1개 단지 후보 발견
+2026-09-18 10:54:36 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=25049)
+2026-09-18 10:54:44 [INFO] src.kb_area_master.kb_search: KB 검색 API '정관읍 정관이지더원3차' -> 0개 단지 후보 발견
+2026-09-18 10:54:45 [INFO] src.kb_area_master.kb_search: KB 검색 API '정관이지더원3차' -> 0개 단지 후보 발견
+2026-09-18 10:54:46 [INFO] src.kb_area_master.kb_search: KB 검색 API '정관읍 정관이지더원3차아파트' -> 0개 단지 후보 발견
+2026-09-18 10:54:47 [INFO] src.kb_area_master.kb_search: KB 검색 API '기장군 정관읍 정관이지더원3차' -> 0개 단지 후보 발견
+2026-09-18 10:54:50 [INFO] src.kb_area_master.kb_search: KB 검색 API '정관읍 정관신도시이지더원1차' -> 0개 단지 후보 발견
+2026-09-18 10:54:51 [INFO] src.kb_area_master.kb_search: KB 검색 API '정관신도시이지더원1차' -> 0개 단지 후보 발견
+2026-09-18 10:54:53 [INFO] src.kb_area_master.kb_search: KB 검색 API '기장군 정관읍 정관신도시이지더원1차' -> 0개 단지 후보 발견
+2026-09-18 10:54:58 [INFO] src.kb_area_master.kb_search: KB 검색 API '정관읍 EGthe12차' -> 0개 단지 후보 발견
+2026-09-18 10:54:59 [INFO] src.kb_area_master.kb_search: KB 검색 API 'EGthe12차' -> 0개 단지 후보 발견
+2026-09-18 10:55:00 [INFO] src.kb_area_master.kb_search: KB 검색 API '기장군 정관읍 EGthe12차' -> 0개 단지 후보 발견
+2026-09-18 10:55:03 [INFO] src.kb_area_master.kb_search: KB 검색 API '정관읍 정관롯데캐슬2차' -> 1개 단지 후보 발견
+2026-09-18 10:55:03 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 6개 평형 데이터 수집 완료 (단지=21142)
+2026-09-18 10:55:05 [INFO] src.kb_area_master.kb_search: KB 검색 API '정관읍 정관동일스위트2차' -> 1개 단지 후보 발견
+2026-09-18 10:55:05 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 6개 평형 데이터 수집 완료 (단지=25048)
+2026-09-18 10:55:07 [INFO] src.kb_area_master.kb_search: KB 검색 API '정관읍 정관동일스위트3차' -> 1개 단지 후보 발견
+2026-09-18 10:55:07 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 7개 평형 데이터 수집 완료 (단지=25763)
+2026-09-18 10:55:09 [INFO] src.kb_area_master.kb_search: KB 검색 API '정관읍 정관신도시현진' -> 1개 단지 후보 발견
+2026-09-18 10:55:10 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 6개 평형 데이터 수집 완료 (단지=15938)
+2026-09-18 10:55:12 [INFO] src.kb_area_master.kb_search: KB 검색 API '정관읍 정관양우내안애' -> 1개 단지 후보 발견
+2026-09-18 10:55:12 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 3개 평형 데이터 수집 완료 (단지=431758)
+2026-09-18 10:55:14 [INFO] src.kb_area_master.kb_search: KB 검색 API '정관읍 정관신도시롯데캐슬' -> 1개 단지 후보 발견
+2026-09-18 10:55:14 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 7개 평형 데이터 수집 완료 (단지=15934)
+2026-09-18 10:55:16 [INFO] src.kb_area_master.kb_search: KB 검색 API '정관읍 정관동일스위트1차' -> 1개 단지 후보 발견
+2026-09-18 10:55:16 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 10개 평형 데이터 수집 완료 (단지=24325)
+2026-09-18 10:55:18 [INFO] src.kb_area_master.kb_search: KB 검색 API '정관읍 정관이진캐스빌' -> 1개 단지 후보 발견
+2026-09-18 10:55:19 [INFO] src.kb_area_master.kb_search: KB 검색 API '정관이진캐스빌' -> 1개 단지 후보 발견
+2026-09-18 10:55:20 [INFO] src.kb_area_master.kb_search: KB 검색 API '기장군 정관읍 정관이진캐스빌' -> 1개 단지 후보 발견
+2026-09-18 10:55:24 [INFO] src.kb_area_master.kb_search: KB 검색 API '정관읍 정관신도시 신동아파밀리에' -> 0개 단지 후보 발견
+2026-09-18 10:55:25 [INFO] src.kb_area_master.kb_search: KB 검색 API '정관신도시 신동아파밀리에' -> 0개 단지 후보 발견
+2026-09-18 10:55:26 [INFO] src.kb_area_master.kb_search: KB 검색 API '기장군 정관읍 정관신도시 신동아파밀리에' -> 0개 단지 후보 발견
+2026-09-18 10:55:29 [INFO] src.kb_area_master.kb_search: KB 검색 API '정관읍 정관한진해모로' -> 0개 단지 후보 발견
+2026-09-18 10:55:30 [INFO] src.kb_area_master.kb_search: KB 검색 API '정관한진해모로' -> 0개 단지 후보 발견
+2026-09-18 10:55:31 [INFO] src.kb_area_master.kb_search: KB 검색 API '기장군 정관읍 정관한진해모로' -> 0개 단지 후보 발견
+2026-09-18 10:55:38 [INFO] src.kb_area_master.exporter: 마스터 CSV 저장: D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\config\market_cap_area_master.csv (2281 rows, 355단지)
+2026-09-18 10:55:38 [INFO] src.kb_area_master.exporter: KB 원본 데이터 저장: D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\data\raw\kb\kb_area_types.csv (2284 rows)
+2026-09-18 10:55:38 [INFO] src.kb_area_master.exporter: KB 매핑 캐시 저장: D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\data\mapping\kb_complex_mapping.csv (395건)
+2026-09-18 10:55:38 [INFO] src.kb_area_master.exporter: Pending 목록 저장: D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\data\review\area_master_pending.csv (194건)
+2026-09-18 10:55:42 [INFO] src.kb_area_master.kb_search: KB 검색 API '일광읍 일광한신더휴센트럴포레' -> 2개 단지 후보 발견
+2026-09-18 10:55:43 [INFO] src.kb_area_master.kb_search: KB 검색 API '일광한신더휴센트럴포레' -> 2개 단지 후보 발견
+2026-09-18 10:55:44 [INFO] src.kb_area_master.kb_search: KB 검색 API '기장군 일광읍 일광한신더휴센트럴포레' -> 2개 단지 후보 발견
+2026-09-18 10:55:48 [INFO] src.kb_area_master.kb_search: KB 검색 API '일광읍 일광 대성베르힐' -> 1개 단지 후보 발견
+2026-09-18 10:55:48 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 3개 평형 데이터 수집 완료 (단지=42210)
+2026-09-18 10:55:50 [INFO] src.kb_area_master.kb_search: KB 검색 API '일광읍 일광자이푸르지오 2단지' -> 1개 단지 후보 발견
+2026-09-18 10:55:50 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 7개 평형 데이터 수집 완료 (단지=37605)
+2026-09-18 10:55:52 [INFO] src.kb_area_master.kb_search: KB 검색 API '일광읍 일광신도시비스타동원1차' -> 1개 단지 후보 발견
+2026-09-18 10:55:52 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=39543)
+2026-09-18 10:55:54 [INFO] src.kb_area_master.kb_search: KB 검색 API '일광읍 일광 이지더원1차오션포레' -> 1개 단지 후보 발견
+2026-09-18 10:55:54 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 2개 평형 데이터 수집 완료 (단지=39023)
+2026-09-18 10:55:56 [INFO] src.kb_area_master.kb_search: KB 검색 API '일광읍 e편한세상일광' -> 1개 단지 후보 발견
+2026-09-18 10:55:56 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 5개 평형 데이터 수집 완료 (단지=37602)
+2026-09-18 10:55:59 [INFO] src.kb_area_master.kb_search: KB 검색 API '일광읍 일광신도시 비스타동원2차' -> 1개 단지 후보 발견
+2026-09-18 10:55:59 [INFO] src.kb_area_master.kb_collector: KB API(mpriByType)에서 4개 평형 데이터 수집 완료 (단지=41423)
+2026-09-18 10:56:03 [INFO] src.kb_area_master.exporter: 마스터 CSV 저장: D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\config\market_cap_area_master.csv (2306 rows, 361단지)
+2026-09-18 10:56:03 [INFO] src.kb_area_master.exporter: KB 원본 데이터 저장: D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\data\raw\kb\kb_area_types.csv (2309 rows)
+2026-09-18 10:56:03 [INFO] src.kb_area_master.exporter: KB 매핑 캐시 저장: D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\data\mapping\kb_complex_mapping.csv (402건)
+2026-09-18 10:56:03 [INFO] src.kb_area_master.exporter: Pending 목록 저장: D:\90.invest\80.데이터수집\아파트정보수집\kapt\area_master\data\review\area_master_pending.csv (198건)
+2026-09-18 10:56:03 [INFO] src.kb_area_master.kb_browser: KB 브라우저 종료

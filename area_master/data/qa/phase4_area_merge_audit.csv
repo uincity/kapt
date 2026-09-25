@@ -1,0 +1,6 @@
+﻿kapt_code,kapt_name,final_exclusive_area_sqm,final_households,expected_households,raw_types,raw_households,precision_source,merge_reason,merge_validity
+A60775306,동래럭키아파트,132.49,556,556,46평A/46평B,84/472,KB mpriByType,동일 전용면적(exclusive_area_sqm) A/B 타입 합산,CONFIRMED_EXACT
+A60775306,동래럭키아파트,163.96,240,240,57평A/57평B,56/184,KB mpriByType,동일 전용면적(exclusive_area_sqm) A/B 타입 합산,CONFIRMED_EXACT
+A60775306,동래럭키아파트,190.55,140,140,66평/66평,84/56,KB mpriByType,동일 전용면적(exclusive_area_sqm) A/B 타입 합산,CONFIRMED_EXACT
+A61476403,가야벽산아파트,77.04,364,364,28평/28평,168/196,KB mpriByType,동일 전용면적(exclusive_area_sqm) A/B 타입 합산,CONFIRMED_EXACT
+A61476403,가야벽산아파트,84.99,254,254,31평/31평,170/84,KB mpriByType,동일 전용면적(exclusive_area_sqm) A/B 타입 합산,CONFIRMED_EXACT

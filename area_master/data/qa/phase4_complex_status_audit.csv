@@ -1,0 +1,561 @@
+﻿kapt_code,kapt_name,audited_status,in_master,in_rental,in_pending
+A10024328,동대신역비스타동원아파트,MASTER_INCLUDED,True,False,False
+A10024875,동대신동 브라운스톤하이포레아파트,MASTER_INCLUDED,True,False,False
+A10026034,대신푸르지오아파트,MASTER_INCLUDED,True,False,False
+A10023704,대신해모로센트럴아파트,MASTER_INCLUDED,True,False,False
+A10024535,대신2차푸르지오,MASTER_INCLUDED,True,False,False
+A10028182,대신롯데캐슬아파트,MASTER_INCLUDED,True,False,False
+A60275104,남성한빛아파트,MASTER_INCLUDED,True,False,False
+A60270501,부민e-편한세상아파트,MASTER_INCLUDED,True,False,False
+A10022985,경동포레스트힐 행복주택 아미,EXCLUDED_RENTAL_ONLY,False,True,False
+A60275201,남부민풀리페,EXCLUDED_RENTAL_ONLY,False,True,False
+A10022434,e편한세상 송도 더퍼스트비치,MASTER_INCLUDED,True,False,False
+A10023790,힐스테이트이진베이시티,MASTER_INCLUDED,True,False,False
+A10024998,범양레우스 센트럴베이,MASTER_INCLUDED,True,False,False
+A10025359,e편한세상부산항,MASTER_INCLUDED,True,False,False
+A10025380,협성휴포레부산진역오션뷰아파트,MASTER_INCLUDED,True,False,False
+A10023963,부산항일동미라주더오션아파트,MASTER_INCLUDED,True,False,False
+A10023208,두산위브더제니스 하버시티,MASTER_INCLUDED,True,False,False
+A10026746,오션브릿지,MASTER_INCLUDED,True,False,False
+A60106001,한성기린프라자,MASTER_INCLUDED,True,False,False
+A60106002,두산위브포세이돈Ⅱ,MASTER_INCLUDED,True,False,False
+A60681702,영선동반도보라아파트,MASTER_INCLUDED,True,False,False
+A60675801,미광마린타워아파트,MASTER_INCLUDED,True,False,False
+A10024303,영도 센트럴 에일린의뜰,MASTER_INCLUDED,True,False,False
+A60607003,신영도롯데낙천대,MASTER_INCLUDED,True,False,False
+A60607004,청학영도신도브래뉴,MASTER_INCLUDED,True,False,False
+A10022267,오션라이프에일린의 뜰,MASTER_INCLUDED,True,False,False
+A10023837,부산오션시티푸르지오,MASTER_INCLUDED,True,False,False
+A60608002,조양비취맨션,MASTER_INCLUDED,True,False,False
+A60608303,동삼그린힐,FINAL_PENDING,False,False,True
+A60670101,도시공사동삼2지구영구임대아파트,EXCLUDED_RENTAL_ONLY,False,True,False
+A60675110,함지그린,MASTER_INCLUDED,True,False,False
+A60676104,부산동삼1,EXCLUDED_RENTAL_ONLY,False,True,False
+A60676205,부산동삼2주공,EXCLUDED_RENTAL_ONLY,False,True,False
+A60680909,국제마마뉴비치,MASTER_INCLUDED,True,False,False
+A60680912,절영아파트,MASTER_INCLUDED,True,False,False
+A10020870,양정자이더샵SKVIEW,MASTER_INCLUDED,True,False,False
+A10023040,양정 포레힐즈 스위첸,MASTER_INCLUDED,True,False,False
+A61475403,양정현대1차아파트,MASTER_INCLUDED,True,False,False
+A61479104,양정현대2차아파트,MASTER_INCLUDED,True,False,False
+A61479902,대원칸타빌멤버스,MASTER_INCLUDED,True,False,False
+A10023625,e편한세상 시민공원 아파트,MASTER_INCLUDED,True,False,False
+A10024602,서면아이파크아파트,MASTER_INCLUDED,True,False,False
+A10025901,부산전포동 사랑으로 부영아파트,EXCLUDED_RENTAL_ONLY,False,True,False
+A10027340,전포LH아파트,EXCLUDED_RENTAL_ONLY,False,True,False
+A61404006,서면한신,MASTER_INCLUDED,True,False,False
+A61404007,서면롯데캐슬스카이,MASTER_INCLUDED,True,False,False
+A61404203,서면대우디오빌2,MASTER_INCLUDED,True,False,False
+A61477302,서면유림노르웨이아침,MASTER_INCLUDED,True,False,False
+A61486301,한라비발디,MASTER_INCLUDED,True,False,False
+A61403001,서면센트럴스타,MASTER_INCLUDED,True,False,False
+A61473002,네오스포아파트,MASTER_INCLUDED,True,False,False
+A10023750,e편한세상 서면 더센트럴,MASTER_INCLUDED,True,False,False
+A10027052,서면DS·협성엘리시안아파트,MASTER_INCLUDED,True,False,False
+A61402003,서면베르빌2,MASTER_INCLUDED,True,False,False
+A61476002,범천경남아파트,MASTER_INCLUDED,True,False,False
+A61476004,범천LH,EXCLUDED_RENTAL_ONLY,False,True,False
+A61483202,서면e-편한세상,MASTER_INCLUDED,True,False,False
+A10025540,삼한골든뷰센트럴파크,MASTER_INCLUDED,True,False,False
+A10023616,래미안 어반파크,MASTER_INCLUDED,True,False,False
+A61478807,화인연지아파트,MASTER_INCLUDED,True,False,False
+A61478901,연지자이2차,MASTER_INCLUDED,True,False,False
+A61485906,연지2차청구아파트,MASTER_INCLUDED,True,False,False
+A61486005,연지자이1차아파트,MASTER_INCLUDED,True,False,False
+A61486008,세동한신아파트,MASTER_INCLUDED,True,False,False
+A10022574,초읍하늘채포레스원아파트,MASTER_INCLUDED,True,False,False
+A10024953,포레나부산초읍,MASTER_INCLUDED,True,False,False
+A10020721,백양산서희스타힐스(백양산서희스타힐스),MASTER_INCLUDED,True,False,False
+A10022844,롯데캐슬라센트,MASTER_INCLUDED,True,False,False
+A10026861,서면동일파크스위트3차아파트,MASTER_INCLUDED,True,False,False
+A10028147,서면동일파크스위트1차아파트,MASTER_INCLUDED,True,False,False
+A61409002,서면쌍용스윗닷홈스카이,MASTER_INCLUDED,True,False,False
+A61409003,일성in4아파트,MASTER_INCLUDED,True,False,False
+A61409004,타워베르빌,FINAL_PENDING,False,False,True
+A61409005,서면동문굿모닝힐,MASTER_INCLUDED,True,False,False
+A61409302,당감뜨란채아파트,MASTER_INCLUDED,True,False,False
+A61479403,백양산쌍용스윗닷홈아파트,MASTER_INCLUDED,True,False,False
+A61484004,협성피닉스아파트,MASTER_INCLUDED,True,False,False
+A61484005,화승삼성아파트,MASTER_INCLUDED,True,False,False
+A10023021,서면 비스타동원,MASTER_INCLUDED,True,False,False
+A10025434,서면2차 봄여름가을겨울아파트,MASTER_INCLUDED,True,False,False
+A61410304,서면삼익아파트,MASTER_INCLUDED,True,False,False
+A61475202,태화현대1차아파트,MASTER_INCLUDED,True,False,False
+A61475903,태화현대2차아파트,MASTER_INCLUDED,True,False,False
+A61477806,국제백양아파트,MASTER_INCLUDED,True,False,False
+A61479605,당감동일스위트아파트,MASTER_INCLUDED,True,False,False
+A61482207,개금주공3단지아파트,MASTER_INCLUDED,True,False,False
+A61482302,백양뜨란채아파트,MASTER_INCLUDED,True,False,False
+A61482303,백양푸른채,MASTER_INCLUDED,True,False,False
+A10020213,가야역롯데캐슬스카이엘아파트,MASTER_INCLUDED,True,False,False
+A10023627,가야롯데캐슬 골드아너,MASTER_INCLUDED,True,False,False
+A61476403,가야벽산아파트,MASTER_INCLUDED,True,False,False
+A61479502,가야반도보라빌,MASTER_INCLUDED,True,False,False
+A10023409,이진젠시티,MASTER_INCLUDED,True,False,False
+A10026363,금강펜테리움 더 스퀘어,MASTER_INCLUDED,True,False,False
+A61475512,개금주공2단지,MASTER_INCLUDED,True,False,False
+A61477009,개금우드빌,MASTER_INCLUDED,True,False,False
+A61477105,개금아이파크,MASTER_INCLUDED,True,False,False
+A61477403,개금시영아파트,MASTER_INCLUDED,True,False,False
+A61480908,동원화인패밀리타운,MASTER_INCLUDED,True,False,False
+A61480910,개금2지구도개공임대아파트,EXCLUDED_RENTAL_ONLY,False,True,False
+A61481111,신개금LG아파트,MASTER_INCLUDED,True,False,False
+A10025342,e편한세상동래명장,MASTER_INCLUDED,True,False,False
+A10026360,동래동일스위트,MASTER_INCLUDED,True,False,False
+A10027972,안락경동리인아파트,MASTER_INCLUDED,True,False,False
+A60710004,안락뜨란채2단지아파트,MASTER_INCLUDED,True,False,False
+A60777205,안락1차SK아파트,MASTER_INCLUDED,True,False,False
+A60777206,부산안락4휴먼시아,EXCLUDED_RENTAL_ONLY,False,True,False
+A60777604,안락현대아파트,MASTER_INCLUDED,True,False,False
+A60778502,강변뜨란채,MASTER_INCLUDED,True,False,False
+A60782701,동래화목타운,MASTER_INCLUDED,True,False,False
+A10025662,포레나동래아파트,MASTER_INCLUDED,True,False,False
+A60775407,동원로얄듀크,MASTER_INCLUDED,True,False,False
+A60775605,동래우성아파트,MASTER_INCLUDED,True,False,False
+A60776006,동래한양아파트,MASTER_INCLUDED,True,False,False
+A60780104,중앙하이츠2차아파트,MASTER_INCLUDED,True,False,False
+A60780108,낙민한일유앤아이,MASTER_INCLUDED,True,False,False
+A60702002,우성베스토피아아파트,MASTER_INCLUDED,True,False,False
+A10023781,힐스테이트 명륜 트라디움,MASTER_INCLUDED,True,False,False
+A10025687,명륜자이,MASTER_INCLUDED,True,False,False
+A10027690,명륜2차아이파크아파트,MASTER_INCLUDED,True,False,False
+A60701003,동래센트럴파크하이츠2단지,MASTER_INCLUDED,True,False,False
+A60701004,명륜아이파크,FINAL_PENDING,False,False,True
+A10022002,래미안포레스티지,MASTER_INCLUDED,True,False,False
+A10023417,더샵 동래,MASTER_INCLUDED,True,False,False
+A10023975,동래래미안아이파크아파트,MASTER_INCLUDED,True,False,False
+A10024005,동래3차 SK VIEW 아파트,MASTER_INCLUDED,True,False,False
+A10025463,동래효성해링턴플레이스,MASTER_INCLUDED,True,False,False
+A10026316,동래삼정그린코아포레스트,MASTER_INCLUDED,True,False,False
+A60775306,동래럭키아파트,MASTER_INCLUDED,True,False,False
+A60783306,벽산 아스타,MASTER_INCLUDED,True,False,False
+A60784207,온천동반도보라스카이뷰,MASTER_INCLUDED,True,False,False
+A10022591,사직 하늘채 리센티아,MASTER_INCLUDED,True,False,False
+A10024982,쌍용 더 플래티넘 사직 아시아드,MASTER_INCLUDED,True,False,False
+A10027054,사직롯데캐슬더클래식,MASTER_INCLUDED,True,False,False
+A10027341,사직KCC스위첸,MASTER_INCLUDED,True,False,False
+A60712001,사직2차삼정그린코아,MASTER_INCLUDED,True,False,False
+A60712204,사직한신아파트,MASTER_INCLUDED,True,False,False
+A60776402,사직2차쌍용예가,MASTER_INCLUDED,True,False,False
+A60778608,사직쌍용예가,MASTER_INCLUDED,True,False,False
+A60782005,사직삼정그린코아아파트,MASTER_INCLUDED,True,False,False
+A10022847,더비치푸르지오써밋,MASTER_INCLUDED,True,False,False
+A10022999,대연푸르지오클라센트,MASTER_INCLUDED,True,False,False
+A10025593,대연자이 아파트,MASTER_INCLUDED,True,False,False
+A10026094,대연sk뷰힐스아파트,MASTER_INCLUDED,True,False,False
+A10026184,대연파크푸르지오아파트,MASTER_INCLUDED,True,False,False
+A10026452,대연롯데캐슬레전드,MASTER_INCLUDED,True,False,False
+A10028145,대연롯데캐슬,MASTER_INCLUDED,True,False,False
+A60802001,대연힐스테이트푸르지오,MASTER_INCLUDED,True,False,False
+A60874408,대연동푸르지오,MASTER_INCLUDED,True,False,False
+A60875509,대우그린아파트,MASTER_INCLUDED,True,False,False
+A60877710,삼익그린타운,MASTER_INCLUDED,True,False,False
+A60877907,대연청구아파트,MASTER_INCLUDED,True,False,False
+A10023436,데시앙해링턴플레이스파크시티,MASTER_INCLUDED,True,False,False
+A10026391,W 아파트,MASTER_INCLUDED,True,False,False
+A60809002,GS하이츠자이,MASTER_INCLUDED,True,False,False
+A60809003,오륙도SK VIEW,MASTER_INCLUDED,True,False,False
+A60809004,LG메트로시티아파트,FINAL_PENDING,False,False,True
+A60876301,용호일신프리빌리지,MASTER_INCLUDED,True,False,False
+A60876402,현대비치아파트,MASTER_INCLUDED,True,False,False
+A60883203,일신-님Ⅱ아파트,MASTER_INCLUDED,True,False,False
+A61202008,쌍용예가,MASTER_INCLUDED,True,False,False
+A60871104,용당현대I-PARK,MASTER_INCLUDED,True,False,False
+A60883003,신대연코오롱하늘채아파트,MASTER_INCLUDED,True,False,False
+A10020004,롯데캐슬 인피니엘,MASTER_INCLUDED,True,False,False
+A10023533,오션파라곤,MASTER_INCLUDED,True,False,False
+A10023872,대연양우내안애 아파트,MASTER_INCLUDED,True,False,False
+A10024704,문현경동리인,MASTER_INCLUDED,True,False,False
+A10025508,문현베스티움아파트,MASTER_INCLUDED,True,False,False
+A60804003,문현동삼성아파트,MASTER_INCLUDED,True,False,False
+A60872101,대림문현시티프라자,MASTER_INCLUDED,True,False,False
+A60879704,문현현대아파트,MASTER_INCLUDED,True,False,False
+A10020289,두산위브더제니스 오션시티 ,MASTER_INCLUDED,True,False,False
+A60877107,우암일신보라,MASTER_INCLUDED,True,False,False
+A60875305,감만현대1차아파트,MASTER_INCLUDED,True,False,False
+A60880104,감만동일스위트아파트,MASTER_INCLUDED,True,False,False
+A10027989,신화명리버뷰자이아파트,MASTER_INCLUDED,True,False,False
+A10028138,동원역삼정그린코아,MASTER_INCLUDED,True,False,False
+A61673902,율리벽산블루밍,FINAL_PENDING,False,False,True
+A61674824,부산율리마을,EXCLUDED_RENTAL_ONLY,False,True,False
+A61674912,화명뜨란채,MASTER_INCLUDED,True,False,False
+A61676006,금곡한솔아파트,MASTER_INCLUDED,True,False,False
+A61676118,금곡주공1단지,EXCLUDED_RENTAL_ONLY,False,True,False
+A61676215,금곡주공2단지,EXCLUDED_RENTAL_ONLY,False,True,False
+A61676316,금곡주공3단지아파트,MASTER_INCLUDED,True,False,False
+A61676422,금곡주공4단지,EXCLUDED_RENTAL_ONLY,False,True,False
+A61676509,금곡주공5단지아파트,MASTER_INCLUDED,True,False,False
+A61676605,금곡주공6단지아파트,MASTER_INCLUDED,True,False,False
+A61676723,금곡주공7단지,EXCLUDED_RENTAL_ONLY,False,True,False
+A61676814,금곡9단지주공,MASTER_INCLUDED,True,False,False
+A61677013,화명한일유앤아이,MASTER_INCLUDED,True,False,False
+A61681107,금곡화목타운,MASTER_INCLUDED,True,False,False
+A61681108,금곡조성협진아파트,MASTER_INCLUDED,True,False,False
+A61684110,화명리버빌2차아파트,MASTER_INCLUDED,True,False,False
+A10024341,화명푸르지오헤리센트,MASTER_INCLUDED,True,False,False
+A10027790,e편한세상 화명힐스 아파트,MASTER_INCLUDED,True,False,False
+A61612010,화명2차현대아파트,MASTER_INCLUDED,True,False,False
+A61612011,화명대우이안아파트,MASTER_INCLUDED,True,False,False
+A61612013,화명코오롱하늘채1차아파트,MASTER_INCLUDED,True,False,False
+A61612016,화명수정강변타운,MASTER_INCLUDED,True,False,False
+A61612017,대림쌍용강변타운,MASTER_INCLUDED,True,False,False
+A61612018,화명롯데낙천대,MASTER_INCLUDED,True,False,False
+A61612019,화명대림타운,MASTER_INCLUDED,True,False,False
+A61673302,삼한힐파크아파트,MASTER_INCLUDED,True,False,False
+A61673304,화명동원로얄듀크,MASTER_INCLUDED,True,False,False
+A61673305,화명유림아파트,MASTER_INCLUDED,True,False,False
+A61673308,화명롯데캐슬카이저,MASTER_INCLUDED,True,False,False
+A61679206,벽산강변타운아파트,MASTER_INCLUDED,True,False,False
+A61679207,도시화명그린(21B)아파트,MASTER_INCLUDED,True,False,False
+A61679208,화명경남아너스빌,MASTER_INCLUDED,True,False,False
+A61683305,그린숲속(화명그린24),MASTER_INCLUDED,True,False,False
+A61685214,화명코오롱하늘채2차,MASTER_INCLUDED,True,False,False
+A10023725,백양산 베스티움에코포레,MASTER_INCLUDED,True,False,False
+A10024318,e편한세상 금정산 아파트,MASTER_INCLUDED,True,False,False
+A10025235,더래디언트금정산,MASTER_INCLUDED,True,False,False
+A10027832,백양디이스트,FINAL_PENDING,False,False,True
+A61673103,신만덕쌍용예가,MASTER_INCLUDED,True,False,False
+A61675601,만덕 상록한신휴플러스아파트,MASTER_INCLUDED,True,False,False
+A61675806,만덕삼성아파트,MASTER_INCLUDED,True,False,False
+A61678209,만덕그린코아아파트,MASTER_INCLUDED,True,False,False
+A61678706,럭키만덕1차아파트,MASTER_INCLUDED,True,False,False
+A61678804,럭키만덕2차아파트,MASTER_INCLUDED,True,False,False
+A61679609,부산만덕3단지 주공아파트,EXCLUDED_RENTAL_ONLY,False,True,False
+A61682607,만덕대성타워,MASTER_INCLUDED,True,False,False
+A61682907,만덕동원,MASTER_INCLUDED,True,False,False
+A61682908,벽산라인타운 아파트,MASTER_INCLUDED,True,False,False
+A10022905,포레나부산덕천2차,MASTER_INCLUDED,True,False,False
+A10023684,포레나부산덕천아파트,MASTER_INCLUDED,True,False,False
+A61610003,덕천동롯데아파트,MASTER_INCLUDED,True,False,False
+A61670501,덕천삼정그린코아,MASTER_INCLUDED,True,False,False
+A61677404,덕천주공2단지,EXCLUDED_RENTAL_ONLY,False,True,False
+A61677608,기비골마을아파트,MASTER_INCLUDED,True,False,False
+A61681409,부산도시공사 덕천2지구 아파트,EXCLUDED_RENTAL_ONLY,False,True,False
+A61682303,덕천주공1단지아파트,MASTER_INCLUDED,True,False,False
+A10024201,리버파크반도유보라,MASTER_INCLUDED,True,False,False
+A61609002,동원로얄듀크비스타,MASTER_INCLUDED,True,False,False
+A61609206,구포유림노르웨이숲,MASTER_INCLUDED,True,False,False
+A61680705,구포삼정그린코아아파트,MASTER_INCLUDED,True,False,False
+A61680707,구포현대아파트,MASTER_INCLUDED,True,False,False
+A61273009,부산도시공사 반송영구임대아파트,EXCLUDED_RENTAL_ONLY,False,True,False
+A61273306,벽산삼협한솔,MASTER_INCLUDED,True,False,False
+A61273507,반송삼한2차,MASTER_INCLUDED,True,False,False
+A61273609,부산반송주공,EXCLUDED_RENTAL_ONLY,False,True,False
+A61280805,삼한그린타운1차아파트,MASTER_INCLUDED,True,False,False
+A10022405,드파인센텀아파트,MASTER_INCLUDED,True,False,False
+A10023647,센텀KCC스위첸아파트,MASTER_INCLUDED,True,False,False
+A10024249,센텀트루엘 아파트,MASTER_INCLUDED,True,False,False
+A61206110,센텀롯데캐슬3차,MASTER_INCLUDED,True,False,False
+A61206113,우방신세계타운아파트,MASTER_INCLUDED,True,False,False
+A61206114,센텀롯데캐슬2차,MASTER_INCLUDED,True,False,False
+A61206118,메가센텀꿈에그린아파트,MASTER_INCLUDED,True,False,False
+A61270515,센텀롯데캐슬,MASTER_INCLUDED,True,False,False
+A61271919,아시아선수촌아파트,MASTER_INCLUDED,True,False,False
+A61272011,반여현대그린아파트,MASTER_INCLUDED,True,False,False
+A61279802,일동미라주,MASTER_INCLUDED,True,False,False
+A61279804,센텀SK뷰,MASTER_INCLUDED,True,False,False
+A61281117,센텀대림,MASTER_INCLUDED,True,False,False
+A10026557,센텀리슈빌 아파트,FINAL_PENDING,False,False,True
+A61205002,센텀동부센트레빌아파트,MASTER_INCLUDED,True,False,False
+A61205003,더샵센텀스타,MASTER_INCLUDED,True,False,False
+A61271204,더샵센텀파크1차,MASTER_INCLUDED,True,False,False
+A61271302,더샵센텀파크2차,MASTER_INCLUDED,True,False,False
+A61274815,센텀(재송)삼익,MASTER_INCLUDED,True,False,False
+A61278214,센텀우신골든빌,MASTER_INCLUDED,True,False,False
+A61281512,센텀피오레1차,MASTER_INCLUDED,True,False,False
+A61283211,재송그린,MASTER_INCLUDED,True,False,False
+A61283410,센텀동국아파트,MASTER_INCLUDED,True,False,False
+A61286403,센텀이편한세상,MASTER_INCLUDED,True,False,False
+A10022568,해운대 경동리인뷰2차,MASTER_INCLUDED,True,False,False
+A10023542,해운대센트럴푸르지오,MASTER_INCLUDED,True,False,False
+A10025214,해운대비스타동원,MASTER_INCLUDED,True,False,False
+A10026484,해운대 자이2차,MASTER_INCLUDED,True,False,False
+A61202004,트럼프월드센텀,MASTER_INCLUDED,True,False,False
+A61202007,해운대두산위브더제니스,MASTER_INCLUDED,True,False,False
+A61202009,해운대자이,FINAL_PENDING,False,False,True
+A61202011,해운대센텀두산위브,MASTER_INCLUDED,True,False,False
+A61271101,센텀삼환아파트,MASTER_INCLUDED,True,False,False
+A61274011,경남마리나아파트,MASTER_INCLUDED,True,False,False
+A61274013,해운대아이파크,MASTER_INCLUDED,True,False,False
+A61274114,경동마리나아파트,MASTER_INCLUDED,True,False,False
+A61274213,해운대롯데아파트,MASTER_INCLUDED,True,False,False
+A61274508,동부올림픽아파트,MASTER_INCLUDED,True,False,False
+A61274707,삼호가든아파트,MASTER_INCLUDED,True,False,False
+A61278912,대우마리나3차아파트,MASTER_INCLUDED,True,False,False
+A61282215,"대우마리나1,2차아파트",MASTER_INCLUDED,True,False,False
+A61282705,센텀센시빌구새한센시빌,MASTER_INCLUDED,True,False,False
+A61286810,해운대반도보라빌,MASTER_INCLUDED,True,False,False
+A10024591,해운대 롯데캐슬 스타 아파트,MASTER_INCLUDED,True,False,False
+A10025181,해운대 LCT 더샵아파트,MASTER_INCLUDED,True,False,False
+A10028037,해운대힐스테이트위브,MASTER_INCLUDED,True,False,False
+A61201007,롯데캐슬마린,MASTER_INCLUDED,True,False,False
+A61288603,래미안해운대,MASTER_INCLUDED,True,False,False
+A61203012,해운대영남아파트,MASTER_INCLUDED,True,False,False
+A61203013,두산2차아파트,MASTER_INCLUDED,True,False,False
+A61203014,경남아너스빌,MASTER_INCLUDED,True,False,False
+A61203015,해운대한일아파트,MASTER_INCLUDED,True,False,False
+A61203016,해운대동신아파트,MASTER_INCLUDED,True,False,False
+A61203017,해운대동부아파트,MASTER_INCLUDED,True,False,False
+A61203018,해운대대림2차아파트,MASTER_INCLUDED,True,False,False
+A61203019,해운대삼성아파트,MASTER_INCLUDED,True,False,False
+A61203020,해운대LIG건영아파트,MASTER_INCLUDED,True,False,False
+A61203021,해운대센트럴파크아파트,MASTER_INCLUDED,True,False,False
+A61203022,해운대롯데3차아파트,MASTER_INCLUDED,True,False,False
+A61203023,해운대롯데4차아파트,MASTER_INCLUDED,True,False,False
+A61203024,대우1차아파트,MASTER_INCLUDED,True,False,False
+A61203025,해운대벽산1차아파트,MASTER_INCLUDED,True,False,False
+A61203026,해운대 화목타운,MASTER_INCLUDED,True,False,False
+A61203027,LH뜨란채아파트,MASTER_INCLUDED,True,False,False
+A61203028,코오롱아파트,MASTER_INCLUDED,True,False,False
+A61203029,해운대건영2차아파트,MASTER_INCLUDED,True,False,False
+A61203031,해운대상록아파트,MASTER_INCLUDED,True,False,False
+A61203032,해운대대우2차아파트,MASTER_INCLUDED,True,False,False
+A61203033,해운대벽산2차아파트,MASTER_INCLUDED,True,False,False
+A61203034,해운대대동타운아파트,MASTER_INCLUDED,True,False,False
+A61203035,경남선경아파트,MASTER_INCLUDED,True,False,False
+A61203036,두산1차,MASTER_INCLUDED,True,False,False
+A61203037,대림1차아파트,MASTER_INCLUDED,True,False,False
+A61203038,SKVIEW아파트,MASTER_INCLUDED,True,False,False
+A61203039,해운대LG아파트,MASTER_INCLUDED,True,False,False
+A61275302,해운대현대,MASTER_INCLUDED,True,False,False
+A61204001,송정1단지주공아파트,EXCLUDED_RENTAL_ONLY,False,True,False
+A61204002,부산송정2휴먼시아,EXCLUDED_RENTAL_ONLY,False,True,False
+A10023440,힐스테이트사하역 아파트,MASTER_INCLUDED,True,False,False
+A10023969,사하한신더휴아파트,MASTER_INCLUDED,True,False,False
+A10024383,사하역비스타동원,MASTER_INCLUDED,True,False,False
+A60471810,당리푸르지오,MASTER_INCLUDED,True,False,False
+A60402003,하단 SK VIEW 아파트,MASTER_INCLUDED,True,False,False
+A60474905,한신혜성아파트,MASTER_INCLUDED,True,False,False
+A60476101,가락타운1단지아파트,MASTER_INCLUDED,True,False,False
+A60476206,가락타운2.3단지아파트,MASTER_INCLUDED,True,False,False
+A10023928,사하코오롱하늘채아파트,MASTER_INCLUDED,True,False,False
+A10027236,사하뷰웰아파트,MASTER_INCLUDED,True,False,False
+A60403002,신평럭키무지개타운아파트,MASTER_INCLUDED,True,False,False
+A60475903,신익강변타운아파트,MASTER_INCLUDED,True,False,False
+A60476805,신평현대아파트,MASTER_INCLUDED,True,False,False
+A60483404,신평한신아파트,MASTER_INCLUDED,True,False,False
+A10022280,두산위브더센트럴사하,MASTER_INCLUDED,True,False,False
+A60474002,장림동원로얄듀크,MASTER_INCLUDED,True,False,False
+A60474516,장림신세대지큐빌아파트,MASTER_INCLUDED,True,False,False
+A60477315,장림현대아파트,MASTER_INCLUDED,True,False,False
+A60484514,장림협성르네상스타운,MASTER_INCLUDED,True,False,False
+A60405001,다대롯데캐슬몰운대,MASTER_INCLUDED,True,False,False
+A60405002,다대롯데캐슬블루,MASTER_INCLUDED,True,False,False
+A60472901,다대푸르지오,MASTER_INCLUDED,True,False,False
+A60474307,다대해송아파트,MASTER_INCLUDED,True,False,False
+A60475305,신다대아파트,MASTER_INCLUDED,True,False,False
+A60475309,3지구도개공아파트,EXCLUDED_RENTAL_ONLY,False,True,False
+A60475408,국제그린아파트,MASTER_INCLUDED,True,False,False
+A60475411,도개공다대4지구영구임대아파트,EXCLUDED_RENTAL_ONLY,False,True,False
+A60475412,다대다송,MASTER_INCLUDED,True,False,False
+A60475507,다대대우아파트,MASTER_INCLUDED,True,False,False
+A60475509,다대푸른아파트,MASTER_INCLUDED,True,False,False
+A60475612,다대현대아파트,MASTER_INCLUDED,True,False,False
+A60475710,다대삼환아파트,MASTER_INCLUDED,True,False,False
+A60476511,다대자유아파트,MASTER_INCLUDED,True,False,False
+A60476604,다대코오롱아파트(코오롱맨션),MASTER_INCLUDED,True,False,False
+A60482013,다대몰운대아파트,MASTER_INCLUDED,True,False,False
+A60482708,성원아파트,MASTER_INCLUDED,True,False,False
+A60482712,5지구몰운대영구임대아파트,EXCLUDED_RENTAL_ONLY,False,True,False
+A10024185,부산사하중흥S-클래스,EXCLUDED_RENTAL_ONLY,False,True,False
+A10026651,e-편한세상 사하2차 아파트,MASTER_INCLUDED,True,False,False
+A10027306,대림e편한세상사하1차아파트,MASTER_INCLUDED,True,False,False
+A60481703,구평1차자유아파트,MASTER_INCLUDED,True,False,False
+A60480608,부영벽산파라빌아파트,MASTER_INCLUDED,True,False,False
+A60976902,청룡경동아파트,MASTER_INCLUDED,True,False,False
+A10027325,구서 SK VIEW 1단지,MASTER_INCLUDED,True,False,False
+A60931004,구서동 쌍용예가 2단지,MASTER_INCLUDED,True,False,False
+A60931207,구서동롯데캐슬골드2단지(1049),MASTER_INCLUDED,True,False,False
+A60971101,롯데캐슬골드1단지,MASTER_INCLUDED,True,False,False
+A60975204,구서선경아파트,MASTER_INCLUDED,True,False,False
+A60976105,구서선경3차아파트,MASTER_INCLUDED,True,False,False
+A60980506,구서우성아파트,MASTER_INCLUDED,True,False,False
+A10026780,래미안 장전,MASTER_INCLUDED,True,False,False
+A60939002,금정산sk뷰,MASTER_INCLUDED,True,False,False
+A60939003,벽산블루밍장전디자인시티,MASTER_INCLUDED,True,False,False
+A60939004,금정산쌍용예가,MASTER_INCLUDED,True,False,False
+A60939005,금정산 2차 쌍용 예가,MASTER_INCLUDED,True,False,False
+A10024226,삼한골든뷰에듀스테이션,MASTER_INCLUDED,True,False,False
+A60932003,부곡동푸르지오아파트,MASTER_INCLUDED,True,False,False
+A60970301,부곡대우아파트,MASTER_INCLUDED,True,False,False
+A60975303,경남한신,MASTER_INCLUDED,True,False,False
+A60975404,부곡뉴그린아파트,MASTER_INCLUDED,True,False,False
+A60975502,부곡SK아파트,MASTER_INCLUDED,True,False,False
+A60976501,부곡시영,EXCLUDED_RENTAL_ONLY,False,True,False
+A60976502,부곡늘푸른아파트,FINAL_PENDING,False,False,True
+A60982103,우신뉴타운,MASTER_INCLUDED,True,False,False
+A10020020,부산에코델타시티 디에트르 더 퍼스트아파트,MASTER_INCLUDED,True,False,False
+A10020264,에코델타 더 베르힐 아파트,MASTER_INCLUDED,True,False,False
+A10020378,에코델타시티 푸르지오린,MASTER_INCLUDED,True,False,False
+A10020569,에코델타시티 푸르지오 센터파크,MASTER_INCLUDED,True,False,False
+A10020645,강서자이 에코델타,MASTER_INCLUDED,True,False,False
+A10020649,e편한세상 에코델타 센터포인트,MASTER_INCLUDED,True,False,False
+A10022541,에코델타 스마트시티 수자인,MASTER_INCLUDED,True,False,False
+A10022696,부산호반써밋스마트시티아파트,MASTER_INCLUDED,True,False,False
+A10024664,더샵명지퍼스트월드3단지,MASTER_INCLUDED,True,False,False
+A10024697,더샵명지퍼스트월드2단지아파트,MASTER_INCLUDED,True,False,False
+A10025776,더 힐 시그니처,MASTER_INCLUDED,True,False,False
+A10025923,스위트팰리스,MASTER_INCLUDED,True,False,False
+A10025932,명지금강펜테리움센트럴파크3차,EXCLUDED_RENTAL_ONLY,False,True,False
+A10026157,명지더웨스턴,MASTER_INCLUDED,True,False,False
+A10026445,중흥S-클래스에듀오션,MASTER_INCLUDED,True,False,False
+A10027139,호반써밋명지국제,MASTER_INCLUDED,True,False,False
+A10027280,명지 협성휴포레,MASTER_INCLUDED,True,False,False
+A10027282,중흥S클래스프라디움아파트,MASTER_INCLUDED,True,False,False
+A10027581,명지대방노블랜드오션뷰2차아파트,MASTER_INCLUDED,True,False,False
+A10027621,명지2차 금강펜테리움 센트럴파크,MASTER_INCLUDED,True,False,False
+A10027656,대방노블랜드오션뷰1차아파트,MASTER_INCLUDED,True,False,False
+A10027698,명지 국제신도시 호반베르디움1차,MASTER_INCLUDED,True,False,False
+A10027918,명지1차금강펜테리움센트럴파크,MASTER_INCLUDED,True,False,False
+A10027953,명지에일린의뜰아파트,MASTER_INCLUDED,True,False,False
+A10028117,명지삼정그린코아,MASTER_INCLUDED,True,False,False
+A61820001,명지롯데캐슬,MASTER_INCLUDED,True,False,False
+A61870404,퀸덤1차아인슈타인타운,MASTER_INCLUDED,True,False,False
+A61870405,영어도시퀸덤1차링컨타운,MASTER_INCLUDED,True,False,False
+A61870406,영어도시퀸덤에디슨타운,MASTER_INCLUDED,True,False,False
+A61870410,명지두산위브포세이돈,MASTER_INCLUDED,True,False,False
+A61870411,명지오션시티한신휴플러스,MASTER_INCLUDED,True,False,False
+A61881402,명지극동스타클래스,MASTER_INCLUDED,True,False,False
+A10025154,명지화전지구우방아이유쉘아파트,FINAL_PENDING,False,False,True
+A10027026,지사과학단지 삼정그린코아아파트,MASTER_INCLUDED,True,False,False
+A10028069,협성.DS엘리시안아파트,MASTER_INCLUDED,True,False,False
+A61823001,지사휴먼시아,EXCLUDED_RENTAL_ONLY,False,True,False
+A61823002,금강펜테리움,MASTER_INCLUDED,True,False,False
+A61829001,신호윌더하임,MASTER_INCLUDED,True,False,False
+A61872201,부산신호사랑으로부영1차아파트,MASTER_INCLUDED,True,False,False
+A61872202,부산신호 사랑으로 부영2차아파트,MASTER_INCLUDED,True,False,False
+A61872203,부산신호사랑으로부영5차,EXCLUDED_RENTAL_ONLY,False,True,False
+A61872204,부산신호3사랑으로부영3차,EXCLUDED_RENTAL_ONLY,False,True,False
+A10022890,레이카운티 아파트,MASTER_INCLUDED,True,False,False
+A10025258,아시아드코오롱하늘채,FINAL_PENDING,False,False,True
+A10025950,거제센트럴자이,MASTER_INCLUDED,True,False,False
+A61175804,거제현대아파트,MASTER_INCLUDED,True,False,False
+A61176513,거제1차현대홈타운,MASTER_INCLUDED,True,False,False
+A61176612,거제2차현대홈타운아파트,MASTER_INCLUDED,True,False,False
+A61176709,거제쌍용스윗닷홈아파트,MASTER_INCLUDED,True,False,False
+A61176911,거제동롯데캐슬아파트,MASTER_INCLUDED,True,False,False
+A61177214,거제동월드메르디앙,MASTER_INCLUDED,True,False,False
+A61180503,유림아시아드아파트,MASTER_INCLUDED,True,False,False
+A10020498,시청앞 행복주택1단지,EXCLUDED_RENTAL_ONLY,False,True,False
+A10022365,연산포레서희스타힐스,MASTER_INCLUDED,True,False,False
+A10023014,시청앞 행복주택2단지,EXCLUDED_RENTAL_ONLY,False,True,False
+A10023526,힐스테이트연산 아파트,MASTER_INCLUDED,True,False,False
+A10024627,연산롯데캐슬골드포레,MASTER_INCLUDED,True,False,False
+A10025135,시청역 비스타동원아파트,MASTER_INCLUDED,True,False,False
+A10025559,연산더샵아파트,MASTER_INCLUDED,True,False,False
+A10025994,연제 롯데캐슬앤데시앙,MASTER_INCLUDED,True,False,False
+A10026902,연산동 일동미라주 더 스타,MASTER_INCLUDED,True,False,False
+A10027085,센텀리버sk뷰,MASTER_INCLUDED,True,False,False
+A10027159,브라운스톤연제,MASTER_INCLUDED,True,False,False
+A10027937,더샵 파크시티,MASTER_INCLUDED,True,False,False
+A10028028,부산센텀푸르지오,MASTER_INCLUDED,True,False,False
+A61175110,망미주공아파트,MASTER_INCLUDED,True,False,False
+A61175209,연산한양아파트,FINAL_PENDING,False,False,True
+A61175901,연산자이,MASTER_INCLUDED,True,False,False
+A61176308,연산선경아파트,MASTER_INCLUDED,True,False,False
+A61176411,연산LG아파트,MASTER_INCLUDED,True,False,False
+A10025433,수영sk뷰 1단지,MASTER_INCLUDED,True,False,False
+A61313001,망미삼성아파트,MASTER_INCLUDED,True,False,False
+A61313002,망미동the#파크리치,MASTER_INCLUDED,True,False,False
+A61313203,센텀수영강변3차 e-편한세상아파트,MASTER_INCLUDED,True,False,False
+A61375702,수영현대아파트,MASTER_INCLUDED,True,False,False
+A61383101,수영협성르네상스타운,MASTER_INCLUDED,True,False,False
+A10025075,e편한세상 오션테라스,FINAL_PENDING,False,False,True
+A10026760,센텀비스타동원아파트,MASTER_INCLUDED,True,False,False
+A61377105,센텀비치푸르지오아파트,MASTER_INCLUDED,True,False,False
+A61377106,부산더샵센텀포레,MASTER_INCLUDED,True,False,False
+A61377204,롯데캐슬자이안트아파트,MASTER_INCLUDED,True,False,False
+A10020002,드파인 광안,MASTER_INCLUDED,True,False,False
+A10024695,광안자이아파트,MASTER_INCLUDED,True,False,False
+A61310007,광안쌍용예가디오션,MASTER_INCLUDED,True,False,False
+A61375202,광원아파트,MASTER_INCLUDED,True,False,False
+A61375603,비치-그린아파트,MASTER_INCLUDED,True,False,False
+A10023420,남천자이아파트,MASTER_INCLUDED,True,False,False
+A10023607,더샵남천프레스티지아파트,MASTER_INCLUDED,True,False,False
+A61301003,삼익비치아파트,MASTER_INCLUDED,True,False,False
+A61381805,남천코오롱하늘채골든비치,MASTER_INCLUDED,True,False,False
+A61381903,남천뉴비치아파트,MASTER_INCLUDED,True,False,False
+A61775202,모라백양그린아파트,MASTER_INCLUDED,True,False,False
+A61775307,부산모라주공3,EXCLUDED_RENTAL_ONLY,False,True,False
+A61775401,백양푸른숲입주자대표회의,MASTER_INCLUDED,True,False,False
+A61775706,우성아파트,MASTER_INCLUDED,True,False,False
+A61781706,모라주공1단지,EXCLUDED_RENTAL_ONLY,False,True,False
+A61781805,모라벽산아파트,MASTER_INCLUDED,True,False,False
+A61781807,모라동원타운,MASTER_INCLUDED,True,False,False
+A61781808,우신모라아파트,MASTER_INCLUDED,True,False,False
+A10023104,사상 중흥S-클래스 그랜드센트럴,MASTER_INCLUDED,True,False,False
+A61777903,덕포경동메르빌,MASTER_INCLUDED,True,False,False
+A61781005,덕포자유아파트,MASTER_INCLUDED,True,False,False
+A10023544,센트럴 스타힐스,MASTER_INCLUDED,True,False,False
+A61776003,괘법2차한신아파트,MASTER_INCLUDED,True,False,False
+A61780802,사상강변동원아파트,MASTER_INCLUDED,True,False,False
+A10028191,감전엘에이치,EXCLUDED_RENTAL_ONLY,False,True,False
+A10023571,주례롯데캐슬골드스마트,MASTER_INCLUDED,True,False,False
+A10026975,주례경동리인아파트,MASTER_INCLUDED,True,False,False
+A61701002,주례한일유앤아이아파트,MASTER_INCLUDED,True,False,False
+A61776104,주례반도보라매머드아파트,MASTER_INCLUDED,True,False,False
+A61776303,주례럭키아파트,FINAL_PENDING,False,False,True
+A61778608,주례청구아파트,MASTER_INCLUDED,True,False,False
+A61783202,신주례2차LG아파트,MASTER_INCLUDED,True,False,False
+A61783203,LG신주례1단지아파트,MASTER_INCLUDED,True,False,False
+A61783402,주례현대무지개아파트,MASTER_INCLUDED,True,False,False
+A61776907,학장금강,MASTER_INCLUDED,True,False,False
+A61777010,학장무학,MASTER_INCLUDED,True,False,False
+A61777105,학장벽산아파트,MASTER_INCLUDED,True,False,False
+A61777312,학장반도보라타운,MASTER_INCLUDED,True,False,False
+A61777409,구덕대림,MASTER_INCLUDED,True,False,False
+A61777410,학장1지구도개공임대,EXCLUDED_RENTAL_ONLY,False,True,False
+A61777411,학장삼정그린코아,MASTER_INCLUDED,True,False,False
+A61777711,학장목화,MASTER_INCLUDED,True,False,False
+A61777806,학장동2차삼성,MASTER_INCLUDED,True,False,False
+A61784208,신구덕우성,MASTER_INCLUDED,True,False,False
+A61784213,구학마을아파트,MASTER_INCLUDED,True,False,False
+A61776508,엄궁대림아파트,MASTER_INCLUDED,True,False,False
+A61776509,엄궁롯데캐슬리버아파트,MASTER_INCLUDED,True,False,False
+A61776710,엄궁한신2차아파트,MASTER_INCLUDED,True,False,False
+A61776811,엄궁코오롱아파트,MASTER_INCLUDED,True,False,False
+A61778507,엄궁쌍용스윗닷홈,MASTER_INCLUDED,True,False,False
+A61990514,기장한신그린코아아파트,MASTER_INCLUDED,True,False,False
+A61970415,부산기장교리,EXCLUDED_RENTAL_ONLY,False,True,False
+A61990108,이진캐스빌블루1차,MASTER_INCLUDED,True,False,False
+A61970311,기장서부주공아파트,MASTER_INCLUDED,True,False,False
+A10023692,웨이브리즈아파트,MASTER_INCLUDED,True,False,False
+A61970112,기장현대아파트,MASTER_INCLUDED,True,False,False
+A61970210,우신네오빌아파트,MASTER_INCLUDED,True,False,False
+A61990609,기장2주공아파트,MASTER_INCLUDED,True,False,False
+A10026865,동부산 삼정그린코아 더베스트,MASTER_INCLUDED,True,False,False
+A61990213,내리 휴먼시아1단지,EXCLUDED_RENTAL_ONLY,False,True,False
+A10028142,가화만사성정관타운아파트,MASTER_INCLUDED,True,False,False
+A61996111,정관동원로얄듀크2차,MASTER_INCLUDED,True,False,False
+A61996102,정관센트럴파크,MASTER_INCLUDED,True,False,False
+A61996105,정관LH4단지,EXCLUDED_RENTAL_ONLY,False,True,False
+A61996108,정관1차동원로얄듀크,MASTER_INCLUDED,True,False,False
+A61996112,정관신도시LH5단지,EXCLUDED_RENTAL_ONLY,False,True,False
+A10025749,부산정관 행복주택,EXCLUDED_RENTAL_ONLY,False,True,False
+A10026813,정관 엘에이치 7단지,EXCLUDED_RENTAL_ONLY,False,True,False
+A10028081,정관이지더원3차아파트,MASTER_INCLUDED,True,False,False
+A61990110,정관신도시이지더원1차,MASTER_INCLUDED,True,False,False
+A61996103,정관신도시휴먼시아2단지,EXCLUDED_RENTAL_ONLY,False,True,False
+A61996106,EGthe12차,MASTER_INCLUDED,True,False,False
+A61996109,정관롯데캐슬2차,MASTER_INCLUDED,True,False,False
+A61996110,정관동일스위트2차,MASTER_INCLUDED,True,False,False
+A61996114,정관동일스위트3차,MASTER_INCLUDED,True,False,False
+A61996204,정관신도시현진아파트,MASTER_INCLUDED,True,False,False
+A10027503,정관양우내안애,MASTER_INCLUDED,True,False,False
+A61996005,정관신도시롯데캐슬,MASTER_INCLUDED,True,False,False
+A61996107,정관동일스위트1차,MASTER_INCLUDED,True,False,False
+A61996115,정관이진캐스빌,MASTER_INCLUDED,True,False,False
+A61996303,정관신도시 신동아파밀리에,MASTER_INCLUDED,True,False,False
+A61996306,정관한진해모로,MASTER_INCLUDED,True,False,False
+A61996308,정관신도시휴먼시아1단지,EXCLUDED_RENTAL_ONLY,False,True,False
+A10020313,일광동원로얄듀크,EXCLUDED_RENTAL_ONLY,False,True,False
+A10023283,금호센트럴베이 행복주택 일광,EXCLUDED_RENTAL_ONLY,False,True,False
+A10023778,이지더원2차포레온아파트,EXCLUDED_RENTAL_ONLY,False,True,False
+A10023912,일광한신더휴센트럴포레,MASTER_INCLUDED,True,False,False
+A10024606,일광 대성베르힐,MASTER_INCLUDED,True,False,False
+A10024909,일광자이푸르지오 2단지,MASTER_INCLUDED,True,False,False
+A10024919,일광신도시비스타동원1차아파트,MASTER_INCLUDED,True,False,False
+A10024933,일광 이지더원1차오션포레,MASTER_INCLUDED,True,False,False
+A10025042,e편한세상일광아파트,MASTER_INCLUDED,True,False,False
+A10024476,일광신도시 비스타동원2차아파트,MASTER_INCLUDED,True,False,False
+A61987101,고촌휴먼시아,EXCLUDED_RENTAL_ONLY,False,True,False

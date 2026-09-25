@@ -1,0 +1,2 @@
+﻿kapt_code,area_group_id,exclusive_area_sqm,supply_area_sqm,type_name,households,source,verified_at,valid_from,valid_to,verification_status,scope,notes
+A1001,exclusive_59_9794,59.9794,,,218,국토교통부 건축물대장 전유공용면적 BldRgstHubService 2026-09,2026-09-17,,,verified,sale_apartment,

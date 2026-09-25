@@ -1,0 +1,6212 @@
+[
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "604호",
+    "flrNo": "6",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "1204호",
+    "flrNo": "12",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "1204호",
+    "flrNo": "12",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "1208호",
+    "flrNo": "12",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "106동",
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "1504호",
+    "flrNo": "15",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "503호",
+    "flrNo": "5",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "304호",
+    "flrNo": "3",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "805호",
+    "flrNo": "8",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "604호",
+    "flrNo": "6",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "1303호",
+    "flrNo": "13",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "607호",
+    "flrNo": "6",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "605호",
+    "flrNo": "6",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "1304호",
+    "flrNo": "13",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "605호",
+    "flrNo": "6",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "1503호",
+    "flrNo": "15",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "404호",
+    "flrNo": "4",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "1501호",
+    "flrNo": "15",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "504호",
+    "flrNo": "5",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "205호",
+    "flrNo": "2",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "1506호",
+    "flrNo": "15",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "803호",
+    "flrNo": "8",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "1506호",
+    "flrNo": "15",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "508호",
+    "flrNo": "5",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "1102호",
+    "flrNo": "11",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "205호",
+    "flrNo": "2",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "106동",
+    "hoNm": null,
+    "flrNo": "1",
+    "area": "18",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "약국"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "902호",
+    "flrNo": "9",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "702호",
+    "flrNo": "7",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "901호",
+    "flrNo": "9",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "1507호",
+    "flrNo": "15",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "803호",
+    "flrNo": "8",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "1101호",
+    "flrNo": "11",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "1502호",
+    "flrNo": "15",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "106동",
+    "hoNm": "703호",
+    "flrNo": "7",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "1106호",
+    "flrNo": "11",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "1207호",
+    "flrNo": "12",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "1308호",
+    "flrNo": "13",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "1008호",
+    "flrNo": "10",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "1307호",
+    "flrNo": "13",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "708호",
+    "flrNo": "7",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "106동",
+    "hoNm": "601호",
+    "flrNo": "6",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "105호",
+    "flrNo": "1",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "607호",
+    "flrNo": "6",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "204호",
+    "flrNo": "2",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "108호",
+    "flrNo": "1",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "106동",
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "901호",
+    "flrNo": "9",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "1402호",
+    "flrNo": "14",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "1105호",
+    "flrNo": "11",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "106동",
+    "hoNm": "1204호",
+    "flrNo": "12",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "108호",
+    "flrNo": "1",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "701호",
+    "flrNo": "7",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "803호",
+    "flrNo": "8",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "206호",
+    "flrNo": "2",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "806호",
+    "flrNo": "8",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "1401호",
+    "flrNo": "14",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "1105호",
+    "flrNo": "11",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "1303호",
+    "flrNo": "13",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "1505호",
+    "flrNo": "15",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "406호",
+    "flrNo": "4",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "606호",
+    "flrNo": "6",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "603호",
+    "flrNo": "6",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "1402호",
+    "flrNo": "14",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "1404호",
+    "flrNo": "14",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "108호",
+    "flrNo": "1",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "606호",
+    "flrNo": "6",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "1005호",
+    "flrNo": "10",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "608호",
+    "flrNo": "6",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "707호",
+    "flrNo": "7",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "1303호",
+    "flrNo": "13",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "1107호",
+    "flrNo": "11",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "1007호",
+    "flrNo": "10",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "1004호",
+    "flrNo": "10",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "1003호",
+    "flrNo": "10",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "1108호",
+    "flrNo": "11",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "1205호",
+    "flrNo": "12",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "903호",
+    "flrNo": "9",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "1205호",
+    "flrNo": "12",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "506호",
+    "flrNo": "5",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "206호",
+    "flrNo": "2",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "1006호",
+    "flrNo": "10",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "106동",
+    "hoNm": "1101호",
+    "flrNo": "11",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "903호",
+    "flrNo": "9",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "1102호",
+    "flrNo": "11",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "1003호",
+    "flrNo": "10",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "1306호",
+    "flrNo": "13",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "106호",
+    "flrNo": "1",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "1401호",
+    "flrNo": "14",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "906호",
+    "flrNo": "9",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "106동",
+    "hoNm": "1002호",
+    "flrNo": "10",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "1401호",
+    "flrNo": "14",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "806호",
+    "flrNo": "8",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "1205호",
+    "flrNo": "12",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "206호",
+    "flrNo": "2",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "505호",
+    "flrNo": "5",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "104호",
+    "flrNo": "1",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "404호",
+    "flrNo": "4",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "806호",
+    "flrNo": "8",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "1408호",
+    "flrNo": "14",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "901호",
+    "flrNo": "9",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "1303호",
+    "flrNo": "13",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "1202호",
+    "flrNo": "12",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "904호",
+    "flrNo": "9",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "1008호",
+    "flrNo": "10",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "106동",
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "304호",
+    "flrNo": "3",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "1003호",
+    "flrNo": "10",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "1203호",
+    "flrNo": "12",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "1005호",
+    "flrNo": "10",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "1301호",
+    "flrNo": "13",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "1406호",
+    "flrNo": "14",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "106동",
+    "hoNm": "1203호",
+    "flrNo": "12",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "707호",
+    "flrNo": "7",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "907호",
+    "flrNo": "9",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "204호",
+    "flrNo": "2",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "1502호",
+    "flrNo": "15",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "507호",
+    "flrNo": "5",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "904호",
+    "flrNo": "9",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "506호",
+    "flrNo": "5",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "602호",
+    "flrNo": "6",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "106동",
+    "hoNm": "503호",
+    "flrNo": "5",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "505호",
+    "flrNo": "5",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "608호",
+    "flrNo": "6",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "1308호",
+    "flrNo": "13",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "1004호",
+    "flrNo": "10",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "703호",
+    "flrNo": "7",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "106동",
+    "hoNm": "304호",
+    "flrNo": "3",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "1405호",
+    "flrNo": "14",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "1102호",
+    "flrNo": "11",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "408호",
+    "flrNo": "4",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "206호",
+    "flrNo": "2",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "1407호",
+    "flrNo": "14",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "701호",
+    "flrNo": "7",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "305호",
+    "flrNo": "3",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "1505호",
+    "flrNo": "15",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "205호",
+    "flrNo": "2",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "1202호",
+    "flrNo": "12",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "604호",
+    "flrNo": "6",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "501호",
+    "flrNo": "5",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "106동",
+    "hoNm": "602호",
+    "flrNo": "6",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "803호",
+    "flrNo": "8",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "1506호",
+    "flrNo": "15",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "1403호",
+    "flrNo": "14",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "1506호",
+    "flrNo": "15",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "1001호",
+    "flrNo": "10",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "106동",
+    "hoNm": "803호",
+    "flrNo": "8",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "1503호",
+    "flrNo": "15",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "104호",
+    "flrNo": "1",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "1406호",
+    "flrNo": "14",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "1106호",
+    "flrNo": "11",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "1503호",
+    "flrNo": "15",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "106동",
+    "hoNm": "1202호",
+    "flrNo": "12",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "807호",
+    "flrNo": "8",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "105호",
+    "flrNo": "1",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "405호",
+    "flrNo": "4",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "908호",
+    "flrNo": "9",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "906호",
+    "flrNo": "9",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "107호",
+    "flrNo": "1",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "701호",
+    "flrNo": "7",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "405호",
+    "flrNo": "4",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "1508호",
+    "flrNo": "15",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "1004호",
+    "flrNo": "10",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "1405호",
+    "flrNo": "14",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "306호",
+    "flrNo": "3",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "807호",
+    "flrNo": "8",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "1404호",
+    "flrNo": "14",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "204호",
+    "flrNo": "2",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "205호",
+    "flrNo": "2",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "507호",
+    "flrNo": "5",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "908호",
+    "flrNo": "9",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "1104호",
+    "flrNo": "11",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "106동",
+    "hoNm": "1103호",
+    "flrNo": "11",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "1406호",
+    "flrNo": "14",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "808호",
+    "flrNo": "8",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "105호",
+    "flrNo": "1",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "1001호",
+    "flrNo": "10",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "606호",
+    "flrNo": "6",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "1203호",
+    "flrNo": "12",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "705호",
+    "flrNo": "7",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "106동",
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "506호",
+    "flrNo": "5",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "702호",
+    "flrNo": "7",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "405호",
+    "flrNo": "4",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "1105호",
+    "flrNo": "11",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "707호",
+    "flrNo": "7",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "308호",
+    "flrNo": "3",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "106동",
+    "hoNm": "902호",
+    "flrNo": "9",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "1507호",
+    "flrNo": "15",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "207호",
+    "flrNo": "2",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "604호",
+    "flrNo": "6",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "1401호",
+    "flrNo": "14",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "1305호",
+    "flrNo": "13",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "906호",
+    "flrNo": "9",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "807호",
+    "flrNo": "8",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "106동",
+    "hoNm": "702호",
+    "flrNo": "7",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "208호",
+    "flrNo": "2",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "607호",
+    "flrNo": "6",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "1304호",
+    "flrNo": "13",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "907호",
+    "flrNo": "9",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "1201호",
+    "flrNo": "12",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "1105호",
+    "flrNo": "11",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "504호",
+    "flrNo": "5",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "1306호",
+    "flrNo": "13",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "904호",
+    "flrNo": "9",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "1104호",
+    "flrNo": "11",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "408호",
+    "flrNo": "4",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "207호",
+    "flrNo": "2",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "106동",
+    "hoNm": "1201호",
+    "flrNo": "12",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "305호",
+    "flrNo": "3",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "106동",
+    "hoNm": "1001호",
+    "flrNo": "10",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "902호",
+    "flrNo": "9",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "603호",
+    "flrNo": "6",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "1501호",
+    "flrNo": "15",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "1206호",
+    "flrNo": "12",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "307호",
+    "flrNo": "3",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "1208호",
+    "flrNo": "12",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "1403호",
+    "flrNo": "14",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "1108호",
+    "flrNo": "11",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "605호",
+    "flrNo": "6",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "805호",
+    "flrNo": "8",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "108호",
+    "flrNo": "1",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "508호",
+    "flrNo": "5",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "802호",
+    "flrNo": "8",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "1504호",
+    "flrNo": "15",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "1508호",
+    "flrNo": "15",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "106동",
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "1102호",
+    "flrNo": "11",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "1404호",
+    "flrNo": "14",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "808호",
+    "flrNo": "8",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "506호",
+    "flrNo": "5",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "1304호",
+    "flrNo": "13",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "1102호",
+    "flrNo": "11",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "605호",
+    "flrNo": "6",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "1501호",
+    "flrNo": "15",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "1308호",
+    "flrNo": "13",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "802호",
+    "flrNo": "8",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "902호",
+    "flrNo": "9",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "604호",
+    "flrNo": "6",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "1005호",
+    "flrNo": "10",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "1504호",
+    "flrNo": "15",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "906호",
+    "flrNo": "9",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "806호",
+    "flrNo": "8",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "1008호",
+    "flrNo": "10",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "1002호",
+    "flrNo": "10",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "602호",
+    "flrNo": "6",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "804호",
+    "flrNo": "8",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "1208호",
+    "flrNo": "12",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "1407호",
+    "flrNo": "14",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "1402호",
+    "flrNo": "14",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "708호",
+    "flrNo": "7",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "605호",
+    "flrNo": "6",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "1501호",
+    "flrNo": "15",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "1205호",
+    "flrNo": "12",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "902호",
+    "flrNo": "9",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "106동",
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "106호",
+    "flrNo": "1",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "1506호",
+    "flrNo": "15",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "606호",
+    "flrNo": "6",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "306호",
+    "flrNo": "3",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "106동",
+    "hoNm": "704호",
+    "flrNo": "7",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "1408호",
+    "flrNo": "14",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "106동",
+    "hoNm": "901호",
+    "flrNo": "9",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "704호",
+    "flrNo": "7",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "1507호",
+    "flrNo": "15",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "1307호",
+    "flrNo": "13",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "308호",
+    "flrNo": "3",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "208호",
+    "flrNo": "2",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "804호",
+    "flrNo": "8",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "1006호",
+    "flrNo": "10",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "601호",
+    "flrNo": "6",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "406호",
+    "flrNo": "4",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "306호",
+    "flrNo": "3",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "106동",
+    "hoNm": "501호",
+    "flrNo": "5",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "503호",
+    "flrNo": "5",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "1404호",
+    "flrNo": "14",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "407호",
+    "flrNo": "4",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "704호",
+    "flrNo": "7",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "706호",
+    "flrNo": "7",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "407호",
+    "flrNo": "4",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "501호",
+    "flrNo": "5",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "1306호",
+    "flrNo": "13",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "702호",
+    "flrNo": "7",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "603호",
+    "flrNo": "6",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "708호",
+    "flrNo": "7",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "1002호",
+    "flrNo": "10",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "805호",
+    "flrNo": "8",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "106동",
+    "hoNm": "104호",
+    "flrNo": "1",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "603호",
+    "flrNo": "6",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "501호",
+    "flrNo": "5",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "106호",
+    "flrNo": "1",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "601호",
+    "flrNo": "6",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "404호",
+    "flrNo": "4",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "107호",
+    "flrNo": "1",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "1305호",
+    "flrNo": "13",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "106동",
+    "hoNm": "204호",
+    "flrNo": "2",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "1107호",
+    "flrNo": "11",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "701호",
+    "flrNo": "7",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "907호",
+    "flrNo": "9",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "703호",
+    "flrNo": "7",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "1307호",
+    "flrNo": "13",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "107호",
+    "flrNo": "1",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "307호",
+    "flrNo": "3",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "304호",
+    "flrNo": "3",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "805호",
+    "flrNo": "8",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "106동",
+    "hoNm": "903호",
+    "flrNo": "9",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "1303호",
+    "flrNo": "13",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "807호",
+    "flrNo": "8",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "1408호",
+    "flrNo": "14",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "505호",
+    "flrNo": "5",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "1502호",
+    "flrNo": "15",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "1406호",
+    "flrNo": "14",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "1407호",
+    "flrNo": "14",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "305호",
+    "flrNo": "3",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "704호",
+    "flrNo": "7",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "504호",
+    "flrNo": "5",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "407호",
+    "flrNo": "4",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "104호",
+    "flrNo": "1",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "503호",
+    "flrNo": "5",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "106동",
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "106동",
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "1108호",
+    "flrNo": "11",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "1203호",
+    "flrNo": "12",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "1004호",
+    "flrNo": "10",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "804호",
+    "flrNo": "8",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "106동",
+    "hoNm": "701호",
+    "flrNo": "7",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "701호",
+    "flrNo": "7",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "1107호",
+    "flrNo": "11",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "707호",
+    "flrNo": "7",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "1501호",
+    "flrNo": "15",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "407호",
+    "flrNo": "4",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "1006호",
+    "flrNo": "10",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "1505호",
+    "flrNo": "15",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "1301호",
+    "flrNo": "13",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "1508호",
+    "flrNo": "15",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "1201호",
+    "flrNo": "12",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "808호",
+    "flrNo": "8",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "803호",
+    "flrNo": "8",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "1103호",
+    "flrNo": "11",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "204호",
+    "flrNo": "2",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "1403호",
+    "flrNo": "14",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "903호",
+    "flrNo": "9",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "903호",
+    "flrNo": "9",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "304호",
+    "flrNo": "3",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "908호",
+    "flrNo": "9",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "1104호",
+    "flrNo": "11",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "1206호",
+    "flrNo": "12",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "1404호",
+    "flrNo": "14",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "1204호",
+    "flrNo": "12",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "1306호",
+    "flrNo": "13",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "206호",
+    "flrNo": "2",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "1307호",
+    "flrNo": "13",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "106동",
+    "hoNm": "404호",
+    "flrNo": "4",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "404호",
+    "flrNo": "4",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "1202호",
+    "flrNo": "12",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "703호",
+    "flrNo": "7",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "703호",
+    "flrNo": "7",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "1001호",
+    "flrNo": "10",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "801호",
+    "flrNo": "8",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "308호",
+    "flrNo": "3",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "408호",
+    "flrNo": "4",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "501호",
+    "flrNo": "5",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "1107호",
+    "flrNo": "11",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "1403호",
+    "flrNo": "14",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "1204호",
+    "flrNo": "12",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "1403호",
+    "flrNo": "14",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "1101호",
+    "flrNo": "11",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "1206호",
+    "flrNo": "12",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "305호",
+    "flrNo": "3",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "706호",
+    "flrNo": "7",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "1002호",
+    "flrNo": "10",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "504호",
+    "flrNo": "5",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "606호",
+    "flrNo": "6",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "106동",
+    "hoNm": "802호",
+    "flrNo": "8",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "905호",
+    "flrNo": "9",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "703호",
+    "flrNo": "7",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "506호",
+    "flrNo": "5",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "106동",
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "1401호",
+    "flrNo": "14",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "505호",
+    "flrNo": "5",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "106동",
+    "hoNm": "904호",
+    "flrNo": "9",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "801호",
+    "flrNo": "8",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "106동",
+    "hoNm": "603호",
+    "flrNo": "6",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "1202호",
+    "flrNo": "12",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "705호",
+    "flrNo": "7",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "903호",
+    "flrNo": "9",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "602호",
+    "flrNo": "6",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "1106호",
+    "flrNo": "11",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "106동",
+    "hoNm": "801호",
+    "flrNo": "8",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "1503호",
+    "flrNo": "15",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "1106호",
+    "flrNo": "11",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "105호",
+    "flrNo": "1",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "406호",
+    "flrNo": "4",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "1304호",
+    "flrNo": "13",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "1306호",
+    "flrNo": "13",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "304호",
+    "flrNo": "3",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "208호",
+    "flrNo": "2",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "1405호",
+    "flrNo": "14",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "808호",
+    "flrNo": "8",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "105호",
+    "flrNo": "1",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "1006호",
+    "flrNo": "10",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "1207호",
+    "flrNo": "12",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "901호",
+    "flrNo": "9",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "802호",
+    "flrNo": "8",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "1503호",
+    "flrNo": "15",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "204호",
+    "flrNo": "2",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "905호",
+    "flrNo": "9",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "1508호",
+    "flrNo": "15",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "207호",
+    "flrNo": "2",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "1201호",
+    "flrNo": "12",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "1005호",
+    "flrNo": "10",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "307호",
+    "flrNo": "3",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "501호",
+    "flrNo": "5",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "107호",
+    "flrNo": "1",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "708호",
+    "flrNo": "7",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "801호",
+    "flrNo": "8",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "1203호",
+    "flrNo": "12",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "601호",
+    "flrNo": "6",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "1201호",
+    "flrNo": "12",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "608호",
+    "flrNo": "6",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "705호",
+    "flrNo": "7",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "1207호",
+    "flrNo": "12",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "1507호",
+    "flrNo": "15",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "307호",
+    "flrNo": "3",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "1302호",
+    "flrNo": "13",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "1208호",
+    "flrNo": "12",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "804호",
+    "flrNo": "8",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "1106호",
+    "flrNo": "11",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "1007호",
+    "flrNo": "10",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "1502호",
+    "flrNo": "15",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "408호",
+    "flrNo": "4",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "106동",
+    "hoNm": "1003호",
+    "flrNo": "10",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "306호",
+    "flrNo": "3",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "702호",
+    "flrNo": "7",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "406호",
+    "flrNo": "4",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "106호",
+    "flrNo": "1",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "705호",
+    "flrNo": "7",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "1104호",
+    "flrNo": "11",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "1002호",
+    "flrNo": "10",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "405호",
+    "flrNo": "4",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "106동",
+    "hoNm": "1102호",
+    "flrNo": "11",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "603호",
+    "flrNo": "6",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "907호",
+    "flrNo": "9",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "1406호",
+    "flrNo": "14",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "805호",
+    "flrNo": "8",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "608호",
+    "flrNo": "6",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "1105호",
+    "flrNo": "11",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "404호",
+    "flrNo": "4",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "601호",
+    "flrNo": "6",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "1108호",
+    "flrNo": "11",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "1305호",
+    "flrNo": "13",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "1505호",
+    "flrNo": "15",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "405호",
+    "flrNo": "4",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "1402호",
+    "flrNo": "14",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "1007호",
+    "flrNo": "10",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "507호",
+    "flrNo": "5",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "702호",
+    "flrNo": "7",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "508호",
+    "flrNo": "5",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "1101호",
+    "flrNo": "11",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "1006호",
+    "flrNo": "10",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "106동",
+    "hoNm": "1004호",
+    "flrNo": "10",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "706호",
+    "flrNo": "7",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "1302호",
+    "flrNo": "13",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "1103호",
+    "flrNo": "11",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "1407호",
+    "flrNo": "14",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "205호",
+    "flrNo": "2",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "607호",
+    "flrNo": "6",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "1408호",
+    "flrNo": "14",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "1203호",
+    "flrNo": "12",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "801호",
+    "flrNo": "8",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "1005호",
+    "flrNo": "10",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "1003호",
+    "flrNo": "10",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "908호",
+    "flrNo": "9",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "106동",
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "1305호",
+    "flrNo": "13",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "1101호",
+    "flrNo": "11",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "704호",
+    "flrNo": "7",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "1001호",
+    "flrNo": "10",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "804호",
+    "flrNo": "8",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "505호",
+    "flrNo": "5",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "1505호",
+    "flrNo": "15",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "106동",
+    "hoNm": "1104호",
+    "flrNo": "11",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "902호",
+    "flrNo": "9",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "705호",
+    "flrNo": "7",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "905호",
+    "flrNo": "9",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "208호",
+    "flrNo": "2",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "1301호",
+    "flrNo": "13",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "508호",
+    "flrNo": "5",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "904호",
+    "flrNo": "9",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "207호",
+    "flrNo": "2",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "1301호",
+    "flrNo": "13",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "905호",
+    "flrNo": "9",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "406호",
+    "flrNo": "4",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "1003호",
+    "flrNo": "10",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "1301호",
+    "flrNo": "13",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "1201호",
+    "flrNo": "12",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "305호",
+    "flrNo": "3",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "104호",
+    "flrNo": "1",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "1504호",
+    "flrNo": "15",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "106동",
+    "hoNm": "504호",
+    "flrNo": "5",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "1405호",
+    "flrNo": "14",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "1206호",
+    "flrNo": "12",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "806호",
+    "flrNo": "8",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "1101호",
+    "flrNo": "11",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "106동",
+    "hoNm": null,
+    "flrNo": "1",
+    "area": "63.9",
+    "mainPurpsCd": "04005",
+    "mainPurpsCdNm": "제조업소",
+    "etcPurps": "제2종근린생활시설(제조업소)"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "106동",
+    "hoNm": null,
+    "flrNo": "1",
+    "area": "90.1",
+    "mainPurpsCd": "11999",
+    "mainPurpsCdNm": "기타노유자시설",
+    "etcPurps": "노유자시설(기타노유자시설)"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "1402호",
+    "flrNo": "14",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "1004호",
+    "flrNo": "10",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "1007호",
+    "flrNo": "10",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "704호",
+    "flrNo": "7",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "1206호",
+    "flrNo": "12",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "1207호",
+    "flrNo": "12",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "1001호",
+    "flrNo": "10",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "906호",
+    "flrNo": "9",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "601호",
+    "flrNo": "6",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "1308호",
+    "flrNo": "13",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "106동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "503호",
+    "flrNo": "5",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "1302호",
+    "flrNo": "13",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "1304호",
+    "flrNo": "13",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "602호",
+    "flrNo": "6",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "1302호",
+    "flrNo": "13",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "1104호",
+    "flrNo": "11",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "504호",
+    "flrNo": "5",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "1008호",
+    "flrNo": "10",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "901호",
+    "flrNo": "9",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "1405호",
+    "flrNo": "14",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "1103호",
+    "flrNo": "11",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "106동",
+    "hoNm": "604호",
+    "flrNo": "6",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "1103호",
+    "flrNo": "11",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "105동",
+    "hoNm": "1205호",
+    "flrNo": "12",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "507호",
+    "flrNo": "5",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "1302호",
+    "flrNo": "13",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "706호",
+    "flrNo": "7",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "1504호",
+    "flrNo": "15",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "104호",
+    "flrNo": "1",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "706호",
+    "flrNo": "7",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "308호",
+    "flrNo": "3",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "106동",
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "106동",
+    "hoNm": "804호",
+    "flrNo": "8",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "904호",
+    "flrNo": "9",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "106동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "1002호",
+    "flrNo": "10",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "306호",
+    "flrNo": "3",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "802호",
+    "flrNo": "8",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "801호",
+    "flrNo": "8",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "1204호",
+    "flrNo": "12",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "1502호",
+    "flrNo": "15",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "1103호",
+    "flrNo": "11",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "602호",
+    "flrNo": "6",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "802호",
+    "flrNo": "8",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "104동",
+    "hoNm": "1305호",
+    "flrNo": "13",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "102동",
+    "hoNm": "1202호",
+    "flrNo": "12",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "503호",
+    "flrNo": "5",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "101동",
+    "hoNm": "106호",
+    "flrNo": "1",
+    "area": "72.77",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대",
+    "dongNm": "103동",
+    "hoNm": "905호",
+    "flrNo": "9",
+    "area": "84.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  }
+]

@@ -1,0 +1,6762 @@
+[
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "2401",
+    "flrNo": "24",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "2504",
+    "flrNo": "25",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "1903",
+    "flrNo": "19",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "2802",
+    "flrNo": "28",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "2704",
+    "flrNo": "27",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "2804",
+    "flrNo": "28",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "2701",
+    "flrNo": "27",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "2401",
+    "flrNo": "24",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "2901",
+    "flrNo": "29",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "2404",
+    "flrNo": "24",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "2002",
+    "flrNo": "20",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "2104",
+    "flrNo": "21",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "1904",
+    "flrNo": "19",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "2402",
+    "flrNo": "24",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "1903",
+    "flrNo": "19",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "2403",
+    "flrNo": "24",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "2301",
+    "flrNo": "23",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "2001",
+    "flrNo": "20",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "1803",
+    "flrNo": "18",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "1802",
+    "flrNo": "18",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "1802",
+    "flrNo": "18",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "1603",
+    "flrNo": "16",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "1902",
+    "flrNo": "19",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "1603",
+    "flrNo": "16",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "1602",
+    "flrNo": "16",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "2001",
+    "flrNo": "20",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "2201",
+    "flrNo": "22",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "1901",
+    "flrNo": "19",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "2502",
+    "flrNo": "25",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "2101",
+    "flrNo": "21",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "2004",
+    "flrNo": "20",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "2701",
+    "flrNo": "27",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "2702",
+    "flrNo": "27",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "1802",
+    "flrNo": "18",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "2701",
+    "flrNo": "27",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "2604",
+    "flrNo": "26",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "1904",
+    "flrNo": "19",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "1702",
+    "flrNo": "17",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "2001",
+    "flrNo": "20",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "1703",
+    "flrNo": "17",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "2702",
+    "flrNo": "27",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "1804",
+    "flrNo": "18",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "2202",
+    "flrNo": "22",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "1804",
+    "flrNo": "18",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "2401",
+    "flrNo": "24",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "2403",
+    "flrNo": "24",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "2202",
+    "flrNo": "22",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "1703",
+    "flrNo": "17",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "2402",
+    "flrNo": "24",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "211동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "41.31",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "1702",
+    "flrNo": "17",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "2304",
+    "flrNo": "23",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "2703",
+    "flrNo": "27",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "2003",
+    "flrNo": "20",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "1602",
+    "flrNo": "16",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "2603",
+    "flrNo": "26",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "2701",
+    "flrNo": "27",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "1803",
+    "flrNo": "18",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "2004",
+    "flrNo": "20",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "1801",
+    "flrNo": "18",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "1603",
+    "flrNo": "16",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "2203",
+    "flrNo": "22",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "1904",
+    "flrNo": "19",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "2303",
+    "flrNo": "23",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "1602",
+    "flrNo": "16",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "2504",
+    "flrNo": "25",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "2002",
+    "flrNo": "20",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "2804",
+    "flrNo": "28",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "2603",
+    "flrNo": "26",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "2703",
+    "flrNo": "27",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "2803",
+    "flrNo": "28",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "2204",
+    "flrNo": "22",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "2301",
+    "flrNo": "23",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "2701",
+    "flrNo": "27",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "2403",
+    "flrNo": "24",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "1602",
+    "flrNo": "16",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "2504",
+    "flrNo": "25",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "2402",
+    "flrNo": "24",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "1903",
+    "flrNo": "19",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "1902",
+    "flrNo": "19",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "2704",
+    "flrNo": "27",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "2702",
+    "flrNo": "27",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "1801",
+    "flrNo": "18",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "2604",
+    "flrNo": "26",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "1801",
+    "flrNo": "18",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "2103",
+    "flrNo": "21",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "2602",
+    "flrNo": "26",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "2304",
+    "flrNo": "23",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "2503",
+    "flrNo": "25",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "2304",
+    "flrNo": "23",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "2103",
+    "flrNo": "21",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "1801",
+    "flrNo": "18",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "1904",
+    "flrNo": "19",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "2304",
+    "flrNo": "23",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "1704",
+    "flrNo": "17",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "2102",
+    "flrNo": "21",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "2103",
+    "flrNo": "21",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "211동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "41.31",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "2601",
+    "flrNo": "26",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "2002",
+    "flrNo": "20",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "1701",
+    "flrNo": "17",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "211동",
+    "hoNm": "106",
+    "flrNo": "1",
+    "area": "41.31",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "2803",
+    "flrNo": "28",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "1901",
+    "flrNo": "19",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "2604",
+    "flrNo": "26",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "2104",
+    "flrNo": "21",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "211동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "41.31",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "1702",
+    "flrNo": "17",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "2101",
+    "flrNo": "21",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "2901",
+    "flrNo": "29",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "2504",
+    "flrNo": "25",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "2601",
+    "flrNo": "26",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "2901",
+    "flrNo": "29",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "2102",
+    "flrNo": "21",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "2603",
+    "flrNo": "26",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "2601",
+    "flrNo": "26",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "2204",
+    "flrNo": "22",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "2904",
+    "flrNo": "29",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "2702",
+    "flrNo": "27",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "211동",
+    "hoNm": "105",
+    "flrNo": "1",
+    "area": "41.31",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "2504",
+    "flrNo": "25",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "2103",
+    "flrNo": "21",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "2502",
+    "flrNo": "25",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "1801",
+    "flrNo": "18",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "2302",
+    "flrNo": "23",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "2602",
+    "flrNo": "26",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "2601",
+    "flrNo": "26",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "2503",
+    "flrNo": "25",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "2903",
+    "flrNo": "29",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "2203",
+    "flrNo": "22",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "1704",
+    "flrNo": "17",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "1601",
+    "flrNo": "16",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "2103",
+    "flrNo": "21",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "2902",
+    "flrNo": "29",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "1704",
+    "flrNo": "17",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "2204",
+    "flrNo": "22",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "2802",
+    "flrNo": "28",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "2001",
+    "flrNo": "20",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "1901",
+    "flrNo": "19",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "1601",
+    "flrNo": "16",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "1601",
+    "flrNo": "16",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "2201",
+    "flrNo": "22",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "1604",
+    "flrNo": "16",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "2801",
+    "flrNo": "28",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "1601",
+    "flrNo": "16",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "2704",
+    "flrNo": "27",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "2002",
+    "flrNo": "20",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "1901",
+    "flrNo": "19",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "2101",
+    "flrNo": "21",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "2404",
+    "flrNo": "24",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "1704",
+    "flrNo": "17",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "2704",
+    "flrNo": "27",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "2204",
+    "flrNo": "22",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "2602",
+    "flrNo": "26",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "2303",
+    "flrNo": "23",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "2403",
+    "flrNo": "24",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "2703",
+    "flrNo": "27",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "2103",
+    "flrNo": "21",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "1903",
+    "flrNo": "19",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "2004",
+    "flrNo": "20",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "2401",
+    "flrNo": "24",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "2202",
+    "flrNo": "22",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "2501",
+    "flrNo": "25",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "1701",
+    "flrNo": "17",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "2202",
+    "flrNo": "22",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "2001",
+    "flrNo": "20",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "2503",
+    "flrNo": "25",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "1804",
+    "flrNo": "18",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "2801",
+    "flrNo": "28",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "2302",
+    "flrNo": "23",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "1602",
+    "flrNo": "16",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "2802",
+    "flrNo": "28",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "1603",
+    "flrNo": "16",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "2402",
+    "flrNo": "24",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "1702",
+    "flrNo": "17",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "2202",
+    "flrNo": "22",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "2902",
+    "flrNo": "29",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "2301",
+    "flrNo": "23",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "2501",
+    "flrNo": "25",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "2104",
+    "flrNo": "21",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "1804",
+    "flrNo": "18",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "2004",
+    "flrNo": "20",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "2903",
+    "flrNo": "29",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "2802",
+    "flrNo": "28",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "1701",
+    "flrNo": "17",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "2202",
+    "flrNo": "22",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "1902",
+    "flrNo": "19",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "2702",
+    "flrNo": "27",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "2804",
+    "flrNo": "28",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "2102",
+    "flrNo": "21",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "2604",
+    "flrNo": "26",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "2404",
+    "flrNo": "24",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "2303",
+    "flrNo": "23",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "2101",
+    "flrNo": "21",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "2004",
+    "flrNo": "20",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "1603",
+    "flrNo": "16",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "2501",
+    "flrNo": "25",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "1604",
+    "flrNo": "16",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "1701",
+    "flrNo": "17",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "1703",
+    "flrNo": "17",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "2002",
+    "flrNo": "20",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "2503",
+    "flrNo": "25",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "2603",
+    "flrNo": "26",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "2004",
+    "flrNo": "20",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "2201",
+    "flrNo": "22",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "2102",
+    "flrNo": "21",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "1604",
+    "flrNo": "16",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "2704",
+    "flrNo": "27",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "2602",
+    "flrNo": "26",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "1904",
+    "flrNo": "19",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "2503",
+    "flrNo": "25",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "1803",
+    "flrNo": "18",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "1903",
+    "flrNo": "19",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "1704",
+    "flrNo": "17",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "2301",
+    "flrNo": "23",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "2902",
+    "flrNo": "29",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "2303",
+    "flrNo": "23",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "2801",
+    "flrNo": "28",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "1704",
+    "flrNo": "17",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "2801",
+    "flrNo": "28",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "2403",
+    "flrNo": "24",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "2102",
+    "flrNo": "21",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "1701",
+    "flrNo": "17",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "2801",
+    "flrNo": "28",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "2603",
+    "flrNo": "26",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "2003",
+    "flrNo": "20",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "2904",
+    "flrNo": "29",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "2602",
+    "flrNo": "26",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "2203",
+    "flrNo": "22",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "2503",
+    "flrNo": "25",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "2302",
+    "flrNo": "23",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "2502",
+    "flrNo": "25",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "2702",
+    "flrNo": "27",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "2602",
+    "flrNo": "26",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "2404",
+    "flrNo": "24",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "2302",
+    "flrNo": "23",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "211동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "39.78",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "2604",
+    "flrNo": "26",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "2101",
+    "flrNo": "21",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "1604",
+    "flrNo": "16",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "1803",
+    "flrNo": "18",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "2501",
+    "flrNo": "25",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "2104",
+    "flrNo": "21",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "1901",
+    "flrNo": "19",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "2601",
+    "flrNo": "26",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "2703",
+    "flrNo": "27",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "2203",
+    "flrNo": "22",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "2303",
+    "flrNo": "23",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "1702",
+    "flrNo": "17",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "2104",
+    "flrNo": "21",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "2901",
+    "flrNo": "29",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "1901",
+    "flrNo": "19",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "2601",
+    "flrNo": "26",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "2803",
+    "flrNo": "28",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "2504",
+    "flrNo": "25",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "2502",
+    "flrNo": "25",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "2701",
+    "flrNo": "27",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "1604",
+    "flrNo": "16",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "2404",
+    "flrNo": "24",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "2401",
+    "flrNo": "24",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "2003",
+    "flrNo": "20",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "1601",
+    "flrNo": "16",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "2003",
+    "flrNo": "20",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "1703",
+    "flrNo": "17",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "2101",
+    "flrNo": "21",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "2304",
+    "flrNo": "23",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "1801",
+    "flrNo": "18",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "1803",
+    "flrNo": "18",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "1802",
+    "flrNo": "18",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "1902",
+    "flrNo": "19",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "2302",
+    "flrNo": "23",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "1903",
+    "flrNo": "19",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "1702",
+    "flrNo": "17",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "2904",
+    "flrNo": "29",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "2501",
+    "flrNo": "25",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "2003",
+    "flrNo": "20",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "2302",
+    "flrNo": "23",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "2203",
+    "flrNo": "22",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "2204",
+    "flrNo": "22",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "2104",
+    "flrNo": "21",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "2402",
+    "flrNo": "24",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "2401",
+    "flrNo": "24",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "2502",
+    "flrNo": "25",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "1601",
+    "flrNo": "16",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "1804",
+    "flrNo": "18",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "2201",
+    "flrNo": "22",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "1603",
+    "flrNo": "16",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "2303",
+    "flrNo": "23",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "1804",
+    "flrNo": "18",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "2402",
+    "flrNo": "24",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "2802",
+    "flrNo": "28",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "2203",
+    "flrNo": "22",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "2201",
+    "flrNo": "22",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "2403",
+    "flrNo": "24",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "2003",
+    "flrNo": "20",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "2903",
+    "flrNo": "29",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "1803",
+    "flrNo": "18",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "1701",
+    "flrNo": "17",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "1802",
+    "flrNo": "18",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "2501",
+    "flrNo": "25",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "2604",
+    "flrNo": "26",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "2502",
+    "flrNo": "25",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "2001",
+    "flrNo": "20",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "1902",
+    "flrNo": "19",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "2002",
+    "flrNo": "20",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "2301",
+    "flrNo": "23",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "1802",
+    "flrNo": "18",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "2304",
+    "flrNo": "23",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "2404",
+    "flrNo": "24",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "1602",
+    "flrNo": "16",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "2603",
+    "flrNo": "26",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "2102",
+    "flrNo": "21",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "2804",
+    "flrNo": "28",
+    "area": "66.5263",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "203동",
+    "hoNm": "2201",
+    "flrNo": "22",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "2902",
+    "flrNo": "29",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "1904",
+    "flrNo": "19",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "84.3237",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "2301",
+    "flrNo": "23",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "1902",
+    "flrNo": "19",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "1604",
+    "flrNo": "16",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "2204",
+    "flrNo": "22",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "201동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "205동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "202동",
+    "hoNm": "1703",
+    "flrNo": "17",
+    "area": "66.0657",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "1703",
+    "flrNo": "17",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "84.2513",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "204동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "명지2차 금강펜테리움 센트럴파크",
+    "dongNm": "206동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "66.6612",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  }
+]

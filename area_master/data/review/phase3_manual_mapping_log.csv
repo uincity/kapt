@@ -1,0 +1,9 @@
+﻿kapt_code,kapt_name,legal_dong,road_address,kapt_households,matched_kb_id,matched_kb_name,matched_kb_households,match_method,match_confidence,processing_status,match_reason,recommended_next_action
+A10023963,부산항일동미라주더오션아파트,좌천동,부산광역시 동구 자성로 2,546,43695+43696,부산항일동미라주더오션1지구+부산항일동미라주더오션2지구,546,phase3_multi_complex_rematch,HIGH,VERIFIED_KB_REMATCHED,복합 분리 단지(2개) 합계 세대수 100% 일치 (546세대),NONE
+A10023625,e편한세상 시민공원 아파트,전포동,부산광역시 부산진구 진남로 460,1401,47081+47084,e편한세상시민공원1단지+e편한세상시민공원2단지,1401,phase3_multi_complex_rematch,HIGH,VERIFIED_KB_REMATCHED,복합 분리 단지(2개) 합계 세대수 100% 일치 (1401세대),NONE
+A10024602,서면아이파크아파트,전포동,부산광역시 부산진구 동성로 50,2144,39358+39359,서면아이파크1단지+서면아이파크2단지,2144,phase3_multi_complex_rematch,HIGH,VERIFIED_KB_REMATCHED,복합 분리 단지(2개) 합계 세대수 100% 일치 (2144세대),NONE
+A61481111,신개금LG아파트,개금동,부산광역시 부산진구 백양대로300번길 20,2510,5572+5582,신개금LG(1차)+신개금LG(2차),2510,phase3_multi_complex_rematch,HIGH,VERIFIED_KB_REMATCHED,복합 분리 단지(2개) 합계 세대수 100% 일치 (2510세대),NONE
+A60802001,대연힐스테이트푸르지오,대연동,부산광역시 남구 수영로 345,2304,26745+26888,대연힐스테이트푸르지오+대연힐스테이트푸르지오(주),2304,phase3_multi_complex_rematch,HIGH,VERIFIED_KB_REMATCHED,복합 분리 단지(2개) 합계 세대수 100% 일치 (2304세대),NONE
+A10024704,문현경동리인,문현동,부산광역시 남구 문현로 36-1,600,35250+35252,문현경동리인(1단지)+문현경동리인(2단지),600,phase3_multi_complex_rematch,HIGH,VERIFIED_KB_REMATCHED,복합 분리 단지(2개) 합계 세대수 100% 일치 (600세대),NONE
+A10024249,센텀트루엘 아파트,반여동,부산광역시 해운대구 삼어로133번나길 17,531,34612+34611,해운대센텀트루엘1단지+해운대센텀트루엘2단지,531,phase3_multi_complex_rematch,HIGH,VERIFIED_KB_REMATCHED,복합 분리 단지(2개) 합계 세대수 100% 일치 (531세대),NONE
+A10023912,일광한신더휴센트럴포레,일광읍,부산광역시 기장군 해빛3로 62,1298,39640+39641,일광한신더휴센트럴포레1단지+일광한신더휴센트럴포레2단지,1298,phase3_multi_complex_rematch,HIGH,VERIFIED_KB_REMATCHED,복합 분리 단지(2개) 합계 세대수 100% 일치 (1298세대),NONE

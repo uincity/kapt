@@ -1,0 +1,7052 @@
+[
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "221",
+    "flrNo": "2",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "228",
+    "flrNo": "2",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3115",
+    "flrNo": "31",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3607",
+    "flrNo": "36",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1911",
+    "flrNo": "19",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4208",
+    "flrNo": "42",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2903",
+    "flrNo": "29",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2002",
+    "flrNo": "20",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3807",
+    "flrNo": "38",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3508",
+    "flrNo": "35",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1909",
+    "flrNo": "19",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "111",
+    "flrNo": "1",
+    "area": "32.702",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1915",
+    "flrNo": "19",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1703",
+    "flrNo": "17",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "411",
+    "flrNo": "4",
+    "area": "35.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "805",
+    "flrNo": "8",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "238",
+    "flrNo": "2",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3908",
+    "flrNo": "39",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3310",
+    "flrNo": "33",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "815",
+    "flrNo": "8",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3205",
+    "flrNo": "32",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "430",
+    "flrNo": "4",
+    "area": "46.068",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "334",
+    "flrNo": "3",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3803",
+    "flrNo": "38",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4314",
+    "flrNo": "43",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "915",
+    "flrNo": "9",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4102",
+    "flrNo": "41",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1414",
+    "flrNo": "14",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1809",
+    "flrNo": "18",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3602",
+    "flrNo": "36",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1309",
+    "flrNo": "13",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3404",
+    "flrNo": "34",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1205",
+    "flrNo": "12",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1509",
+    "flrNo": "15",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "219",
+    "flrNo": "2",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "210",
+    "flrNo": "2",
+    "area": "35.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4210",
+    "flrNo": "42",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "713",
+    "flrNo": "7",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "321",
+    "flrNo": "3",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3812",
+    "flrNo": "38",
+    "area": "61.357",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3815",
+    "flrNo": "38",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2212",
+    "flrNo": "22",
+    "area": "61.357",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2814",
+    "flrNo": "28",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3401",
+    "flrNo": "34",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "108",
+    "flrNo": "1",
+    "area": "17.76",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1609",
+    "flrNo": "16",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3202",
+    "flrNo": "32",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2213",
+    "flrNo": "22",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4005",
+    "flrNo": "40",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "312",
+    "flrNo": "3",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3403",
+    "flrNo": "34",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "712",
+    "flrNo": "7",
+    "area": "61.357",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4010",
+    "flrNo": "40",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1607",
+    "flrNo": "16",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2914",
+    "flrNo": "29",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2403",
+    "flrNo": "24",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1806",
+    "flrNo": "18",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3409",
+    "flrNo": "34",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3902",
+    "flrNo": "39",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "607",
+    "flrNo": "6",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3501",
+    "flrNo": "35",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "B108",
+    "flrNo": "1",
+    "area": "66.08",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2911",
+    "flrNo": "29",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2707",
+    "flrNo": "27",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2003",
+    "flrNo": "20",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1614",
+    "flrNo": "16",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "913",
+    "flrNo": "9",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "226",
+    "flrNo": "2",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "612",
+    "flrNo": "6",
+    "area": "61.357",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3515",
+    "flrNo": "35",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2907",
+    "flrNo": "29",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4110",
+    "flrNo": "41",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "421",
+    "flrNo": "4",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4103",
+    "flrNo": "41",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2014",
+    "flrNo": "20",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "218",
+    "flrNo": "2",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1913",
+    "flrNo": "19",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1405",
+    "flrNo": "14",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1212",
+    "flrNo": "12",
+    "area": "61.357",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3603",
+    "flrNo": "36",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "222",
+    "flrNo": "2",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "812",
+    "flrNo": "8",
+    "area": "61.357",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2105",
+    "flrNo": "21",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "310",
+    "flrNo": "3",
+    "area": "35.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1009",
+    "flrNo": "10",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2303",
+    "flrNo": "23",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1008",
+    "flrNo": "10",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4006",
+    "flrNo": "40",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "426",
+    "flrNo": "4",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2201",
+    "flrNo": "22",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1211",
+    "flrNo": "12",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "323",
+    "flrNo": "3",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3702",
+    "flrNo": "37",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1514",
+    "flrNo": "15",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "814",
+    "flrNo": "8",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2307",
+    "flrNo": "23",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1308",
+    "flrNo": "13",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "B112",
+    "flrNo": "1",
+    "area": "59.77",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "414",
+    "flrNo": "4",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1904",
+    "flrNo": "19",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2310",
+    "flrNo": "23",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1903",
+    "flrNo": "19",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2009",
+    "flrNo": "20",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3710",
+    "flrNo": "37",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3705",
+    "flrNo": "37",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2114",
+    "flrNo": "21",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4207",
+    "flrNo": "42",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "32.625",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3308",
+    "flrNo": "33",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2506",
+    "flrNo": "25",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4109",
+    "flrNo": "41",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4007",
+    "flrNo": "40",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "B106",
+    "flrNo": "1",
+    "area": "59.92",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2106",
+    "flrNo": "21",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2807",
+    "flrNo": "28",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2606",
+    "flrNo": "26",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3910",
+    "flrNo": "39",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3808",
+    "flrNo": "38",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "432",
+    "flrNo": "4",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3509",
+    "flrNo": "35",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "715",
+    "flrNo": "7",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4012",
+    "flrNo": "40",
+    "area": "61.357",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2207",
+    "flrNo": "22",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1810",
+    "flrNo": "18",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1902",
+    "flrNo": "19",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2706",
+    "flrNo": "27",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1910",
+    "flrNo": "19",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4213",
+    "flrNo": "42",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "306",
+    "flrNo": "3",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "230",
+    "flrNo": "2",
+    "area": "46.068",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3506",
+    "flrNo": "35",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4209",
+    "flrNo": "42",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1510",
+    "flrNo": "15",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3407",
+    "flrNo": "34",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "317",
+    "flrNo": "3",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2205",
+    "flrNo": "22",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "318",
+    "flrNo": "3",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3415",
+    "flrNo": "34",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2708",
+    "flrNo": "27",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "809",
+    "flrNo": "8",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2603",
+    "flrNo": "26",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "423",
+    "flrNo": "4",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3412",
+    "flrNo": "34",
+    "area": "61.357",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1409",
+    "flrNo": "14",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3903",
+    "flrNo": "39",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3505",
+    "flrNo": "35",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2614",
+    "flrNo": "26",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2710",
+    "flrNo": "27",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1106",
+    "flrNo": "11",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "311",
+    "flrNo": "3",
+    "area": "35.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3612",
+    "flrNo": "36",
+    "area": "61.357",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1310",
+    "flrNo": "13",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3012",
+    "flrNo": "30",
+    "area": "61.357",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1513",
+    "flrNo": "15",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "910",
+    "flrNo": "9",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "415",
+    "flrNo": "4",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1007",
+    "flrNo": "10",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4111",
+    "flrNo": "41",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3114",
+    "flrNo": "31",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1705",
+    "flrNo": "17",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2507",
+    "flrNo": "25",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2908",
+    "flrNo": "29",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3002",
+    "flrNo": "30",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1702",
+    "flrNo": "17",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "213",
+    "flrNo": "2",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3713",
+    "flrNo": "37",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2012",
+    "flrNo": "20",
+    "area": "61.357",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3113",
+    "flrNo": "31",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4101",
+    "flrNo": "41",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "405",
+    "flrNo": "4",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2413",
+    "flrNo": "24",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "707",
+    "flrNo": "7",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3008",
+    "flrNo": "30",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2502",
+    "flrNo": "25",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2008",
+    "flrNo": "20",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "425",
+    "flrNo": "4",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4114",
+    "flrNo": "41",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2604",
+    "flrNo": "26",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1107",
+    "flrNo": "11",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3611",
+    "flrNo": "36",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4311",
+    "flrNo": "43",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "907",
+    "flrNo": "9",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2015",
+    "flrNo": "20",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "112",
+    "flrNo": "1",
+    "area": "35.62",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3513",
+    "flrNo": "35",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1311",
+    "flrNo": "13",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "102-1",
+    "flrNo": "1",
+    "area": "32.625",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3402",
+    "flrNo": "34",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "326",
+    "flrNo": "3",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2210",
+    "flrNo": "22",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4011",
+    "flrNo": "40",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3909",
+    "flrNo": "39",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3214",
+    "flrNo": "32",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "615",
+    "flrNo": "6",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1813",
+    "flrNo": "18",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2311",
+    "flrNo": "23",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3110",
+    "flrNo": "31",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "109",
+    "flrNo": "1",
+    "area": "35.36",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1111",
+    "flrNo": "11",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2011",
+    "flrNo": "20",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "808",
+    "flrNo": "8",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4001",
+    "flrNo": "40",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "709",
+    "flrNo": "7",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2103",
+    "flrNo": "21",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1505",
+    "flrNo": "15",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2203",
+    "flrNo": "22",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3510",
+    "flrNo": "35",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3703",
+    "flrNo": "37",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2104",
+    "flrNo": "21",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3503",
+    "flrNo": "35",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2712",
+    "flrNo": "27",
+    "area": "61.357",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1313",
+    "flrNo": "13",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3410",
+    "flrNo": "34",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "434",
+    "flrNo": "4",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "B107",
+    "flrNo": "1",
+    "area": "66.67",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2813",
+    "flrNo": "28",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "229",
+    "flrNo": "2",
+    "area": "46.068",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3709",
+    "flrNo": "37",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2411",
+    "flrNo": "24",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4004",
+    "flrNo": "40",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3215",
+    "flrNo": "32",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1113",
+    "flrNo": "11",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3306",
+    "flrNo": "33",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "217",
+    "flrNo": "2",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "416",
+    "flrNo": "4",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2802",
+    "flrNo": "28",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2110",
+    "flrNo": "21",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2811",
+    "flrNo": "28",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3805",
+    "flrNo": "38",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3101",
+    "flrNo": "31",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2304",
+    "flrNo": "23",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1014",
+    "flrNo": "10",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2312",
+    "flrNo": "23",
+    "area": "61.357",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3112",
+    "flrNo": "31",
+    "area": "61.357",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2010",
+    "flrNo": "20",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "429",
+    "flrNo": "4",
+    "area": "46.068",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "305",
+    "flrNo": "3",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3010",
+    "flrNo": "30",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1213",
+    "flrNo": "12",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4205",
+    "flrNo": "42",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3915",
+    "flrNo": "39",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1706",
+    "flrNo": "17",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3411",
+    "flrNo": "34",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1612",
+    "flrNo": "16",
+    "area": "61.357",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1314",
+    "flrNo": "13",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "49.808",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3212",
+    "flrNo": "32",
+    "area": "61.357",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3504",
+    "flrNo": "35",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3413",
+    "flrNo": "34",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "412",
+    "flrNo": "4",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1508",
+    "flrNo": "15",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3106",
+    "flrNo": "31",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "110",
+    "flrNo": "1",
+    "area": "43.18",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1715",
+    "flrNo": "17",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3312",
+    "flrNo": "33",
+    "area": "61.357",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2809",
+    "flrNo": "28",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3204",
+    "flrNo": "32",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2514",
+    "flrNo": "25",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2904",
+    "flrNo": "29",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3313",
+    "flrNo": "33",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "205",
+    "flrNo": "2",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1408",
+    "flrNo": "14",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3715",
+    "flrNo": "37",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2108",
+    "flrNo": "21",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1815",
+    "flrNo": "18",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1908",
+    "flrNo": "19",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4304",
+    "flrNo": "43",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1707",
+    "flrNo": "17",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "106",
+    "flrNo": "1",
+    "area": "20.16",
+    "mainPurpsCd": "04403",
+    "mainPurpsCdNm": "부동산중개업소",
+    "etcPurps": "제2종근린생활시설(부동산중개업소)"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3913",
+    "flrNo": "39",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2005",
+    "flrNo": "20",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1511",
+    "flrNo": "15",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1507",
+    "flrNo": "15",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3905",
+    "flrNo": "39",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2112",
+    "flrNo": "21",
+    "area": "61.357",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1714",
+    "flrNo": "17",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "331",
+    "flrNo": "3",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "231",
+    "flrNo": "2",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2613",
+    "flrNo": "26",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3405",
+    "flrNo": "34",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3211",
+    "flrNo": "32",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4113",
+    "flrNo": "41",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1112",
+    "flrNo": "11",
+    "area": "61.357",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2206",
+    "flrNo": "22",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2006",
+    "flrNo": "20",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2313",
+    "flrNo": "23",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2401",
+    "flrNo": "24",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3907",
+    "flrNo": "39",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2609",
+    "flrNo": "26",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3102",
+    "flrNo": "31",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3013",
+    "flrNo": "30",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "207",
+    "flrNo": "2",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2615",
+    "flrNo": "26",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "705",
+    "flrNo": "7",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1412",
+    "flrNo": "14",
+    "area": "61.357",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "206",
+    "flrNo": "2",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1807",
+    "flrNo": "18",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1210",
+    "flrNo": "12",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "613",
+    "flrNo": "6",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3209",
+    "flrNo": "32",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3213",
+    "flrNo": "32",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4313",
+    "flrNo": "43",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "328",
+    "flrNo": "3",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "B102",
+    "flrNo": "1",
+    "area": "62.805",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1506",
+    "flrNo": "15",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3301",
+    "flrNo": "33",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2801",
+    "flrNo": "28",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2909",
+    "flrNo": "29",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "B103",
+    "flrNo": "1",
+    "area": "70.835",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2705",
+    "flrNo": "27",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1805",
+    "flrNo": "18",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2612",
+    "flrNo": "26",
+    "area": "61.357",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "212",
+    "flrNo": "2",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2215",
+    "flrNo": "22",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4303",
+    "flrNo": "43",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3906",
+    "flrNo": "39",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1610",
+    "flrNo": "16",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "436",
+    "flrNo": "4",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "433",
+    "flrNo": "4",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1012",
+    "flrNo": "10",
+    "area": "61.357",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "107",
+    "flrNo": "1",
+    "area": "24.975",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1713",
+    "flrNo": "17",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "810",
+    "flrNo": "8",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1802",
+    "flrNo": "18",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2402",
+    "flrNo": "24",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "422",
+    "flrNo": "4",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "319",
+    "flrNo": "3",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1407",
+    "flrNo": "14",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4214",
+    "flrNo": "42",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2902",
+    "flrNo": "29",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2910",
+    "flrNo": "29",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "335",
+    "flrNo": "3",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1015",
+    "flrNo": "10",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3406",
+    "flrNo": "34",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "208",
+    "flrNo": "2",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2912",
+    "flrNo": "29",
+    "area": "61.357",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3507",
+    "flrNo": "35",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3802",
+    "flrNo": "38",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3011",
+    "flrNo": "30",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "914",
+    "flrNo": "9",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3714",
+    "flrNo": "37",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3810",
+    "flrNo": "38",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1011",
+    "flrNo": "10",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3109",
+    "flrNo": "31",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3706",
+    "flrNo": "37",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3610",
+    "flrNo": "36",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3414",
+    "flrNo": "34",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "307",
+    "flrNo": "3",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "435",
+    "flrNo": "4",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2607",
+    "flrNo": "26",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "105",
+    "flrNo": "1",
+    "area": "49.95",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3314",
+    "flrNo": "33",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3911",
+    "flrNo": "39",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "431",
+    "flrNo": "4",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1901",
+    "flrNo": "19",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2211",
+    "flrNo": "22",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3814",
+    "flrNo": "38",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "437",
+    "flrNo": "4",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4305",
+    "flrNo": "43",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "337",
+    "flrNo": "3",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "911",
+    "flrNo": "9",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1411",
+    "flrNo": "14",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3311",
+    "flrNo": "33",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3904",
+    "flrNo": "39",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1109",
+    "flrNo": "11",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2204",
+    "flrNo": "22",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4202",
+    "flrNo": "42",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "333",
+    "flrNo": "3",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1812",
+    "flrNo": "18",
+    "area": "61.357",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2906",
+    "flrNo": "29",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "409",
+    "flrNo": "4",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1105",
+    "flrNo": "11",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "332",
+    "flrNo": "3",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3004",
+    "flrNo": "30",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4003",
+    "flrNo": "40",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1914",
+    "flrNo": "19",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3701",
+    "flrNo": "37",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3207",
+    "flrNo": "32",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2714",
+    "flrNo": "27",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3003",
+    "flrNo": "30",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1811",
+    "flrNo": "18",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1512",
+    "flrNo": "15",
+    "area": "61.357",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1709",
+    "flrNo": "17",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2713",
+    "flrNo": "27",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1601",
+    "flrNo": "16",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1406",
+    "flrNo": "14",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "418",
+    "flrNo": "4",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2409",
+    "flrNo": "24",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3210",
+    "flrNo": "32",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2309",
+    "flrNo": "23",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "B109",
+    "flrNo": "1",
+    "area": "67.11",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3104",
+    "flrNo": "31",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4115",
+    "flrNo": "41",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4107",
+    "flrNo": "41",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2608",
+    "flrNo": "26",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2208",
+    "flrNo": "22",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3005",
+    "flrNo": "30",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4206",
+    "flrNo": "42",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1808",
+    "flrNo": "18",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2915",
+    "flrNo": "29",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1613",
+    "flrNo": "16",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2404",
+    "flrNo": "24",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1108",
+    "flrNo": "11",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2709",
+    "flrNo": "27",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3615",
+    "flrNo": "36",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "609",
+    "flrNo": "6",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1604",
+    "flrNo": "16",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "324",
+    "flrNo": "3",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3203",
+    "flrNo": "32",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3813",
+    "flrNo": "38",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4106",
+    "flrNo": "41",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1010",
+    "flrNo": "10",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1608",
+    "flrNo": "16",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "912",
+    "flrNo": "9",
+    "area": "61.357",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "608",
+    "flrNo": "6",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4008",
+    "flrNo": "40",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2704",
+    "flrNo": "27",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "322",
+    "flrNo": "3",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1315",
+    "flrNo": "13",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "811",
+    "flrNo": "8",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1312",
+    "flrNo": "13",
+    "area": "61.357",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2812",
+    "flrNo": "28",
+    "area": "61.357",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3711",
+    "flrNo": "37",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1711",
+    "flrNo": "17",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2513",
+    "flrNo": "25",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2702",
+    "flrNo": "27",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "232",
+    "flrNo": "2",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "906",
+    "flrNo": "9",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2815",
+    "flrNo": "28",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1605",
+    "flrNo": "16",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1615",
+    "flrNo": "16",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1110",
+    "flrNo": "11",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1214",
+    "flrNo": "12",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1712",
+    "flrNo": "17",
+    "area": "61.357",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3804",
+    "flrNo": "38",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2605",
+    "flrNo": "26",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3613",
+    "flrNo": "36",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3806",
+    "flrNo": "38",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "606",
+    "flrNo": "6",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3512",
+    "flrNo": "35",
+    "area": "61.357",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "314",
+    "flrNo": "3",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "408",
+    "flrNo": "4",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1006",
+    "flrNo": "10",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1708",
+    "flrNo": "17",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3201",
+    "flrNo": "32",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "308",
+    "flrNo": "3",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2806",
+    "flrNo": "28",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3108",
+    "flrNo": "31",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3914",
+    "flrNo": "39",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "806",
+    "flrNo": "8",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4009",
+    "flrNo": "40",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "316",
+    "flrNo": "3",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3901",
+    "flrNo": "39",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2803",
+    "flrNo": "28",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4308",
+    "flrNo": "43",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2013",
+    "flrNo": "20",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1906",
+    "flrNo": "19",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3712",
+    "flrNo": "37",
+    "area": "61.357",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "807",
+    "flrNo": "8",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4301",
+    "flrNo": "43",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1905",
+    "flrNo": "19",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3303",
+    "flrNo": "33",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3609",
+    "flrNo": "36",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "215",
+    "flrNo": "2",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3105",
+    "flrNo": "31",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "614",
+    "flrNo": "6",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4112",
+    "flrNo": "41",
+    "area": "61.357",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2504",
+    "flrNo": "25",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "708",
+    "flrNo": "7",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2102",
+    "flrNo": "21",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2209",
+    "flrNo": "22",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3111",
+    "flrNo": "31",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4105",
+    "flrNo": "41",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "233",
+    "flrNo": "2",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4014",
+    "flrNo": "40",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2805",
+    "flrNo": "28",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2007",
+    "flrNo": "20",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1415",
+    "flrNo": "14",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "315",
+    "flrNo": "3",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2412",
+    "flrNo": "24",
+    "area": "61.357",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "909",
+    "flrNo": "9",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3704",
+    "flrNo": "37",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4013",
+    "flrNo": "40",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4309",
+    "flrNo": "43",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3606",
+    "flrNo": "36",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "419",
+    "flrNo": "4",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "237",
+    "flrNo": "2",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "424",
+    "flrNo": "4",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4104",
+    "flrNo": "41",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "211",
+    "flrNo": "2",
+    "area": "35.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1710",
+    "flrNo": "17",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1208",
+    "flrNo": "12",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1603",
+    "flrNo": "16",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2810",
+    "flrNo": "28",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "905",
+    "flrNo": "9",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1305",
+    "flrNo": "13",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3302",
+    "flrNo": "33",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "209",
+    "flrNo": "2",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2101",
+    "flrNo": "21",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2505",
+    "flrNo": "25",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3811",
+    "flrNo": "38",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4204",
+    "flrNo": "42",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3604",
+    "flrNo": "36",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "710",
+    "flrNo": "7",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4108",
+    "flrNo": "41",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2510",
+    "flrNo": "25",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2901",
+    "flrNo": "29",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3208",
+    "flrNo": "32",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "410",
+    "flrNo": "4",
+    "area": "35.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1005",
+    "flrNo": "10",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2302",
+    "flrNo": "23",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "714",
+    "flrNo": "7",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "227",
+    "flrNo": "2",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4306",
+    "flrNo": "43",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2602",
+    "flrNo": "26",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2113",
+    "flrNo": "21",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4312",
+    "flrNo": "43",
+    "area": "61.357",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1602",
+    "flrNo": "16",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1907",
+    "flrNo": "19",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2202",
+    "flrNo": "22",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "420",
+    "flrNo": "4",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1207",
+    "flrNo": "12",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "406",
+    "flrNo": "4",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2214",
+    "flrNo": "22",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3912",
+    "flrNo": "39",
+    "area": "61.357",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "223",
+    "flrNo": "2",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "427",
+    "flrNo": "4",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1515",
+    "flrNo": "15",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1701",
+    "flrNo": "17",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1209",
+    "flrNo": "12",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "428",
+    "flrNo": "4",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "313",
+    "flrNo": "3",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2509",
+    "flrNo": "25",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2611",
+    "flrNo": "26",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4302",
+    "flrNo": "43",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3304",
+    "flrNo": "33",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2306",
+    "flrNo": "23",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2501",
+    "flrNo": "25",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1413",
+    "flrNo": "14",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1206",
+    "flrNo": "12",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2405",
+    "flrNo": "24",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3307",
+    "flrNo": "33",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4307",
+    "flrNo": "43",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4212",
+    "flrNo": "42",
+    "area": "61.357",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1606",
+    "flrNo": "16",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "214",
+    "flrNo": "2",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3007",
+    "flrNo": "30",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4211",
+    "flrNo": "42",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2314",
+    "flrNo": "23",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2711",
+    "flrNo": "27",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "413",
+    "flrNo": "4",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3103",
+    "flrNo": "31",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4215",
+    "flrNo": "42",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2111",
+    "flrNo": "21",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2410",
+    "flrNo": "24",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "330",
+    "flrNo": "3",
+    "area": "46.068",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1115",
+    "flrNo": "11",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2808",
+    "flrNo": "28",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2001",
+    "flrNo": "20",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "B105",
+    "flrNo": "1",
+    "area": "80.24",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2703",
+    "flrNo": "27",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "338",
+    "flrNo": "3",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "B104",
+    "flrNo": "1",
+    "area": "80.83",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3809",
+    "flrNo": "38",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2804",
+    "flrNo": "28",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "417",
+    "flrNo": "4",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2503",
+    "flrNo": "25",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3305",
+    "flrNo": "33",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3511",
+    "flrNo": "35",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "236",
+    "flrNo": "2",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2512",
+    "flrNo": "25",
+    "area": "61.357",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1814",
+    "flrNo": "18",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "325",
+    "flrNo": "3",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3014",
+    "flrNo": "30",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3801",
+    "flrNo": "38",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4310",
+    "flrNo": "43",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2701",
+    "flrNo": "27",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "234",
+    "flrNo": "2",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1803",
+    "flrNo": "18",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4015",
+    "flrNo": "40",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "B101",
+    "flrNo": "1",
+    "area": "106.503",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "327",
+    "flrNo": "3",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3608",
+    "flrNo": "36",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2004",
+    "flrNo": "20",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "225",
+    "flrNo": "2",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2107",
+    "flrNo": "21",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4201",
+    "flrNo": "42",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "610",
+    "flrNo": "6",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3614",
+    "flrNo": "36",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1804",
+    "flrNo": "18",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1307",
+    "flrNo": "13",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "220",
+    "flrNo": "2",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1306",
+    "flrNo": "13",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3601",
+    "flrNo": "36",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4002",
+    "flrNo": "40",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "41.85",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2308",
+    "flrNo": "23",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "56.25",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3107",
+    "flrNo": "31",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2610",
+    "flrNo": "26",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1410",
+    "flrNo": "14",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1114",
+    "flrNo": "11",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3001",
+    "flrNo": "30",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4203",
+    "flrNo": "42",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2109",
+    "flrNo": "21",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "711",
+    "flrNo": "7",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "4315",
+    "flrNo": "43",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1912",
+    "flrNo": "19",
+    "area": "61.357",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2905",
+    "flrNo": "29",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1013",
+    "flrNo": "10",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "438",
+    "flrNo": "4",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3502",
+    "flrNo": "35",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2406",
+    "flrNo": "24",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1801",
+    "flrNo": "18",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "B111",
+    "flrNo": "1",
+    "area": "62.115",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3309",
+    "flrNo": "33",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "407",
+    "flrNo": "4",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2301",
+    "flrNo": "23",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3315",
+    "flrNo": "33",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "320",
+    "flrNo": "3",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "235",
+    "flrNo": "2",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3408",
+    "flrNo": "34",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2913",
+    "flrNo": "29",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2515",
+    "flrNo": "25",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2115",
+    "flrNo": "21",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1704",
+    "flrNo": "17",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "B110",
+    "flrNo": "1",
+    "area": "61.6",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2305",
+    "flrNo": "23",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3707",
+    "flrNo": "37",
+    "area": "84.971",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3605",
+    "flrNo": "36",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2315",
+    "flrNo": "23",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1215",
+    "flrNo": "12",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "908",
+    "flrNo": "9",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "813",
+    "flrNo": "8",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3009",
+    "flrNo": "30",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "329",
+    "flrNo": "3",
+    "area": "46.068",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "605",
+    "flrNo": "6",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3006",
+    "flrNo": "30",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "309",
+    "flrNo": "3",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2508",
+    "flrNo": "25",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "81.29",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "224",
+    "flrNo": "2",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2511",
+    "flrNo": "25",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "1611",
+    "flrNo": "16",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2601",
+    "flrNo": "26",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3015",
+    "flrNo": "30",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3206",
+    "flrNo": "32",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3514",
+    "flrNo": "35",
+    "area": "84.935",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "3708",
+    "flrNo": "37",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "706",
+    "flrNo": "7",
+    "area": "95.19",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "216",
+    "flrNo": "2",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "611",
+    "flrNo": "6",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "336",
+    "flrNo": "3",
+    "area": "33.331",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "타워베르빌",
+    "dongNm": null,
+    "hoNm": "2715",
+    "flrNo": "27",
+    "area": "84.814",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  }
+]

@@ -1,0 +1,7232 @@
+[
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "3303",
+    "flrNo": "33",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "2602",
+    "flrNo": "26",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "2605",
+    "flrNo": "26",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "3005",
+    "flrNo": "30",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "2601",
+    "flrNo": "26",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "1802",
+    "flrNo": "18",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "1701",
+    "flrNo": "17",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "3603",
+    "flrNo": "36",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "상가동",
+    "hoNm": "B202",
+    "flrNo": "2",
+    "area": "95.599",
+    "mainPurpsCd": "04001",
+    "mainPurpsCdNm": "일반음식점",
+    "etcPurps": "제2종근린생활시설(일반음식점)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "3304",
+    "flrNo": "33",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "3901",
+    "flrNo": "39",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "3804",
+    "flrNo": "38",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "3101",
+    "flrNo": "31",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "3401",
+    "flrNo": "34",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "상가동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "82.9062",
+    "mainPurpsCd": "03005",
+    "mainPurpsCdNm": "의원",
+    "etcPurps": "제1종근린생활시설(의원)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "3503",
+    "flrNo": "35",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "2902",
+    "flrNo": "29",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "3902",
+    "flrNo": "39",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "2503",
+    "flrNo": "25",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "2404",
+    "flrNo": "24",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "1903",
+    "flrNo": "19",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "2703",
+    "flrNo": "27",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "3001",
+    "flrNo": "30",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "3803",
+    "flrNo": "38",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "2303",
+    "flrNo": "23",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "2603",
+    "flrNo": "26",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "2905",
+    "flrNo": "29",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "2704",
+    "flrNo": "27",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "2401",
+    "flrNo": "24",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "3101",
+    "flrNo": "31",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "상가동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "68.2303",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "제1종근린생활시설(소매점)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "3504",
+    "flrNo": "35",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "3304",
+    "flrNo": "33",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "218",
+    "flrNo": "2",
+    "area": "23.453",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "317",
+    "flrNo": "3",
+    "area": "23.3635",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "3203",
+    "flrNo": "32",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "2303",
+    "flrNo": "23",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "2503",
+    "flrNo": "25",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "1604",
+    "flrNo": "16",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "3905",
+    "flrNo": "39",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "상가동",
+    "hoNm": "118",
+    "flrNo": "1",
+    "area": "54.15",
+    "mainPurpsCd": "04010",
+    "mainPurpsCdNm": "학원",
+    "etcPurps": "제2종근린생활시설(학원)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "3301",
+    "flrNo": "33",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "3703",
+    "flrNo": "37",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "1902",
+    "flrNo": "19",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "상가동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "60.587",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "제1종근린생활시설(소매점)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "2003",
+    "flrNo": "20",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "2004",
+    "flrNo": "20",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "3202",
+    "flrNo": "32",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "2401",
+    "flrNo": "24",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "1603",
+    "flrNo": "16",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "229",
+    "flrNo": "2",
+    "area": "23.453",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "1801",
+    "flrNo": "18",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "2902",
+    "flrNo": "29",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "3104",
+    "flrNo": "31",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "2604",
+    "flrNo": "26",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "2901",
+    "flrNo": "29",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "2202",
+    "flrNo": "22",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "3404",
+    "flrNo": "34",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "3301",
+    "flrNo": "33",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "23.453",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "2002",
+    "flrNo": "20",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "208",
+    "flrNo": "2",
+    "area": "43.461",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "206",
+    "flrNo": "2",
+    "area": "43.443",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "23.453",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "상가동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "92.646",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "제1종근린생활시설(소매점)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "1405",
+    "flrNo": "14",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "상가동",
+    "hoNm": "106",
+    "flrNo": "1",
+    "area": "63.0269",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "제1종근린생활시설(소매점)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "2505",
+    "flrNo": "25",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "3904",
+    "flrNo": "39",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "2801",
+    "flrNo": "28",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "3003",
+    "flrNo": "30",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "3004",
+    "flrNo": "30",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "2002",
+    "flrNo": "20",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "3402",
+    "flrNo": "34",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "3601",
+    "flrNo": "36",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "3401",
+    "flrNo": "34",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "3601",
+    "flrNo": "36",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "1804",
+    "flrNo": "18",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "1604",
+    "flrNo": "16",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "2804",
+    "flrNo": "28",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "310",
+    "flrNo": "3",
+    "area": "43.5032",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "2004",
+    "flrNo": "20",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "1602",
+    "flrNo": "16",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "3103",
+    "flrNo": "31",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "2804",
+    "flrNo": "28",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "2702",
+    "flrNo": "27",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "3102",
+    "flrNo": "31",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "1802",
+    "flrNo": "18",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "2901",
+    "flrNo": "29",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "3701",
+    "flrNo": "37",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "1701",
+    "flrNo": "17",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "3702",
+    "flrNo": "37",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "3004",
+    "flrNo": "30",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "3302",
+    "flrNo": "33",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "2403",
+    "flrNo": "24",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "3003",
+    "flrNo": "30",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "1505",
+    "flrNo": "15",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "3403",
+    "flrNo": "34",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "3704",
+    "flrNo": "37",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "3201",
+    "flrNo": "32",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "327",
+    "flrNo": "3",
+    "area": "23.453",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "2005",
+    "flrNo": "20",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "320",
+    "flrNo": "3",
+    "area": "23.453",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "2104",
+    "flrNo": "21",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "3302",
+    "flrNo": "33",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "1305",
+    "flrNo": "13",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "3204",
+    "flrNo": "32",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "328",
+    "flrNo": "3",
+    "area": "23.453",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "2701",
+    "flrNo": "27",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "222",
+    "flrNo": "2",
+    "area": "23.453",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "2702",
+    "flrNo": "27",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "3501",
+    "flrNo": "35",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "3502",
+    "flrNo": "35",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "3704",
+    "flrNo": "37",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "23.453",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "2402",
+    "flrNo": "24",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "2603",
+    "flrNo": "26",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "2203",
+    "flrNo": "22",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "1803",
+    "flrNo": "18",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "305",
+    "flrNo": "3",
+    "area": "43.4772",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "3501",
+    "flrNo": "35",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "224",
+    "flrNo": "2",
+    "area": "23.53",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "705",
+    "flrNo": "7",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "상가동",
+    "hoNm": "116",
+    "flrNo": "1",
+    "area": "88.6672",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "제1종근린생활시설(소매점)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "1604",
+    "flrNo": "16",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "2304",
+    "flrNo": "23",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "2903",
+    "flrNo": "29",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "3401",
+    "flrNo": "34",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "2402",
+    "flrNo": "24",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "3802",
+    "flrNo": "38",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "2502",
+    "flrNo": "25",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "2904",
+    "flrNo": "29",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "221",
+    "flrNo": "2",
+    "area": "23.453",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "2705",
+    "flrNo": "27",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "225",
+    "flrNo": "2",
+    "area": "43.5407",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "3604",
+    "flrNo": "36",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "2004",
+    "flrNo": "20",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "3102",
+    "flrNo": "31",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "3204",
+    "flrNo": "32",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "2601",
+    "flrNo": "26",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "3205",
+    "flrNo": "32",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "3103",
+    "flrNo": "31",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "3602",
+    "flrNo": "36",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "2303",
+    "flrNo": "23",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "2301",
+    "flrNo": "23",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "2203",
+    "flrNo": "22",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "2004",
+    "flrNo": "20",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "2802",
+    "flrNo": "28",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "215",
+    "flrNo": "2",
+    "area": "23.453",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "1803",
+    "flrNo": "18",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "상가동",
+    "hoNm": "B207",
+    "flrNo": "2",
+    "area": "86.6299",
+    "mainPurpsCd": "04001",
+    "mainPurpsCdNm": "일반음식점",
+    "etcPurps": "제2종근린생활시설(일반음식점)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "상가동",
+    "hoNm": "B209",
+    "flrNo": "2",
+    "area": "93.8799",
+    "mainPurpsCd": "04001",
+    "mainPurpsCdNm": "일반음식점",
+    "etcPurps": "제2종근린생활시설(일반음식점)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "3001",
+    "flrNo": "30",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "1704",
+    "flrNo": "17",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "3405",
+    "flrNo": "34",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "3903",
+    "flrNo": "39",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "3304",
+    "flrNo": "33",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "3602",
+    "flrNo": "36",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "2003",
+    "flrNo": "20",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "3002",
+    "flrNo": "30",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "326",
+    "flrNo": "3",
+    "area": "43.5032",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "2003",
+    "flrNo": "20",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "3705",
+    "flrNo": "37",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "2504",
+    "flrNo": "25",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "1802",
+    "flrNo": "18",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "1603",
+    "flrNo": "16",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "3503",
+    "flrNo": "35",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "3001",
+    "flrNo": "30",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "2302",
+    "flrNo": "23",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "1701",
+    "flrNo": "17",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "2103",
+    "flrNo": "21",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "상가동",
+    "hoNm": "B204",
+    "flrNo": "2",
+    "area": "67.2698",
+    "mainPurpsCd": "04001",
+    "mainPurpsCdNm": "일반음식점",
+    "etcPurps": "제2종근린생활시설(일반음식점)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "2102",
+    "flrNo": "21",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "상가동",
+    "hoNm": "115",
+    "flrNo": "1",
+    "area": "93.88",
+    "mainPurpsCd": "04010",
+    "mainPurpsCdNm": "학원",
+    "etcPurps": "제2종근린생활시설(학원)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "2704",
+    "flrNo": "27",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "207",
+    "flrNo": "2",
+    "area": "43.4916",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "3103",
+    "flrNo": "31",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "3704",
+    "flrNo": "37",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "1801",
+    "flrNo": "18",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "3501",
+    "flrNo": "35",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "1703",
+    "flrNo": "17",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "309",
+    "flrNo": "3",
+    "area": "43.5032",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "2404",
+    "flrNo": "24",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "312",
+    "flrNo": "3",
+    "area": "43.5032",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "상가동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "127.4203",
+    "mainPurpsCd": "03005",
+    "mainPurpsCdNm": "의원",
+    "etcPurps": "제1종근린생활시설(의원)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "2903",
+    "flrNo": "29",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "214",
+    "flrNo": "2",
+    "area": "23.453",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "2304",
+    "flrNo": "23",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "23.453",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "3901",
+    "flrNo": "39",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "3203",
+    "flrNo": "32",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "2704",
+    "flrNo": "27",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "23.453",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "2801",
+    "flrNo": "28",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "3703",
+    "flrNo": "37",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "311",
+    "flrNo": "3",
+    "area": "43.4724",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "2102",
+    "flrNo": "21",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "상가동",
+    "hoNm": "120",
+    "flrNo": "1",
+    "area": "27.5587",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "제1종근린생활시설(소매점)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "3204",
+    "flrNo": "32",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "상가동",
+    "hoNm": "112",
+    "flrNo": "1",
+    "area": "62.9426",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "제1종근린생활시설(소매점)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "1903",
+    "flrNo": "19",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "상가동",
+    "hoNm": "B210",
+    "flrNo": "2",
+    "area": "29.4875",
+    "mainPurpsCd": "04001",
+    "mainPurpsCdNm": "일반음식점",
+    "etcPurps": "제2종근린생활시설(일반음식점)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "상가동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "127.4243",
+    "mainPurpsCd": "03005",
+    "mainPurpsCdNm": "의원",
+    "etcPurps": "제1종근린생활시설(의원)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "3403",
+    "flrNo": "34",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "2305",
+    "flrNo": "23",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "2102",
+    "flrNo": "21",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "329",
+    "flrNo": "3",
+    "area": "43.5032",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "1804",
+    "flrNo": "18",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "3501",
+    "flrNo": "35",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "3603",
+    "flrNo": "36",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "1602",
+    "flrNo": "16",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "1904",
+    "flrNo": "19",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "3403",
+    "flrNo": "34",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "1901",
+    "flrNo": "19",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "2901",
+    "flrNo": "29",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "318",
+    "flrNo": "3",
+    "area": "23.453",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "1901",
+    "flrNo": "19",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "2204",
+    "flrNo": "22",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "3404",
+    "flrNo": "34",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "상가동",
+    "hoNm": "B201",
+    "flrNo": "2",
+    "area": "58.887",
+    "mainPurpsCd": "04001",
+    "mainPurpsCdNm": "일반음식점",
+    "etcPurps": "제2종근린생활시설(일반음식점)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "3504",
+    "flrNo": "35",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "3403",
+    "flrNo": "34",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "2204",
+    "flrNo": "22",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "1605",
+    "flrNo": "16",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "2104",
+    "flrNo": "21",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "3803",
+    "flrNo": "38",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "3003",
+    "flrNo": "30",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "3302",
+    "flrNo": "33",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "2904",
+    "flrNo": "29",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "상가동",
+    "hoNm": "119",
+    "flrNo": "1",
+    "area": "27.5587",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "제1종근린생활시설(소매점)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "1904",
+    "flrNo": "19",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "3901",
+    "flrNo": "39",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "2604",
+    "flrNo": "26",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "3002",
+    "flrNo": "30",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "2801",
+    "flrNo": "28",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "1904",
+    "flrNo": "19",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "2502",
+    "flrNo": "25",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "3602",
+    "flrNo": "36",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "2202",
+    "flrNo": "22",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "3702",
+    "flrNo": "37",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "3104",
+    "flrNo": "31",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "3502",
+    "flrNo": "35",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "3903",
+    "flrNo": "39",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "3201",
+    "flrNo": "32",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "2002",
+    "flrNo": "20",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "3503",
+    "flrNo": "35",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "2104",
+    "flrNo": "21",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "3502",
+    "flrNo": "35",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "1902",
+    "flrNo": "19",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "230",
+    "flrNo": "2",
+    "area": "43.5032",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "3404",
+    "flrNo": "34",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "1601",
+    "flrNo": "16",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "2204",
+    "flrNo": "22",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "2603",
+    "flrNo": "26",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "1801",
+    "flrNo": "18",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "223",
+    "flrNo": "2",
+    "area": "43.4262",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "3202",
+    "flrNo": "32",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "210",
+    "flrNo": "2",
+    "area": "43.5032",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "2504",
+    "flrNo": "25",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "3805",
+    "flrNo": "38",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "3604",
+    "flrNo": "36",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "3305",
+    "flrNo": "33",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "1604",
+    "flrNo": "16",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "316",
+    "flrNo": "3",
+    "area": "23.3635",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "2902",
+    "flrNo": "29",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "상가동",
+    "hoNm": "B206",
+    "flrNo": "2",
+    "area": "141.9",
+    "mainPurpsCd": "04001",
+    "mainPurpsCdNm": "일반음식점",
+    "etcPurps": "제2종근린생활시설(일반음식점)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "3601",
+    "flrNo": "36",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "상가동",
+    "hoNm": "B212",
+    "flrNo": "2",
+    "area": "54.15",
+    "mainPurpsCd": "04001",
+    "mainPurpsCdNm": "일반음식점",
+    "etcPurps": "제2종근린생활시설(일반음식점)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "2902",
+    "flrNo": "29",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "2301",
+    "flrNo": "23",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "23.453",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "3202",
+    "flrNo": "32",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "3704",
+    "flrNo": "37",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "2101",
+    "flrNo": "21",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "상가동",
+    "hoNm": "B215",
+    "flrNo": "2",
+    "area": "53.025",
+    "mainPurpsCd": "04001",
+    "mainPurpsCdNm": "일반음식점",
+    "etcPurps": "제2종근린생활시설(일반음식점)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "2504",
+    "flrNo": "25",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "217",
+    "flrNo": "2",
+    "area": "23.3635",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "209",
+    "flrNo": "2",
+    "area": "43.5032",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "3303",
+    "flrNo": "33",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "3603",
+    "flrNo": "36",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "2001",
+    "flrNo": "20",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "2805",
+    "flrNo": "28",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "2003",
+    "flrNo": "20",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "1601",
+    "flrNo": "16",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "3504",
+    "flrNo": "35",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "2104",
+    "flrNo": "21",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "2803",
+    "flrNo": "28",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "3203",
+    "flrNo": "32",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "2303",
+    "flrNo": "23",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "3503",
+    "flrNo": "35",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "상가동",
+    "hoNm": "107",
+    "flrNo": "1",
+    "area": "109.9543",
+    "mainPurpsCd": "04010",
+    "mainPurpsCdNm": "학원",
+    "etcPurps": "제2종근린생활시설(학원)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "1603",
+    "flrNo": "16",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "1205",
+    "flrNo": "12",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "2503",
+    "flrNo": "25",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "2701",
+    "flrNo": "27",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "3002",
+    "flrNo": "30",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "212",
+    "flrNo": "2",
+    "area": "43.5032",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "1902",
+    "flrNo": "19",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "3001",
+    "flrNo": "30",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "3002",
+    "flrNo": "30",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "2803",
+    "flrNo": "28",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "3502",
+    "flrNo": "35",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "3901",
+    "flrNo": "39",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "2801",
+    "flrNo": "28",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "2702",
+    "flrNo": "27",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "319",
+    "flrNo": "3",
+    "area": "23.453",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "3101",
+    "flrNo": "31",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "3802",
+    "flrNo": "38",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "상가동",
+    "hoNm": "122",
+    "flrNo": "1",
+    "area": "62.7455",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "제1종근린생활시설(소매점)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "2701",
+    "flrNo": "27",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "219",
+    "flrNo": "2",
+    "area": "23.453",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "1704",
+    "flrNo": "17",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "1903",
+    "flrNo": "19",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "315",
+    "flrNo": "3",
+    "area": "23.453",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "2501",
+    "flrNo": "25",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "2804",
+    "flrNo": "28",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "3702",
+    "flrNo": "37",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "2802",
+    "flrNo": "28",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "2804",
+    "flrNo": "28",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "1804",
+    "flrNo": "18",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "2204",
+    "flrNo": "22",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "308",
+    "flrNo": "3",
+    "area": "43.461",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "2201",
+    "flrNo": "22",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "3601",
+    "flrNo": "36",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "2304",
+    "flrNo": "23",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "1105",
+    "flrNo": "11",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "2001",
+    "flrNo": "20",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "3302",
+    "flrNo": "33",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "3301",
+    "flrNo": "33",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "2504",
+    "flrNo": "25",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "905",
+    "flrNo": "9",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "상가동",
+    "hoNm": "B208",
+    "flrNo": "2",
+    "area": "79.6842",
+    "mainPurpsCd": "04001",
+    "mainPurpsCdNm": "일반음식점",
+    "etcPurps": "제2종근린생활시설(일반음식점)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "2702",
+    "flrNo": "27",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "3104",
+    "flrNo": "31",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "2301",
+    "flrNo": "23",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "3104",
+    "flrNo": "31",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "3801",
+    "flrNo": "38",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "2703",
+    "flrNo": "27",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "3301",
+    "flrNo": "33",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "1805",
+    "flrNo": "18",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "상가동",
+    "hoNm": "108",
+    "flrNo": "1",
+    "area": "64.033",
+    "mainPurpsCd": "03005",
+    "mainPurpsCdNm": "의원",
+    "etcPurps": "제1종근린생활시설(의원)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "3402",
+    "flrNo": "34",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "1702",
+    "flrNo": "17",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "1702",
+    "flrNo": "17",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "상가동",
+    "hoNm": "121",
+    "flrNo": "1",
+    "area": "53.025",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "제1종근린생활시설(소매점)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "2802",
+    "flrNo": "28",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "상가동",
+    "hoNm": "123",
+    "flrNo": "1",
+    "area": "166.0224",
+    "mainPurpsCd": "04010",
+    "mainPurpsCdNm": "학원",
+    "etcPurps": "제2종근린생활시설(학원)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "2201",
+    "flrNo": "22",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "3904",
+    "flrNo": "39",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "3504",
+    "flrNo": "35",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "2302",
+    "flrNo": "23",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "2402",
+    "flrNo": "24",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "2103",
+    "flrNo": "21",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "3402",
+    "flrNo": "34",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "상가동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "62.39",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "제1종근린생활시설(소매점)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "23.453",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "2404",
+    "flrNo": "24",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "3904",
+    "flrNo": "39",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "3604",
+    "flrNo": "36",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "2803",
+    "flrNo": "28",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "2502",
+    "flrNo": "25",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "상가동",
+    "hoNm": "B203",
+    "flrNo": "2",
+    "area": "62.9433",
+    "mainPurpsCd": "04001",
+    "mainPurpsCdNm": "일반음식점",
+    "etcPurps": "제2종근린생활시설(일반음식점)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "1703",
+    "flrNo": "17",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "3903",
+    "flrNo": "39",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "2601",
+    "flrNo": "26",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "1005",
+    "flrNo": "10",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "3703",
+    "flrNo": "37",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "3801",
+    "flrNo": "38",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "상가동",
+    "hoNm": "105",
+    "flrNo": "1",
+    "area": "53.7642",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "제1종근린생활시설(소매점)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "314",
+    "flrNo": "3",
+    "area": "23.453",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "211",
+    "flrNo": "2",
+    "area": "43.4724",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "3801",
+    "flrNo": "38",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "2904",
+    "flrNo": "29",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "3101",
+    "flrNo": "31",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "3401",
+    "flrNo": "34",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "2202",
+    "flrNo": "22",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "2304",
+    "flrNo": "23",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "2602",
+    "flrNo": "26",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "3303",
+    "flrNo": "33",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "1803",
+    "flrNo": "18",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "2001",
+    "flrNo": "20",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "1905",
+    "flrNo": "19",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "3303",
+    "flrNo": "33",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "23.453",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "2503",
+    "flrNo": "25",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "1901",
+    "flrNo": "19",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "2401",
+    "flrNo": "24",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "2203",
+    "flrNo": "22",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "1904",
+    "flrNo": "19",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "3903",
+    "flrNo": "39",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "3004",
+    "flrNo": "30",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "2201",
+    "flrNo": "22",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "3802",
+    "flrNo": "38",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "3605",
+    "flrNo": "36",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "321",
+    "flrNo": "3",
+    "area": "23.453",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "227",
+    "flrNo": "2",
+    "area": "43.5032",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "2603",
+    "flrNo": "26",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "2405",
+    "flrNo": "24",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "1802",
+    "flrNo": "18",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "405",
+    "flrNo": "4",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "3105",
+    "flrNo": "31",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "상가동",
+    "hoNm": "B217",
+    "flrNo": "2",
+    "area": "50.2047",
+    "mainPurpsCd": "04001",
+    "mainPurpsCdNm": "일반음식점",
+    "etcPurps": "제2종근린생활시설(일반음식점)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "2301",
+    "flrNo": "23",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "3603",
+    "flrNo": "36",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "3003",
+    "flrNo": "30",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "2102",
+    "flrNo": "21",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "3204",
+    "flrNo": "32",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "1601",
+    "flrNo": "16",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "1903",
+    "flrNo": "19",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "3803",
+    "flrNo": "38",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "2602",
+    "flrNo": "26",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "2001",
+    "flrNo": "20",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "3202",
+    "flrNo": "32",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "805",
+    "flrNo": "8",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "3701",
+    "flrNo": "37",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "2002",
+    "flrNo": "20",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "2101",
+    "flrNo": "21",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "2403",
+    "flrNo": "24",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "3803",
+    "flrNo": "38",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "2904",
+    "flrNo": "29",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "1902",
+    "flrNo": "19",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "3505",
+    "flrNo": "35",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "2202",
+    "flrNo": "22",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "3801",
+    "flrNo": "38",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "2604",
+    "flrNo": "26",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "3701",
+    "flrNo": "37",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "226",
+    "flrNo": "2",
+    "area": "23.453",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "2501",
+    "flrNo": "25",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "2103",
+    "flrNo": "21",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "2501",
+    "flrNo": "25",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "상가동",
+    "hoNm": "110",
+    "flrNo": "1",
+    "area": "82.9064",
+    "mainPurpsCd": "03005",
+    "mainPurpsCdNm": "의원",
+    "etcPurps": "제1종근린생활시설(의원)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "313",
+    "flrNo": "3",
+    "area": "23.453",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "3402",
+    "flrNo": "34",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "2101",
+    "flrNo": "21",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "1701",
+    "flrNo": "17",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "307",
+    "flrNo": "3",
+    "area": "43.4916",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "3004",
+    "flrNo": "30",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "상가동",
+    "hoNm": "113",
+    "flrNo": "1",
+    "area": "83.028",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "제1종근린생활시설(소매점)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "2901",
+    "flrNo": "29",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "1602",
+    "flrNo": "16",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "1703",
+    "flrNo": "17",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "상가동",
+    "hoNm": "B211",
+    "flrNo": "2",
+    "area": "28.1102",
+    "mainPurpsCd": "04001",
+    "mainPurpsCdNm": "일반음식점",
+    "etcPurps": "제2종근린생활시설(일반음식점)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "322",
+    "flrNo": "3",
+    "area": "43.4262",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "상가동",
+    "hoNm": "B213",
+    "flrNo": "2",
+    "area": "27.5588",
+    "mainPurpsCd": "04001",
+    "mainPurpsCdNm": "일반음식점",
+    "etcPurps": "제2종근린생활시설(일반음식점)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "1705",
+    "flrNo": "17",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "2703",
+    "flrNo": "27",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "323",
+    "flrNo": "3",
+    "area": "23.53",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "3703",
+    "flrNo": "37",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "605",
+    "flrNo": "6",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "2604",
+    "flrNo": "26",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "3902",
+    "flrNo": "39",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "2103",
+    "flrNo": "21",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "3201",
+    "flrNo": "32",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "216",
+    "flrNo": "2",
+    "area": "23.3635",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "1602",
+    "flrNo": "16",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "2302",
+    "flrNo": "23",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "1704",
+    "flrNo": "17",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "3702",
+    "flrNo": "37",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "205",
+    "flrNo": "2",
+    "area": "43.4772",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "2302",
+    "flrNo": "23",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "3602",
+    "flrNo": "36",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "3203",
+    "flrNo": "32",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "2105",
+    "flrNo": "21",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "2703",
+    "flrNo": "27",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "2602",
+    "flrNo": "26",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "3102",
+    "flrNo": "31",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "1601",
+    "flrNo": "16",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "2601",
+    "flrNo": "26",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "2201",
+    "flrNo": "22",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "2903",
+    "flrNo": "29",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "1804",
+    "flrNo": "18",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "3804",
+    "flrNo": "38",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "3102",
+    "flrNo": "31",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "306",
+    "flrNo": "3",
+    "area": "43.443",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "505",
+    "flrNo": "5",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "2502",
+    "flrNo": "25",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "3404",
+    "flrNo": "34",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "상가동",
+    "hoNm": "114",
+    "flrNo": "1",
+    "area": "79.0737",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "제1종근린생활시설(소매점)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "2701",
+    "flrNo": "27",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "2404",
+    "flrNo": "24",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "3201",
+    "flrNo": "32",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "상가동",
+    "hoNm": "109",
+    "flrNo": "1",
+    "area": "148.8912",
+    "mainPurpsCd": "03005",
+    "mainPurpsCdNm": "의원",
+    "etcPurps": "제1종근린생활시설(의원)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "2803",
+    "flrNo": "28",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "1702",
+    "flrNo": "17",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "2101",
+    "flrNo": "21",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "상가동",
+    "hoNm": "117",
+    "flrNo": "1",
+    "area": "29.0842",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "제1종근린생활시설(소매점)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "3802",
+    "flrNo": "38",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "2501",
+    "flrNo": "25",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "3902",
+    "flrNo": "39",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "상가동",
+    "hoNm": "111",
+    "flrNo": "1",
+    "area": "84.232",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "제1종근린생활시설(소매점)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "2205",
+    "flrNo": "22",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "상가동",
+    "hoNm": "B214",
+    "flrNo": "2",
+    "area": "27.5588",
+    "mainPurpsCd": "04001",
+    "mainPurpsCdNm": "일반음식점",
+    "etcPurps": "제2종근린생활시설(일반음식점)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "1703",
+    "flrNo": "17",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "상가동",
+    "hoNm": "B205",
+    "flrNo": "2",
+    "area": "87.912",
+    "mainPurpsCd": "04001",
+    "mainPurpsCdNm": "일반음식점",
+    "etcPurps": "제2종근린생활시설(일반음식점)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "2403",
+    "flrNo": "24",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "3804",
+    "flrNo": "38",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "3904",
+    "flrNo": "39",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "2903",
+    "flrNo": "29",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "1702",
+    "flrNo": "17",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "228",
+    "flrNo": "2",
+    "area": "23.453",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "1801",
+    "flrNo": "18",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "3103",
+    "flrNo": "31",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "2402",
+    "flrNo": "24",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "3304",
+    "flrNo": "33",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "325",
+    "flrNo": "3",
+    "area": "23.453",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "3902",
+    "flrNo": "39",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "3804",
+    "flrNo": "38",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "1603",
+    "flrNo": "16",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "84.327",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "2403",
+    "flrNo": "24",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "213",
+    "flrNo": "2",
+    "area": "23.453",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "3604",
+    "flrNo": "36",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "104동",
+    "hoNm": "2802",
+    "flrNo": "28",
+    "area": "74.9213",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "102동",
+    "hoNm": "1704",
+    "flrNo": "17",
+    "area": "84.9925",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "1803",
+    "flrNo": "18",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "상가동",
+    "hoNm": "B216",
+    "flrNo": "2",
+    "area": "46.1502",
+    "mainPurpsCd": "04001",
+    "mainPurpsCdNm": "일반음식점",
+    "etcPurps": "제2종근린생활시설(일반음식점)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "324",
+    "flrNo": "3",
+    "area": "43.5407",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "상가동",
+    "hoNm": "B218",
+    "flrNo": "2",
+    "area": "50.6453",
+    "mainPurpsCd": "04001",
+    "mainPurpsCdNm": "일반음식점",
+    "etcPurps": "제2종근린생활시설(일반음식점)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "2203",
+    "flrNo": "22",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "2704",
+    "flrNo": "27",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "2401",
+    "flrNo": "24",
+    "area": "84.3949",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "오피스텔동",
+    "hoNm": "220",
+    "flrNo": "2",
+    "area": "23.453",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "1901",
+    "flrNo": "19",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "101동",
+    "hoNm": "3701",
+    "flrNo": "37",
+    "area": "84.8297",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "개금역금강펜테리움더스퀘어아파트",
+    "dongNm": "103동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "84.4932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  }
+]

@@ -1,0 +1,8092 @@
+[
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "104동",
+    "hoNm": "1402호",
+    "flrNo": "14",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "1807호",
+    "flrNo": "18",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "901호",
+    "flrNo": "9",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "112동",
+    "hoNm": "803호",
+    "flrNo": "8",
+    "area": "113.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "703호",
+    "flrNo": "7",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "1401호",
+    "flrNo": "14",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "112동",
+    "hoNm": "1501호",
+    "flrNo": "15",
+    "area": "113.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "507호",
+    "flrNo": "5",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "701호",
+    "flrNo": "7",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "112동",
+    "hoNm": "601호",
+    "flrNo": "6",
+    "area": "113.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "902호",
+    "flrNo": "9",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "2002호",
+    "flrNo": "20",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "101동",
+    "hoNm": "1001호",
+    "flrNo": "10",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "101동",
+    "hoNm": "602호",
+    "flrNo": "6",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "1701호",
+    "flrNo": "17",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "805호",
+    "flrNo": "8",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "112동",
+    "hoNm": "405호",
+    "flrNo": "4",
+    "area": "113.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "112동",
+    "hoNm": "1405호",
+    "flrNo": "14",
+    "area": "113.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "805호",
+    "flrNo": "8",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "112동",
+    "hoNm": "1402호",
+    "flrNo": "14",
+    "area": "113.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "104동",
+    "hoNm": "1301호",
+    "flrNo": "13",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "1302호",
+    "flrNo": "13",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "1002호",
+    "flrNo": "10",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "104동",
+    "hoNm": "1203호",
+    "flrNo": "12",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "1008호",
+    "flrNo": "10",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "1202호",
+    "flrNo": "12",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "2103호",
+    "flrNo": "21",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "101동",
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "1307호",
+    "flrNo": "13",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "707호",
+    "flrNo": "7",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "1701호",
+    "flrNo": "17",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "607호",
+    "flrNo": "6",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "905호",
+    "flrNo": "9",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "101동",
+    "hoNm": "1202호",
+    "flrNo": "12",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "1506호",
+    "flrNo": "15",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "1802호",
+    "flrNo": "18",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "107호",
+    "flrNo": "1",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "1803호",
+    "flrNo": "18",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "1802호",
+    "flrNo": "18",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "1303호",
+    "flrNo": "13",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "703호",
+    "flrNo": "7",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "1405호",
+    "flrNo": "14",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "1401호",
+    "flrNo": "14",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "1901호",
+    "flrNo": "19",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "104동",
+    "hoNm": "902호",
+    "flrNo": "9",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "603호",
+    "flrNo": "6",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "101동",
+    "hoNm": "903호",
+    "flrNo": "9",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "1602호",
+    "flrNo": "16",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "1605호",
+    "flrNo": "16",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "103동",
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "129.06",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "112동",
+    "hoNm": "1801호",
+    "flrNo": "18",
+    "area": "113.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "1201호",
+    "flrNo": "12",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "112동",
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "113.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "101동",
+    "hoNm": "405호",
+    "flrNo": "4",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "2201호",
+    "flrNo": "22",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "1302호",
+    "flrNo": "13",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "1501호",
+    "flrNo": "15",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "306호",
+    "flrNo": "3",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "1702호",
+    "flrNo": "17",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "1805호",
+    "flrNo": "18",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "1202호",
+    "flrNo": "12",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "105호",
+    "flrNo": "1",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "상가동",
+    "hoNm": "201호",
+    "flrNo": "3",
+    "area": "30.75",
+    "mainPurpsCd": "02004",
+    "mainPurpsCdNm": "생활편익시설",
+    "etcPurps": "생활편익시설"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "802호",
+    "flrNo": "8",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "1301호",
+    "flrNo": "13",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "103동",
+    "hoNm": "602호",
+    "flrNo": "6",
+    "area": "129.06",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "503호",
+    "flrNo": "5",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "1702호",
+    "flrNo": "17",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "112동",
+    "hoNm": "1602호",
+    "flrNo": "16",
+    "area": "113.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "2106호",
+    "flrNo": "21",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "상가동",
+    "hoNm": "303호",
+    "flrNo": "4",
+    "area": "48.36",
+    "mainPurpsCd": "02004",
+    "mainPurpsCdNm": "생활편익시설",
+    "etcPurps": "생활편익시설"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "104동",
+    "hoNm": "305호",
+    "flrNo": "3",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "101동",
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "101동",
+    "hoNm": "1302호",
+    "flrNo": "13",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "601호",
+    "flrNo": "6",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "1801호",
+    "flrNo": "18",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "101동",
+    "hoNm": "901호",
+    "flrNo": "9",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "1806호",
+    "flrNo": "18",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "1705호",
+    "flrNo": "17",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "1302호",
+    "flrNo": "13",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "1503호",
+    "flrNo": "15",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "1303호",
+    "flrNo": "13",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "1602호",
+    "flrNo": "16",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "1105호",
+    "flrNo": "11",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "1201호",
+    "flrNo": "12",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "1403호",
+    "flrNo": "14",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "306호",
+    "flrNo": "3",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "602호",
+    "flrNo": "6",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "104동",
+    "hoNm": "1202호",
+    "flrNo": "12",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "106호",
+    "flrNo": "1",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "상가동",
+    "hoNm": "206호",
+    "flrNo": "3",
+    "area": "29.25",
+    "mainPurpsCd": "02004",
+    "mainPurpsCdNm": "생활편익시설",
+    "etcPurps": "생활편익시설"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "1405호",
+    "flrNo": "14",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "705호",
+    "flrNo": "7",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "1102호",
+    "flrNo": "11",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "501호",
+    "flrNo": "5",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "706호",
+    "flrNo": "7",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "2003호",
+    "flrNo": "20",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "803호",
+    "flrNo": "8",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "1905호",
+    "flrNo": "19",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "1505호",
+    "flrNo": "15",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "603호",
+    "flrNo": "6",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "2203호",
+    "flrNo": "22",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "2201호",
+    "flrNo": "22",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "101동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "112동",
+    "hoNm": "1503호",
+    "flrNo": "15",
+    "area": "113.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "602호",
+    "flrNo": "6",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "903호",
+    "flrNo": "9",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "902호",
+    "flrNo": "9",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "2301호",
+    "flrNo": "23",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "104동",
+    "hoNm": "701호",
+    "flrNo": "7",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "1402호",
+    "flrNo": "14",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "101동",
+    "hoNm": "1503호",
+    "flrNo": "15",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "2101호",
+    "flrNo": "21",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "405호",
+    "flrNo": "4",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "803호",
+    "flrNo": "8",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "112동",
+    "hoNm": "1805호",
+    "flrNo": "18",
+    "area": "113.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "603호",
+    "flrNo": "6",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "101동",
+    "hoNm": "1203호",
+    "flrNo": "12",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "2005호",
+    "flrNo": "20",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "112동",
+    "hoNm": "205호",
+    "flrNo": "2",
+    "area": "113.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "603호",
+    "flrNo": "6",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "1901호",
+    "flrNo": "19",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "708호",
+    "flrNo": "7",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "112동",
+    "hoNm": "1202호",
+    "flrNo": "12",
+    "area": "113.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "1301호",
+    "flrNo": "13",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "1601호",
+    "flrNo": "16",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "103동",
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "129.06",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "505호",
+    "flrNo": "5",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "1801호",
+    "flrNo": "18",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "112동",
+    "hoNm": "1301호",
+    "flrNo": "13",
+    "area": "113.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "101동",
+    "hoNm": "1303호",
+    "flrNo": "13",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "112동",
+    "hoNm": "1605호",
+    "flrNo": "16",
+    "area": "113.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "2006호",
+    "flrNo": "20",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "1102호",
+    "flrNo": "11",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "101동",
+    "hoNm": "205호",
+    "flrNo": "2",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "605호",
+    "flrNo": "6",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "103동",
+    "hoNm": "1302호",
+    "flrNo": "13",
+    "area": "129.06",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "112동",
+    "hoNm": "901호",
+    "flrNo": "9",
+    "area": "113.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "906호",
+    "flrNo": "9",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "103동",
+    "hoNm": "905호",
+    "flrNo": "9",
+    "area": "129.06",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "702호",
+    "flrNo": "7",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "407호",
+    "flrNo": "4",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "112동",
+    "hoNm": "1002호",
+    "flrNo": "10",
+    "area": "113.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "1702호",
+    "flrNo": "17",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "1802호",
+    "flrNo": "18",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "1801호",
+    "flrNo": "18",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "1301호",
+    "flrNo": "13",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "1106호",
+    "flrNo": "11",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "103동",
+    "hoNm": "505호",
+    "flrNo": "5",
+    "area": "129.06",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "2002호",
+    "flrNo": "20",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "1807호",
+    "flrNo": "18",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "101동",
+    "hoNm": "1101호",
+    "flrNo": "11",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "1503호",
+    "flrNo": "15",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "104동",
+    "hoNm": "2102호",
+    "flrNo": "21",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "103동",
+    "hoNm": "603호",
+    "flrNo": "6",
+    "area": "129.06",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "1401호",
+    "flrNo": "14",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "206호",
+    "flrNo": "2",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "108호",
+    "flrNo": "1",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "2005호",
+    "flrNo": "20",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "1302호",
+    "flrNo": "13",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "103동",
+    "hoNm": "1403호",
+    "flrNo": "14",
+    "area": "129.06",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "1507호",
+    "flrNo": "15",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "상가동",
+    "hoNm": "102호",
+    "flrNo": "2",
+    "area": "40.5",
+    "mainPurpsCd": "02004",
+    "mainPurpsCdNm": "생활편익시설",
+    "etcPurps": "생활편익시설"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "104동",
+    "hoNm": "1501호",
+    "flrNo": "15",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "906호",
+    "flrNo": "9",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "1002호",
+    "flrNo": "10",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "807호",
+    "flrNo": "8",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "603호",
+    "flrNo": "6",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "1508호",
+    "flrNo": "15",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "104동",
+    "hoNm": "803호",
+    "flrNo": "8",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "601호",
+    "flrNo": "6",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "1206호",
+    "flrNo": "12",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "104동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "503호",
+    "flrNo": "5",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "605호",
+    "flrNo": "6",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "1207호",
+    "flrNo": "12",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "1707호",
+    "flrNo": "17",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "406호",
+    "flrNo": "4",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "2101호",
+    "flrNo": "21",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "상가동",
+    "hoNm": "222호",
+    "flrNo": "3",
+    "area": "22.72",
+    "mainPurpsCd": "02004",
+    "mainPurpsCdNm": "생활편익시설",
+    "etcPurps": "생활편익시설"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "1005호",
+    "flrNo": "10",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "2106호",
+    "flrNo": "21",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "109호",
+    "flrNo": "1",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "2402호",
+    "flrNo": "24",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "305호",
+    "flrNo": "3",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "1703호",
+    "flrNo": "17",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "104동",
+    "hoNm": "1701호",
+    "flrNo": "17",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "702호",
+    "flrNo": "7",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "905호",
+    "flrNo": "9",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "1705호",
+    "flrNo": "17",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "205호",
+    "flrNo": "2",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "1709호",
+    "flrNo": "17",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "1705호",
+    "flrNo": "17",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "1703호",
+    "flrNo": "17",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "103동",
+    "hoNm": "1303호",
+    "flrNo": "13",
+    "area": "129.06",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "105호",
+    "flrNo": "1",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "903호",
+    "flrNo": "9",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "112동",
+    "hoNm": "305호",
+    "flrNo": "3",
+    "area": "113.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "103동",
+    "hoNm": "1101호",
+    "flrNo": "11",
+    "area": "129.06",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "상가동",
+    "hoNm": "305호",
+    "flrNo": "4",
+    "area": "53.46",
+    "mainPurpsCd": "02004",
+    "mainPurpsCdNm": "생활편익시설",
+    "etcPurps": "생활편익시설"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "405호",
+    "flrNo": "4",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "1902호",
+    "flrNo": "19",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "1605호",
+    "flrNo": "16",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "1206호",
+    "flrNo": "12",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "2303호",
+    "flrNo": "23",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "상가동",
+    "hoNm": "216호",
+    "flrNo": "3",
+    "area": "18.7",
+    "mainPurpsCd": "04010",
+    "mainPurpsCdNm": "학원",
+    "etcPurps": "제2종근린생활시설(학원)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "103동",
+    "hoNm": "1305호",
+    "flrNo": "13",
+    "area": "129.06",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "2002호",
+    "flrNo": "20",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "907호",
+    "flrNo": "9",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "2203호",
+    "flrNo": "22",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "2006호",
+    "flrNo": "20",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "112동",
+    "hoNm": "703호",
+    "flrNo": "7",
+    "area": "113.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "2501호",
+    "flrNo": "25",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "101동",
+    "hoNm": "702호",
+    "flrNo": "7",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "112동",
+    "hoNm": "501호",
+    "flrNo": "5",
+    "area": "113.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "501호",
+    "flrNo": "5",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "상가동",
+    "hoNm": "207호",
+    "flrNo": "3",
+    "area": "15.59",
+    "mainPurpsCd": "02004",
+    "mainPurpsCdNm": "생활편익시설",
+    "etcPurps": "생활편익시설"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "703호",
+    "flrNo": "7",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "1201호",
+    "flrNo": "12",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "2303호",
+    "flrNo": "23",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "상가동",
+    "hoNm": "지하102호",
+    "flrNo": "1",
+    "area": "20.625",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "1405호",
+    "flrNo": "14",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "103동",
+    "hoNm": "1605호",
+    "flrNo": "16",
+    "area": "129.06",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "1607호",
+    "flrNo": "16",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "2502호",
+    "flrNo": "25",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "2105호",
+    "flrNo": "21",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "602호",
+    "flrNo": "6",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "206호",
+    "flrNo": "2",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "1402호",
+    "flrNo": "14",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "1406호",
+    "flrNo": "14",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "606호",
+    "flrNo": "6",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "104동",
+    "hoNm": "105호",
+    "flrNo": "1",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "1606호",
+    "flrNo": "16",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "상가동",
+    "hoNm": "지하103호",
+    "flrNo": "1",
+    "area": "20.625",
+    "mainPurpsCd": "02004",
+    "mainPurpsCdNm": "생활편익시설",
+    "etcPurps": "생활편익시설"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "112동",
+    "hoNm": "1102호",
+    "flrNo": "11",
+    "area": "113.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "1502호",
+    "flrNo": "15",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "103동",
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "129.06",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "806호",
+    "flrNo": "8",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "2005호",
+    "flrNo": "20",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "1501호",
+    "flrNo": "15",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "상가동",
+    "hoNm": "221호",
+    "flrNo": "3",
+    "area": "18.06",
+    "mainPurpsCd": "02004",
+    "mainPurpsCdNm": "생활편익시설",
+    "etcPurps": "생활편익시설"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "901호",
+    "flrNo": "9",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "1602호",
+    "flrNo": "16",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "104동",
+    "hoNm": "1101호",
+    "flrNo": "11",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "605호",
+    "flrNo": "6",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "908호",
+    "flrNo": "9",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "101동",
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "803호",
+    "flrNo": "8",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "1905호",
+    "flrNo": "19",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "1301호",
+    "flrNo": "13",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "902호",
+    "flrNo": "9",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "104동",
+    "hoNm": "1105호",
+    "flrNo": "11",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "1606호",
+    "flrNo": "16",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "607호",
+    "flrNo": "6",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "1801호",
+    "flrNo": "18",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "1303호",
+    "flrNo": "13",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "1607호",
+    "flrNo": "16",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "101동",
+    "hoNm": "1005호",
+    "flrNo": "10",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "1005호",
+    "flrNo": "10",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "101동",
+    "hoNm": "1301호",
+    "flrNo": "13",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "703호",
+    "flrNo": "7",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "103동",
+    "hoNm": "1502호",
+    "flrNo": "15",
+    "area": "129.06",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "103동",
+    "hoNm": "1703호",
+    "flrNo": "17",
+    "area": "129.06",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "2002호",
+    "flrNo": "20",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "1707호",
+    "flrNo": "17",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "103동",
+    "hoNm": "503층",
+    "flrNo": "5",
+    "area": "129.06",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "601호",
+    "flrNo": "6",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "1101호",
+    "flrNo": "11",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "902호",
+    "flrNo": "9",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "103동",
+    "hoNm": "1603호",
+    "flrNo": "16",
+    "area": "129.06",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "1806호",
+    "flrNo": "18",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "2105호",
+    "flrNo": "21",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "1203호",
+    "flrNo": "12",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "2101호",
+    "flrNo": "21",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "905호",
+    "flrNo": "9",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "1402호",
+    "flrNo": "14",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "806호",
+    "flrNo": "8",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "305호",
+    "flrNo": "3",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "1906호",
+    "flrNo": "19",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "상가동",
+    "hoNm": "301호",
+    "flrNo": "4",
+    "area": "112.25",
+    "mainPurpsCd": "02004",
+    "mainPurpsCdNm": "생활편익시설",
+    "etcPurps": "생활편익시설"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "103동",
+    "hoNm": "601호",
+    "flrNo": "6",
+    "area": "129.06",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "상가동",
+    "hoNm": "308호",
+    "flrNo": "4",
+    "area": "110.9",
+    "mainPurpsCd": "04010",
+    "mainPurpsCdNm": "학원",
+    "etcPurps": "생활편익시설(미술학원)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "101동",
+    "hoNm": "1603호",
+    "flrNo": "16",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "803호",
+    "flrNo": "8",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "112동",
+    "hoNm": "905호",
+    "flrNo": "9",
+    "area": "113.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "2405호",
+    "flrNo": "24",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "103동",
+    "hoNm": "805호",
+    "flrNo": "8",
+    "area": "129.06",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "1203호",
+    "flrNo": "12",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "1202호",
+    "flrNo": "12",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "103동",
+    "hoNm": "105호",
+    "flrNo": "1",
+    "area": "129.06",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "1007호",
+    "flrNo": "10",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "112동",
+    "hoNm": "701호",
+    "flrNo": "7",
+    "area": "113.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "305호",
+    "flrNo": "3",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "605호",
+    "flrNo": "6",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "1805호",
+    "flrNo": "18",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "103동",
+    "hoNm": "901호",
+    "flrNo": "9",
+    "area": "129.06",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "608호",
+    "flrNo": "6",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "2003호",
+    "flrNo": "20",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "407호",
+    "flrNo": "4",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "2001호",
+    "flrNo": "20",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "101동",
+    "hoNm": "1402호",
+    "flrNo": "14",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "1503호",
+    "flrNo": "15",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "101동",
+    "hoNm": "1801호",
+    "flrNo": "18",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "1003호",
+    "flrNo": "10",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "405호",
+    "flrNo": "4",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "1406호",
+    "flrNo": "14",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "1402호",
+    "flrNo": "14",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "2001호",
+    "flrNo": "20",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "2302호",
+    "flrNo": "23",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "103동",
+    "hoNm": "1602호",
+    "flrNo": "16",
+    "area": "129.06",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "2102호",
+    "flrNo": "21",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "2202호",
+    "flrNo": "22",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "101동",
+    "hoNm": "605호",
+    "flrNo": "6",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "112동",
+    "hoNm": "1302호",
+    "flrNo": "13",
+    "area": "113.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "1901호",
+    "flrNo": "19",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "1706호",
+    "flrNo": "17",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "1103호",
+    "flrNo": "11",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "상가동",
+    "hoNm": "302호",
+    "flrNo": "4",
+    "area": "84",
+    "mainPurpsCd": "04010",
+    "mainPurpsCdNm": "학원",
+    "etcPurps": "제2종근린생활시설(학원)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "상가동",
+    "hoNm": "지하104호",
+    "flrNo": "1",
+    "area": "30",
+    "mainPurpsCd": "02004",
+    "mainPurpsCdNm": "생활편익시설",
+    "etcPurps": "생활편익시설"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "1502호",
+    "flrNo": "15",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "104동",
+    "hoNm": "703호",
+    "flrNo": "7",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "104동",
+    "hoNm": "1703호",
+    "flrNo": "17",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "104동",
+    "hoNm": "1003호",
+    "flrNo": "10",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "112동",
+    "hoNm": "1505호",
+    "flrNo": "15",
+    "area": "113.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "807호",
+    "flrNo": "8",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "305호",
+    "flrNo": "3",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "1105호",
+    "flrNo": "11",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "1302호",
+    "flrNo": "13",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "1003호",
+    "flrNo": "10",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "505호",
+    "flrNo": "5",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "2505호",
+    "flrNo": "25",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "1002호",
+    "flrNo": "10",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "308호",
+    "flrNo": "3",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "207호",
+    "flrNo": "2",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "802호",
+    "flrNo": "8",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "104동",
+    "hoNm": "1103호",
+    "flrNo": "11",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "1005호",
+    "flrNo": "10",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "305호",
+    "flrNo": "3",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "1009호",
+    "flrNo": "10",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "2302호",
+    "flrNo": "23",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "702호",
+    "flrNo": "7",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "1305호",
+    "flrNo": "13",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "107호",
+    "flrNo": "1",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "1205호",
+    "flrNo": "12",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "1501호",
+    "flrNo": "15",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "103동",
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "129.06",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "104동",
+    "hoNm": "705호",
+    "flrNo": "7",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "1507호",
+    "flrNo": "15",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "1101호",
+    "flrNo": "11",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "103동",
+    "hoNm": "1503호",
+    "flrNo": "15",
+    "area": "129.06",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "709호",
+    "flrNo": "7",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "605호",
+    "flrNo": "6",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "112동",
+    "hoNm": "1502호",
+    "flrNo": "15",
+    "area": "113.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "101동",
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "2007호",
+    "flrNo": "20",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "1703호",
+    "flrNo": "17",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "103동",
+    "hoNm": "605호",
+    "flrNo": "6",
+    "area": "129.06",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "205호",
+    "flrNo": "2",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "1006호",
+    "flrNo": "10",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "2101호",
+    "flrNo": "21",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "103동",
+    "hoNm": "405호",
+    "flrNo": "4",
+    "area": "129.06",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "1601호",
+    "flrNo": "16",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "2203호",
+    "flrNo": "22",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "112동",
+    "hoNm": "1403호",
+    "flrNo": "14",
+    "area": "113.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "906호",
+    "flrNo": "9",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "703호",
+    "flrNo": "7",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "1505호",
+    "flrNo": "15",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "407호",
+    "flrNo": "4",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "1001호",
+    "flrNo": "10",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "903호",
+    "flrNo": "9",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "1705호",
+    "flrNo": "17",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "112동",
+    "hoNm": "1701호",
+    "flrNo": "17",
+    "area": "113.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "1403호",
+    "flrNo": "14",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "1902호",
+    "flrNo": "19",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "1802호",
+    "flrNo": "18",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "1903호",
+    "flrNo": "19",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "1807호",
+    "flrNo": "18",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "1503호",
+    "flrNo": "15",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "1705호",
+    "flrNo": "17",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "1203호",
+    "flrNo": "12",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "607호",
+    "flrNo": "6",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "1601호",
+    "flrNo": "16",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "1306호",
+    "flrNo": "13",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "103동",
+    "hoNm": "1102호",
+    "flrNo": "11",
+    "area": "129.06",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "803호",
+    "flrNo": "8",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "802호",
+    "flrNo": "8",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "104동",
+    "hoNm": "1602호",
+    "flrNo": "16",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "1407호",
+    "flrNo": "14",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "1506호",
+    "flrNo": "15",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "101동",
+    "hoNm": "1305호",
+    "flrNo": "13",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "1406호",
+    "flrNo": "14",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "101동",
+    "hoNm": "1803호",
+    "flrNo": "18",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "205호",
+    "flrNo": "2",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "805호",
+    "flrNo": "8",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "2103호",
+    "flrNo": "21",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "상가동",
+    "hoNm": "208호",
+    "flrNo": "3",
+    "area": "15.59",
+    "mainPurpsCd": "02004",
+    "mainPurpsCdNm": "생활편익시설",
+    "etcPurps": "생활편익시설"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "101동",
+    "hoNm": "1701호",
+    "flrNo": "17",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "2001호",
+    "flrNo": "20",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "1602호",
+    "flrNo": "16",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "104동",
+    "hoNm": "1102호",
+    "flrNo": "11",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "1601호",
+    "flrNo": "16",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "1303호",
+    "flrNo": "13",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "802호",
+    "flrNo": "8",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "1809호",
+    "flrNo": "18",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "1203호",
+    "flrNo": "12",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "1309호",
+    "flrNo": "13",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "1603호",
+    "flrNo": "16",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "1703호",
+    "flrNo": "17",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "808호",
+    "flrNo": "8",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "1505호",
+    "flrNo": "15",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "104동",
+    "hoNm": "1601호",
+    "flrNo": "16",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "101동",
+    "hoNm": "1805호",
+    "flrNo": "18",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "903호",
+    "flrNo": "9",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "1705호",
+    "flrNo": "17",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "509호",
+    "flrNo": "5",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "505호",
+    "flrNo": "5",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "206호",
+    "flrNo": "2",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "1303호",
+    "flrNo": "13",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "207호",
+    "flrNo": "2",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "1501호",
+    "flrNo": "15",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "601호",
+    "flrNo": "6",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "상가동",
+    "hoNm": "304-1호",
+    "flrNo": "4",
+    "area": "30.24",
+    "mainPurpsCd": "02004",
+    "mainPurpsCdNm": "생활편익시설",
+    "etcPurps": "생활편익시설"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "2007호",
+    "flrNo": "20",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "1408호",
+    "flrNo": "14",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "104동",
+    "hoNm": "603호",
+    "flrNo": "6",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "112동",
+    "hoNm": "1702호",
+    "flrNo": "17",
+    "area": "113.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "1201호",
+    "flrNo": "12",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "1701호",
+    "flrNo": "17",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "1607호",
+    "flrNo": "16",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "1202호",
+    "flrNo": "12",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "1401호",
+    "flrNo": "14",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "1101호",
+    "flrNo": "11",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "112동",
+    "hoNm": "105호",
+    "flrNo": "1",
+    "area": "113.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "107호",
+    "flrNo": "1",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "702호",
+    "flrNo": "7",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "104동",
+    "hoNm": "1403호",
+    "flrNo": "14",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "104동",
+    "hoNm": "802호",
+    "flrNo": "8",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "2302호",
+    "flrNo": "23",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "2005호",
+    "flrNo": "20",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "503호",
+    "flrNo": "5",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "상가동",
+    "hoNm": "104호",
+    "flrNo": "2",
+    "area": "26.23",
+    "mainPurpsCd": "02004",
+    "mainPurpsCdNm": "생활편익시설",
+    "etcPurps": "생활편익시설"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "112동",
+    "hoNm": "1005호",
+    "flrNo": "10",
+    "area": "113.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "2005호",
+    "flrNo": "20",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "1307호",
+    "flrNo": "13",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "112동",
+    "hoNm": "1603호",
+    "flrNo": "16",
+    "area": "113.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "1002호",
+    "flrNo": "10",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "405호",
+    "flrNo": "4",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "1905호",
+    "flrNo": "19",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "1606호",
+    "flrNo": "16",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "307호",
+    "flrNo": "3",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "806호",
+    "flrNo": "8",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "1107호",
+    "flrNo": "11",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "1806호",
+    "flrNo": "18",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "101동",
+    "hoNm": "1201호",
+    "flrNo": "12",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "409호",
+    "flrNo": "4",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "101동",
+    "hoNm": "505호",
+    "flrNo": "5",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "1503호",
+    "flrNo": "15",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "상가동",
+    "hoNm": "220호",
+    "flrNo": "3",
+    "area": "27",
+    "mainPurpsCd": "02006",
+    "mainPurpsCdNm": "복리시설",
+    "etcPurps": "제2종근린생활시설(학원)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "1801호",
+    "flrNo": "18",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "207호",
+    "flrNo": "2",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "503호",
+    "flrNo": "5",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "107호",
+    "flrNo": "1",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "1205호",
+    "flrNo": "12",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "1001호",
+    "flrNo": "10",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "2105호",
+    "flrNo": "21",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "1203호",
+    "flrNo": "12",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "1701호",
+    "flrNo": "17",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "2203호",
+    "flrNo": "22",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "705호",
+    "flrNo": "7",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "1003호",
+    "flrNo": "10",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "1902호",
+    "flrNo": "19",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "601호",
+    "flrNo": "6",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "1808호",
+    "flrNo": "18",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "2205호",
+    "flrNo": "22",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "1403호",
+    "flrNo": "14",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "802호",
+    "flrNo": "8",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "1805호",
+    "flrNo": "18",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "2201호",
+    "flrNo": "22",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "501호",
+    "flrNo": "5",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "1506호",
+    "flrNo": "15",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "2003호",
+    "flrNo": "20",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "104동",
+    "hoNm": "903호",
+    "flrNo": "9",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "1702호",
+    "flrNo": "17",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "2001호",
+    "flrNo": "20",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "103동",
+    "hoNm": "1005호",
+    "flrNo": "10",
+    "area": "129.06",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "601호",
+    "flrNo": "6",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "1301호",
+    "flrNo": "13",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "406호",
+    "flrNo": "4",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "601호",
+    "flrNo": "6",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "1209호",
+    "flrNo": "12",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "2105호",
+    "flrNo": "21",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "1001호",
+    "flrNo": "10",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "상가동",
+    "hoNm": "218호",
+    "flrNo": "3",
+    "area": "18.06",
+    "mainPurpsCd": "02004",
+    "mainPurpsCdNm": "생활편익시설",
+    "etcPurps": "생활편익시설"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "903호",
+    "flrNo": "9",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "103동",
+    "hoNm": "1402호",
+    "flrNo": "14",
+    "area": "129.06",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "101동",
+    "hoNm": "802호",
+    "flrNo": "8",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "901호",
+    "flrNo": "9",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "307호",
+    "flrNo": "3",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "112동",
+    "hoNm": "1001호",
+    "flrNo": "10",
+    "area": "113.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "1002호",
+    "flrNo": "10",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "1407호",
+    "flrNo": "14",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "1007호",
+    "flrNo": "10",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "103동",
+    "hoNm": "305호",
+    "flrNo": "3",
+    "area": "129.06",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "1302호",
+    "flrNo": "13",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "1502호",
+    "flrNo": "15",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "207호",
+    "flrNo": "2",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "306호",
+    "flrNo": "3",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "2003호",
+    "flrNo": "20",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "1707호",
+    "flrNo": "17",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "902호",
+    "flrNo": "9",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "상가동",
+    "hoNm": "306호",
+    "flrNo": "4",
+    "area": "74.88",
+    "mainPurpsCd": "04010",
+    "mainPurpsCdNm": "학원",
+    "etcPurps": "생활편익시설(미술학원)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "104동",
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "103동",
+    "hoNm": "1705호",
+    "flrNo": "17",
+    "area": "129.06",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "103동",
+    "hoNm": "1601호",
+    "flrNo": "16",
+    "area": "129.06",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "1706호",
+    "flrNo": "17",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "1102호",
+    "flrNo": "11",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "2502호",
+    "flrNo": "25",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "101동",
+    "hoNm": "801호",
+    "flrNo": "8",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "1103호",
+    "flrNo": "11",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "1102호",
+    "flrNo": "11",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "1002호",
+    "flrNo": "10",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "2205호",
+    "flrNo": "22",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "104동",
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "406호",
+    "flrNo": "4",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "2403호",
+    "flrNo": "24",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "1603호",
+    "flrNo": "16",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "1108호",
+    "flrNo": "11",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "1401호",
+    "flrNo": "14",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "104동",
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "101동",
+    "hoNm": "1002호",
+    "flrNo": "10",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "1902호",
+    "flrNo": "19",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "상가동",
+    "hoNm": "202호",
+    "flrNo": "3",
+    "area": "30.75",
+    "mainPurpsCd": "04040",
+    "mainPurpsCdNm": "교습소",
+    "etcPurps": "제2종근린생활시설(교습소)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "806호",
+    "flrNo": "8",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "2101호",
+    "flrNo": "21",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "1605호",
+    "flrNo": "16",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "1006호",
+    "flrNo": "10",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "805호",
+    "flrNo": "8",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "2003호",
+    "flrNo": "20",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "1905호",
+    "flrNo": "19",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "1006호",
+    "flrNo": "10",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "209호",
+    "flrNo": "2",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "1208호",
+    "flrNo": "12",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "903호",
+    "flrNo": "9",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "702호",
+    "flrNo": "7",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "2206호",
+    "flrNo": "22",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "1205호",
+    "flrNo": "12",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "1601호",
+    "flrNo": "16",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "101동",
+    "hoNm": "1405호",
+    "flrNo": "14",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "903호",
+    "flrNo": "9",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "104동",
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "1106호",
+    "flrNo": "11",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "2002호",
+    "flrNo": "20",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "1502호",
+    "flrNo": "15",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "1102호",
+    "flrNo": "11",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "1307호",
+    "flrNo": "13",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "1005호",
+    "flrNo": "10",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "903호",
+    "flrNo": "9",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "205호",
+    "flrNo": "2",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "101동",
+    "hoNm": "1705호",
+    "flrNo": "17",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "1501호",
+    "flrNo": "15",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "104동",
+    "hoNm": "805호",
+    "flrNo": "8",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "104동",
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "1702호",
+    "flrNo": "17",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "1402호",
+    "flrNo": "14",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "406호",
+    "flrNo": "4",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "1201호",
+    "flrNo": "12",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "103동",
+    "hoNm": "1105호",
+    "flrNo": "11",
+    "area": "129.06",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "1301호",
+    "flrNo": "13",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "104동",
+    "hoNm": "1303호",
+    "flrNo": "13",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "2301호",
+    "flrNo": "23",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "2305호",
+    "flrNo": "23",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "2202호",
+    "flrNo": "22",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "101동",
+    "hoNm": "1703호",
+    "flrNo": "17",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "2007호",
+    "flrNo": "20",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "1405호",
+    "flrNo": "14",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "103동",
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "129.06",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "905호",
+    "flrNo": "9",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "1303호",
+    "flrNo": "13",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "104동",
+    "hoNm": "1802호",
+    "flrNo": "18",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "1407호",
+    "flrNo": "14",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "1802호",
+    "flrNo": "18",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "101동",
+    "hoNm": "705호",
+    "flrNo": "7",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "2205호",
+    "flrNo": "22",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "112동",
+    "hoNm": "902호",
+    "flrNo": "9",
+    "area": "113.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "2102호",
+    "flrNo": "21",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "112동",
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "113.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "1206호",
+    "flrNo": "12",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "104동",
+    "hoNm": "801호",
+    "flrNo": "8",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "103동",
+    "hoNm": "1203호",
+    "flrNo": "12",
+    "area": "129.06",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "101동",
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "1903호",
+    "flrNo": "19",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "1606호",
+    "flrNo": "16",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "2007호",
+    "flrNo": "20",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "103동",
+    "hoNm": "1803호",
+    "flrNo": "18",
+    "area": "129.06",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "104동",
+    "hoNm": "905호",
+    "flrNo": "9",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "상가동",
+    "hoNm": "105호",
+    "flrNo": "2",
+    "area": "32.94",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "생활편익시설(제과점)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "103동",
+    "hoNm": "702호",
+    "flrNo": "7",
+    "area": "129.06",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "1303호",
+    "flrNo": "13",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "상가동",
+    "hoNm": "224호",
+    "flrNo": "3",
+    "area": "18.7",
+    "mainPurpsCd": "02004",
+    "mainPurpsCdNm": "생활편익시설",
+    "etcPurps": "생활편익시설"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "1902호",
+    "flrNo": "19",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "2103호",
+    "flrNo": "21",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "905호",
+    "flrNo": "9",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "206호",
+    "flrNo": "2",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "2102호",
+    "flrNo": "21",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "112동",
+    "hoNm": "1203호",
+    "flrNo": "12",
+    "area": "113.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "103동",
+    "hoNm": "1701호",
+    "flrNo": "17",
+    "area": "129.06",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "1605호",
+    "flrNo": "16",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "802호",
+    "flrNo": "8",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "1305호",
+    "flrNo": "13",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "101동",
+    "hoNm": "1702호",
+    "flrNo": "17",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "307호",
+    "flrNo": "3",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "1202호",
+    "flrNo": "12",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "1401호",
+    "flrNo": "14",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "103동",
+    "hoNm": "801호",
+    "flrNo": "8",
+    "area": "129.06",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "606호",
+    "flrNo": "6",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "1605호",
+    "flrNo": "16",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "1603호",
+    "flrNo": "16",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "상가동",
+    "hoNm": "307호",
+    "flrNo": "4",
+    "area": "74.88",
+    "mainPurpsCd": "04010",
+    "mainPurpsCdNm": "학원",
+    "etcPurps": "제2종근린생활시설(학원)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "503호",
+    "flrNo": "5",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "603호",
+    "flrNo": "6",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "2107호",
+    "flrNo": "21",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "상가동",
+    "hoNm": "304호",
+    "flrNo": "4",
+    "area": "58.5",
+    "mainPurpsCd": "02004",
+    "mainPurpsCdNm": "생활편익시설",
+    "etcPurps": "생활편익시설"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "2105호",
+    "flrNo": "21",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "905호",
+    "flrNo": "9",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "405호",
+    "flrNo": "4",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "305호",
+    "flrNo": "3",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "2102호",
+    "flrNo": "21",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "2303호",
+    "flrNo": "23",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "1205호",
+    "flrNo": "12",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "905호",
+    "flrNo": "9",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "1907호",
+    "flrNo": "19",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "상가동",
+    "hoNm": "지하103-1호",
+    "flrNo": "1",
+    "area": "20.625",
+    "mainPurpsCd": "02004",
+    "mainPurpsCdNm": "생활편익시설",
+    "etcPurps": "생활편익시설"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "101동",
+    "hoNm": "1802호",
+    "flrNo": "18",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "104동",
+    "hoNm": "1503호",
+    "flrNo": "15",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "1101호",
+    "flrNo": "11",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "2002호",
+    "flrNo": "20",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "1403호",
+    "flrNo": "14",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "상가동",
+    "hoNm": "105-1호",
+    "flrNo": "2",
+    "area": "19.52",
+    "mainPurpsCd": "04403",
+    "mainPurpsCdNm": "부동산중개업소",
+    "etcPurps": "제2종근린생활시설(부동산중개업소)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "2103호",
+    "flrNo": "21",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "901호",
+    "flrNo": "9",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "505호",
+    "flrNo": "5",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "605호",
+    "flrNo": "6",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "1002호",
+    "flrNo": "10",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "807호",
+    "flrNo": "8",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "2101호",
+    "flrNo": "21",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "101동",
+    "hoNm": "1105호",
+    "flrNo": "11",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "407호",
+    "flrNo": "4",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "1903호",
+    "flrNo": "19",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "707호",
+    "flrNo": "7",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "2302호",
+    "flrNo": "23",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "101동",
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "1706호",
+    "flrNo": "17",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "2202호",
+    "flrNo": "22",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "104동",
+    "hoNm": "1803호",
+    "flrNo": "18",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "2005호",
+    "flrNo": "20",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "1805호",
+    "flrNo": "18",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "1802호",
+    "flrNo": "18",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "1901호",
+    "flrNo": "19",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "2107호",
+    "flrNo": "21",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "1905호",
+    "flrNo": "19",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "104동",
+    "hoNm": "901호",
+    "flrNo": "9",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "1001호",
+    "flrNo": "10",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "501호",
+    "flrNo": "5",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "101동",
+    "hoNm": "902호",
+    "flrNo": "9",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "101동",
+    "hoNm": "1602호",
+    "flrNo": "16",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "701호",
+    "flrNo": "7",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "902호",
+    "flrNo": "9",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "2105호",
+    "flrNo": "21",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "702호",
+    "flrNo": "7",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "706호",
+    "flrNo": "7",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "701호",
+    "flrNo": "7",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "2202호",
+    "flrNo": "22",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "507호",
+    "flrNo": "5",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "1103호",
+    "flrNo": "11",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "607호",
+    "flrNo": "6",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "701호",
+    "flrNo": "7",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "605호",
+    "flrNo": "6",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "801호",
+    "flrNo": "8",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "112동",
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "113.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "105호",
+    "flrNo": "1",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "1502호",
+    "flrNo": "15",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "1701호",
+    "flrNo": "17",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "1501호",
+    "flrNo": "15",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "2103호",
+    "flrNo": "21",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "309호",
+    "flrNo": "3",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "1907호",
+    "flrNo": "19",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "503호",
+    "flrNo": "5",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "2006호",
+    "flrNo": "20",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "1007호",
+    "flrNo": "10",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "112동",
+    "hoNm": "705호",
+    "flrNo": "7",
+    "area": "113.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "104동",
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "103동",
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "129.06",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "112동",
+    "hoNm": "1703호",
+    "flrNo": "17",
+    "area": "113.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "609호",
+    "flrNo": "6",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "705호",
+    "flrNo": "7",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "2001호",
+    "flrNo": "20",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "801호",
+    "flrNo": "8",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "104동",
+    "hoNm": "1302호",
+    "flrNo": "13",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "702호",
+    "flrNo": "7",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "506호",
+    "flrNo": "5",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "1405호",
+    "flrNo": "14",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "101동",
+    "hoNm": "305호",
+    "flrNo": "3",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "1905호",
+    "flrNo": "19",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "1005호",
+    "flrNo": "10",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "2107호",
+    "flrNo": "21",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "1101호",
+    "flrNo": "11",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "1103호",
+    "flrNo": "11",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "105호",
+    "flrNo": "1",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "1502호",
+    "flrNo": "15",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "2003호",
+    "flrNo": "20",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "707호",
+    "flrNo": "7",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "505호",
+    "flrNo": "5",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "1402호",
+    "flrNo": "14",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "1305호",
+    "flrNo": "13",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "1101호",
+    "flrNo": "11",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "803호",
+    "flrNo": "8",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "803호",
+    "flrNo": "8",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "101동",
+    "hoNm": "1103호",
+    "flrNo": "11",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "103동",
+    "hoNm": "701호",
+    "flrNo": "7",
+    "area": "129.06",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "104동",
+    "hoNm": "503호",
+    "flrNo": "5",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "110동",
+    "hoNm": "1506호",
+    "flrNo": "15",
+    "area": "59.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "1305호",
+    "flrNo": "13",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "1705호",
+    "flrNo": "17",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "101동",
+    "hoNm": "1501호",
+    "flrNo": "15",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "112동",
+    "hoNm": "505호",
+    "flrNo": "5",
+    "area": "113.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "108동",
+    "hoNm": "1302호",
+    "flrNo": "13",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "1801호",
+    "flrNo": "18",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "2102호",
+    "flrNo": "21",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "109동",
+    "hoNm": "1501호",
+    "flrNo": "15",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "111동",
+    "hoNm": "606호",
+    "flrNo": "6",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "106동",
+    "hoNm": "2301호",
+    "flrNo": "23",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "1602호",
+    "flrNo": "16",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "104동",
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "1902호",
+    "flrNo": "19",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "1605호",
+    "flrNo": "16",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "104동",
+    "hoNm": "501호",
+    "flrNo": "5",
+    "area": "59.88",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "103동",
+    "hoNm": "1405호",
+    "flrNo": "14",
+    "area": "129.06",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "1106호",
+    "flrNo": "11",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "103동",
+    "hoNm": "1003호",
+    "flrNo": "10",
+    "area": "129.06",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "105동",
+    "hoNm": "603호",
+    "flrNo": "6",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "102동",
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "반도보라매머드타운",
+    "dongNm": "107동",
+    "hoNm": "1701호",
+    "flrNo": "17",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  }
+]

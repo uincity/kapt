@@ -1,0 +1,20 @@
+    for code, rule in policy["complexes"].items():
+        indices = totals.index[totals.kapt_code.eq(code)]
+        if len(indices) != 1:
+            continue
+        i = indices[0]
+        rows = detail.loc[detail.kapt_code.eq(code)]
+        # Scope override is a user-confirmed whole-residential assumption, never a verified sale split.
+        blockers = [r for r in totals.at[i, "reason"].split("; ")
+                    if r and r not in ("임대·혼합 분양 범위 확인 필요", "KB 시세 또는 타입 연결 부족")]
+        if (blockers or rows.empty or rows.households.sum() != rule["households"]
+                or totals.at[i, "households"] != rule["households"]
+                or not rows.verification_status.eq("verified").all()
+                or not rows.scope.eq("sale_apartment").all()):
+            continue
+        donors = rows.loc[rows.price_krw.notna() & rows.exclusive_area_sqm.gt(0)]
+        overrides = rule.get("type_price_overrides_krw", {})
+        unknown_overrides = set(overrides) - set(rows.area_group_id)
+        if unknown_overrides:
+            raise ValueError(f"{code}: 알 수 없는 평형 가격 보정 {sorted(unknown_overrides)}")
+        for j, row in rows.loc[rows.price_reason.eq("KB 일반매매가 미확보")].iterrows():

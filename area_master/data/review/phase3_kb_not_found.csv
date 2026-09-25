@@ -1,0 +1,13 @@
+﻿kapt_code,kapt_name,legal_dong,road_address,kapt_households,matched_kb_id,matched_kb_name,matched_kb_households,match_method,match_confidence,processing_status,match_reason,recommended_next_action,verified_at
+A10024005,동래3차 SK VIEW 아파트,온천동,부산광역시 동래구 온천장로65번길 9,999,41710,동래3차에스케이뷰,999,phase3_kb_discovery_match,HIGH,VERIFIED_KB_REMATCHED,도로명(온천장로65번길 9) 및 아파트 999세대 정확 일치,NONE,2026-09-18
+A60879704,문현현대아파트,문현동,부산광역시 남구 진남로198번길 9-1,693,5333,현대,693,phase3_kb_discovery_match,HIGH,VERIFIED_KB_REMATCHED,도로명(진남로198번길 9) 및 세대수 693세대 정확 일치,NONE,2026-09-18
+A61282215,"대우마리나1,2차아파트",우동,부산광역시 해운대구 해운대해변로 117,1164,6106+6107,대우마리나(1차)+대우마리나(2차),1164,phase3_kb_discovery_match,HIGH,VERIFIED_KB_REMATCHED,대우마리나 1차(714) + 2차(450) 세대수 합계 1164세대 정확 일치,NONE,2026-09-18
+A61203018,해운대대림2차아파트,좌동,부산광역시 해운대구 대천로103번길 9,682,6150,대림(2차),682,phase3_kb_discovery_match,HIGH,VERIFIED_KB_REMATCHED,해운대 좌동 대천로103번길 9 대림2차 682세대 정확 일치,NONE,2026-09-18
+A60482013,다대몰운대아파트,다대동,부산광역시 사하구 다대낙조2길 12,2960,5828,도시몰운대,2960,phase3_kb_discovery_match,HIGH,VERIFIED_KB_REMATCHED,사하구 다대낙조2길 216 도시몰운대 2960세대 정확 일치,NONE,2026-09-18
+A61776104,주례반도보라매머드아파트,주례동,부산광역시 사상구 백양대로 372-22,1206,5680,반도보라매머드,1206,phase3_kb_discovery_match,HIGH,VERIFIED_KB_REMATCHED,도로명(백양대로 372) 및 세대수 1206세대 정확 일치,NONE,2026-09-18
+A61990514,기장한신그린코아아파트,기장읍,부산광역시 기장군 차성로344번길 13,1131,478625,한신,1131,phase3_kb_discovery_match,HIGH,VERIFIED_KB_REMATCHED,기장군 기장읍 차성로344번길 13 한신 1131세대(통합) 정확 일치,NONE,2026-09-18
+A61970311,기장서부주공아파트,기장읍,부산광역시 기장군 차성서로 123,702,6235,주공,702,phase3_kb_discovery_match,HIGH,VERIFIED_KB_REMATCHED,기장군 기장읍 차성서로 123 서부주공 702세대 정확 일치,NONE,2026-09-18
+A61990609,기장2주공아파트,기장읍,부산광역시 기장군 청강로 6,520,6233,주공(기장제2주공),520,phase3_kb_discovery_match,HIGH,VERIFIED_KB_REMATCHED,기장군 기장읍 청강로 6 기장제2주공 520세대 정확 일치,NONE,2026-09-18
+A10028081,정관이지더원3차아파트,정관읍,부산광역시 기장군 정관로 385,1035,28212,이지더원3차,1035,phase3_kb_discovery_match,HIGH,VERIFIED_KB_REMATCHED,기장군 정관읍 정관로 350 이지더원3차 1035세대 정확 일치,NONE,2026-09-18
+A61990110,정관신도시이지더원1차,정관읍,부산광역시 기장군 정관1로 18,978,23424,EG더원,978,phase3_kb_discovery_match,HIGH,VERIFIED_KB_REMATCHED,기장군 정관읍 정관1로 18 EG더원 978세대 정확 일치,NONE,2026-09-18
+A61996106,EGthe12차,정관읍,부산광역시 기장군 정관2로 9,756,24841,EG더원2차,756,phase3_kb_discovery_match,HIGH,VERIFIED_KB_REMATCHED,기장군 정관읍 정관2로 9 EG더원2차 756세대 정확 일치,NONE,2026-09-18

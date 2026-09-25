@@ -1,0 +1,35 @@
+            override = pd.to_numeric(overrides.get(row.area_group_id), errors="coerce")
+            if pd.notna(override) and override > 0:
+                detail.at[j, "adjusted_price_krw"] = override
+                detail.at[j, "price_method"] = rule.get("price_method", "승인된 외부 가격 보정")
+        missing = rows.index[detail.loc[rows.index, "adjusted_price_krw"].isna()]
+        for j, row in rows.loc[missing].iterrows():
+            if row.price_reason != "KB 일반매매가 미확보":
+                continue
+            collected = pd.to_datetime(row.collected_at, errors="coerce")
+            start, end = pd.to_datetime(row.valid_from, errors="coerce"), pd.to_datetime(row.valid_to, errors="coerce")
+            if (pd.isna(collected) or (pd.notna(start) and collected.normalize() < start)
+                    or (pd.notna(end) and collected.normalize() > end)):
+                continue
+            candidates = donors.loc[donors.kb_complex_id.eq(row.kb_complex_id)]
+            if candidates.empty or row.exclusive_area_sqm <= 0:
+                continue
+            distance = (candidates.exclusive_area_sqm - row.exclusive_area_sqm).abs()
+            nearest = candidates.loc[np.isclose(distance, distance.min(), rtol=0, atol=1e-9)]
+            unit = ((nearest.price_krw / nearest.exclusive_area_sqm) * nearest.households).sum() / nearest.households.sum()
+            detail.at[j, "adjusted_price_krw"] = round(unit * row.exclusive_area_sqm)
+            detail.at[j, "price_method"] = "면적 단가 보정 추정"
+            detail.at[j, "reference_area_group_ids"] = " | ".join(nearest.area_group_id)
+            detail.at[j, "reference_unit_price_krw_sqm"] = unit
+        adjusted = detail.loc[rows.index]
+        if adjusted.adjusted_price_krw.notna().all():
+            totals.at[i, "adjusted_market_cap_krw"] = (adjusted.households * adjusted.adjusted_price_krw).sum()
+            estimated_households = adjusted.loc[
+                ~adjusted.price_method.isin(["KB 일반매매가", "미산정"]), "households"
+            ].sum()
+            totals.at[i, "estimated_households"] = estimated_households
+            if estimated_households > 0:
+                totals.at[i, "adjusted_status"] = "보정 추정 (사용자 확인 범위)"
+                totals.at[i, "adjusted_scope"] = rule["scope"]
+                totals.at[i, "adjustment_source"] = rule.get("source", policy["source"])
+    detail["adjusted_contribution_krw"] = detail.households * detail.adjusted_price_krw

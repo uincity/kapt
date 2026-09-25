@@ -1,0 +1,23 @@
+{
+  "qa_timestamp": "2026-09-18T13:29:59.462586",
+  "qa_status": "PASS_WITH_WARNINGS",
+  "population": {
+    "total_kapt": 560,
+    "master_included": 497,
+    "excluded_rental_only": 49,
+    "final_pending": 14,
+    "failed": 0,
+    "equation_pass": true
+  },
+  "master": {
+    "master_rows": 3308,
+    "distinct_kapt_code": 497,
+    "overall_coverage_pct": 88.8,
+    "target_coverage_pct": 97.3
+  },
+  "issues": {
+    "fail_count": 0,
+    "warning_count": 25,
+    "info_count": 0
+  }
+}

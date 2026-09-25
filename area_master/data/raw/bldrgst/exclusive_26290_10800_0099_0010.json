@@ -1,0 +1,7612 @@
+[
+  {
+    "bldNm": "현대아이파크 107동",
+    "dongNm": "107",
+    "hoNm": "2502호",
+    "flrNo": "25",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "2306호",
+    "flrNo": "23",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1305호",
+    "flrNo": "13",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "602호",
+    "flrNo": "6",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "1402호",
+    "flrNo": "14",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "2104호",
+    "flrNo": "21",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "1901호",
+    "flrNo": "19",
+    "area": "99.7561",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "2305호",
+    "flrNo": "23",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "1602호",
+    "flrNo": "16",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "305호",
+    "flrNo": "3",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "2404호",
+    "flrNo": "24",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "1901호",
+    "flrNo": "19",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "2204호",
+    "flrNo": "22",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "906호",
+    "flrNo": "9",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "1904호",
+    "flrNo": "19",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 108동",
+    "dongNm": null,
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "28.8",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "604호",
+    "flrNo": "6",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "802호",
+    "flrNo": "8",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1104호",
+    "flrNo": "11",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1004호",
+    "flrNo": "10",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "604호",
+    "flrNo": "6",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1506호",
+    "flrNo": "15",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 108동",
+    "dongNm": null,
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "57.6",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "206호",
+    "flrNo": "2",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "1102호",
+    "flrNo": "11",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "1001호",
+    "flrNo": "10",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "2105호",
+    "flrNo": "21",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "504호",
+    "flrNo": "5",
+    "area": "119.042",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "1501호",
+    "flrNo": "15",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "2201호",
+    "flrNo": "22",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "304호",
+    "flrNo": "3",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "2203호",
+    "flrNo": "22",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "504호",
+    "flrNo": "5",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "1601호",
+    "flrNo": "16",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "2502호",
+    "flrNo": "25",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "703호",
+    "flrNo": "7",
+    "area": "119.042",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "205호",
+    "flrNo": "2",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "1104호",
+    "flrNo": "11",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1006호",
+    "flrNo": "10",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 107동",
+    "dongNm": "107",
+    "hoNm": "1202호",
+    "flrNo": "12",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1102호",
+    "flrNo": "11",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "1203호",
+    "flrNo": "12",
+    "area": "119.042",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1202호",
+    "flrNo": "12",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "905호",
+    "flrNo": "9",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1805호",
+    "flrNo": "18",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "2101호",
+    "flrNo": "21",
+    "area": "99.7561",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "2102호",
+    "flrNo": "21",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "2202호",
+    "flrNo": "22",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "2303호",
+    "flrNo": "23",
+    "area": "119.042",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "1404호",
+    "flrNo": "14",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 107동",
+    "dongNm": "107",
+    "hoNm": "602호",
+    "flrNo": "6",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "704호",
+    "flrNo": "7",
+    "area": "119.042",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "1002호",
+    "flrNo": "10",
+    "area": "99.7561",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "2503호",
+    "flrNo": "25",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "1002호",
+    "flrNo": "10",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "1401호",
+    "flrNo": "14",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "802호",
+    "flrNo": "8",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "119.042",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1906호",
+    "flrNo": "19",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "2001호",
+    "flrNo": "20",
+    "area": "99.7561",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "2002호",
+    "flrNo": "20",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "2105호",
+    "flrNo": "21",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1304호",
+    "flrNo": "13",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1506호",
+    "flrNo": "15",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 107동",
+    "dongNm": "107",
+    "hoNm": "1602호",
+    "flrNo": "16",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "1103호",
+    "flrNo": "11",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "1201호",
+    "flrNo": "12",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 108동",
+    "dongNm": null,
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "28.8",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "2303호",
+    "flrNo": "23",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1003호",
+    "flrNo": "10",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "2403호",
+    "flrNo": "24",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1306호",
+    "flrNo": "13",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1002호",
+    "flrNo": "10",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1703호",
+    "flrNo": "17",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "1703호",
+    "flrNo": "17",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "602호",
+    "flrNo": "6",
+    "area": "99.7561",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "1003호",
+    "flrNo": "10",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 108동",
+    "dongNm": null,
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "45",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "2504호",
+    "flrNo": "25",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "2102호",
+    "flrNo": "21",
+    "area": "99.7561",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "2002호",
+    "flrNo": "20",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "1301호",
+    "flrNo": "13",
+    "area": "99.7561",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "903호",
+    "flrNo": "9",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1201호",
+    "flrNo": "12",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "2304호",
+    "flrNo": "23",
+    "area": "119.042",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "404호",
+    "flrNo": "4",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "2404호",
+    "flrNo": "24",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "2006호",
+    "flrNo": "20",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "2001호",
+    "flrNo": "20",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "2402호",
+    "flrNo": "24",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1601호",
+    "flrNo": "16",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "104호",
+    "flrNo": "1",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "1504호",
+    "flrNo": "15",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "1702호",
+    "flrNo": "17",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "1804호",
+    "flrNo": "18",
+    "area": "119.042",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "1603호",
+    "flrNo": "16",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1202호",
+    "flrNo": "12",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1204호",
+    "flrNo": "12",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "704호",
+    "flrNo": "7",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1402호",
+    "flrNo": "14",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "2003호",
+    "flrNo": "20",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "2004호",
+    "flrNo": "1",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "1703호",
+    "flrNo": "17",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "1303호",
+    "flrNo": "13",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1701호",
+    "flrNo": "17",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1103호",
+    "flrNo": "11",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "2304호",
+    "flrNo": "23",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1805호",
+    "flrNo": "18",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "702호",
+    "flrNo": "7",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "903호",
+    "flrNo": "9",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "1603호",
+    "flrNo": "16",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "1803호",
+    "flrNo": "18",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "406호",
+    "flrNo": "4",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "2203호",
+    "flrNo": "22",
+    "area": "119.042",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "501호",
+    "flrNo": "5",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "902호",
+    "flrNo": "9",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "105호",
+    "flrNo": "1",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "2503호",
+    "flrNo": "25",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "2501호",
+    "flrNo": "25",
+    "area": "99.7561",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "801호",
+    "flrNo": "8",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "503호",
+    "flrNo": "5",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "1002호",
+    "flrNo": "10",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "99.7561",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "2402호",
+    "flrNo": "24",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 107동",
+    "dongNm": "107",
+    "hoNm": "801호",
+    "flrNo": "8",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "1504호",
+    "flrNo": "15",
+    "area": "119.042",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "1301호",
+    "flrNo": "13",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1304호",
+    "flrNo": "13",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "2104호",
+    "flrNo": "21",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "2402호",
+    "flrNo": "24",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1002호",
+    "flrNo": "10",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "802호",
+    "flrNo": "8",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "2503호",
+    "flrNo": "25",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1006호",
+    "flrNo": "10",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "1303호",
+    "flrNo": "13",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "1102호",
+    "flrNo": "11",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "804호",
+    "flrNo": "8",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "804호",
+    "flrNo": "8",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "2503호",
+    "flrNo": "25",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1501호",
+    "flrNo": "15",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "1903호",
+    "flrNo": "19",
+    "area": "119.042",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "2402호",
+    "flrNo": "24",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 107동",
+    "dongNm": "107",
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 107동",
+    "dongNm": "107",
+    "hoNm": "701호",
+    "flrNo": "7",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "1802호",
+    "flrNo": "18",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "1604호",
+    "flrNo": "16",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "1304호",
+    "flrNo": "13",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "1903호",
+    "flrNo": "19",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "804호",
+    "flrNo": "8",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1903호",
+    "flrNo": "19",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1706호",
+    "flrNo": "17",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "2403호",
+    "flrNo": "24",
+    "area": "119.042",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "2204호",
+    "flrNo": "22",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "2304호",
+    "flrNo": "23",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "2104호",
+    "flrNo": "21",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "1804호",
+    "flrNo": "18",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 107동",
+    "dongNm": "107",
+    "hoNm": "902호",
+    "flrNo": "9",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1405호",
+    "flrNo": "14",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "701호",
+    "flrNo": "7",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "2301호",
+    "flrNo": "23",
+    "area": "99.7561",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "505호",
+    "flrNo": "5",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "1503호",
+    "flrNo": "15",
+    "area": "119.042",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "1701호",
+    "flrNo": "17",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "801호",
+    "flrNo": "8",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "1403호",
+    "flrNo": "14",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1505호",
+    "flrNo": "15",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "1401호",
+    "flrNo": "14",
+    "area": "99.7561",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1102호",
+    "flrNo": "11",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "1204호",
+    "flrNo": "12",
+    "area": "119.042",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "2501호",
+    "flrNo": "25",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "1403호",
+    "flrNo": "14",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "2204호",
+    "flrNo": "22",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "2301호",
+    "flrNo": "23",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1503호",
+    "flrNo": "15",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "306호",
+    "flrNo": "3",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "1801호",
+    "flrNo": "18",
+    "area": "99.7561",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "404호",
+    "flrNo": "4",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "802호",
+    "flrNo": "8",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "804호",
+    "flrNo": "8",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1705호",
+    "flrNo": "17",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1003호",
+    "flrNo": "10",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "1202호",
+    "flrNo": "12",
+    "area": "99.7561",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "2304호",
+    "flrNo": "23",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "2401호",
+    "flrNo": "24",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "701호",
+    "flrNo": "7",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 107동",
+    "dongNm": "107",
+    "hoNm": "802호",
+    "flrNo": "8",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "601호",
+    "flrNo": "6",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1504호",
+    "flrNo": "15",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "2104호",
+    "flrNo": "21",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1606호",
+    "flrNo": "16",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1605호",
+    "flrNo": "16",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "602호",
+    "flrNo": "6",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "902호",
+    "flrNo": "9",
+    "area": "99.7561",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "603호",
+    "flrNo": "6",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "503호",
+    "flrNo": "5",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "802호",
+    "flrNo": "8",
+    "area": "99.7561",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1404호",
+    "flrNo": "14",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "2103호",
+    "flrNo": "21",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "903호",
+    "flrNo": "9",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "405호",
+    "flrNo": "4",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "706호",
+    "flrNo": "7",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "1103호",
+    "flrNo": "11",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "2001호",
+    "flrNo": "20",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "2402호",
+    "flrNo": "24",
+    "area": "99.7561",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1606호",
+    "flrNo": "16",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1302호",
+    "flrNo": "13",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "1304호",
+    "flrNo": "13",
+    "area": "119.042",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "2002호",
+    "flrNo": "20",
+    "area": "99.7561",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "99.7561",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "702호",
+    "flrNo": "7",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "1902호",
+    "flrNo": "19",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1205호",
+    "flrNo": "12",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "2502호",
+    "flrNo": "25",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "1204호",
+    "flrNo": "12",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "504호",
+    "flrNo": "5",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 108동",
+    "dongNm": null,
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "28.8",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1903호",
+    "flrNo": "19",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "603호",
+    "flrNo": "6",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1904호",
+    "flrNo": "19",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "2102호",
+    "flrNo": "21",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1902호",
+    "flrNo": "19",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "2003호",
+    "flrNo": "20",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "805호",
+    "flrNo": "8",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1001호",
+    "flrNo": "10",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "1204호",
+    "flrNo": "12",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1604호",
+    "flrNo": "16",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "2003호",
+    "flrNo": "20",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "1903호",
+    "flrNo": "19",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "2504호",
+    "flrNo": "25",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "2302호",
+    "flrNo": "23",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "2405호",
+    "flrNo": "24",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "601호",
+    "flrNo": "6",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "2206호",
+    "flrNo": "22",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "2504호",
+    "flrNo": "25",
+    "area": "119.042",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "404호",
+    "flrNo": "4",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "904호",
+    "flrNo": "9",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "503호",
+    "flrNo": "5",
+    "area": "119.042",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "702호",
+    "flrNo": "7",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "2106호",
+    "flrNo": "21",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1303호",
+    "flrNo": "13",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1105호",
+    "flrNo": "11",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1905호",
+    "flrNo": "19",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1904호",
+    "flrNo": "19",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "2204호",
+    "flrNo": "22",
+    "area": "119.042",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 108동",
+    "dongNm": null,
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "28.8",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "현대아이파크 107동",
+    "dongNm": "107",
+    "hoNm": "901호",
+    "flrNo": "9",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "2303호",
+    "flrNo": "23",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "801호",
+    "flrNo": "8",
+    "area": "99.7561",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "2103호",
+    "flrNo": "21",
+    "area": "119.042",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "2404호",
+    "flrNo": "24",
+    "area": "119.042",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "701호",
+    "flrNo": "7",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "2201호",
+    "flrNo": "22",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "904호",
+    "flrNo": "9",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "2203호",
+    "flrNo": "22",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "2502호",
+    "flrNo": "25",
+    "area": "99.7561",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 107동",
+    "dongNm": "107",
+    "hoNm": "702호",
+    "flrNo": "7",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "1503호",
+    "flrNo": "15",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "2405호",
+    "flrNo": "24",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "702호",
+    "flrNo": "7",
+    "area": "99.7561",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "1701호",
+    "flrNo": "17",
+    "area": "99.7561",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "702호",
+    "flrNo": "7",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "2203호",
+    "flrNo": "22",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "1704호",
+    "flrNo": "17",
+    "area": "119.042",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "306호",
+    "flrNo": "3",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "1703호",
+    "flrNo": "17",
+    "area": "119.042",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "304호",
+    "flrNo": "3",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 108동",
+    "dongNm": null,
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "57.6",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "현대아이파크 107동",
+    "dongNm": "107",
+    "hoNm": "501호",
+    "flrNo": "5",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "2101호",
+    "flrNo": "21",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "2302호",
+    "flrNo": "23",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "2001호",
+    "flrNo": "20",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "1702호",
+    "flrNo": "17",
+    "area": "99.7561",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "2005호",
+    "flrNo": "20",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "1402호",
+    "flrNo": "14",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "1403호",
+    "flrNo": "14",
+    "area": "119.042",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "2102호",
+    "flrNo": "21",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "106호",
+    "flrNo": "1",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "803호",
+    "flrNo": "8",
+    "area": "119.042",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "803호",
+    "flrNo": "8",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 107동",
+    "dongNm": "107",
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "2503호",
+    "flrNo": "25",
+    "area": "119.042",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 107동",
+    "dongNm": "107",
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "503호",
+    "flrNo": "5",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "2506호",
+    "flrNo": "25",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1104호",
+    "flrNo": "11",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "1502호",
+    "flrNo": "15",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "1802호",
+    "flrNo": "18",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "304호",
+    "flrNo": "3",
+    "area": "119.042",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "801호",
+    "flrNo": "8",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "2005호",
+    "flrNo": "20",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "2004호",
+    "flrNo": "20",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "2201호",
+    "flrNo": "22",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "501호",
+    "flrNo": "5",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "2304호",
+    "flrNo": "23",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1406호",
+    "flrNo": "14",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "1604호",
+    "flrNo": "16",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "1802호",
+    "flrNo": "18",
+    "area": "99.7561",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "2202호",
+    "flrNo": "22",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "2002호",
+    "flrNo": "20",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "2402호",
+    "flrNo": "24",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1704호",
+    "flrNo": "17",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1901호",
+    "flrNo": "19",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "1303호",
+    "flrNo": "13",
+    "area": "119.042",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 107동",
+    "dongNm": "107",
+    "hoNm": "2002호",
+    "flrNo": "20",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1106호",
+    "flrNo": "11",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "703호",
+    "flrNo": "7",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 107동",
+    "dongNm": "107",
+    "hoNm": "1601호",
+    "flrNo": "16",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1603호",
+    "flrNo": "16",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "2203호",
+    "flrNo": "22",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "806호",
+    "flrNo": "8",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "1301호",
+    "flrNo": "13",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "702호",
+    "flrNo": "7",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "2304호",
+    "flrNo": "23",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "902호",
+    "flrNo": "9",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "1803호",
+    "flrNo": "18",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "1104호",
+    "flrNo": "11",
+    "area": "119.042",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "99.7561",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "2001호",
+    "flrNo": "20",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "1503호",
+    "flrNo": "15",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1803호",
+    "flrNo": "18",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "1903호",
+    "flrNo": "19",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "803호",
+    "flrNo": "8",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "2202호",
+    "flrNo": "22",
+    "area": "99.7561",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "901호",
+    "flrNo": "9",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "1304호",
+    "flrNo": "13",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1203호",
+    "flrNo": "12",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1005호",
+    "flrNo": "10",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1503호",
+    "flrNo": "15",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "704호",
+    "flrNo": "7",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "2501호",
+    "flrNo": "25",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 107동",
+    "dongNm": "107",
+    "hoNm": "1001호",
+    "flrNo": "10",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1605호",
+    "flrNo": "16",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "706호",
+    "flrNo": "7",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 107동",
+    "dongNm": "107",
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1706호",
+    "flrNo": "17",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "1704호",
+    "flrNo": "17",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "2404호",
+    "flrNo": "24",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "704호",
+    "flrNo": "7",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "2201호",
+    "flrNo": "22",
+    "area": "99.7561",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "1003호",
+    "flrNo": "10",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "602호",
+    "flrNo": "6",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "703호",
+    "flrNo": "7",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "801호",
+    "flrNo": "8",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "1302호",
+    "flrNo": "13",
+    "area": "99.7561",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "2205호",
+    "flrNo": "22",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1804호",
+    "flrNo": "18",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "104호",
+    "flrNo": "1",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 107동",
+    "dongNm": "107",
+    "hoNm": "2101호",
+    "flrNo": "21",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "305호",
+    "flrNo": "3",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "2301호",
+    "flrNo": "23",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "404호",
+    "flrNo": "4",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "704호",
+    "flrNo": "7",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "803호",
+    "flrNo": "8",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "99.7561",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1704호",
+    "flrNo": "17",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "304호",
+    "flrNo": "3",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 107동",
+    "dongNm": "107",
+    "hoNm": "1702호",
+    "flrNo": "17",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "601호",
+    "flrNo": "6",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "804호",
+    "flrNo": "8",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "405호",
+    "flrNo": "4",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "1304호",
+    "flrNo": "13",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "2404호",
+    "flrNo": "24",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "905호",
+    "flrNo": "9",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 107동",
+    "dongNm": "107",
+    "hoNm": "1402호",
+    "flrNo": "14",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "1701호",
+    "flrNo": "17",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1206호",
+    "flrNo": "12",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1804호",
+    "flrNo": "18",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "2103호",
+    "flrNo": "21",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "1803호",
+    "flrNo": "18",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "304호",
+    "flrNo": "3",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1405호",
+    "flrNo": "14",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "1702호",
+    "flrNo": "17",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1905호",
+    "flrNo": "19",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "604호",
+    "flrNo": "6",
+    "area": "119.042",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "503호",
+    "flrNo": "5",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "2006호",
+    "flrNo": "20",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "601호",
+    "flrNo": "6",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "1404호",
+    "flrNo": "14",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "1704호",
+    "flrNo": "17",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "501호",
+    "flrNo": "5",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "2301호",
+    "flrNo": "23",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "1603호",
+    "flrNo": "16",
+    "area": "119.042",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "604호",
+    "flrNo": "6",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "2301호",
+    "flrNo": "23",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "1303호",
+    "flrNo": "13",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1004호",
+    "flrNo": "10",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "1001호",
+    "flrNo": "10",
+    "area": "99.7561",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "99.7561",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1602호",
+    "flrNo": "16",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "1002호",
+    "flrNo": "10",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "2401호",
+    "flrNo": "24",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "1404호",
+    "flrNo": "14",
+    "area": "119.042",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "2302호",
+    "flrNo": "23",
+    "area": "99.7561",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "903호",
+    "flrNo": "9",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1603호",
+    "flrNo": "16",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1802호",
+    "flrNo": "18",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "804호",
+    "flrNo": "8",
+    "area": "119.042",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1501호",
+    "flrNo": "15",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1406호",
+    "flrNo": "14",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "805호",
+    "flrNo": "8",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "1602호",
+    "flrNo": "16",
+    "area": "99.7561",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 108동",
+    "dongNm": null,
+    "hoNm": "104호",
+    "flrNo": "1",
+    "area": "28.8",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "802호",
+    "flrNo": "8",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 107동",
+    "dongNm": "107",
+    "hoNm": "1101호",
+    "flrNo": "11",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "606호",
+    "flrNo": "6",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 107동",
+    "dongNm": "107",
+    "hoNm": "2102호",
+    "flrNo": "21",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "1402호",
+    "flrNo": "14",
+    "area": "99.7561",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "1203호",
+    "flrNo": "12",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 108동",
+    "dongNm": null,
+    "hoNm": "105호",
+    "flrNo": "1",
+    "area": "31.6",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1701호",
+    "flrNo": "17",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "1802호",
+    "flrNo": "18",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "2201호",
+    "flrNo": "22",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "904호",
+    "flrNo": "9",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1301호",
+    "flrNo": "13",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "1404호",
+    "flrNo": "14",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 107동",
+    "dongNm": "107",
+    "hoNm": "2301호",
+    "flrNo": "23",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "1601호",
+    "flrNo": "16",
+    "area": "99.7561",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1401호",
+    "flrNo": "14",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 107동",
+    "dongNm": "107",
+    "hoNm": "1302호",
+    "flrNo": "13",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "2103호",
+    "flrNo": "21",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "99.7561",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "1401호",
+    "flrNo": "14",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "903호",
+    "flrNo": "9",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "705호",
+    "flrNo": "7",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "1302호",
+    "flrNo": "13",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "504호",
+    "flrNo": "5",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "1001호",
+    "flrNo": "10",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 107동",
+    "dongNm": "107",
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "2302호",
+    "flrNo": "23",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1702호",
+    "flrNo": "17",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "606호",
+    "flrNo": "6",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "1703호",
+    "flrNo": "17",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "603호",
+    "flrNo": "6",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "2502호",
+    "flrNo": "25",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1103호",
+    "flrNo": "11",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "2302호",
+    "flrNo": "22",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1404호",
+    "flrNo": "14",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "1104호",
+    "flrNo": "11",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 107동",
+    "dongNm": "107",
+    "hoNm": "2302호",
+    "flrNo": "23",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "2101호",
+    "flrNo": "21",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "1502호",
+    "flrNo": "15",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "1004호",
+    "flrNo": "10",
+    "area": "119.042",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "1601호",
+    "flrNo": "16",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "1101호",
+    "flrNo": "11",
+    "area": "99.7561",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1301호",
+    "flrNo": "13",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "1403호",
+    "flrNo": "14",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "1902호",
+    "flrNo": "19",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "2004호",
+    "flrNo": "20",
+    "area": "119.042",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "2406호",
+    "flrNo": "24",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "2505호",
+    "flrNo": "25",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "2301호",
+    "flrNo": "23",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "1001호",
+    "flrNo": "10",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1502호",
+    "flrNo": "15",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 107동",
+    "dongNm": "107",
+    "hoNm": "2401호",
+    "flrNo": "24",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "204호",
+    "flrNo": "2",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "1004호",
+    "flrNo": "10",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "2504호",
+    "flrNo": "25",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "1501호",
+    "flrNo": "15",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "1701호",
+    "flrNo": "17",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1902호",
+    "flrNo": "19",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1203호",
+    "flrNo": "12",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "501호",
+    "flrNo": "5",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "902호",
+    "flrNo": "9",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1901호",
+    "flrNo": "19",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1705호",
+    "flrNo": "17",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1201호",
+    "flrNo": "12",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "2303호",
+    "flrNo": "23",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "2401호",
+    "flrNo": "24",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "803호",
+    "flrNo": "8",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "1804호",
+    "flrNo": "18",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "2104호",
+    "flrNo": "21",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "901호",
+    "flrNo": "9",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "2004호",
+    "flrNo": "20",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "2102호",
+    "flrNo": "21",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "2303호",
+    "flrNo": "23",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "603호",
+    "flrNo": "6",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "2403호",
+    "flrNo": "24",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "104호",
+    "flrNo": "1",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "703호",
+    "flrNo": "7",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "501호",
+    "flrNo": "5",
+    "area": "99.7561",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1101호",
+    "flrNo": "11",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1505호",
+    "flrNo": "15",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "2002호",
+    "flrNo": "20",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "704호",
+    "flrNo": "7",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "304호",
+    "flrNo": "3",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1106호",
+    "flrNo": "11",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "2002호",
+    "flrNo": "20",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "2205호",
+    "flrNo": "22",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "1801호",
+    "flrNo": "18",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "106호",
+    "flrNo": "1",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "204호",
+    "flrNo": "2",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 107동",
+    "dongNm": "107",
+    "hoNm": "1502호",
+    "flrNo": "15",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 107동",
+    "dongNm": "107",
+    "hoNm": "1802호",
+    "flrNo": "18",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "1502호",
+    "flrNo": "15",
+    "area": "99.7561",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "1501호",
+    "flrNo": "15",
+    "area": "99.7561",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1604호",
+    "flrNo": "16",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "204호",
+    "flrNo": "2",
+    "area": "119.042",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1602호",
+    "flrNo": "16",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "2101호",
+    "flrNo": "21",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "2403호",
+    "flrNo": "24",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "1004호",
+    "flrNo": "10",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "204호",
+    "flrNo": "2",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "901호",
+    "flrNo": "9",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "604호",
+    "flrNo": "6",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1205호",
+    "flrNo": "12",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "506호",
+    "flrNo": "5",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "601호",
+    "flrNo": "6",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "1801호",
+    "flrNo": "18",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "2401호",
+    "flrNo": "24",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "1203호",
+    "flrNo": "12",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "1604호",
+    "flrNo": "16",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "104호",
+    "flrNo": "1",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "904호",
+    "flrNo": "9",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "1904호",
+    "flrNo": "19",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "2203호",
+    "flrNo": "22",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "2103호",
+    "flrNo": "21",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "1702호",
+    "flrNo": "17",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "505호",
+    "flrNo": "5",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 107동",
+    "dongNm": "107",
+    "hoNm": "2501호",
+    "flrNo": "25",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1806호",
+    "flrNo": "18",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "1103호",
+    "flrNo": "11",
+    "area": "119.042",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "504호",
+    "flrNo": "5",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "2202호",
+    "flrNo": "22",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 107동",
+    "dongNm": "107",
+    "hoNm": "1102호",
+    "flrNo": "11",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 107동",
+    "dongNm": "107",
+    "hoNm": "1801호",
+    "flrNo": "18",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1403호",
+    "flrNo": "14",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1906호",
+    "flrNo": "19",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1302호",
+    "flrNo": "13",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "1602호",
+    "flrNo": "16",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1206호",
+    "flrNo": "12",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1305호",
+    "flrNo": "13",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 108동",
+    "dongNm": null,
+    "hoNm": "304호",
+    "flrNo": "3",
+    "area": "31.6",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "99.7561",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "2403호",
+    "flrNo": "24",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "2106호",
+    "flrNo": "21",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1204호",
+    "flrNo": "12",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "703호",
+    "flrNo": "7",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "2201호",
+    "flrNo": "22",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 107동",
+    "dongNm": "107",
+    "hoNm": "1501호",
+    "flrNo": "15",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1001호",
+    "flrNo": "10",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "404호",
+    "flrNo": "4",
+    "area": "119.042",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "904호",
+    "flrNo": "9",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "104호",
+    "flrNo": "1",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "806호",
+    "flrNo": "8",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 107동",
+    "dongNm": "107",
+    "hoNm": "1901호",
+    "flrNo": "19",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "2004호",
+    "flrNo": "20",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "1101호",
+    "flrNo": "11",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "2506호",
+    "flrNo": "25",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "601호",
+    "flrNo": "6",
+    "area": "99.7561",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "1901호",
+    "flrNo": "19",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 107동",
+    "dongNm": "107",
+    "hoNm": "2201호",
+    "flrNo": "22",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "406호",
+    "flrNo": "4",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "1501호",
+    "flrNo": "15",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "2401호",
+    "flrNo": "24",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "504호",
+    "flrNo": "5",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "1302호",
+    "flrNo": "13",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 107동",
+    "dongNm": "107",
+    "hoNm": "601호",
+    "flrNo": "6",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "1202호",
+    "flrNo": "12",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "902호",
+    "flrNo": "9",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "2001호",
+    "flrNo": "20",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "1102호",
+    "flrNo": "11",
+    "area": "99.7561",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "1103호",
+    "flrNo": "11",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "206호",
+    "flrNo": "2",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1806호",
+    "flrNo": "18",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "906호",
+    "flrNo": "9",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "119.042",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "1102호",
+    "flrNo": "11",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "1904호",
+    "flrNo": "19",
+    "area": "119.042",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1801호",
+    "flrNo": "18",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "2202호",
+    "flrNo": "22",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "2204호",
+    "flrNo": "22",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "1504호",
+    "flrNo": "15",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "2504호",
+    "flrNo": "25",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "1601호",
+    "flrNo": "16",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "2303호",
+    "flrNo": "23",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "501호",
+    "flrNo": "5",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "119.042",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1401호",
+    "flrNo": "14",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "701호",
+    "flrNo": "7",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "2302호",
+    "flrNo": "23",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 108동",
+    "dongNm": null,
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "86.4",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "1902호",
+    "flrNo": "19",
+    "area": "99.7561",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "1003호",
+    "flrNo": "10",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 107동",
+    "dongNm": "107",
+    "hoNm": "1002호",
+    "flrNo": "10",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "1904호",
+    "flrNo": "19",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "1101호",
+    "flrNo": "11",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "104호",
+    "flrNo": "1",
+    "area": "119.042",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "2502호",
+    "flrNo": "25",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1303호",
+    "flrNo": "13",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "204호",
+    "flrNo": "2",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "2406호",
+    "flrNo": "24",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 107동",
+    "dongNm": "107",
+    "hoNm": "1301호",
+    "flrNo": "13",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "703호",
+    "flrNo": "7",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1005호",
+    "flrNo": "10",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "1101호",
+    "flrNo": "11",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "701호",
+    "flrNo": "7",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 107동",
+    "dongNm": "107",
+    "hoNm": "1401호",
+    "flrNo": "14",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 107동",
+    "dongNm": "107",
+    "hoNm": "2001호",
+    "flrNo": "20",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "1502호",
+    "flrNo": "15",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "1401호",
+    "flrNo": "14",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "2101호",
+    "flrNo": "21",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "2501호",
+    "flrNo": "25",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 107동",
+    "dongNm": "107",
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "1604호",
+    "flrNo": "16",
+    "area": "119.042",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "1003호",
+    "flrNo": "10",
+    "area": "119.042",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "2504호",
+    "flrNo": "25",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1105호",
+    "flrNo": "11",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 107동",
+    "dongNm": "107",
+    "hoNm": "2202호",
+    "flrNo": "22",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "602호",
+    "flrNo": "6",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "1804호",
+    "flrNo": "18",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "2003호",
+    "flrNo": "20",
+    "area": "119.042",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1504호",
+    "flrNo": "15",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "2204호",
+    "flrNo": "22",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "901호",
+    "flrNo": "9",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1703호",
+    "flrNo": "17",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "1301호",
+    "flrNo": "13",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 108동",
+    "dongNm": null,
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "28.8",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "1704호",
+    "flrNo": "17",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "1004호",
+    "flrNo": "10",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "1803호",
+    "flrNo": "18",
+    "area": "119.042",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "2403호",
+    "flrNo": "24",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "902호",
+    "flrNo": "9",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "2503호",
+    "flrNo": "25",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 107동",
+    "dongNm": "107",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "901호",
+    "flrNo": "9",
+    "area": "99.7561",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "2103호",
+    "flrNo": "21",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "803호",
+    "flrNo": "8",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 107동",
+    "dongNm": "107",
+    "hoNm": "1701호",
+    "flrNo": "17",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "1104호",
+    "flrNo": "11",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "1902호",
+    "flrNo": "19",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "901호",
+    "flrNo": "9",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "603호",
+    "flrNo": "6",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1802호",
+    "flrNo": "18",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "1504호",
+    "flrNo": "15",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "2104호",
+    "flrNo": "21",
+    "area": "119.042",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 107동",
+    "dongNm": "107",
+    "hoNm": "1201호",
+    "flrNo": "12",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "2305호",
+    "flrNo": "23",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "404호",
+    "flrNo": "4",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "705호",
+    "flrNo": "7",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "2003호",
+    "flrNo": "20",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 108동",
+    "dongNm": null,
+    "hoNm": "204호",
+    "flrNo": "2",
+    "area": "31.6",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "1901호",
+    "flrNo": "19",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "99.7561",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "2404호",
+    "flrNo": "24",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1502호",
+    "flrNo": "15",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "2102호",
+    "flrNo": "21",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1801호",
+    "flrNo": "18",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "903호",
+    "flrNo": "9",
+    "area": "119.042",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1403호",
+    "flrNo": "14",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "119.042",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "2306호",
+    "flrNo": "23",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "2003호",
+    "flrNo": "20",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "1503호",
+    "flrNo": "15",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "1203호",
+    "flrNo": "12",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "205호",
+    "flrNo": "2",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "904호",
+    "flrNo": "9",
+    "area": "119.042",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "2501호",
+    "flrNo": "25",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "1302호",
+    "flrNo": "13",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "506호",
+    "flrNo": "5",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "2401호",
+    "flrNo": "24",
+    "area": "99.7561",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "801호",
+    "flrNo": "8",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "701호",
+    "flrNo": "7",
+    "area": "99.7561",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "1402호",
+    "flrNo": "14",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1803호",
+    "flrNo": "18",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "605호",
+    "flrNo": "6",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "1801호",
+    "flrNo": "18",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1601호",
+    "flrNo": "16",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1101호",
+    "flrNo": "11",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "1202호",
+    "flrNo": "12",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "604호",
+    "flrNo": "6",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "503호",
+    "flrNo": "5",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "2505호",
+    "flrNo": "25",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "2101호",
+    "flrNo": "21",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "2501호",
+    "flrNo": "25",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "1204호",
+    "flrNo": "12",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 107동",
+    "dongNm": "107",
+    "hoNm": "2402호",
+    "flrNo": "24",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "1201호",
+    "flrNo": "12",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "2004호",
+    "flrNo": "20",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "1201호",
+    "flrNo": "12",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "603호",
+    "flrNo": "6",
+    "area": "119.042",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "605호",
+    "flrNo": "6",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1702호",
+    "flrNo": "17",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "1602호",
+    "flrNo": "16",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 107동",
+    "dongNm": "107",
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "1306호",
+    "flrNo": "13",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "2202호",
+    "flrNo": "22",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "602호",
+    "flrNo": "6",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "105호",
+    "flrNo": "1",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 105동",
+    "dongNm": null,
+    "hoNm": "1202호",
+    "flrNo": "12",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "1603호",
+    "flrNo": "16",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "2206호",
+    "flrNo": "22",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 103동",
+    "dongNm": null,
+    "hoNm": "1201호",
+    "flrNo": "12",
+    "area": "99.7561",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "204호",
+    "flrNo": "2",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 106동",
+    "dongNm": null,
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "1402호",
+    "flrNo": "14",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 107동",
+    "dongNm": "107",
+    "hoNm": "1902호",
+    "flrNo": "19",
+    "area": "84.9623",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 104동",
+    "dongNm": null,
+    "hoNm": "2502호",
+    "flrNo": "25",
+    "area": "77.4806",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 102동",
+    "dongNm": null,
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "현대아이파크 101동",
+    "dongNm": null,
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "59.9358",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  }
+]

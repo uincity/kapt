@@ -1,0 +1,6862 @@
+[
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 상가동(116동)",
+    "hoNm": "116",
+    "flrNo": "1",
+    "area": "93.08",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "판매시설(상점)"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "906",
+    "flrNo": "9",
+    "area": "84.97",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 104동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 102동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "84.97",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 102동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 101동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "705",
+    "flrNo": "7",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "84.97",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 상가동(116동)",
+    "hoNm": "109",
+    "flrNo": "1",
+    "area": "48.03",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "제1종근린생활시설(소매점)"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 103동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "144.5",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 101동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 104동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 102동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 101동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "144.5",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "1105",
+    "flrNo": "11",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 104동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "506",
+    "flrNo": "5",
+    "area": "84.97",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "84.97",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "705",
+    "flrNo": "7",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "905",
+    "flrNo": "9",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "606",
+    "flrNo": "6",
+    "area": "84.97",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 102동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "84.97",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 101동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "305",
+    "flrNo": "3",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 104동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 101동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 104동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 102동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "232.09",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 101동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "305",
+    "flrNo": "3",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 상가동(116동)",
+    "hoNm": "112",
+    "flrNo": "1",
+    "area": "22",
+    "mainPurpsCd": "03029",
+    "mainPurpsCdNm": "제과점",
+    "etcPurps": "제1종근린생활시설(제과점)"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 101동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 101동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "305",
+    "flrNo": "3",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "505",
+    "flrNo": "5",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "205",
+    "flrNo": "2",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "1505",
+    "flrNo": "15",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 102동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 104동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 102동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "505",
+    "flrNo": "5",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 101동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 103동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 102동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 상가동(116동)",
+    "hoNm": "132",
+    "flrNo": "1",
+    "area": "54.97",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "제1종근린생활시설(소매점)"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "84.97",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 101동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 102동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 102동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "144.5",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "1405",
+    "flrNo": "14",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "605",
+    "flrNo": "6",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 103동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "144.5",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 102동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 상가동(116동)",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "56.48",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "제1종근린생활시설(소매점)"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 103동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 101동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 103동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 103동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 103동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 102동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 104동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 101동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 102동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "144.5",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "205",
+    "flrNo": "2",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 102동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "144.5",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 103동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "144.5",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 104동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 103동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "705",
+    "flrNo": "7",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 101동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "144.5",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 104동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "206",
+    "flrNo": "2",
+    "area": "84.97",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 103동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 104동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "232.09",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "805",
+    "flrNo": "8",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "84.97",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "405",
+    "flrNo": "4",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 103동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "84.97",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 상가동(116동)",
+    "hoNm": "110",
+    "flrNo": "1",
+    "area": "42.73",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "제1종근린생활시설(소매점)"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 103동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "144.5",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 101동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "144.5",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "805",
+    "flrNo": "8",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 101동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "84.97",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 102동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 104동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 104동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 102동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "144.5",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 103동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 102동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "605",
+    "flrNo": "6",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "105",
+    "flrNo": "1",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "1005",
+    "flrNo": "10",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "1205",
+    "flrNo": "12",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "84.97",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "1405",
+    "flrNo": "14",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "84.97",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 103동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 103동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "84.97",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "306",
+    "flrNo": "3",
+    "area": "84.97",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 102동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 상가동(116동)",
+    "hoNm": "107",
+    "flrNo": "1",
+    "area": "40.47",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "제1종근린생활시설(소매점)"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 104동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 상가동(116동)",
+    "hoNm": "117",
+    "flrNo": "1",
+    "area": "143.34",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "판매시설(상점)"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 102동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 104동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 101동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "232.09",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 103동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "144.5",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 102동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "144.5",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 101동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 101동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 103동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "144.5",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 104동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 103동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 102동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 104동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "144.5",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 104동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "1205",
+    "flrNo": "12",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 102동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 103동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "144.5",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "84.97",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 101동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 104동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 상가동(116동)",
+    "hoNm": "126",
+    "flrNo": "1",
+    "area": "123.11",
+    "mainPurpsCd": "04001",
+    "mainPurpsCdNm": "일반음식점",
+    "etcPurps": "제2종근린생활시설(일반음식점)"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 101동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "144.5",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 103동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 103동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "232.09",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 103동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "144.5",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "84.97",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 104동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "144.5",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 104동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 상가동(116동)",
+    "hoNm": "124",
+    "flrNo": "1",
+    "area": "35.92",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "제1종근린생활시설(소매점)"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "405",
+    "flrNo": "4",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "1106",
+    "flrNo": "11",
+    "area": "84.97",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 상가동(116동)",
+    "hoNm": "134",
+    "flrNo": "1",
+    "area": "37.36",
+    "mainPurpsCd": "04403",
+    "mainPurpsCdNm": "부동산중개업소",
+    "etcPurps": "제2종근린생활시설(부동산중개업소)"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 상가동(116동)",
+    "hoNm": "115",
+    "flrNo": "1",
+    "area": "150.78",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "판매시설(상점)"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 상가동(116동)",
+    "hoNm": "119",
+    "flrNo": "1",
+    "area": "37.62",
+    "mainPurpsCd": "04001",
+    "mainPurpsCdNm": "일반음식점",
+    "etcPurps": "제2종근린생활시설(일반음식점)"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "84.97",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 103동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "1305",
+    "flrNo": "13",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "205",
+    "flrNo": "2",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "84.97",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 104동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 104동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "84.97",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 104동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "144.5",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "1205",
+    "flrNo": "12",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 102동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "405",
+    "flrNo": "4",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 102동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 101동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 103동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 103동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "84.97",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 101동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 103동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 상가동(116동)",
+    "hoNm": "133",
+    "flrNo": "1",
+    "area": "41.83",
+    "mainPurpsCd": "04005",
+    "mainPurpsCdNm": "제조업소",
+    "etcPurps": "제2종근린생활시설(제조업소)"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 104동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 102동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "84.97",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 104동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "84.97",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 101동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 상가동(116동)",
+    "hoNm": "108",
+    "flrNo": "1",
+    "area": "23.29",
+    "mainPurpsCd": "03013",
+    "mainPurpsCdNm": "세탁소",
+    "etcPurps": "제1종근린생활시설(세탁소)"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 102동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 102동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 상가동(116동)",
+    "hoNm": "129",
+    "flrNo": "1",
+    "area": "56.87",
+    "mainPurpsCd": "04001",
+    "mainPurpsCdNm": "일반음식점",
+    "etcPurps": "제2종근린생활시설(일반음식점)"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 101동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "144.5",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "1105",
+    "flrNo": "11",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "1005",
+    "flrNo": "10",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 101동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "144.5",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 103동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 103동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 101동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 101동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "84.97",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 상가동(116동)",
+    "hoNm": "111",
+    "flrNo": "1",
+    "area": "55.75",
+    "mainPurpsCd": "04010",
+    "mainPurpsCdNm": "학원",
+    "etcPurps": "학원"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 104동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "84.97",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 101동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "84.97",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 104동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 101동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 104동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 101동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "144.5",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 103동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 102동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 104동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 상가동(116동)",
+    "hoNm": "122",
+    "flrNo": "1",
+    "area": "52.51",
+    "mainPurpsCd": "04001",
+    "mainPurpsCdNm": "일반음식점",
+    "etcPurps": "제2종근린생활시설(일반음식점)"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 상가동(116동)",
+    "hoNm": "131",
+    "flrNo": "1",
+    "area": "104.64",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "제1종근린생활시설(소매점)"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 상가동(116동)",
+    "hoNm": "127",
+    "flrNo": "1",
+    "area": "39.35",
+    "mainPurpsCd": "04001",
+    "mainPurpsCdNm": "일반음식점",
+    "etcPurps": "제2종근린생활시설(일반음식점)"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 102동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 101동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "144.5",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 101동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "84.97",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 103동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 102동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 103동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 101동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 103동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "144.5",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 101동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "84.97",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 상가동(116동)",
+    "hoNm": "130",
+    "flrNo": "1",
+    "area": "50.15",
+    "mainPurpsCd": "04001",
+    "mainPurpsCdNm": "일반음식점",
+    "etcPurps": "제2종근린생활시설(일반음식점)"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 102동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "84.97",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "84.97",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 103동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "605",
+    "flrNo": "6",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "905",
+    "flrNo": "9",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 103동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "1005",
+    "flrNo": "10",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 101동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "106",
+    "flrNo": "1",
+    "area": "84.97",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 102동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 101동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 102동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "84.97",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 104동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 103동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 104동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 102동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "144.5",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 상가동(116동)",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "24.65",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "제1종근린생활시설(소매점)"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 104동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "84.97",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 101동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "144.5",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 101동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 101동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 103동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "84.97",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 104동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "144.5",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 104동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 상가동(116동)",
+    "hoNm": "105",
+    "flrNo": "1",
+    "area": "43.82",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "제1종근린생활시설(소매점)"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "805",
+    "flrNo": "8",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "84.97",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 103동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "84.97",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "84.97",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 102동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 상가동(116동)",
+    "hoNm": "114",
+    "flrNo": "1",
+    "area": "82.82",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "판매시설(상점)"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 102동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 상가동(116동)",
+    "hoNm": "125",
+    "flrNo": "1",
+    "area": "23.1",
+    "mainPurpsCd": "04001",
+    "mainPurpsCdNm": "일반음식점",
+    "etcPurps": "제2종근린생활시설(제조업소)"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 102동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 상가동(116동)",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "183.53",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "제1종근린생활시설(소매점)"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "1505",
+    "flrNo": "15",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 104동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "144.5",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "905",
+    "flrNo": "9",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 103동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 104동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 103동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 102동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "144.5",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 102동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 상가동(116동)",
+    "hoNm": "123",
+    "flrNo": "1",
+    "area": "58.27",
+    "mainPurpsCd": "04040",
+    "mainPurpsCdNm": "교습소",
+    "etcPurps": "제2종근린생활시설(교습소)"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 102동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "144.5",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 상가동(116동)",
+    "hoNm": "106",
+    "flrNo": "1",
+    "area": "32.09",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "제1종근린생활시설(소매점)"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "806",
+    "flrNo": "8",
+    "area": "84.97",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 103동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 상가동(116동)",
+    "hoNm": "113",
+    "flrNo": "1",
+    "area": "34.15",
+    "mainPurpsCd": "04005",
+    "mainPurpsCdNm": "제조업소",
+    "etcPurps": "제2종근린생활시설(제조업소)"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 상가동(116동)",
+    "hoNm": "118",
+    "flrNo": "1",
+    "area": "30.56",
+    "mainPurpsCd": "04001",
+    "mainPurpsCdNm": "일반음식점",
+    "etcPurps": "제2종근린생활시설(일반음식점)"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 104동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "1206",
+    "flrNo": "12",
+    "area": "84.97",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 104동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "144.5",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "84.97",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 104동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "105",
+    "flrNo": "1",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 102동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 102동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "144.5",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 103동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "84.97",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 102동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 상가동(116동)",
+    "hoNm": "121",
+    "flrNo": "1",
+    "area": "80.71",
+    "mainPurpsCd": "04001",
+    "mainPurpsCdNm": "일반음식점",
+    "etcPurps": "제2종근린생활시설(일반음식점)"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 101동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 102동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "144.5",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 104동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "144.5",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 103동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "84.97",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 103동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 101동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 103동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 104동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "84.97",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "1006",
+    "flrNo": "10",
+    "area": "84.97",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 102동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 102동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "1105",
+    "flrNo": "11",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 103동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "144.5",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 상가동(116동)",
+    "hoNm": "120",
+    "flrNo": "1",
+    "area": "53.14",
+    "mainPurpsCd": "04001",
+    "mainPurpsCdNm": "일반음식점",
+    "etcPurps": "제2종근린생활시설(일반음식점)"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 101동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "144.5",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "505",
+    "flrNo": "5",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 102동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 101동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 103동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 101동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "105",
+    "flrNo": "1",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 104동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "144.5",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "84.97",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 104동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 104동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "144.5",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 107동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 102동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 103동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 101동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 104동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 101동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "144.5",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "406",
+    "flrNo": "4",
+    "area": "84.97",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 104동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "144.5",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 101동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 103동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 상가동(116동)",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "63.43",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "제1종근린생활시설(소매점)"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 102동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 104동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "101.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 103동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 상가동(116동)",
+    "hoNm": "128",
+    "flrNo": "1",
+    "area": "46.2",
+    "mainPurpsCd": "04040",
+    "mainPurpsCdNm": "교습소",
+    "etcPurps": "제2종근린생활시설(교습소)"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 102동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "144.5",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 101동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "84.97",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 103동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 102동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "706",
+    "flrNo": "7",
+    "area": "84.97",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 108동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "84.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 103동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "144.5",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 111동",
+    "hoNm": "1305",
+    "flrNo": "13",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 110동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "84.84",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 105동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 109동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "101.4",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 101동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "117.27",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "영어도시 퀸덤1차",
+    "dongNm": "에디슨 타운 106동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  }
+]

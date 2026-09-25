@@ -1,0 +1,6882 @@
+[
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "3501",
+    "flrNo": "35",
+    "area": "119.303",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3404",
+    "flrNo": "34",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "3701",
+    "flrNo": "37",
+    "area": "119.303",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3804",
+    "flrNo": "38",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2901",
+    "flrNo": "29",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "4702",
+    "flrNo": "47",
+    "area": "135.818",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "4802",
+    "flrNo": "48",
+    "area": "134.903",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "3104",
+    "flrNo": "31",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "136.896",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "2101",
+    "flrNo": "21",
+    "area": "119.303",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "3202",
+    "flrNo": "32",
+    "area": "134.903",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "3604",
+    "flrNo": "36",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4003",
+    "flrNo": "40",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3106",
+    "flrNo": "31",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "4501",
+    "flrNo": "45",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "405",
+    "flrNo": "4",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1903",
+    "flrNo": "19",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "906",
+    "flrNo": "9",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3806",
+    "flrNo": "38",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3703",
+    "flrNo": "37",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3706",
+    "flrNo": "37",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "4103",
+    "flrNo": "41",
+    "area": "136.896",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4802",
+    "flrNo": "48",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "1802",
+    "flrNo": "18",
+    "area": "135.818",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3805",
+    "flrNo": "38",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4903",
+    "flrNo": "49",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "2303",
+    "flrNo": "23",
+    "area": "136.896",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "84.815",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "46.95",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "제1종근린생활시설(소매점)"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "3601",
+    "flrNo": "36",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "2803",
+    "flrNo": "28",
+    "area": "171.484",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "2001",
+    "flrNo": "20",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2006",
+    "flrNo": "20",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "406",
+    "flrNo": "4",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2401",
+    "flrNo": "24",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2902",
+    "flrNo": "29",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3906",
+    "flrNo": "39",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "3602",
+    "flrNo": "36",
+    "area": "134.903",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "3403",
+    "flrNo": "34",
+    "area": "136.896",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "2104",
+    "flrNo": "21",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3202",
+    "flrNo": "32",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4306",
+    "flrNo": "43",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1005",
+    "flrNo": "10",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2806",
+    "flrNo": "28",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "3302",
+    "flrNo": "33",
+    "area": "134.903",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4103",
+    "flrNo": "41",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4601",
+    "flrNo": "46",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2801",
+    "flrNo": "28",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "2401",
+    "flrNo": "24",
+    "area": "119.303",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "3804",
+    "flrNo": "38",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1604",
+    "flrNo": "16",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "2601",
+    "flrNo": "26",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4804",
+    "flrNo": "48",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3102",
+    "flrNo": "31",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "3203",
+    "flrNo": "32",
+    "area": "136.896",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4006",
+    "flrNo": "40",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "171.484",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3403",
+    "flrNo": "34",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "136.896",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4806",
+    "flrNo": "48",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "3601",
+    "flrNo": "36",
+    "area": "119.303",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3406",
+    "flrNo": "34",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3603",
+    "flrNo": "36",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "2302",
+    "flrNo": "23",
+    "area": "134.903",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4805",
+    "flrNo": "48",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "208",
+    "flrNo": "2",
+    "area": "122.901",
+    "mainPurpsCd": "13011",
+    "mainPurpsCdNm": "골프연습장",
+    "etcPurps": "운동시설(골프연습장)"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "4902",
+    "flrNo": "49",
+    "area": "135.818",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "3702",
+    "flrNo": "37",
+    "area": "134.903",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "2703",
+    "flrNo": "27",
+    "area": "136.896",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "2503",
+    "flrNo": "25",
+    "area": "136.896",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "2803",
+    "flrNo": "28",
+    "area": "136.896",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "171.484",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "3404",
+    "flrNo": "34",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1704",
+    "flrNo": "17",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "4104",
+    "flrNo": "41",
+    "area": "84.815",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1702",
+    "flrNo": "17",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "3002",
+    "flrNo": "30",
+    "area": "134.903",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "2203",
+    "flrNo": "22",
+    "area": "136.896",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2906",
+    "flrNo": "29",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2904",
+    "flrNo": "29",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "2901",
+    "flrNo": "29",
+    "area": "119.303",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2302",
+    "flrNo": "23",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "4903",
+    "flrNo": "49",
+    "area": "171.484",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "84.815",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "2201",
+    "flrNo": "22",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "4201",
+    "flrNo": "42",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2202",
+    "flrNo": "22",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "2801",
+    "flrNo": "28",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "4203",
+    "flrNo": "42",
+    "area": "171.484",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2503",
+    "flrNo": "25",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "5001",
+    "flrNo": "50",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "135.818",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "2402",
+    "flrNo": "24",
+    "area": "135.818",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "3703",
+    "flrNo": "37",
+    "area": "171.484",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "84.815",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4605",
+    "flrNo": "46",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "4101",
+    "flrNo": "41",
+    "area": "119.303",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "4901",
+    "flrNo": "49",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "2101",
+    "flrNo": "21",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "119.303",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "3602",
+    "flrNo": "36",
+    "area": "135.818",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4904",
+    "flrNo": "49",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "4301",
+    "flrNo": "43",
+    "area": "119.303",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3006",
+    "flrNo": "30",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4301",
+    "flrNo": "43",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "171.484",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "2501",
+    "flrNo": "25",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "4602",
+    "flrNo": "46",
+    "area": "134.903",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "2403",
+    "flrNo": "24",
+    "area": "171.484",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3501",
+    "flrNo": "35",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "119.303",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "108",
+    "flrNo": "1",
+    "area": "24.579",
+    "mainPurpsCd": "04406",
+    "mainPurpsCdNm": "부동산중개사무소",
+    "etcPurps": "제2종근린생활시설(부동산중개사무소)"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3003",
+    "flrNo": "30",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "4701",
+    "flrNo": "47",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "135.818",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "3504",
+    "flrNo": "35",
+    "area": "84.815",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4206",
+    "flrNo": "42",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "206",
+    "flrNo": "2",
+    "area": "97.694",
+    "mainPurpsCd": "13011",
+    "mainPurpsCdNm": "골프연습장",
+    "etcPurps": "운동시설(골프연습장)"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "1602",
+    "flrNo": "16",
+    "area": "134.903",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2406",
+    "flrNo": "24",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3702",
+    "flrNo": "37",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4704",
+    "flrNo": "47",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4101",
+    "flrNo": "41",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "2304",
+    "flrNo": "23",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3602",
+    "flrNo": "36",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "2604",
+    "flrNo": "26",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "4002",
+    "flrNo": "40",
+    "area": "135.818",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "1601",
+    "flrNo": "16",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4204",
+    "flrNo": "42",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "3201",
+    "flrNo": "32",
+    "area": "119.303",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "2404",
+    "flrNo": "24",
+    "area": "84.815",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2402",
+    "flrNo": "24",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "4603",
+    "flrNo": "46",
+    "area": "136.896",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "3401",
+    "flrNo": "34",
+    "area": "119.303",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "2304",
+    "flrNo": "23",
+    "area": "84.815",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1801",
+    "flrNo": "18",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "1904",
+    "flrNo": "19",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3701",
+    "flrNo": "37",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3802",
+    "flrNo": "38",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "3303",
+    "flrNo": "33",
+    "area": "171.484",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "2502",
+    "flrNo": "25",
+    "area": "135.818",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "2602",
+    "flrNo": "26",
+    "area": "135.818",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "2004",
+    "flrNo": "20",
+    "area": "84.815",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "2001",
+    "flrNo": "20",
+    "area": "119.303",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "134.903",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "135.818",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1605",
+    "flrNo": "16",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1706",
+    "flrNo": "17",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "4401",
+    "flrNo": "44",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1805",
+    "flrNo": "18",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4506",
+    "flrNo": "45",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2903",
+    "flrNo": "29",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4502",
+    "flrNo": "45",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "3101",
+    "flrNo": "31",
+    "area": "119.303",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3204",
+    "flrNo": "32",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1505",
+    "flrNo": "15",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2905",
+    "flrNo": "29",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "136.896",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "905",
+    "flrNo": "9",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "171.484",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3901",
+    "flrNo": "39",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1803",
+    "flrNo": "18",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "136.896",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "1603",
+    "flrNo": "16",
+    "area": "171.484",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "2403",
+    "flrNo": "24",
+    "area": "136.896",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "171.484",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "119.303",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "1602",
+    "flrNo": "16",
+    "area": "135.818",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4606",
+    "flrNo": "46",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4406",
+    "flrNo": "44",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4203",
+    "flrNo": "42",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "1903",
+    "flrNo": "19",
+    "area": "171.484",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3505",
+    "flrNo": "35",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4305",
+    "flrNo": "43",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1106",
+    "flrNo": "11",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "46.012",
+    "mainPurpsCd": "03003",
+    "mainPurpsCdNm": "이(미)용원",
+    "etcPurps": "제1종근린생활시설(이(미)용원)"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3803",
+    "flrNo": "38",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3905",
+    "flrNo": "39",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "109",
+    "flrNo": "1",
+    "area": "48.048",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "제1종근린생활시설(소매점)"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "1604",
+    "flrNo": "16",
+    "area": "84.815",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "171.484",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3103",
+    "flrNo": "31",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1601",
+    "flrNo": "16",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "4001",
+    "flrNo": "40",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "5103",
+    "flrNo": "51",
+    "area": "157.402",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "5103",
+    "flrNo": "52",
+    "area": "65.492",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "135.818",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "3701",
+    "flrNo": "37",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2204",
+    "flrNo": "22",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3601",
+    "flrNo": "36",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "2102",
+    "flrNo": "21",
+    "area": "134.903",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "4404",
+    "flrNo": "44",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "4602",
+    "flrNo": "46",
+    "area": "135.818",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "4403",
+    "flrNo": "44",
+    "area": "136.896",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "134.903",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "135.818",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "119.303",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3401",
+    "flrNo": "34",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "135.818",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "4801",
+    "flrNo": "48",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "2802",
+    "flrNo": "28",
+    "area": "134.903",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "1701",
+    "flrNo": "17",
+    "area": "119.303",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "119.303",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "114",
+    "flrNo": "1",
+    "area": "23.6",
+    "mainPurpsCd": "04001",
+    "mainPurpsCdNm": "일반음식점",
+    "etcPurps": "제2종근린생활시설(일반음식점)"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2403",
+    "flrNo": "24",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "3001",
+    "flrNo": "30",
+    "area": "119.303",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "2202",
+    "flrNo": "22",
+    "area": "135.818",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "2302",
+    "flrNo": "23",
+    "area": "135.818",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4901",
+    "flrNo": "49",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "58.547",
+    "mainPurpsCd": "13011",
+    "mainPurpsCdNm": "골프연습장",
+    "etcPurps": "운동시설(골프연습장)"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "806",
+    "flrNo": "8",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3205",
+    "flrNo": "32",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "2804",
+    "flrNo": "28",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1701",
+    "flrNo": "17",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4001",
+    "flrNo": "40",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "2701",
+    "flrNo": "27",
+    "area": "119.303",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2304",
+    "flrNo": "23",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "3304",
+    "flrNo": "33",
+    "area": "84.815",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "3503",
+    "flrNo": "35",
+    "area": "136.896",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "134.903",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4702",
+    "flrNo": "47",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "135.818",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4405",
+    "flrNo": "44",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2501",
+    "flrNo": "25",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "5002",
+    "flrNo": "50",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "26.511",
+    "mainPurpsCd": "03005",
+    "mainPurpsCdNm": "의원",
+    "etcPurps": "제1종근린생활시설(의원)"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "119.303",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4303",
+    "flrNo": "43",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "4104",
+    "flrNo": "41",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "135.818",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1205",
+    "flrNo": "12",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4201",
+    "flrNo": "42",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "5102",
+    "flrNo": "51",
+    "area": "196.972",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "2404",
+    "flrNo": "24",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "135.818",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "3301",
+    "flrNo": "33",
+    "area": "119.303",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "171.484",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2505",
+    "flrNo": "25",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "1604",
+    "flrNo": "16",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "3904",
+    "flrNo": "39",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "4203",
+    "flrNo": "42",
+    "area": "136.896",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "1801",
+    "flrNo": "18",
+    "area": "119.303",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "5202",
+    "flrNo": "52",
+    "area": "196.972",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "4402",
+    "flrNo": "44",
+    "area": "135.818",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "1801",
+    "flrNo": "18",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2704",
+    "flrNo": "27",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2604",
+    "flrNo": "26",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1006",
+    "flrNo": "10",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "4304",
+    "flrNo": "43",
+    "area": "84.815",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "4801",
+    "flrNo": "48",
+    "area": "119.303",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3801",
+    "flrNo": "38",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2404",
+    "flrNo": "24",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "3304",
+    "flrNo": "33",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2804",
+    "flrNo": "28",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4801",
+    "flrNo": "48",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "136.896",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "3102",
+    "flrNo": "31",
+    "area": "135.818",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1806",
+    "flrNo": "18",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "3904",
+    "flrNo": "39",
+    "area": "84.815",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "4002",
+    "flrNo": "40",
+    "area": "134.903",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "310",
+    "flrNo": "3",
+    "area": "86.177",
+    "mainPurpsCd": "04010",
+    "mainPurpsCdNm": "학원",
+    "etcPurps": "제2종근린생활시설(학원)"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "84.815",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "135.818",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "4303",
+    "flrNo": "43",
+    "area": "136.896",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3005",
+    "flrNo": "30",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2305",
+    "flrNo": "23",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2803",
+    "flrNo": "28",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1804",
+    "flrNo": "18",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "119.303",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4401",
+    "flrNo": "44",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1904",
+    "flrNo": "19",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "2303",
+    "flrNo": "23",
+    "area": "171.484",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "1704",
+    "flrNo": "17",
+    "area": "84.815",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "3704",
+    "flrNo": "37",
+    "area": "84.815",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "4803",
+    "flrNo": "48",
+    "area": "136.896",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "134.903",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2405",
+    "flrNo": "24",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "171.484",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2005",
+    "flrNo": "20",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "117",
+    "flrNo": "1",
+    "area": "27.235",
+    "mainPurpsCd": "04402",
+    "mainPurpsCdNm": "사무소",
+    "etcPurps": "제2종근린생활시설(사무소)"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "4003",
+    "flrNo": "40",
+    "area": "136.896",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "1902",
+    "flrNo": "19",
+    "area": "134.903",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1206",
+    "flrNo": "12",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "119.303",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "119.303",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "209",
+    "flrNo": "2",
+    "area": "78.8",
+    "mainPurpsCd": "13011",
+    "mainPurpsCdNm": "골프연습장",
+    "etcPurps": "운동시설(골프연습장)"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "3201",
+    "flrNo": "32",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "3204",
+    "flrNo": "32",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2206",
+    "flrNo": "22",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3104",
+    "flrNo": "31",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1603",
+    "flrNo": "16",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "3004",
+    "flrNo": "30",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "2601",
+    "flrNo": "26",
+    "area": "119.303",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "3302",
+    "flrNo": "33",
+    "area": "135.818",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "3502",
+    "flrNo": "35",
+    "area": "135.818",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "3603",
+    "flrNo": "36",
+    "area": "171.484",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "2003",
+    "flrNo": "20",
+    "area": "171.484",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "2103",
+    "flrNo": "21",
+    "area": "171.484",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "3902",
+    "flrNo": "39",
+    "area": "135.818",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "2002",
+    "flrNo": "20",
+    "area": "135.818",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "4004",
+    "flrNo": "40",
+    "area": "84.815",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "3401",
+    "flrNo": "34",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3402",
+    "flrNo": "34",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4803",
+    "flrNo": "48",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "4704",
+    "flrNo": "47",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "3902",
+    "flrNo": "39",
+    "area": "134.903",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2701",
+    "flrNo": "27",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2605",
+    "flrNo": "26",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "134.903",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "135.818",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4906",
+    "flrNo": "49",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "134.903",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "1804",
+    "flrNo": "18",
+    "area": "84.815",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "1902",
+    "flrNo": "19",
+    "area": "135.818",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1406",
+    "flrNo": "14",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3506",
+    "flrNo": "35",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "1601",
+    "flrNo": "16",
+    "area": "119.303",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "3203",
+    "flrNo": "32",
+    "area": "171.484",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2306",
+    "flrNo": "23",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "1904",
+    "flrNo": "19",
+    "area": "84.815",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "605",
+    "flrNo": "6",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3606",
+    "flrNo": "36",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "1903",
+    "flrNo": "19",
+    "area": "136.896",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "2504",
+    "flrNo": "25",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "35.621",
+    "mainPurpsCd": "03005",
+    "mainPurpsCdNm": "의원",
+    "etcPurps": "제1종근린생활시설(의원)"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3304",
+    "flrNo": "33",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4304",
+    "flrNo": "43",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3904",
+    "flrNo": "39",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2703",
+    "flrNo": "27",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "46.859",
+    "mainPurpsCd": "03002",
+    "mainPurpsCdNm": "휴게음식점",
+    "etcPurps": "제1종근린생활시설(휴게음식점)"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "4904",
+    "flrNo": "49",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "2301",
+    "flrNo": "23",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1905",
+    "flrNo": "19",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "84.815",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2502",
+    "flrNo": "25",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "136.896",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "1803",
+    "flrNo": "18",
+    "area": "136.896",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3101",
+    "flrNo": "31",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3605",
+    "flrNo": "36",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "2201",
+    "flrNo": "22",
+    "area": "119.303",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1703",
+    "flrNo": "17",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "134.903",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "4201",
+    "flrNo": "42",
+    "area": "119.303",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1606",
+    "flrNo": "16",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "4503",
+    "flrNo": "45",
+    "area": "171.484",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "3804",
+    "flrNo": "38",
+    "area": "84.815",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3405",
+    "flrNo": "34",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1602",
+    "flrNo": "16",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2506",
+    "flrNo": "25",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "3504",
+    "flrNo": "35",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2004",
+    "flrNo": "20",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "4503",
+    "flrNo": "45",
+    "area": "136.896",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3203",
+    "flrNo": "32",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "2401",
+    "flrNo": "24",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "4702",
+    "flrNo": "47",
+    "area": "134.903",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "106",
+    "flrNo": "1",
+    "area": "18.613",
+    "mainPurpsCd": "04403",
+    "mainPurpsCdNm": "부동산중개업소",
+    "etcPurps": "제2종근린생활시설(부동산중개업소)"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "3003",
+    "flrNo": "30",
+    "area": "171.484",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2602",
+    "flrNo": "26",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "1901",
+    "flrNo": "19",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4603",
+    "flrNo": "46",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4705",
+    "flrNo": "47",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "2004",
+    "flrNo": "20",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "3501",
+    "flrNo": "35",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "3003",
+    "flrNo": "30",
+    "area": "136.896",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "1702",
+    "flrNo": "17",
+    "area": "135.818",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2103",
+    "flrNo": "21",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "2702",
+    "flrNo": "27",
+    "area": "134.903",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "2501",
+    "flrNo": "25",
+    "area": "119.303",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1901",
+    "flrNo": "19",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3303",
+    "flrNo": "33",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "4001",
+    "flrNo": "40",
+    "area": "119.303",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "2503",
+    "flrNo": "25",
+    "area": "171.484",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2706",
+    "flrNo": "27",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3301",
+    "flrNo": "33",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "3103",
+    "flrNo": "31",
+    "area": "171.484",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "3801",
+    "flrNo": "38",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "4102",
+    "flrNo": "41",
+    "area": "135.818",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3002",
+    "flrNo": "30",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "3801",
+    "flrNo": "38",
+    "area": "119.303",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "3703",
+    "flrNo": "37",
+    "area": "136.896",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3604",
+    "flrNo": "36",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "57.529",
+    "mainPurpsCd": "04010",
+    "mainPurpsCdNm": "학원",
+    "etcPurps": "제2종근린생활시설(학원)"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "134.903",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "2204",
+    "flrNo": "22",
+    "area": "84.815",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "205",
+    "flrNo": "2",
+    "area": "112.228",
+    "mainPurpsCd": "13011",
+    "mainPurpsCdNm": "골프연습장",
+    "etcPurps": "운동시설(골프연습장)"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "4601",
+    "flrNo": "46",
+    "area": "119.303",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "3301",
+    "flrNo": "33",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2601",
+    "flrNo": "26",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "38.888",
+    "mainPurpsCd": "04001",
+    "mainPurpsCdNm": "일반음식점",
+    "etcPurps": "제2종근린생활시설(일반음식점)"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "308",
+    "flrNo": "3",
+    "area": "112.171",
+    "mainPurpsCd": "04402",
+    "mainPurpsCdNm": "사무소",
+    "etcPurps": "제2종근린생활시설(사무소)"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "1701",
+    "flrNo": "17",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "5005",
+    "flrNo": "50",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "1704",
+    "flrNo": "17",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4706",
+    "flrNo": "47",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "134.903",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2705",
+    "flrNo": "27",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "134.903",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "2904",
+    "flrNo": "29",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "307",
+    "flrNo": "3",
+    "area": "86.223",
+    "mainPurpsCd": "04402",
+    "mainPurpsCdNm": "사무소",
+    "etcPurps": "제2종근린생활시설(사무소)"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "84.815",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "3802",
+    "flrNo": "38",
+    "area": "135.818",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "4101",
+    "flrNo": "41",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "57.529",
+    "mainPurpsCd": "03005",
+    "mainPurpsCdNm": "의원",
+    "etcPurps": "제1종근린생활시설(의원)"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "2202",
+    "flrNo": "22",
+    "area": "134.903",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4102",
+    "flrNo": "41",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2003",
+    "flrNo": "20",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "305",
+    "flrNo": "3",
+    "area": "112.228",
+    "mainPurpsCd": "04010",
+    "mainPurpsCdNm": "학원",
+    "etcPurps": "제2종근린생활시설(학원)"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "136.896",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "3901",
+    "flrNo": "39",
+    "area": "119.303",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3902",
+    "flrNo": "39",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3206",
+    "flrNo": "32",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "3202",
+    "flrNo": "32",
+    "area": "135.818",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "4802",
+    "flrNo": "48",
+    "area": "135.818",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3504",
+    "flrNo": "35",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "4304",
+    "flrNo": "43",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "2502",
+    "flrNo": "25",
+    "area": "134.903",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "3901",
+    "flrNo": "39",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "105",
+    "flrNo": "1",
+    "area": "29.427",
+    "mainPurpsCd": "03002",
+    "mainPurpsCdNm": "휴게음식점",
+    "etcPurps": "제1종근린생활시설(휴게음식점)"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4604",
+    "flrNo": "46",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1902",
+    "flrNo": "19",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "2604",
+    "flrNo": "26",
+    "area": "84.815",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "113",
+    "flrNo": "1",
+    "area": "66.815",
+    "mainPurpsCd": "04001",
+    "mainPurpsCdNm": "일반음식점",
+    "etcPurps": "제2종근린생활시설(일반음식점)"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3105",
+    "flrNo": "31",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "35.621",
+    "mainPurpsCd": "04010",
+    "mainPurpsCdNm": "학원",
+    "etcPurps": "제2종근린생활시설(학원)"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "2602",
+    "flrNo": "26",
+    "area": "134.903",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "2903",
+    "flrNo": "29",
+    "area": "171.484",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2101",
+    "flrNo": "21",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "2704",
+    "flrNo": "27",
+    "area": "84.815",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "116",
+    "flrNo": "1",
+    "area": "40.511",
+    "mainPurpsCd": "04001",
+    "mainPurpsCdNm": "일반음식점",
+    "etcPurps": "제2종근린생활시설(일반음식점)"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1906",
+    "flrNo": "19",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "505",
+    "flrNo": "5",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2203",
+    "flrNo": "22",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "171.484",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "4604",
+    "flrNo": "46",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "4502",
+    "flrNo": "45",
+    "area": "134.903",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "2104",
+    "flrNo": "21",
+    "area": "84.815",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "171.484",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "4003",
+    "flrNo": "40",
+    "area": "171.484",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "3704",
+    "flrNo": "37",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "4301",
+    "flrNo": "43",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "2603",
+    "flrNo": "26",
+    "area": "136.896",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "2903",
+    "flrNo": "29",
+    "area": "136.896",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3903",
+    "flrNo": "39",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "4604",
+    "flrNo": "46",
+    "area": "84.815",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3306",
+    "flrNo": "33",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "4202",
+    "flrNo": "42",
+    "area": "134.903",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1705",
+    "flrNo": "17",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "3103",
+    "flrNo": "31",
+    "area": "136.896",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "4302",
+    "flrNo": "43",
+    "area": "135.818",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "119.303",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3502",
+    "flrNo": "35",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "26.511",
+    "mainPurpsCd": "04010",
+    "mainPurpsCdNm": "학원",
+    "etcPurps": "제2종근린생활시설(학원)"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4106",
+    "flrNo": "41",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "4401",
+    "flrNo": "44",
+    "area": "119.303",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1506",
+    "flrNo": "15",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "3404",
+    "flrNo": "34",
+    "area": "84.815",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "805",
+    "flrNo": "8",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "3002",
+    "flrNo": "30",
+    "area": "135.818",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2105",
+    "flrNo": "21",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2102",
+    "flrNo": "21",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4501",
+    "flrNo": "45",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4602",
+    "flrNo": "46",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1405",
+    "flrNo": "14",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "136.896",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2002",
+    "flrNo": "20",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "3903",
+    "flrNo": "39",
+    "area": "171.484",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "4204",
+    "flrNo": "42",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2205",
+    "flrNo": "22",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "3102",
+    "flrNo": "31",
+    "area": "134.903",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "3204",
+    "flrNo": "32",
+    "area": "84.815",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4503",
+    "flrNo": "45",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2603",
+    "flrNo": "26",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "136.896",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "3604",
+    "flrNo": "36",
+    "area": "84.815",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "3001",
+    "flrNo": "30",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "3903",
+    "flrNo": "39",
+    "area": "136.896",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2606",
+    "flrNo": "26",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "4103",
+    "flrNo": "41",
+    "area": "171.484",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2303",
+    "flrNo": "23",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "2802",
+    "flrNo": "28",
+    "area": "135.818",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "4204",
+    "flrNo": "42",
+    "area": "84.815",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "3402",
+    "flrNo": "34",
+    "area": "135.818",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "58.547",
+    "mainPurpsCd": "04010",
+    "mainPurpsCdNm": "학원",
+    "etcPurps": "제2종근린생활시설(학원)"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "1802",
+    "flrNo": "18",
+    "area": "134.903",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "115",
+    "flrNo": "1",
+    "area": "23.603",
+    "mainPurpsCd": "04402",
+    "mainPurpsCdNm": "사무소",
+    "etcPurps": "제2종근린생활시설(사무소)"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4701",
+    "flrNo": "47",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2504",
+    "flrNo": "25",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "705",
+    "flrNo": "7",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4703",
+    "flrNo": "47",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "84.815",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2805",
+    "flrNo": "28",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "2902",
+    "flrNo": "29",
+    "area": "135.818",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "4803",
+    "flrNo": "48",
+    "area": "171.484",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "84.815",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "1901",
+    "flrNo": "19",
+    "area": "119.303",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "118",
+    "flrNo": "1",
+    "area": "27.272",
+    "mainPurpsCd": "04402",
+    "mainPurpsCdNm": "사무소",
+    "etcPurps": "제2종근린생활시설(사무소)"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "4102",
+    "flrNo": "41",
+    "area": "134.903",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "3402",
+    "flrNo": "34",
+    "area": "134.903",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4404",
+    "flrNo": "44",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "2504",
+    "flrNo": "25",
+    "area": "84.815",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3001",
+    "flrNo": "30",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "3802",
+    "flrNo": "38",
+    "area": "134.903",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "207",
+    "flrNo": "2",
+    "area": "86.223",
+    "mainPurpsCd": "13011",
+    "mainPurpsCdNm": "골프연습장",
+    "etcPurps": "운동시설(골프연습장)"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1306",
+    "flrNo": "13",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "111",
+    "flrNo": "1",
+    "area": "58.169",
+    "mainPurpsCd": "03013",
+    "mainPurpsCdNm": "세탁소",
+    "etcPurps": "제1종근린생활시설(세탁소)"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "1702",
+    "flrNo": "17",
+    "area": "134.903",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "84.815",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "4004",
+    "flrNo": "40",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "2204",
+    "flrNo": "22",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "136.896",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2201",
+    "flrNo": "22",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4205",
+    "flrNo": "42",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "2701",
+    "flrNo": "27",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "3603",
+    "flrNo": "36",
+    "area": "136.896",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4403",
+    "flrNo": "44",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "5101",
+    "flrNo": "51",
+    "area": "157.402",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "5101",
+    "flrNo": "52",
+    "area": "65.706",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3503",
+    "flrNo": "35",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4202",
+    "flrNo": "42",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "1803",
+    "flrNo": "18",
+    "area": "171.484",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4105",
+    "flrNo": "41",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "4403",
+    "flrNo": "44",
+    "area": "171.484",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4504",
+    "flrNo": "45",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3302",
+    "flrNo": "33",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "136.896",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "4504",
+    "flrNo": "45",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "4303",
+    "flrNo": "43",
+    "area": "171.484",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "84.815",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "134.903",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1305",
+    "flrNo": "13",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "136.896",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "1703",
+    "flrNo": "17",
+    "area": "136.896",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1802",
+    "flrNo": "18",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1105",
+    "flrNo": "11",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4905",
+    "flrNo": "49",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "4703",
+    "flrNo": "47",
+    "area": "136.896",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "606",
+    "flrNo": "6",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "210",
+    "flrNo": "2",
+    "area": "86.177",
+    "mainPurpsCd": "13011",
+    "mainPurpsCdNm": "골프연습장",
+    "etcPurps": "운동시설(골프연습장)"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3201",
+    "flrNo": "32",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "5006",
+    "flrNo": "50",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "2002",
+    "flrNo": "20",
+    "area": "134.903",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "4302",
+    "flrNo": "43",
+    "area": "134.903",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4005",
+    "flrNo": "40",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "110",
+    "flrNo": "1",
+    "area": "66.726",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "제1종근린생활시설(소매점)"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "4404",
+    "flrNo": "44",
+    "area": "84.815",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "3104",
+    "flrNo": "31",
+    "area": "84.815",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "119.303",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "2901",
+    "flrNo": "29",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "4501",
+    "flrNo": "45",
+    "area": "119.303",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "171.484",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "2703",
+    "flrNo": "27",
+    "area": "171.484",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2301",
+    "flrNo": "23",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4505",
+    "flrNo": "45",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4402",
+    "flrNo": "44",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2104",
+    "flrNo": "21",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "171.484",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2702",
+    "flrNo": "27",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "4402",
+    "flrNo": "44",
+    "area": "134.903",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "134.903",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "3303",
+    "flrNo": "33",
+    "area": "136.896",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "3702",
+    "flrNo": "37",
+    "area": "135.818",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3004",
+    "flrNo": "30",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "107",
+    "flrNo": "1",
+    "area": "46.479",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "제1종근린생활시설(소매점)"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2802",
+    "flrNo": "28",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "112",
+    "flrNo": "1",
+    "area": "38.937",
+    "mainPurpsCd": "04402",
+    "mainPurpsCdNm": "사무소",
+    "etcPurps": "제2종근린생활시설(사무소)"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "3803",
+    "flrNo": "38",
+    "area": "171.484",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "2301",
+    "flrNo": "23",
+    "area": "119.303",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "2702",
+    "flrNo": "27",
+    "area": "135.818",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "2102",
+    "flrNo": "21",
+    "area": "135.818",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "2801",
+    "flrNo": "28",
+    "area": "119.303",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "1603",
+    "flrNo": "16",
+    "area": "136.896",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "2904",
+    "flrNo": "29",
+    "area": "84.815",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4104",
+    "flrNo": "41",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "306",
+    "flrNo": "3",
+    "area": "97.694",
+    "mainPurpsCd": "04010",
+    "mainPurpsCdNm": "학원",
+    "etcPurps": "제2종근린생활시설(학원)"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "1703",
+    "flrNo": "17",
+    "area": "171.484",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "119.303",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "135.818",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "3803",
+    "flrNo": "38",
+    "area": "136.896",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "4202",
+    "flrNo": "42",
+    "area": "135.818",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "506",
+    "flrNo": "5",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "2603",
+    "flrNo": "26",
+    "area": "171.484",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "2402",
+    "flrNo": "24",
+    "area": "134.903",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "4701",
+    "flrNo": "47",
+    "area": "119.303",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "84.815",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "309",
+    "flrNo": "3",
+    "area": "23.058",
+    "mainPurpsCd": "04040",
+    "mainPurpsCdNm": "교습소",
+    "etcPurps": "제2종근린생활시설(교습소)"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "4504",
+    "flrNo": "45",
+    "area": "84.815",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "706",
+    "flrNo": "7",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "4804",
+    "flrNo": "48",
+    "area": "84.815",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "3502",
+    "flrNo": "35",
+    "area": "134.903",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "2003",
+    "flrNo": "20",
+    "area": "136.896",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "4603",
+    "flrNo": "46",
+    "area": "171.484",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "4601",
+    "flrNo": "46",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "2902",
+    "flrNo": "29",
+    "area": "134.903",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2001",
+    "flrNo": "20",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "2704",
+    "flrNo": "27",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "2203",
+    "flrNo": "22",
+    "area": "171.484",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "4804",
+    "flrNo": "48",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4902",
+    "flrNo": "49",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "4703",
+    "flrNo": "47",
+    "area": "171.484",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "2103",
+    "flrNo": "21",
+    "area": "136.896",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3705",
+    "flrNo": "37",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "3403",
+    "flrNo": "34",
+    "area": "171.484",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "3101",
+    "flrNo": "31",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "3503",
+    "flrNo": "35",
+    "area": "171.484",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "2106",
+    "flrNo": "21",
+    "area": "84.976",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "4502",
+    "flrNo": "45",
+    "area": "135.818",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "84.815",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4302",
+    "flrNo": "43",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "4704",
+    "flrNo": "47",
+    "area": "84.815",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3704",
+    "flrNo": "37",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4002",
+    "flrNo": "40",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "102동",
+    "hoNm": "1804",
+    "flrNo": "18",
+    "area": "119.932",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "3004",
+    "flrNo": "30",
+    "area": "84.815",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "4004",
+    "flrNo": "40",
+    "area": "117.778",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "101동",
+    "hoNm": "3305",
+    "flrNo": "33",
+    "area": "117.908",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "벽산아스타",
+    "dongNm": "103동",
+    "hoNm": "2804",
+    "flrNo": "28",
+    "area": "84.815",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  }
+]

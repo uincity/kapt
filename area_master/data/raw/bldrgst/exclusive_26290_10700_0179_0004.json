@@ -1,0 +1,5582 @@
+[
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "상가동",
+    "hoNm": "비03호",
+    "flrNo": "1",
+    "area": "20.3",
+    "mainPurpsCd": "02004",
+    "mainPurpsCdNm": "생활편익시설",
+    "etcPurps": "생활편익시설"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "상가동",
+    "hoNm": "120호",
+    "flrNo": "1",
+    "area": "41.3",
+    "mainPurpsCd": "02004",
+    "mainPurpsCdNm": "생활편익시설",
+    "etcPurps": "생활편익시설"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1803호",
+    "flrNo": "18",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "904호",
+    "flrNo": "9",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "602호",
+    "flrNo": "6",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "2405호",
+    "flrNo": "24",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1201호",
+    "flrNo": "12",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1207호",
+    "flrNo": "12",
+    "area": "110.6",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1003호",
+    "flrNo": "10",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "907호",
+    "flrNo": "9",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1301호",
+    "flrNo": "13",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "605호",
+    "flrNo": "6",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1708호",
+    "flrNo": "17",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1006호",
+    "flrNo": "10",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "상가동",
+    "hoNm": "204호",
+    "flrNo": "2",
+    "area": "47.65",
+    "mainPurpsCd": "02004",
+    "mainPurpsCdNm": "생활편익시설",
+    "etcPurps": "생활편익시설"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "2503호",
+    "flrNo": "25",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "2408호",
+    "flrNo": "24",
+    "area": "110.6",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1001호",
+    "flrNo": "10",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "상가동",
+    "hoNm": "305호",
+    "flrNo": "3",
+    "area": "78",
+    "mainPurpsCd": "10003",
+    "mainPurpsCdNm": "학원",
+    "etcPurps": "교육연구시설(학원)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1701호",
+    "flrNo": "17",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "2203호",
+    "flrNo": "22",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1906호",
+    "flrNo": "19",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "2308호",
+    "flrNo": "23",
+    "area": "110.6",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "상가동",
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "76.48",
+    "mainPurpsCd": "02004",
+    "mainPurpsCdNm": "생활편익시설",
+    "etcPurps": "생활편익시설"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "806호",
+    "flrNo": "8",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "906호",
+    "flrNo": "9",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "704호",
+    "flrNo": "7",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "2207호",
+    "flrNo": "22",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "801호",
+    "flrNo": "8",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "708호",
+    "flrNo": "7",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "2001호",
+    "flrNo": "20",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1406호",
+    "flrNo": "14",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "305호",
+    "flrNo": "3",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "407호",
+    "flrNo": "4",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "503호",
+    "flrNo": "5",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "404호",
+    "flrNo": "4",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "204호",
+    "flrNo": "2",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "601호",
+    "flrNo": "6",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "2104호",
+    "flrNo": "21",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1202호",
+    "flrNo": "12",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "2502호",
+    "flrNo": "25",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "508호",
+    "flrNo": "5",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "2404호",
+    "flrNo": "24",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "905호",
+    "flrNo": "9",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "607호",
+    "flrNo": "6",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "505호",
+    "flrNo": "5",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1806호",
+    "flrNo": "18",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1105호",
+    "flrNo": "11",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "501호",
+    "flrNo": "5",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "2104호",
+    "flrNo": "21",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "703호",
+    "flrNo": "7",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "601호",
+    "flrNo": "6",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1302호",
+    "flrNo": "13",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "2107호",
+    "flrNo": "21",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1303호",
+    "flrNo": "13",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "306호",
+    "flrNo": "3",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "상가동",
+    "hoNm": "106호",
+    "flrNo": "1",
+    "area": "25.53",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1108호",
+    "flrNo": "11",
+    "area": "110.6",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1501호",
+    "flrNo": "15",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1205호",
+    "flrNo": "12",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "804호",
+    "flrNo": "8",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1103호",
+    "flrNo": "11",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1802호",
+    "flrNo": "18",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1608호",
+    "flrNo": "16",
+    "area": "110.6",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "405호",
+    "flrNo": "4",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1606호",
+    "flrNo": "16",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1305호",
+    "flrNo": "13",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1706호",
+    "flrNo": "17",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1006호",
+    "flrNo": "10",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1204호",
+    "flrNo": "12",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1801호",
+    "flrNo": "18",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "2301호",
+    "flrNo": "23",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1902호",
+    "flrNo": "19",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "2306호",
+    "flrNo": "23",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "605호",
+    "flrNo": "6",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1406호",
+    "flrNo": "14",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1106호",
+    "flrNo": "11",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "704호",
+    "flrNo": "7",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "2303호",
+    "flrNo": "23",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1601호",
+    "flrNo": "16",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1402호",
+    "flrNo": "14",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "204호",
+    "flrNo": "2",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "603호",
+    "flrNo": "6",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1603호",
+    "flrNo": "16",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1403호",
+    "flrNo": "14",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1305호",
+    "flrNo": "13",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "2404호",
+    "flrNo": "24",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "506호",
+    "flrNo": "5",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "706호",
+    "flrNo": "7",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "2405호",
+    "flrNo": "24",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1802호",
+    "flrNo": "18",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1801호",
+    "flrNo": "18",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "2206호",
+    "flrNo": "22",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1702호",
+    "flrNo": "17",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1704호",
+    "flrNo": "17",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "2102호",
+    "flrNo": "21",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1106호",
+    "flrNo": "11",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "2008호",
+    "flrNo": "20",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "104호",
+    "flrNo": "1",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "2208호",
+    "flrNo": "22",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1202호",
+    "flrNo": "12",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "908호",
+    "flrNo": "9",
+    "area": "110.6",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1604호",
+    "flrNo": "16",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1404호",
+    "flrNo": "14",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1007호",
+    "flrNo": "10",
+    "area": "110.6",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "2105호",
+    "flrNo": "21",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "상가동",
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "40.48",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "제1종근린생활시설(소매점)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "2403호",
+    "flrNo": "24",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1805호",
+    "flrNo": "18",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1004호",
+    "flrNo": "10",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1305호",
+    "flrNo": "13",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1905호",
+    "flrNo": "19",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "707호",
+    "flrNo": "7",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1906호",
+    "flrNo": "19",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1206호",
+    "flrNo": "12",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "304호",
+    "flrNo": "3",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "2508호",
+    "flrNo": "25",
+    "area": "110.6",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "2505호",
+    "flrNo": "25",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "505호",
+    "flrNo": "5",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1707호",
+    "flrNo": "17",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1302호",
+    "flrNo": "13",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "308호",
+    "flrNo": "3",
+    "area": "110.6",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "2401호",
+    "flrNo": "24",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "308호",
+    "flrNo": "3",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1306호",
+    "flrNo": "13",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1102호",
+    "flrNo": "11",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "2001호",
+    "flrNo": "20",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "2207호",
+    "flrNo": "22",
+    "area": "110.6",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1808호",
+    "flrNo": "18",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "802호",
+    "flrNo": "8",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1908호",
+    "flrNo": "19",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1805호",
+    "flrNo": "18",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "상가동",
+    "hoNm": "207호",
+    "flrNo": "2",
+    "area": "64.68",
+    "mainPurpsCd": "02004",
+    "mainPurpsCdNm": "생활편익시설",
+    "etcPurps": "생활편익시설"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "2302호",
+    "flrNo": "23",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "2502호",
+    "flrNo": "25",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "306호",
+    "flrNo": "3",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "903호",
+    "flrNo": "9",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "205호",
+    "flrNo": "2",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1907호",
+    "flrNo": "19",
+    "area": "110.6",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "2004호",
+    "flrNo": "20",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "2204호",
+    "flrNo": "22",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "2102호",
+    "flrNo": "21",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1907호",
+    "flrNo": "19",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "606호",
+    "flrNo": "6",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1708호",
+    "flrNo": "17",
+    "area": "110.6",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1405호",
+    "flrNo": "14",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "504호",
+    "flrNo": "5",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1205호",
+    "flrNo": "12",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "406호",
+    "flrNo": "4",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "2105호",
+    "flrNo": "21",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1908호",
+    "flrNo": "19",
+    "area": "110.6",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1105호",
+    "flrNo": "11",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "2205호",
+    "flrNo": "22",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1401호",
+    "flrNo": "14",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "706호",
+    "flrNo": "7",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "105호",
+    "flrNo": "1",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "상가동",
+    "hoNm": "118호",
+    "flrNo": "1",
+    "area": "45.74",
+    "mainPurpsCd": "04001",
+    "mainPurpsCdNm": "일반음식점",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "2006호",
+    "flrNo": "20",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "507호",
+    "flrNo": "5",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "2305호",
+    "flrNo": "23",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1901호",
+    "flrNo": "19",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1801호",
+    "flrNo": "18",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1301호",
+    "flrNo": "13",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "2404호",
+    "flrNo": "24",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1902호",
+    "flrNo": "19",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "상가동",
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "79.28",
+    "mainPurpsCd": "02004",
+    "mainPurpsCdNm": "생활편익시설",
+    "etcPurps": "생활편익시설"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1101호",
+    "flrNo": "11",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1008호",
+    "flrNo": "10",
+    "area": "110.6",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1803호",
+    "flrNo": "18",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "2005호",
+    "flrNo": "20",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "306호",
+    "flrNo": "3",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "803호",
+    "flrNo": "8",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "2203호",
+    "flrNo": "22",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1001호",
+    "flrNo": "10",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "2403호",
+    "flrNo": "24",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1806호",
+    "flrNo": "18",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1901호",
+    "flrNo": "19",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "2003호",
+    "flrNo": "20",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1508호",
+    "flrNo": "15",
+    "area": "110.6",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1201호",
+    "flrNo": "12",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1807호",
+    "flrNo": "18",
+    "area": "110.6",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "2108호",
+    "flrNo": "21",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "상가동",
+    "hoNm": "109호",
+    "flrNo": "1",
+    "area": "19.01",
+    "mainPurpsCd": "02004",
+    "mainPurpsCdNm": "생활편익시설",
+    "etcPurps": "생활편익시설"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "2002호",
+    "flrNo": "20",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "2307호",
+    "flrNo": "23",
+    "area": "110.6",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "906호",
+    "flrNo": "9",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1501호",
+    "flrNo": "15",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1406호",
+    "flrNo": "14",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1605호",
+    "flrNo": "16",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1207호",
+    "flrNo": "12",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1705호",
+    "flrNo": "17",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "2504호",
+    "flrNo": "25",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1902호",
+    "flrNo": "19",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "상가동",
+    "hoNm": "비01호",
+    "flrNo": "1",
+    "area": "35.73",
+    "mainPurpsCd": "02004",
+    "mainPurpsCdNm": "생활편익시설",
+    "etcPurps": "생활편익시설"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1206호",
+    "flrNo": "12",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1607호",
+    "flrNo": "16",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "2208호",
+    "flrNo": "22",
+    "area": "110.6",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "2103호",
+    "flrNo": "21",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "2304호",
+    "flrNo": "23",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "2103호",
+    "flrNo": "21",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1208호",
+    "flrNo": "12",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "상가동",
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "44.19",
+    "mainPurpsCd": "02004",
+    "mainPurpsCdNm": "생활편익시설",
+    "etcPurps": "생활편익시설"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "802호",
+    "flrNo": "8",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "상가동",
+    "hoNm": "205호",
+    "flrNo": "2",
+    "area": "45.17",
+    "mainPurpsCd": "02004",
+    "mainPurpsCdNm": "생활편익시설",
+    "etcPurps": "생활편익시설"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1404호",
+    "flrNo": "14",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "503호",
+    "flrNo": "5",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "206호",
+    "flrNo": "2",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "805호",
+    "flrNo": "8",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1401호",
+    "flrNo": "14",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "2102호",
+    "flrNo": "21",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1504호",
+    "flrNo": "15",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "208호",
+    "flrNo": "2",
+    "area": "110.6",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1805호",
+    "flrNo": "18",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1504호",
+    "flrNo": "15",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "2004호",
+    "flrNo": "20",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "2003호",
+    "flrNo": "20",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1204호",
+    "flrNo": "12",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "207호",
+    "flrNo": "2",
+    "area": "110.6",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1107호",
+    "flrNo": "11",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "2105호",
+    "flrNo": "21",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1203호",
+    "flrNo": "12",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1904호",
+    "flrNo": "19",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "707호",
+    "flrNo": "7",
+    "area": "110.6",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "504호",
+    "flrNo": "5",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "604호",
+    "flrNo": "6",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "801호",
+    "flrNo": "8",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "2101호",
+    "flrNo": "21",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1306호",
+    "flrNo": "13",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1706호",
+    "flrNo": "17",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1505호",
+    "flrNo": "15",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "2107호",
+    "flrNo": "21",
+    "area": "110.6",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "2204호",
+    "flrNo": "22",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "702호",
+    "flrNo": "7",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "상가동",
+    "hoNm": "115호",
+    "flrNo": "1",
+    "area": "42.29",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "807호",
+    "flrNo": "8",
+    "area": "110.6",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1004호",
+    "flrNo": "10",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "상가동",
+    "hoNm": "비07호",
+    "flrNo": "1",
+    "area": "153.19",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "708호",
+    "flrNo": "7",
+    "area": "110.6",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "705호",
+    "flrNo": "7",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1508호",
+    "flrNo": "15",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1003호",
+    "flrNo": "10",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1604호",
+    "flrNo": "16",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1607호",
+    "flrNo": "16",
+    "area": "110.6",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1707호",
+    "flrNo": "17",
+    "area": "110.6",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1107호",
+    "flrNo": "11",
+    "area": "110.6",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "407호",
+    "flrNo": "4",
+    "area": "110.6",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1505호",
+    "flrNo": "15",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1301호",
+    "flrNo": "13",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "105호",
+    "flrNo": "1",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1608호",
+    "flrNo": "16",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "304호",
+    "flrNo": "3",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "2507호",
+    "flrNo": "25",
+    "area": "110.6",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1605호",
+    "flrNo": "16",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1505호",
+    "flrNo": "15",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "2302호",
+    "flrNo": "23",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "2303호",
+    "flrNo": "23",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "705호",
+    "flrNo": "7",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "404호",
+    "flrNo": "4",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "801호",
+    "flrNo": "8",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "806호",
+    "flrNo": "8",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "2406호",
+    "flrNo": "24",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "608호",
+    "flrNo": "6",
+    "area": "110.6",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1002호",
+    "flrNo": "10",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "905호",
+    "flrNo": "9",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "701호",
+    "flrNo": "7",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "상가동",
+    "hoNm": "104호",
+    "flrNo": "1",
+    "area": "19.01",
+    "mainPurpsCd": "02004",
+    "mainPurpsCdNm": "생활편익시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1307호",
+    "flrNo": "13",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "2304호",
+    "flrNo": "23",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "2103호",
+    "flrNo": "21",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "2005호",
+    "flrNo": "20",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "2204호",
+    "flrNo": "22",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "2007호",
+    "flrNo": "20",
+    "area": "110.6",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "702호",
+    "flrNo": "7",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "501호",
+    "flrNo": "5",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1102호",
+    "flrNo": "11",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "405호",
+    "flrNo": "4",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "상가동",
+    "hoNm": "비02호",
+    "flrNo": "1",
+    "area": "20.3",
+    "mainPurpsCd": "02004",
+    "mainPurpsCdNm": "생활편익시설",
+    "etcPurps": "생활편익시설"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "2201호",
+    "flrNo": "22",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "408호",
+    "flrNo": "4",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "607호",
+    "flrNo": "6",
+    "area": "110.6",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "605호",
+    "flrNo": "6",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1102호",
+    "flrNo": "11",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "104호",
+    "flrNo": "1",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "2202호",
+    "flrNo": "22",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "906호",
+    "flrNo": "9",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "805호",
+    "flrNo": "8",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "2402호",
+    "flrNo": "24",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1303호",
+    "flrNo": "13",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "2002호",
+    "flrNo": "20",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1501호",
+    "flrNo": "15",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1202호",
+    "flrNo": "12",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "2303호",
+    "flrNo": "23",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1108호",
+    "flrNo": "11",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1002호",
+    "flrNo": "10",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1405호",
+    "flrNo": "14",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "206호",
+    "flrNo": "2",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "상가동",
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "80",
+    "mainPurpsCd": "02004",
+    "mainPurpsCdNm": "생활편익시설",
+    "etcPurps": "생활편익시설"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "106호",
+    "flrNo": "1",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1004호",
+    "flrNo": "10",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "상가동",
+    "hoNm": "105호",
+    "flrNo": "1",
+    "area": "19.07",
+    "mainPurpsCd": "02004",
+    "mainPurpsCdNm": "생활편익시설",
+    "etcPurps": "생활편익시설"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "307호",
+    "flrNo": "3",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "상가동",
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "21.97",
+    "mainPurpsCd": "04406",
+    "mainPurpsCdNm": "부동산중개사무소",
+    "etcPurps": "제2종근린생활시설(부동산중개사무소)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "상가동",
+    "hoNm": "114호",
+    "flrNo": "1",
+    "area": "42.6",
+    "mainPurpsCd": "02004",
+    "mainPurpsCdNm": "생활편익시설",
+    "etcPurps": "생활편익시설"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "2108호",
+    "flrNo": "21",
+    "area": "110.6",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "상가동",
+    "hoNm": "112호",
+    "flrNo": "1",
+    "area": "41.4",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "2504호",
+    "flrNo": "25",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "2106호",
+    "flrNo": "21",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "2202호",
+    "flrNo": "22",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "2503호",
+    "flrNo": "25",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1304호",
+    "flrNo": "13",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "2505호",
+    "flrNo": "25",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1503호",
+    "flrNo": "15",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "204호",
+    "flrNo": "2",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1504호",
+    "flrNo": "15",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "902호",
+    "flrNo": "9",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1601호",
+    "flrNo": "16",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "상가동",
+    "hoNm": "108호",
+    "flrNo": "1",
+    "area": "19.07",
+    "mainPurpsCd": "03202",
+    "mainPurpsCdNm": "사무소",
+    "etcPurps": "제1종근린생활시설(사무소)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "상가동",
+    "hoNm": "119호",
+    "flrNo": "1",
+    "area": "53.89",
+    "mainPurpsCd": "04001",
+    "mainPurpsCdNm": "일반음식점",
+    "etcPurps": "제2종근린생활시설(일반음식점)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "305호",
+    "flrNo": "3",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "2203호",
+    "flrNo": "22",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "807호",
+    "flrNo": "8",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "2405호",
+    "flrNo": "24",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1005호",
+    "flrNo": "10",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1105호",
+    "flrNo": "11",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "804호",
+    "flrNo": "8",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "2407호",
+    "flrNo": "24",
+    "area": "110.6",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "608호",
+    "flrNo": "6",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "2004호",
+    "flrNo": "20",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "상가동",
+    "hoNm": "304호",
+    "flrNo": "3",
+    "area": "39.66",
+    "mainPurpsCd": "10003",
+    "mainPurpsCdNm": "학원",
+    "etcPurps": "??육연구시설(학원)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "705호",
+    "flrNo": "7",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1008호",
+    "flrNo": "10",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "406호",
+    "flrNo": "4",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "305호",
+    "flrNo": "3",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "601호",
+    "flrNo": "6",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1104호",
+    "flrNo": "11",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "904호",
+    "flrNo": "9",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "2403호",
+    "flrNo": "24",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "806호",
+    "flrNo": "8",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1204호",
+    "flrNo": "12",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "406호",
+    "flrNo": "4",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1703호",
+    "flrNo": "17",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "808호",
+    "flrNo": "8",
+    "area": "110.6",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1101호",
+    "flrNo": "11",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1905호",
+    "flrNo": "19",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "903호",
+    "flrNo": "9",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1803호",
+    "flrNo": "18",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1401호",
+    "flrNo": "14",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1408호",
+    "flrNo": "14",
+    "area": "110.6",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "703호",
+    "flrNo": "7",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "2304호",
+    "flrNo": "23",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "404호",
+    "flrNo": "4",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1702호",
+    "flrNo": "17",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1203호",
+    "flrNo": "12",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1604호",
+    "flrNo": "16",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "2008호",
+    "flrNo": "20",
+    "area": "110.6",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "상가동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "22.83",
+    "mainPurpsCd": "04403",
+    "mainPurpsCdNm": "부동산중개업소",
+    "etcPurps": "제2종근린생활시설(부동산중개업소)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1901호",
+    "flrNo": "19",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "602호",
+    "flrNo": "6",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "606호",
+    "flrNo": "6",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1606호",
+    "flrNo": "16",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "508호",
+    "flrNo": "5",
+    "area": "110.6",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1506호",
+    "flrNo": "15",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1703호",
+    "flrNo": "17",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "405호",
+    "flrNo": "4",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1101호",
+    "flrNo": "11",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1602호",
+    "flrNo": "16",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "106호",
+    "flrNo": "1",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "606호",
+    "flrNo": "6",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "상가동",
+    "hoNm": "비06호",
+    "flrNo": "1",
+    "area": "35.54",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1605호",
+    "flrNo": "16",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1705호",
+    "flrNo": "17",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1106호",
+    "flrNo": "11",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1403호",
+    "flrNo": "14",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "901호",
+    "flrNo": "9",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1903호",
+    "flrNo": "19",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1804호",
+    "flrNo": "18",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1308호",
+    "flrNo": "13",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1506호",
+    "flrNo": "15",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1904호",
+    "flrNo": "19",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "상가동",
+    "hoNm": "116호",
+    "flrNo": "1",
+    "area": "22.83",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1103호",
+    "flrNo": "11",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1701호",
+    "flrNo": "17",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "604호",
+    "flrNo": "6",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1602호",
+    "flrNo": "16",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "908호",
+    "flrNo": "9",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "상가동",
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "44.42",
+    "mainPurpsCd": "02004",
+    "mainPurpsCdNm": "생활편익시설",
+    "etcPurps": "생활편익시설"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "상가동",
+    "hoNm": "110호",
+    "flrNo": "1",
+    "area": "19.01",
+    "mainPurpsCd": "02004",
+    "mainPurpsCdNm": "생활편익시설",
+    "etcPurps": "생활편익시설"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1007호",
+    "flrNo": "10",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "2106호",
+    "flrNo": "21",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "506호",
+    "flrNo": "5",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1606호",
+    "flrNo": "16",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1904호",
+    "flrNo": "19",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1201호",
+    "flrNo": "12",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1203호",
+    "flrNo": "12",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "304호",
+    "flrNo": "3",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1408호",
+    "flrNo": "14",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "2406호",
+    "flrNo": "24",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1502호",
+    "flrNo": "15",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "상가동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "19.01",
+    "mainPurpsCd": "02004",
+    "mainPurpsCdNm": "생활편익시설",
+    "etcPurps": "생활편익시설"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1602호",
+    "flrNo": "16",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "상가동",
+    "hoNm": "117호",
+    "flrNo": "1",
+    "area": "54.87",
+    "mainPurpsCd": "04403",
+    "mainPurpsCdNm": "부동산중개업소",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1802호",
+    "flrNo": "18",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1306호",
+    "flrNo": "13",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "상가동",
+    "hoNm": "206호",
+    "flrNo": "2",
+    "area": "130.51",
+    "mainPurpsCd": "02004",
+    "mainPurpsCdNm": "생활편익시설",
+    "etcPurps": "생활편익시설"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1506호",
+    "flrNo": "15",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1706호",
+    "flrNo": "17",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "902호",
+    "flrNo": "9",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "2205호",
+    "flrNo": "22",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "2506호",
+    "flrNo": "25",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "602호",
+    "flrNo": "6",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1903호",
+    "flrNo": "19",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "207호",
+    "flrNo": "2",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1001호",
+    "flrNo": "10",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "704호",
+    "flrNo": "7",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "603호",
+    "flrNo": "6",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "901호",
+    "flrNo": "9",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1603호",
+    "flrNo": "16",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "901호",
+    "flrNo": "9",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신크로바타운",
+    "dongNm": "3호동",
+    "hoNm": "2305호",
+    "flrNo": "23",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1603호",
+    "flrNo": "16",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1403호",
+    "flrNo": "14",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "701호",
+    "flrNo": "7",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1407호",
+    "flrNo": "14",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1808호",
+    "flrNo": "18",
+    "area": "110.6",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1905호",
+    "flrNo": "19",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1302호",
+    "flrNo": "13",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1005호",
+    "flrNo": "10",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1903호",
+    "flrNo": "19",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1503호",
+    "flrNo": "15",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "상가동",
+    "hoNm": "107호",
+    "flrNo": "1",
+    "area": "41.3",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "307호",
+    "flrNo": "3",
+    "area": "110.6",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "703호",
+    "flrNo": "7",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1307호",
+    "flrNo": "13",
+    "area": "110.6",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "902호",
+    "flrNo": "9",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "505호",
+    "flrNo": "5",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1705호",
+    "flrNo": "17",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "2005호",
+    "flrNo": "20",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1005호",
+    "flrNo": "10",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "108호",
+    "flrNo": "1",
+    "area": "110.6",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "501호",
+    "flrNo": "5",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "2306호",
+    "flrNo": "23",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1002호",
+    "flrNo": "10",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "104호",
+    "flrNo": "1",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1502호",
+    "flrNo": "15",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "702호",
+    "flrNo": "7",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "2104호",
+    "flrNo": "21",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1303호",
+    "flrNo": "13",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "208호",
+    "flrNo": "2",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1402호",
+    "flrNo": "14",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1006호",
+    "flrNo": "10",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1405호",
+    "flrNo": "14",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1103호",
+    "flrNo": "11",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "2205호",
+    "flrNo": "22",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1701호",
+    "flrNo": "17",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "604호",
+    "flrNo": "6",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "상가동",
+    "hoNm": "비05호",
+    "flrNo": "1",
+    "area": "32.88",
+    "mainPurpsCd": "02004",
+    "mainPurpsCdNm": "생활편익시설",
+    "etcPurps": "생활편익시설"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1206호",
+    "flrNo": "12",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "503호",
+    "flrNo": "5",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "504호",
+    "flrNo": "5",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "2305호",
+    "flrNo": "23",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1003호",
+    "flrNo": "10",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1104호",
+    "flrNo": "11",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1404호",
+    "flrNo": "14",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1804호",
+    "flrNo": "18",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "상가동",
+    "hoNm": "113호",
+    "flrNo": "1",
+    "area": "20",
+    "mainPurpsCd": "02004",
+    "mainPurpsCdNm": "생활편익시설",
+    "etcPurps": "생활편익시설"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "2006호",
+    "flrNo": "20",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "2206호",
+    "flrNo": "22",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "상가동",
+    "hoNm": "306호",
+    "flrNo": "3",
+    "area": "83.27",
+    "mainPurpsCd": "10003",
+    "mainPurpsCdNm": "학원",
+    "etcPurps": "교육연구시설(학원)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "408호",
+    "flrNo": "4",
+    "area": "110.6",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "205호",
+    "flrNo": "2",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "2007호",
+    "flrNo": "20",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "상가동",
+    "hoNm": "111호",
+    "flrNo": "1",
+    "area": "35.6",
+    "mainPurpsCd": "02004",
+    "mainPurpsCdNm": "생활편익시설",
+    "etcPurps": "생활편익시설"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "904호",
+    "flrNo": "9",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1804호",
+    "flrNo": "18",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1402호",
+    "flrNo": "14",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "803호",
+    "flrNo": "8",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "107호",
+    "flrNo": "1",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "907호",
+    "flrNo": "9",
+    "area": "110.6",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1205호",
+    "flrNo": "12",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1407호",
+    "flrNo": "14",
+    "area": "110.6",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "803호",
+    "flrNo": "8",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "2501호",
+    "flrNo": "25",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "2003호",
+    "flrNo": "20",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1807호",
+    "flrNo": "18",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1503호",
+    "flrNo": "15",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1507호",
+    "flrNo": "15",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "905호",
+    "flrNo": "9",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1304호",
+    "flrNo": "13",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1104호",
+    "flrNo": "11",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "802호",
+    "flrNo": "8",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "903호",
+    "flrNo": "9",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "206호",
+    "flrNo": "2",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "205호",
+    "flrNo": "2",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "2402호",
+    "flrNo": "24",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1702호",
+    "flrNo": "17",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1208호",
+    "flrNo": "12",
+    "area": "110.6",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "804호",
+    "flrNo": "8",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1601호",
+    "flrNo": "16",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "506호",
+    "flrNo": "5",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1703호",
+    "flrNo": "17",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "706호",
+    "flrNo": "7",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "805호",
+    "flrNo": "8",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "107호",
+    "flrNo": "1",
+    "area": "110.6",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "2504호",
+    "flrNo": "25",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1502호",
+    "flrNo": "15",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1304호",
+    "flrNo": "13",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1308호",
+    "flrNo": "13",
+    "area": "110.6",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "701호",
+    "flrNo": "7",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "105호",
+    "flrNo": "1",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "1704호",
+    "flrNo": "17",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "108호",
+    "flrNo": "1",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "507호",
+    "flrNo": "5",
+    "area": "110.6",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "808호",
+    "flrNo": "8",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "2호동",
+    "hoNm": "1507호",
+    "flrNo": "15",
+    "area": "110.6",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "603호",
+    "flrNo": "6",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "106호",
+    "flrNo": "1",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "상가동",
+    "hoNm": "비04호",
+    "flrNo": "1",
+    "area": "20.68",
+    "mainPurpsCd": "02004",
+    "mainPurpsCdNm": "생활편익시설",
+    "etcPurps": "생활편익시설"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "1호동",
+    "hoNm": "2002호",
+    "flrNo": "20",
+    "area": "59.96",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "일신프리빌리지",
+    "dongNm": "3호동",
+    "hoNm": "1704호",
+    "flrNo": "17",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  }
+]

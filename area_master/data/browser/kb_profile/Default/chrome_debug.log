@@ -1,0 +1,8 @@
+[0918/111748.949:INFO:CONSOLE:2] "________________ pc", source: https://kbland.kr/ (2)
+[0918/111750.070:INFO:CONSOLE:7] "initConfig:  {"app_key":"946567909","placement_id":"RWxRz9grlK7xMVZ"}", source: https://webapi.adpopcorn.com/ssp/web-sdk/ap-ssp-web-sdk-1.14.0.min.js (7)
+[0918/111750.071:INFO:CONSOLE:7] "setConfig: The SDK android config settings have been set", source: https://webapi.adpopcorn.com/ssp/web-sdk/ap-ssp-web-sdk-1.14.0.min.js (7)
+[0918/111750.071:INFO:CONSOLE:7] "nativeTemplateConfig:  {"app_key":"946567909","placement_id":"RWxRz9grlK7xMVZ","network":"","carrier":"","model":"","manufacturer":"","os_version":"0","language":"ko","width":1400,"height":900,"orientation":"portrait","utc_offset":9,"available_templates":[18,19,20],"applovin_installed":false,"dfinery_id_used":false,"only_ad":true,"tag_for_child":0,"adid":"aafc1463-64eb-4d97-9ffb-2ca98523f1db","android_opt_out_enabled":false,"platform":"android","sdk_version":"3.3.5a"}", source: https://webapi.adpopcorn.com/ssp/web-sdk/ap-ssp-web-sdk-1.14.0.min.js (7)
+[0918/111750.343:INFO:CONSOLE:83] "광고 로드 완료: [object Object]", source: https://kbland.mycash.company/services/conetAdsBanner?platform=pc&media=kbland (83)
+[0918/111750.343:INFO:CONSOLE:85] "AdPopcorn 광고 없음 - NAM 패스백 호출", source: https://kbland.mycash.company/services/conetAdsBanner?platform=pc&media=kbland (85)
+[0918/111750.343:INFO:CONSOLE:117] "NAM 광고 로드 시작: KBland_Today_b_WebNative_Android-N256497692", source: https://kbland.mycash.company/services/conetAdsBanner?platform=pc&media=kbland (117)
+[0918/111750.459:INFO:CONSOLE:222] "광고 에러: [object Object]", source: https://kbland.mycash.company/services/conetAdsBanner?platform=pc&media=kbland (222)

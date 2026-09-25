@@ -1,0 +1,7422 @@
+[
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "107동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "109동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "107동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "107동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "115동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "109동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "108동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "107동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "상가동",
+    "hoNm": "11",
+    "flrNo": "3",
+    "area": "20.4216",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "108동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "102동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "107동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "101동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "153.9701",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "109동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "101동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "153.9701",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "상가동",
+    "hoNm": "2",
+    "flrNo": "4",
+    "area": "28.2502",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "109동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "108동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "107동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "115동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "상가동",
+    "hoNm": "29",
+    "flrNo": "1",
+    "area": "48.7935",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "107동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "109동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "상가동",
+    "hoNm": "21",
+    "flrNo": "1",
+    "area": "29.04",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "107동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "107동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "115동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "109동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "102동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "115동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "115동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "107동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "102동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "107동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "108동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "상가동",
+    "hoNm": "28-1",
+    "flrNo": "1",
+    "area": "18.984",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "102동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "102동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "상가동",
+    "hoNm": "13",
+    "flrNo": "3",
+    "area": "20.161",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "115동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "115동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "107동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "101동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "153.9701",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "109동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "101동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "153.9701",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "108동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "102동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "상가동",
+    "hoNm": "24",
+    "flrNo": "1",
+    "area": "128.1847",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "상가동",
+    "hoNm": "7",
+    "flrNo": "3",
+    "area": "24.222",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "102동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "107동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "107동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "상가동",
+    "hoNm": "3-2",
+    "flrNo": "4",
+    "area": "25.1742",
+    "mainPurpsCd": "03027",
+    "mainPurpsCdNm": "미용원",
+    "etcPurps": "제1종근린생활시설(미용원)"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "115동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "109동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "101동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "153.9701",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "115동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "102동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "115동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "102동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "115동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "상가동",
+    "hoNm": "1",
+    "flrNo": "4",
+    "area": "28.4325",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "108동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "107동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "109동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "115동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "107동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "상가동",
+    "hoNm": "10",
+    "flrNo": "3",
+    "area": "82.9202",
+    "mainPurpsCd": "04010",
+    "mainPurpsCdNm": "학원",
+    "etcPurps": "제2종근린생활시설(학원)"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "101동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "153.9701",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "109동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "상가동",
+    "hoNm": "12",
+    "flrNo": "3",
+    "area": "20.4244",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "상가동",
+    "hoNm": "8",
+    "flrNo": "3",
+    "area": "24.222",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "101동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "153.9701",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "109동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "107동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "115동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "101동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "153.9701",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "107동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "115동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "107동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "상가동",
+    "hoNm": "4-1",
+    "flrNo": "4",
+    "area": "25.2673",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "107동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "115동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "109동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "109동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "107동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "108동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "115동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "102동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "상가동",
+    "hoNm": "17",
+    "flrNo": "2",
+    "area": "27.72",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "108동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "108동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "108동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "109동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "107동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "115동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "109동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "107동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "107동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "상가동",
+    "hoNm": "18",
+    "flrNo": "2",
+    "area": "29.04",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "101동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "153.9701",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "108동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "109동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "109동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "102동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "107동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "101동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "153.9701",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "102동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "상가동",
+    "hoNm": "3-1",
+    "flrNo": "4",
+    "area": "25.1742",
+    "mainPurpsCd": "03027",
+    "mainPurpsCdNm": "미용원",
+    "etcPurps": "제1종근린생활시설(미용원)"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "107동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "107동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "102동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "102동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "101동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "153.9701",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "107동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "108동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "108동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "102동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "107동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "109동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "101동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "153.9701",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "상가동",
+    "hoNm": "27-2",
+    "flrNo": "1",
+    "area": "18.984",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "102동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "115동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "108동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "101동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "153.9701",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "115동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "107동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "상가동",
+    "hoNm": "27-1",
+    "flrNo": "1",
+    "area": "22.568",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "115동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "109동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "102동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "102동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "115동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "107동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "101동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "153.9701",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "108동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "115동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "115동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "102동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "115동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "102동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "109동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "101동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "153.9701",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "115동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "107동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "109동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "115동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "상가동",
+    "hoNm": "4-2",
+    "flrNo": "4",
+    "area": "25.2673",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "상가동",
+    "hoNm": "23",
+    "flrNo": "1",
+    "area": "43.0556",
+    "mainPurpsCd": "04010",
+    "mainPurpsCdNm": "학원",
+    "etcPurps": "제2종근린생활시설(학원)"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "107동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "115동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "108동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "115동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "102동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "107동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "상가동",
+    "hoNm": "9",
+    "flrNo": "3",
+    "area": "21.1423",
+    "mainPurpsCd": "04010",
+    "mainPurpsCdNm": "학원",
+    "etcPurps": "제2종근린생활시설(학원)"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "108동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "상가동",
+    "hoNm": "5",
+    "flrNo": "4",
+    "area": "29.848",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "108동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "107동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "115동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "102동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "상가동",
+    "hoNm": "20",
+    "flrNo": "1",
+    "area": "27.72",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "102동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "107동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "115동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "115동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "109동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "102동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "102동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "109동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "109동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "107동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "108동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "102동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "115동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "109동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "107동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "108동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "101동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "153.9701",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "107동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "109동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "102동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "107동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "상가동",
+    "hoNm": "19",
+    "flrNo": "2",
+    "area": "48.18",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "102동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "108동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "101동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "153.9701",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "115동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "115동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "107동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "101동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "153.9701",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "상가동",
+    "hoNm": "14",
+    "flrNo": "3",
+    "area": "67.1778",
+    "mainPurpsCd": "04010",
+    "mainPurpsCdNm": "학원",
+    "etcPurps": "제2종근린생활시설(학원)"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "101동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "153.9701",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "상가동",
+    "hoNm": "6",
+    "flrNo": "4",
+    "area": "29.52",
+    "mainPurpsCd": "04010",
+    "mainPurpsCdNm": "학원",
+    "etcPurps": "제2종근린생활시설(학원)"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "109동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "108동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "109동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "109동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "115동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "108동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "101동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "153.9701",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "107동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "115동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "115동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "115동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "115동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "108동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "102동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "107동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "108동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "107동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "상가동",
+    "hoNm": "30",
+    "flrNo": "1",
+    "area": "100.0834",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "102동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "107동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "103동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "101동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "153.9701",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "107동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "상가동",
+    "hoNm": "22",
+    "flrNo": "1",
+    "area": "48.18",
+    "mainPurpsCd": "03013",
+    "mainPurpsCdNm": "세탁소",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "112동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "상가동",
+    "hoNm": "28-2",
+    "flrNo": "1",
+    "area": "20.673",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "110동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "114동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "107동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "108동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "106동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "109동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "104동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "115동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "101동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "153.9701",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "105동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "111동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "113동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "84.6588",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "신대연코오롱하늘채아파트",
+    "dongNm": "107동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "126.1383",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  }
+]

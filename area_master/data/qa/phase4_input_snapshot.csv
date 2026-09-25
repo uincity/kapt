@@ -1,0 +1,14 @@
+﻿file_path,exists,row_count,column_count,file_size,modified_at,sha256
+config/market_cap_area_master.csv,True,3308,13,601453,2026-09-18T13:16:18.942271,f3678479a42ed9ef3e8280f3ebbb9e26f9fae8d0a43962905cbccb00cab68510
+supplement_2026-08.csv,True,560,29,323190,2026-09-17T14:34:03.441664,a5b722640d562b5b7e1bd219fb1b9398fbf657963a0a040fb43663a1091b8d75
+data/intermediate/kapt_complexes.csv,True,560,97,859594,2026-09-18T09:46:52.099482,f25ec42fd062e4f75b03cb08ba010cef4c4749c6e12aeee93cf0b9a84f28c8c9
+data/raw/kb/kb_area_types.csv,True,3048,24,686242,2026-09-18T11:20:47.728769,bd6abbf8b6f8bfe48807e96694696a59a48910c5e783b617e8f31ead52ebc866
+data/mapping/kb_complex_mapping.csv,True,502,14,110773,2026-09-18T11:20:47.743766,75cbbdec58ea6815b7708a58fa3eed3964069c83c271c7ab6c400cc48dac0574
+data/review/excluded_rental_only.csv,True,49,12,15544,2026-09-18T11:18:01.928616,5ac5cc1e0d3afa8f88456ec48d5eeeed965ce43e8accb3ab573760090e2c7025
+data/review/phase3_final_pending.csv,True,14,10,10860,2026-09-18T13:16:18.975815,aaaac6bcbaf86e9239d0b1b0c06a06784951d8bdf05aad84eba92b6e9f3e16ed
+data/review/phase3_manual_mapping_log.csv,True,8,13,2670,2026-09-18T13:16:18.952288,b35925a6dc826421f79a3e561cc9bd05749394998430858d18b30e23d4d497aa
+data/review/phase3_household_mismatch.csv,True,5,16,1717,2026-09-18T13:16:18.959292,94f0ee4e488e659e2da1f2c8e9616d1ca7deebe49ad41b6d9829fa2c38df3dd4
+data/review/phase3_kb_not_found.csv,True,12,14,3418,2026-09-18T13:16:18.965812,afb5cc9eb11c92891a742a5210600bcdabaed592cf80d4e6b2eccf3c6bf79b27
+data/review/phase3_mixed_complex.csv,True,10,14,3043,2026-09-18T13:16:18.970810,3fce446a790a4b04ca6e7e324139c8eb9d16dc6eae75ff88a899977b7a4369c5
+data/provenance/area_master_provenance.csv,True,3308,21,873840,2026-09-18T13:27:29.737885,fd09867f1f2054c3d2971201bab52fe3892d26b66da35391942fd22838ec065d
+data/status/area_master_complex_status.csv,True,560,9,57121,2026-09-18T13:16:20.152260,17b444c0b31511d694af600c9eb489bc5b1715874dd064d1afd487d8bcaab6a8

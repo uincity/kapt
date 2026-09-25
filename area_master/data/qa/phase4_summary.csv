@@ -1,0 +1,9 @@
+﻿metric,value
+total_kapt,560
+master_complexes,497
+master_rows,3308
+excluded_rental,49
+final_pending,14
+qa_status,PASS_WITH_WARNINGS
+fail_count,0
+warning_count,25

@@ -1,0 +1,5952 @@
+[
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "84.73",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "84.73",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "84.53",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "84.73",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "84.53",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "주상가동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "25.02",
+    "mainPurpsCd": "04402",
+    "mainPurpsCdNm": "사무소",
+    "etcPurps": "제2종근린생활시설(사무소)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "84.53",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "주상가동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "25.02",
+    "mainPurpsCd": "04406",
+    "mainPurpsCdNm": "부동산중개사무소",
+    "etcPurps": "제2종근린생활시설(부동산중개사무소)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "84.53",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "84.53",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "84.53",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "84.73",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "부상가동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "31.03",
+    "mainPurpsCd": "04406",
+    "mainPurpsCdNm": "부동산중개사무소",
+    "etcPurps": "제2종근린생활시설(부동산중개사무소)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "84.53",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "주상가동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "25.02",
+    "mainPurpsCd": "04406",
+    "mainPurpsCdNm": "부동산중개사무소",
+    "etcPurps": "제2종근린생활시설(부동산중개사무소)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "84.53",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "84.73",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "84.73",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "주상가동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "26.84",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "84.73",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "84.53",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "84.53",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "84.53",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "84.53",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "84.53",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "84.73",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "84.73",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "84.53",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "84.53",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "84.53",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "84.73",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "84.53",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "84.53",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "84.73",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "84.53",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "84.53",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "84.53",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "84.73",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "84.73",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "84.53",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "84.73",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "84.73",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "84.53",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "84.73",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "84.73",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "84.53",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "84.73",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "주상가동",
+    "hoNm": "105",
+    "flrNo": "1",
+    "area": "26.76",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "84.53",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "84.73",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "84.73",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "84.73",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "84.53",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "부상가동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "31.03",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "84.53",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "84.73",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "84.53",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "84.73",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "84.73",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "84.53",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "84.53",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "84.73",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "84.73",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "105",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "84.73",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "84.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "108",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "101",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "59.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "102",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "84.41",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "110",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "84.73",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "106",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "104",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "103",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "107",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "84.99",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관 센트럴 파크",
+    "dongNm": "109",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "59.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  }
+]

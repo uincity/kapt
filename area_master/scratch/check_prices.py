@@ -1,0 +1,56 @@
+import json
+import urllib.request
+import urllib.parse
+import pandas as pd
+
+headers = {
+    'Referer': 'https://kbland.kr/',
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'
+}
+param = urllib.parse.quote('단지기본일련번호')
+complexes = [
+    ('960029', '동래래미안아이파크2단지'),
+    ('960030', '동래래미안아이파크3단지'),
+    ('956217', '동래래미안아이파크1,4단지')
+]
+
+parsed = []
+for cid, cname in complexes:
+    url = f"https://api.kbland.kr/land-complex/complex/mpriByType?{param}={cid}"
+    req = urllib.request.Request(url, headers=headers)
+    with urllib.request.urlopen(req, timeout=10) as resp:
+        data = json.loads(resp.read().decode('utf-8'))
+        for it in data.get('dataBody', {}).get('data', []):
+            type_id = str(it.get("면적일련번호") or "")
+            households = int(it.get("세대수") or 0)
+            ex_sqm = float(it.get("전용면적") or 0)
+            sup_sqm = float(it.get("공급면적") or 0)
+            type_char = str(it.get("주택형타입내용") or "").strip()
+            sup_pyeong = str(it.get("공급면적평N") or it.get("공급면적평") or "").strip()
+            if type_char and sup_pyeong:
+                type_name = f"{sup_pyeong}평{type_char}"
+            elif type_char:
+                type_name = f"{type_char}타입"
+            elif sup_pyeong:
+                type_name = f"{sup_pyeong}평"
+            else:
+                type_name = f"{ex_sqm}㎡"
+            parsed.append({
+                'cid': cid,
+                'cname': cname,
+                'type_id': type_id,
+                'type_name': type_name,
+                'households': households,
+                'ex_sqm': ex_sqm,
+                'sup_sqm': sup_sqm,
+                'sale_gen': int(it.get("매매일반거래가") or 0),
+                'sale_low': int(it.get("매매하한가") or 0),
+                'sale_up': int(it.get("매매상한가") or 0),
+            })
+
+df = pd.DataFrame(parsed)
+# Group by ex_sqm, sup_sqm, type_name
+for (ex, sup, tname), group in df.groupby(['ex_sqm', 'sup_sqm', 'type_name']):
+    print(f"=== {ex}m2 / {sup}m2 | {tname} | Total HH: {group['households'].sum()} ===")
+    for _, r in group.iterrows():
+        print(f"   [{r['cid']} {r['cname']}] HH: {r['households']}, type_id: {r['type_id']}, sale_gen: {r['sale_gen']}, low: {r['sale_low']}, up: {r['sale_up']}")

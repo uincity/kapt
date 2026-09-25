@@ -1,0 +1,5922 @@
+[
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-805호",
+    "flrNo": "8",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-605호",
+    "flrNo": "6",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-2206호",
+    "flrNo": "22",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1802호",
+    "flrNo": "18",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-2008호",
+    "flrNo": "20",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-2305호",
+    "flrNo": "23",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-507호",
+    "flrNo": "5",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-1405호",
+    "flrNo": "14",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-2503호",
+    "flrNo": "25",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-908호",
+    "flrNo": "9",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-1005호",
+    "flrNo": "10",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-906호",
+    "flrNo": "9",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-2103호",
+    "flrNo": "21",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-2001호",
+    "flrNo": "20",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-901호",
+    "flrNo": "9",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-2509호",
+    "flrNo": "25",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-1703호",
+    "flrNo": "17",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-2206호",
+    "flrNo": "22",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-803호",
+    "flrNo": "8",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-2109호",
+    "flrNo": "21",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1906호",
+    "flrNo": "19",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-1205호",
+    "flrNo": "12",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1003호",
+    "flrNo": "10",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-603호",
+    "flrNo": "6",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-1202호",
+    "flrNo": "12",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1607호",
+    "flrNo": "16",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-2003호",
+    "flrNo": "20",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "상가-4008호",
+    "flrNo": "4",
+    "area": "404",
+    "mainPurpsCd": "13011",
+    "mainPurpsCdNm": "골프연습장",
+    "etcPurps": "골프연습장"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "상가-4008호",
+    "flrNo": "4",
+    "area": "237.7707",
+    "mainPurpsCd": "13999",
+    "mainPurpsCdNm": "기타 운동시설",
+    "etcPurps": "층복도"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1208호",
+    "flrNo": "12",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1606호",
+    "flrNo": "16",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1909호",
+    "flrNo": "19",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-908호",
+    "flrNo": "9",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1905호",
+    "flrNo": "19",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-2107호",
+    "flrNo": "21",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-506호",
+    "flrNo": "5",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-2506호",
+    "flrNo": "25",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "상가-4002호",
+    "flrNo": "4",
+    "area": "762.56",
+    "mainPurpsCd": "13011",
+    "mainPurpsCdNm": "골프연습장",
+    "etcPurps": "운동시설(골프연습장)"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "상가-4002호",
+    "flrNo": "4",
+    "area": "448.8",
+    "mainPurpsCd": "13999",
+    "mainPurpsCdNm": "기타 운동시설",
+    "etcPurps": "층복도"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1806호",
+    "flrNo": "18",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "상가-1007호",
+    "flrNo": "1",
+    "area": "142.965",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "판매시설(상점)"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "상가-1007호",
+    "flrNo": "1",
+    "area": "65.45",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "층복도"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-802호",
+    "flrNo": "8",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-1705호",
+    "flrNo": "17",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-2202호",
+    "flrNo": "22",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1503호",
+    "flrNo": "15",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1302호",
+    "flrNo": "13",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1703호",
+    "flrNo": "17",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-801호",
+    "flrNo": "8",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-1003호",
+    "flrNo": "10",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-2109호",
+    "flrNo": "21",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-2201호",
+    "flrNo": "22",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-1006호",
+    "flrNo": "10",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "상가-4001호",
+    "flrNo": "4",
+    "area": "256.4334",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "층복도"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "상가-4001호",
+    "flrNo": "4",
+    "area": "435.71",
+    "mainPurpsCd": "07101",
+    "mainPurpsCdNm": "시장",
+    "etcPurps": "판매시설(소매시장)"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-2308호",
+    "flrNo": "23",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-707호",
+    "flrNo": "7",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "상가-1008호",
+    "flrNo": "1",
+    "area": "48.27",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "판매시설(상점)"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "상가-1008호",
+    "flrNo": "1",
+    "area": "22.1",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "층복도"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1008호",
+    "flrNo": "10",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-2502호",
+    "flrNo": "25",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1508호",
+    "flrNo": "15",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-902호",
+    "flrNo": "9",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-603호",
+    "flrNo": "6",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-1806호",
+    "flrNo": "18",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-2107호",
+    "flrNo": "21",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-2206호",
+    "flrNo": "22",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-907호",
+    "flrNo": "9",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-2001호",
+    "flrNo": "20",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-601호",
+    "flrNo": "6",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-1102호",
+    "flrNo": "11",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-2005호",
+    "flrNo": "20",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-2303호",
+    "flrNo": "23",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1101호",
+    "flrNo": "11",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1601호",
+    "flrNo": "16",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1201호",
+    "flrNo": "12",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-2302호",
+    "flrNo": "23",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-1402호",
+    "flrNo": "14",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-1601호",
+    "flrNo": "16",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-806호",
+    "flrNo": "8",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1605호",
+    "flrNo": "16",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-2406호",
+    "flrNo": "24",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-1801호",
+    "flrNo": "18",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-2102호",
+    "flrNo": "21",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-2505호",
+    "flrNo": "25",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-1603호",
+    "flrNo": "16",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-2401호",
+    "flrNo": "24",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-1102호",
+    "flrNo": "11",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-902호",
+    "flrNo": "9",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-606호",
+    "flrNo": "6",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-602호",
+    "flrNo": "6",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-1403호",
+    "flrNo": "14",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1507호",
+    "flrNo": "15",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-705호",
+    "flrNo": "7",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-2102호",
+    "flrNo": "21",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-1302호",
+    "flrNo": "13",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1702호",
+    "flrNo": "17",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1306호",
+    "flrNo": "13",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-1602호",
+    "flrNo": "16",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-1103호",
+    "flrNo": "11",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-903호",
+    "flrNo": "9",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-2501호",
+    "flrNo": "25",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-2506호",
+    "flrNo": "25",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-901호",
+    "flrNo": "9",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-2201호",
+    "flrNo": "22",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-809호",
+    "flrNo": "8",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-1502호",
+    "flrNo": "15",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1409호",
+    "flrNo": "14",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-1903호",
+    "flrNo": "19",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-501호",
+    "flrNo": "5",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-2401호",
+    "flrNo": "24",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-701호",
+    "flrNo": "7",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-2402호",
+    "flrNo": "24",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-1303호",
+    "flrNo": "13",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-2103호",
+    "flrNo": "21",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1007호",
+    "flrNo": "10",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-2105호",
+    "flrNo": "21",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-2105호",
+    "flrNo": "21",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1905호",
+    "flrNo": "19",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-708호",
+    "flrNo": "7",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-1203호",
+    "flrNo": "12",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-2409호",
+    "flrNo": "24",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "B1002호",
+    "flrNo": "1",
+    "area": "222.38",
+    "mainPurpsCd": "13006",
+    "mainPurpsCdNm": "체력단련장",
+    "etcPurps": "통로(일부공용)"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "B1002호",
+    "flrNo": "1",
+    "area": "942.37",
+    "mainPurpsCd": "13006",
+    "mainPurpsCdNm": "체력단련장",
+    "etcPurps": "운동시설(체력단련장)"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-906호",
+    "flrNo": "9",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-607호",
+    "flrNo": "6",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-2305호",
+    "flrNo": "23",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-2002호",
+    "flrNo": "20",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1001호",
+    "flrNo": "10",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-2002호",
+    "flrNo": "20",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-905호",
+    "flrNo": "9",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1501호",
+    "flrNo": "15",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1509호",
+    "flrNo": "15",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-2108호",
+    "flrNo": "21",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-2407호",
+    "flrNo": "24",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-806호",
+    "flrNo": "8",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1406호",
+    "flrNo": "14",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-901호",
+    "flrNo": "9",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-2402호",
+    "flrNo": "24",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-2305호",
+    "flrNo": "23",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-503호",
+    "flrNo": "5",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-2405호",
+    "flrNo": "24",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-703호",
+    "flrNo": "7",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-902호",
+    "flrNo": "9",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-2101호",
+    "flrNo": "21",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1001호",
+    "flrNo": "10",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-901호",
+    "flrNo": "9",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-1501호",
+    "flrNo": "15",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-702호",
+    "flrNo": "7",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-1802호",
+    "flrNo": "18",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-909호",
+    "flrNo": "9",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-2001호",
+    "flrNo": "20",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1102호",
+    "flrNo": "11",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1803호",
+    "flrNo": "18",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1506호",
+    "flrNo": "15",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-2009호",
+    "flrNo": "20",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-701호",
+    "flrNo": "7",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-1101호",
+    "flrNo": "11",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-1103호",
+    "flrNo": "11",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1605호",
+    "flrNo": "16",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1609호",
+    "flrNo": "16",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1302호",
+    "flrNo": "13",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-905호",
+    "flrNo": "9",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-2106호",
+    "flrNo": "21",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1206호",
+    "flrNo": "12",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-2506호",
+    "flrNo": "25",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-2306호",
+    "flrNo": "23",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-2208호",
+    "flrNo": "22",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-2302호",
+    "flrNo": "23",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-2503호",
+    "flrNo": "25",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-2302호",
+    "flrNo": "23",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-2101호",
+    "flrNo": "21",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-2301호",
+    "flrNo": "23",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1807호",
+    "flrNo": "18",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-1505호",
+    "flrNo": "15",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-1705호",
+    "flrNo": "17",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-1901호",
+    "flrNo": "19",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-2403호",
+    "flrNo": "24",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-2406호",
+    "flrNo": "24",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-508호",
+    "flrNo": "5",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1606호",
+    "flrNo": "16",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-2108호",
+    "flrNo": "21",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "상가-1005호",
+    "flrNo": "1",
+    "area": "43.27",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "층복도"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "상가-1005호",
+    "flrNo": "1",
+    "area": "94.51",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "판매시설(상점)"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-2009호",
+    "flrNo": "20",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1007호",
+    "flrNo": "10",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-2403호",
+    "flrNo": "24",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-1105호",
+    "flrNo": "11",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-1605호",
+    "flrNo": "16",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-2303호",
+    "flrNo": "23",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-1506호",
+    "flrNo": "15",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1908호",
+    "flrNo": "19",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-2003호",
+    "flrNo": "20",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-1106호",
+    "flrNo": "11",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-1406호",
+    "flrNo": "14",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1701호",
+    "flrNo": "17",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1505호",
+    "flrNo": "15",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-601호",
+    "flrNo": "6",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-2403호",
+    "flrNo": "24",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-2301호",
+    "flrNo": "23",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-1306호",
+    "flrNo": "13",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1907호",
+    "flrNo": "19",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1709호",
+    "flrNo": "17",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-1001호",
+    "flrNo": "10",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1203호",
+    "flrNo": "12",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-1905호",
+    "flrNo": "19",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1002호",
+    "flrNo": "10",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1002호",
+    "flrNo": "10",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1708호",
+    "flrNo": "17",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1803호",
+    "flrNo": "18",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1509호",
+    "flrNo": "15",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-505호",
+    "flrNo": "5",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-1906호",
+    "flrNo": "19",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-2103호",
+    "flrNo": "21",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-1403호",
+    "flrNo": "14",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1701호",
+    "flrNo": "17",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1106호",
+    "flrNo": "11",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-1001호",
+    "flrNo": "10",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1903호",
+    "flrNo": "19",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-801호",
+    "flrNo": "8",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-1401호",
+    "flrNo": "14",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1907호",
+    "flrNo": "19",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-2301호",
+    "flrNo": "23",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1801호",
+    "flrNo": "18",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-503호",
+    "flrNo": "5",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1505호",
+    "flrNo": "15",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-2406호",
+    "flrNo": "24",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-1105호",
+    "flrNo": "11",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-2105호",
+    "flrNo": "21",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-1503호",
+    "flrNo": "15",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1006호",
+    "flrNo": "10",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-2001호",
+    "flrNo": "20",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-709호",
+    "flrNo": "7",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1807호",
+    "flrNo": "18",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-2308호",
+    "flrNo": "23",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-801호",
+    "flrNo": "8",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-1405호",
+    "flrNo": "14",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-2209호",
+    "flrNo": "22",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-803호",
+    "flrNo": "8",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-2402호",
+    "flrNo": "24",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-807호",
+    "flrNo": "8",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-606호",
+    "flrNo": "6",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1603호",
+    "flrNo": "16",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-503호",
+    "flrNo": "5",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1802호",
+    "flrNo": "18",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1808호",
+    "flrNo": "18",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-2002호",
+    "flrNo": "20",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-1706호",
+    "flrNo": "17",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-2007호",
+    "flrNo": "20",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-506호",
+    "flrNo": "5",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "상가-1009호",
+    "flrNo": "1",
+    "area": "28.56",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "판매시설(상점)"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "상가-1009호",
+    "flrNo": "1",
+    "area": "13.07",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "층복도"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "상가-1004호",
+    "flrNo": "1",
+    "area": "32.57",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "판매시설(상점)"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "상가-1004호",
+    "flrNo": "1",
+    "area": "14.91",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "층복도"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1303호",
+    "flrNo": "13",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "상가-3001호",
+    "flrNo": "3",
+    "area": "2751.25",
+    "mainPurpsCd": "07199",
+    "mainPurpsCdNm": "기타소매시장",
+    "etcPurps": "문화및집회시설(예식장)"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "상가-3001호",
+    "flrNo": "3",
+    "area": "1913.39",
+    "mainPurpsCd": "07199",
+    "mainPurpsCdNm": "기타소매시장",
+    "etcPurps": "소매시장"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-2103호",
+    "flrNo": "21",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-609호",
+    "flrNo": "6",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-2503호",
+    "flrNo": "25",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1805호",
+    "flrNo": "18",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1307호",
+    "flrNo": "13",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-706호",
+    "flrNo": "7",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1902호",
+    "flrNo": "19",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-1702호",
+    "flrNo": "17",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-702호",
+    "flrNo": "7",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-1602호",
+    "flrNo": "16",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1103호",
+    "flrNo": "11",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-608호",
+    "flrNo": "6",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-701호",
+    "flrNo": "7",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-1002호",
+    "flrNo": "10",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-2401호",
+    "flrNo": "24",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1209호",
+    "flrNo": "12",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-1306호",
+    "flrNo": "13",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-502호",
+    "flrNo": "5",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-2408호",
+    "flrNo": "24",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-801호",
+    "flrNo": "8",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-906호",
+    "flrNo": "9",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1906호",
+    "flrNo": "19",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-907호",
+    "flrNo": "9",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-2408호",
+    "flrNo": "24",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-506호",
+    "flrNo": "5",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-2403호",
+    "flrNo": "24",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1601호",
+    "flrNo": "16",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1603호",
+    "flrNo": "16",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-1401호",
+    "flrNo": "14",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-2405호",
+    "flrNo": "24",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-2301호",
+    "flrNo": "23",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-2203호",
+    "flrNo": "22",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1307호",
+    "flrNo": "13",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-2307호",
+    "flrNo": "23",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-2305호",
+    "flrNo": "23",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-2501호",
+    "flrNo": "25",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-1301호",
+    "flrNo": "13",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1901호",
+    "flrNo": "19",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-1806호",
+    "flrNo": "18",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-601호",
+    "flrNo": "6",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1109호",
+    "flrNo": "11",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-2307호",
+    "flrNo": "23",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1306호",
+    "flrNo": "13",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1609호",
+    "flrNo": "16",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1705호",
+    "flrNo": "17",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-2006호",
+    "flrNo": "20",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1005호",
+    "flrNo": "10",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-805호",
+    "flrNo": "8",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-802호",
+    "flrNo": "8",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-1201호",
+    "flrNo": "12",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1101호",
+    "flrNo": "11",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1407호",
+    "flrNo": "14",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-1406호",
+    "flrNo": "14",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-2005호",
+    "flrNo": "20",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1809호",
+    "flrNo": "18",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-807호",
+    "flrNo": "8",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "상가-4003호",
+    "flrNo": "4",
+    "area": "33.71",
+    "mainPurpsCd": "05201",
+    "mainPurpsCdNm": "예식장",
+    "etcPurps": "문화및집회시설(예식장)"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "상가-4003호",
+    "flrNo": "4",
+    "area": "19.84",
+    "mainPurpsCd": "05999",
+    "mainPurpsCdNm": "기타문화및집회시설",
+    "etcPurps": "층복도"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-2202호",
+    "flrNo": "22",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-2302호",
+    "flrNo": "23",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-902호",
+    "flrNo": "9",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-1703호",
+    "flrNo": "17",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-808호",
+    "flrNo": "8",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-508호",
+    "flrNo": "5",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-705호",
+    "flrNo": "7",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-2509호",
+    "flrNo": "25",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-806호",
+    "flrNo": "8",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "상가-1003호",
+    "flrNo": "1",
+    "area": "645.1",
+    "mainPurpsCd": "05499",
+    "mainPurpsCdNm": "기타전시장",
+    "etcPurps": "문화및집회시설(전시장)"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "상가-1003호",
+    "flrNo": "1",
+    "area": "295.33",
+    "mainPurpsCd": "05299",
+    "mainPurpsCdNm": "기타집회장",
+    "etcPurps": "층복도"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "B1001호",
+    "flrNo": "1",
+    "area": "2755.78",
+    "mainPurpsCd": "13103",
+    "mainPurpsCdNm": "볼링장",
+    "etcPurps": "운동시설(볼링장)"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "B1001호",
+    "flrNo": "1",
+    "area": "650.31",
+    "mainPurpsCd": "13999",
+    "mainPurpsCdNm": "기타 운동시설",
+    "etcPurps": "통로(일부공용)"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-2008호",
+    "flrNo": "20",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-1902호",
+    "flrNo": "19",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1801호",
+    "flrNo": "18",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1702호",
+    "flrNo": "17",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-1601호",
+    "flrNo": "16",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1401호",
+    "flrNo": "14",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-603호",
+    "flrNo": "6",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-1905호",
+    "flrNo": "19",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1705호",
+    "flrNo": "17",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-2105호",
+    "flrNo": "21",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-2203호",
+    "flrNo": "22",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-1106호",
+    "flrNo": "11",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "상가-4009호",
+    "flrNo": "4",
+    "area": "650.1559",
+    "mainPurpsCd": "13999",
+    "mainPurpsCdNm": "기타 운동시설",
+    "etcPurps": "층복도"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "상가-4009호",
+    "flrNo": "4",
+    "area": "1104.69",
+    "mainPurpsCd": "13006",
+    "mainPurpsCdNm": "체력단련장",
+    "etcPurps": "운동시설(골프연습장)"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1409호",
+    "flrNo": "14",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1408호",
+    "flrNo": "14",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-2505호",
+    "flrNo": "25",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-706호",
+    "flrNo": "7",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-1603호",
+    "flrNo": "16",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-605호",
+    "flrNo": "6",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-2203호",
+    "flrNo": "22",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-806호",
+    "flrNo": "8",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1608호",
+    "flrNo": "16",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1008호",
+    "flrNo": "10",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-2101호",
+    "flrNo": "21",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-2205호",
+    "flrNo": "22",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-2501호",
+    "flrNo": "25",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1602호",
+    "flrNo": "16",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-705호",
+    "flrNo": "7",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-605호",
+    "flrNo": "6",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-608호",
+    "flrNo": "6",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-1505호",
+    "flrNo": "15",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-1501호",
+    "flrNo": "15",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-501호",
+    "flrNo": "5",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-2106호",
+    "flrNo": "21",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1105호",
+    "flrNo": "11",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-2101호",
+    "flrNo": "21",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-1101호",
+    "flrNo": "11",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-2303호",
+    "flrNo": "23",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-2508호",
+    "flrNo": "25",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-2202호",
+    "flrNo": "22",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1309호",
+    "flrNo": "13",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-1206호",
+    "flrNo": "12",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-2205호",
+    "flrNo": "22",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1401호",
+    "flrNo": "14",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-1002호",
+    "flrNo": "10",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-501호",
+    "flrNo": "5",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1308호",
+    "flrNo": "13",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-2402호",
+    "flrNo": "24",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-2102호",
+    "flrNo": "21",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-2505호",
+    "flrNo": "25",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-2502호",
+    "flrNo": "25",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-2205호",
+    "flrNo": "22",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-2507호",
+    "flrNo": "25",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-1203호",
+    "flrNo": "12",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-507호",
+    "flrNo": "5",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-502호",
+    "flrNo": "5",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "상가-4007호",
+    "flrNo": "4",
+    "area": "27.63",
+    "mainPurpsCd": "05201",
+    "mainPurpsCdNm": "예식장",
+    "etcPurps": "문화및집회시설(예식장)"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "상가-4007호",
+    "flrNo": "4",
+    "area": "16.26",
+    "mainPurpsCd": "05999",
+    "mainPurpsCdNm": "기타문화및집회시설",
+    "etcPurps": "층복도"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-501호",
+    "flrNo": "5",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-1402호",
+    "flrNo": "14",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-505호",
+    "flrNo": "5",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-2506호",
+    "flrNo": "25",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-905호",
+    "flrNo": "9",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-706호",
+    "flrNo": "7",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-2102호",
+    "flrNo": "21",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-505호",
+    "flrNo": "5",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1608호",
+    "flrNo": "16",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-703호",
+    "flrNo": "7",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-702호",
+    "flrNo": "7",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-607호",
+    "flrNo": "6",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "상가-4005호",
+    "flrNo": "4",
+    "area": "41.14",
+    "mainPurpsCd": "05201",
+    "mainPurpsCdNm": "예식장",
+    "etcPurps": "문화및집회시설(예식장)"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "상가-4005호",
+    "flrNo": "4",
+    "area": "24.21",
+    "mainPurpsCd": "05999",
+    "mainPurpsCdNm": "기타문화및집회시설",
+    "etcPurps": "층복도"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-509호",
+    "flrNo": "5",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-603호",
+    "flrNo": "6",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-1303호",
+    "flrNo": "13",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1205호",
+    "flrNo": "12",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-502호",
+    "flrNo": "5",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1202호",
+    "flrNo": "12",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-1301호",
+    "flrNo": "13",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1301호",
+    "flrNo": "13",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "4008호",
+    "flrNo": "4",
+    "area": "404",
+    "mainPurpsCd": "07199",
+    "mainPurpsCdNm": "기타소매시장",
+    "etcPurps": "판매시설(소매시장)"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1009호",
+    "flrNo": "10",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1809호",
+    "flrNo": "18",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1006호",
+    "flrNo": "10",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1308호",
+    "flrNo": "13",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1205호",
+    "flrNo": "12",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-2007호",
+    "flrNo": "20",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-503호",
+    "flrNo": "5",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1508호",
+    "flrNo": "15",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1303호",
+    "flrNo": "13",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1408호",
+    "flrNo": "14",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1805호",
+    "flrNo": "18",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-903호",
+    "flrNo": "9",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-601호",
+    "flrNo": "6",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-1206호",
+    "flrNo": "12",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-1901호",
+    "flrNo": "19",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "상가-4006호",
+    "flrNo": "4",
+    "area": "107.48",
+    "mainPurpsCd": "07199",
+    "mainPurpsCdNm": "기타소매시장",
+    "etcPurps": "판매시설(소매시장)"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "상가-4006호",
+    "flrNo": "4",
+    "area": "63.26",
+    "mainPurpsCd": "07199",
+    "mainPurpsCdNm": "기타소매시장",
+    "etcPurps": "층복도"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1503호",
+    "flrNo": "15",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1005호",
+    "flrNo": "10",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-1803호",
+    "flrNo": "18",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-2409호",
+    "flrNo": "24",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-1503호",
+    "flrNo": "15",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-1506호",
+    "flrNo": "15",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-2502호",
+    "flrNo": "25",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-2306호",
+    "flrNo": "23",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1706호",
+    "flrNo": "17",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-1302호",
+    "flrNo": "13",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-2507호",
+    "flrNo": "25",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1602호",
+    "flrNo": "16",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-1502호",
+    "flrNo": "15",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-802호",
+    "flrNo": "8",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1107호",
+    "flrNo": "11",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-602호",
+    "flrNo": "6",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1808호",
+    "flrNo": "18",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-1605호",
+    "flrNo": "16",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1207호",
+    "flrNo": "12",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1607호",
+    "flrNo": "16",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-903호",
+    "flrNo": "9",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1506호",
+    "flrNo": "15",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1502호",
+    "flrNo": "15",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-1906호",
+    "flrNo": "19",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "상가-1006호",
+    "flrNo": "1",
+    "area": "689.1",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "판매시설(상점)"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "상가-1006호",
+    "flrNo": "1",
+    "area": "315.47",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "층복도"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-905호",
+    "flrNo": "9",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1107호",
+    "flrNo": "11",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1908호",
+    "flrNo": "19",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1405호",
+    "flrNo": "14",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-1701호",
+    "flrNo": "17",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-2306호",
+    "flrNo": "23",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1909호",
+    "flrNo": "19",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-606호",
+    "flrNo": "6",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-1305호",
+    "flrNo": "13",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1105호",
+    "flrNo": "11",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1406호",
+    "flrNo": "14",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-2006호",
+    "flrNo": "20",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-707호",
+    "flrNo": "7",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-506호",
+    "flrNo": "5",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-1702호",
+    "flrNo": "17",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1009호",
+    "flrNo": "10",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-2508호",
+    "flrNo": "25",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-2502호",
+    "flrNo": "25",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1709호",
+    "flrNo": "17",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-2006호",
+    "flrNo": "20",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-1201호",
+    "flrNo": "12",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-1202호",
+    "flrNo": "12",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-2501호",
+    "flrNo": "25",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-2406호",
+    "flrNo": "24",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1806호",
+    "flrNo": "18",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1403호",
+    "flrNo": "14",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-2505호",
+    "flrNo": "25",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1206호",
+    "flrNo": "12",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1708호",
+    "flrNo": "17",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-701호",
+    "flrNo": "7",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1208호",
+    "flrNo": "12",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-903호",
+    "flrNo": "9",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1309호",
+    "flrNo": "13",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1707호",
+    "flrNo": "17",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-1606호",
+    "flrNo": "16",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1407호",
+    "flrNo": "14",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-2309호",
+    "flrNo": "23",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "상가-4004호",
+    "flrNo": "4",
+    "area": "83.31",
+    "mainPurpsCd": "05201",
+    "mainPurpsCdNm": "예식장",
+    "etcPurps": "문화및집회시설(예식장)"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "상가-4004호",
+    "flrNo": "4",
+    "area": "49.03",
+    "mainPurpsCd": "05999",
+    "mainPurpsCdNm": "기타문화및집회시설",
+    "etcPurps": "층복도"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1403호",
+    "flrNo": "14",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "상가-1001호",
+    "flrNo": "1",
+    "area": "482.82",
+    "mainPurpsCd": "05499",
+    "mainPurpsCdNm": "기타전시장",
+    "etcPurps": "문화및집회시설(전시장)"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "상가-1001호",
+    "flrNo": "1",
+    "area": "221.04",
+    "mainPurpsCd": "05499",
+    "mainPurpsCdNm": "기타전시장",
+    "etcPurps": "층복도"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1902호",
+    "flrNo": "19",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1209호",
+    "flrNo": "12",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-1805호",
+    "flrNo": "18",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1102호",
+    "flrNo": "11",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-2207호",
+    "flrNo": "22",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-808호",
+    "flrNo": "8",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1301호",
+    "flrNo": "13",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-2503호",
+    "flrNo": "25",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-805호",
+    "flrNo": "8",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-602호",
+    "flrNo": "6",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-1903호",
+    "flrNo": "19",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-2207호",
+    "flrNo": "22",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-906호",
+    "flrNo": "9",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-805호",
+    "flrNo": "8",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1201호",
+    "flrNo": "12",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-505호",
+    "flrNo": "5",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-1005호",
+    "flrNo": "10",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1108호",
+    "flrNo": "11",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1502호",
+    "flrNo": "15",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1305호",
+    "flrNo": "13",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-2306호",
+    "flrNo": "23",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "상가-2001호",
+    "flrNo": "2",
+    "area": "3641.77",
+    "mainPurpsCd": "07199",
+    "mainPurpsCdNm": "기타소매시장",
+    "etcPurps": "판매시설(소매시장)"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "상가-2001호",
+    "flrNo": "2",
+    "area": "858.26",
+    "mainPurpsCd": "07199",
+    "mainPurpsCdNm": "기타소매시장",
+    "etcPurps": "판매시설(소매시장)"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-803호",
+    "flrNo": "8",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1103호",
+    "flrNo": "11",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-909호",
+    "flrNo": "9",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-2002호",
+    "flrNo": "20",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-2303호",
+    "flrNo": "23",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-702호",
+    "flrNo": "7",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1203호",
+    "flrNo": "12",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-502호",
+    "flrNo": "5",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-2405호",
+    "flrNo": "24",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1707호",
+    "flrNo": "17",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-703호",
+    "flrNo": "7",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-705호",
+    "flrNo": "7",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-1701호",
+    "flrNo": "17",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-2405호",
+    "flrNo": "24",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1703호",
+    "flrNo": "17",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-2309호",
+    "flrNo": "23",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "상가-1002호",
+    "flrNo": "1",
+    "area": "716.58",
+    "mainPurpsCd": "05499",
+    "mainPurpsCdNm": "기타전시장",
+    "etcPurps": "문회및집회시설(전시장)"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "상가-1002호",
+    "flrNo": "1",
+    "area": "328.05",
+    "mainPurpsCd": "05499",
+    "mainPurpsCdNm": "기타전시장",
+    "etcPurps": "층복도"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-2003호",
+    "flrNo": "20",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1108호",
+    "flrNo": "11",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-2005호",
+    "flrNo": "20",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-2205호",
+    "flrNo": "22",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1402호",
+    "flrNo": "14",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-2106호",
+    "flrNo": "21",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-2003호",
+    "flrNo": "20",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1501호",
+    "flrNo": "15",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-708호",
+    "flrNo": "7",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1903호",
+    "flrNo": "19",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-2407호",
+    "flrNo": "24",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-1606호",
+    "flrNo": "16",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "4001호",
+    "flrNo": "4",
+    "area": "1540.4",
+    "mainPurpsCd": "07199",
+    "mainPurpsCdNm": "기타소매시장",
+    "etcPurps": "판매시설(소매시장)"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-1802호",
+    "flrNo": "18",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-2201호",
+    "flrNo": "22",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-606호",
+    "flrNo": "6",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-609호",
+    "flrNo": "6",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-1305호",
+    "flrNo": "13",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-2202호",
+    "flrNo": "22",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-2203호",
+    "flrNo": "22",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-1801호",
+    "flrNo": "18",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-1003호",
+    "flrNo": "10",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-2206호",
+    "flrNo": "22",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-2208호",
+    "flrNo": "22",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-2401호",
+    "flrNo": "24",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-1006호",
+    "flrNo": "10",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1706호",
+    "flrNo": "17",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-2209호",
+    "flrNo": "22",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-602호",
+    "flrNo": "6",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1106호",
+    "flrNo": "11",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-1706호",
+    "flrNo": "17",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-509호",
+    "flrNo": "5",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1305호",
+    "flrNo": "13",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-703호",
+    "flrNo": "7",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1507호",
+    "flrNo": "15",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1109호",
+    "flrNo": "11",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-1205호",
+    "flrNo": "12",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-706호",
+    "flrNo": "7",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-2106호",
+    "flrNo": "21",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-1805호",
+    "flrNo": "18",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-809호",
+    "flrNo": "8",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1202호",
+    "flrNo": "12",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "씨-1803호",
+    "flrNo": "18",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1003호",
+    "flrNo": "10",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-802호",
+    "flrNo": "8",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-2201호",
+    "flrNo": "22",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-2005호",
+    "flrNo": "20",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-605호",
+    "flrNo": "6",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1405호",
+    "flrNo": "14",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-803호",
+    "flrNo": "8",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-2006호",
+    "flrNo": "20",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-709호",
+    "flrNo": "7",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1402호",
+    "flrNo": "14",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "에이-1902호",
+    "flrNo": "19",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "비-1901호",
+    "flrNo": "19",
+    "area": "59.82",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "일성인포아파트",
+    "dongNm": "일성인포아파트",
+    "hoNm": "디-1207호",
+    "flrNo": "12",
+    "area": "76.2",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  }
+]

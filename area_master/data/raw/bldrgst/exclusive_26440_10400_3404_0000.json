@@ -1,0 +1,9082 @@
+[
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "103동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "103동",
+    "hoNm": "1604",
+    "flrNo": "16",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "1701",
+    "flrNo": "17",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "1903",
+    "flrNo": "19",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "2003",
+    "flrNo": "20",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "2001",
+    "flrNo": "20",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "1601",
+    "flrNo": "16",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "1603",
+    "flrNo": "16",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "1804",
+    "flrNo": "18",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "1601",
+    "flrNo": "16",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "103동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "1703",
+    "flrNo": "17",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "1604",
+    "flrNo": "16",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "116동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "1603",
+    "flrNo": "16",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "1904",
+    "flrNo": "19",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "1901",
+    "flrNo": "19",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "103동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "2004",
+    "flrNo": "20",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "103동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "2001",
+    "flrNo": "20",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "1904",
+    "flrNo": "19",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "1701",
+    "flrNo": "17",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "1604",
+    "flrNo": "16",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "1801",
+    "flrNo": "18",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "1604",
+    "flrNo": "16",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "1903",
+    "flrNo": "19",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "116동",
+    "hoNm": "1702",
+    "flrNo": "17",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "1801",
+    "flrNo": "18",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "1602",
+    "flrNo": "16",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "1701",
+    "flrNo": "17",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "2004",
+    "flrNo": "20",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "1703",
+    "flrNo": "17",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "1804",
+    "flrNo": "18",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "2001",
+    "flrNo": "20",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "1703",
+    "flrNo": "17",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "1602",
+    "flrNo": "16",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "116동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "상가1동",
+    "hoNm": "105",
+    "flrNo": "1",
+    "area": "29.25",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "2003",
+    "flrNo": "20",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "103동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "1804",
+    "flrNo": "18",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "1603",
+    "flrNo": "16",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "103동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "1903",
+    "flrNo": "19",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "1603",
+    "flrNo": "16",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "2004",
+    "flrNo": "20",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "상가2동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "29.25",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "1603",
+    "flrNo": "16",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "상가3동",
+    "hoNm": "106",
+    "flrNo": "1",
+    "area": "29.25",
+    "mainPurpsCd": "04040",
+    "mainPurpsCdNm": "교습소",
+    "etcPurps": "제2종근린생활시설(교습소)"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "1804",
+    "flrNo": "18",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "103동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "103동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "1802",
+    "flrNo": "18",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "상가1동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "29.25",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "2001",
+    "flrNo": "20",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "상가1동",
+    "hoNm": "101-1",
+    "flrNo": "1",
+    "area": "29.25",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "1702",
+    "flrNo": "17",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "1802",
+    "flrNo": "18",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "1702",
+    "flrNo": "17",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "116동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "상가3동",
+    "hoNm": "105",
+    "flrNo": "1",
+    "area": "29.25",
+    "mainPurpsCd": "04040",
+    "mainPurpsCdNm": "교습소",
+    "etcPurps": "제2종근린생활시설(교습소)"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "상가2동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "29.25",
+    "mainPurpsCd": "04040",
+    "mainPurpsCdNm": "교습소",
+    "etcPurps": "제2종근린생활시설(교습소)"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "1701",
+    "flrNo": "17",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "103동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "1802",
+    "flrNo": "18",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "2001",
+    "flrNo": "20",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "1904",
+    "flrNo": "19",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "1601",
+    "flrNo": "16",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "1702",
+    "flrNo": "17",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "103동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "1604",
+    "flrNo": "16",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "1702",
+    "flrNo": "17",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "103동",
+    "hoNm": "1802",
+    "flrNo": "18",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "1602",
+    "flrNo": "16",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "상가3동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "29.25",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "103동",
+    "hoNm": "1903",
+    "flrNo": "19",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "1701",
+    "flrNo": "17",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "상가2동",
+    "hoNm": "101-1",
+    "flrNo": "1",
+    "area": "29.25",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "103동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "1801",
+    "flrNo": "18",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "1801",
+    "flrNo": "18",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "103동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "103동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "1904",
+    "flrNo": "19",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "1603",
+    "flrNo": "16",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "1902",
+    "flrNo": "19",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "1903",
+    "flrNo": "19",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "1902",
+    "flrNo": "19",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "상가3동",
+    "hoNm": "101-2",
+    "flrNo": "1",
+    "area": "29.25",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "2003",
+    "flrNo": "20",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "1701",
+    "flrNo": "17",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "2001",
+    "flrNo": "20",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "1704",
+    "flrNo": "17",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "1701",
+    "flrNo": "17",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "1601",
+    "flrNo": "16",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "1803",
+    "flrNo": "18",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "1704",
+    "flrNo": "17",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "116동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "1901",
+    "flrNo": "19",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "103동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "103동",
+    "hoNm": "1901",
+    "flrNo": "19",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "1703",
+    "flrNo": "17",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "1801",
+    "flrNo": "18",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "2002",
+    "flrNo": "20",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "1604",
+    "flrNo": "16",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "1604",
+    "flrNo": "16",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "1701",
+    "flrNo": "17",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "1704",
+    "flrNo": "17",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "1803",
+    "flrNo": "18",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "1704",
+    "flrNo": "17",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "1603",
+    "flrNo": "16",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "상가3동",
+    "hoNm": "107",
+    "flrNo": "1",
+    "area": "29.25",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "1903",
+    "flrNo": "19",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "116동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "116동",
+    "hoNm": "1802",
+    "flrNo": "18",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "103동",
+    "hoNm": "1902",
+    "flrNo": "19",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "116동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "116동",
+    "hoNm": "2001",
+    "flrNo": "20",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "103동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "1902",
+    "flrNo": "19",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "103동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "116동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "1801",
+    "flrNo": "18",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "2004",
+    "flrNo": "20",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "상가1동",
+    "hoNm": "109",
+    "flrNo": "1",
+    "area": "29.25",
+    "mainPurpsCd": "04040",
+    "mainPurpsCdNm": "교습소",
+    "etcPurps": "제2종근린생활시설(교습소)"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "상가1동",
+    "hoNm": "106",
+    "flrNo": "1",
+    "area": "29.25",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설(교습소)"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "2003",
+    "flrNo": "20",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "116동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "1801",
+    "flrNo": "18",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "1604",
+    "flrNo": "16",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "1703",
+    "flrNo": "17",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "2001",
+    "flrNo": "20",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "1703",
+    "flrNo": "17",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "1604",
+    "flrNo": "16",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "2001",
+    "flrNo": "20",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "2002",
+    "flrNo": "20",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "1702",
+    "flrNo": "17",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "1604",
+    "flrNo": "16",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "1704",
+    "flrNo": "17",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "1904",
+    "flrNo": "19",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "116동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "상가3동",
+    "hoNm": "108-1",
+    "flrNo": "1",
+    "area": "29.25",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "2002",
+    "flrNo": "20",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "상가1동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "29.25",
+    "mainPurpsCd": "04040",
+    "mainPurpsCdNm": "교습소",
+    "etcPurps": "제2종근린생활시설(교습소)"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "103동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "116동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "103동",
+    "hoNm": "1603",
+    "flrNo": "16",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "103동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "1702",
+    "flrNo": "17",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "1904",
+    "flrNo": "19",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "2001",
+    "flrNo": "20",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "1903",
+    "flrNo": "19",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "1604",
+    "flrNo": "16",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "103동",
+    "hoNm": "2003",
+    "flrNo": "20",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "1704",
+    "flrNo": "17",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "116동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "103동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "103동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "1802",
+    "flrNo": "18",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "2003",
+    "flrNo": "20",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "1803",
+    "flrNo": "18",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "1601",
+    "flrNo": "16",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "상가3동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "45.7905",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "103동",
+    "hoNm": "1703",
+    "flrNo": "17",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "1903",
+    "flrNo": "19",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "1601",
+    "flrNo": "16",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "2003",
+    "flrNo": "20",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "상가2동",
+    "hoNm": "107",
+    "flrNo": "1",
+    "area": "29.25",
+    "mainPurpsCd": "04040",
+    "mainPurpsCdNm": "교습소",
+    "etcPurps": "제2종근린생활시설(교습소)"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "1901",
+    "flrNo": "19",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "1803",
+    "flrNo": "18",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "103동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "116동",
+    "hoNm": "1901",
+    "flrNo": "19",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "1703",
+    "flrNo": "17",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "1801",
+    "flrNo": "18",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "116동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "116동",
+    "hoNm": "1601",
+    "flrNo": "16",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "2002",
+    "flrNo": "20",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "1601",
+    "flrNo": "16",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "1603",
+    "flrNo": "16",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "1901",
+    "flrNo": "19",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "1702",
+    "flrNo": "17",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "1703",
+    "flrNo": "17",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "1601",
+    "flrNo": "16",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "1903",
+    "flrNo": "19",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "1602",
+    "flrNo": "16",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "2003",
+    "flrNo": "20",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "상가2동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "29.25",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "1904",
+    "flrNo": "19",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "1701",
+    "flrNo": "17",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "116동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "2003",
+    "flrNo": "20",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "103동",
+    "hoNm": "1803",
+    "flrNo": "18",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "1902",
+    "flrNo": "19",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "1803",
+    "flrNo": "18",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "1703",
+    "flrNo": "17",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "1601",
+    "flrNo": "16",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "2003",
+    "flrNo": "20",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "116동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "1704",
+    "flrNo": "17",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "2003",
+    "flrNo": "20",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "116동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "1901",
+    "flrNo": "19",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "103동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "1703",
+    "flrNo": "17",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "103동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "1704",
+    "flrNo": "17",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "103동",
+    "hoNm": "2001",
+    "flrNo": "20",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "1602",
+    "flrNo": "16",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "1801",
+    "flrNo": "18",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "상가2동",
+    "hoNm": "108",
+    "flrNo": "1",
+    "area": "29.25",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "1702",
+    "flrNo": "17",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "2004",
+    "flrNo": "20",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "1803",
+    "flrNo": "18",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "1601",
+    "flrNo": "16",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "1703",
+    "flrNo": "17",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "1802",
+    "flrNo": "18",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "1703",
+    "flrNo": "17",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "상가2동",
+    "hoNm": "106",
+    "flrNo": "1",
+    "area": "29.25",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "1901",
+    "flrNo": "19",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "116동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "1702",
+    "flrNo": "17",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "116동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "1901",
+    "flrNo": "19",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "1603",
+    "flrNo": "16",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "1803",
+    "flrNo": "18",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "103동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "116동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "1803",
+    "flrNo": "18",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "2004",
+    "flrNo": "20",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "103동",
+    "hoNm": "1904",
+    "flrNo": "19",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "1604",
+    "flrNo": "16",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "116동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "2001",
+    "flrNo": "20",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "1901",
+    "flrNo": "19",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "2003",
+    "flrNo": "20",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "1901",
+    "flrNo": "19",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "1904",
+    "flrNo": "19",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "상가1동",
+    "hoNm": "109-1",
+    "flrNo": "1",
+    "area": "29.25",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "116동",
+    "hoNm": "1602",
+    "flrNo": "16",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "103동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "2004",
+    "flrNo": "20",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "103동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "116동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "103동",
+    "hoNm": "1704",
+    "flrNo": "17",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "1602",
+    "flrNo": "16",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "상가3동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "46.935",
+    "mainPurpsCd": "04040",
+    "mainPurpsCdNm": "교습소",
+    "etcPurps": "제2종근린생활시설(교습소)"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "1802",
+    "flrNo": "18",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "1704",
+    "flrNo": "17",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "116동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "1701",
+    "flrNo": "17",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "1901",
+    "flrNo": "19",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "1802",
+    "flrNo": "18",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "1602",
+    "flrNo": "16",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "1902",
+    "flrNo": "19",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "상가1동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "29.25",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "103동",
+    "hoNm": "2004",
+    "flrNo": "20",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "1801",
+    "flrNo": "18",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "1902",
+    "flrNo": "19",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "2001",
+    "flrNo": "20",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "103동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "상가3동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "29.25",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "1804",
+    "flrNo": "18",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "1803",
+    "flrNo": "18",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "2004",
+    "flrNo": "20",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "103동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "1803",
+    "flrNo": "18",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "103동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "1702",
+    "flrNo": "17",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "1604",
+    "flrNo": "16",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "1804",
+    "flrNo": "18",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "1601",
+    "flrNo": "16",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "1902",
+    "flrNo": "19",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "상가3동",
+    "hoNm": "108",
+    "flrNo": "1",
+    "area": "29.25",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "1604",
+    "flrNo": "16",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "1601",
+    "flrNo": "16",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "1804",
+    "flrNo": "18",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "1904",
+    "flrNo": "19",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "1804",
+    "flrNo": "18",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "116동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "1701",
+    "flrNo": "17",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "116동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "1804",
+    "flrNo": "18",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "1902",
+    "flrNo": "19",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "2002",
+    "flrNo": "20",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "103동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "103동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "116동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "116동",
+    "hoNm": "2002",
+    "flrNo": "20",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "109동",
+    "hoNm": "1904",
+    "flrNo": "19",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "상가2동",
+    "hoNm": "105",
+    "flrNo": "1",
+    "area": "29.25",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "1603",
+    "flrNo": "16",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "1903",
+    "flrNo": "19",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "상가2동",
+    "hoNm": "109",
+    "flrNo": "1",
+    "area": "58.5",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "107동",
+    "hoNm": "1803",
+    "flrNo": "18",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "1803",
+    "flrNo": "18",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "103동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "116동",
+    "hoNm": "1701",
+    "flrNo": "17",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "1902",
+    "flrNo": "19",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "1902",
+    "flrNo": "19",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "1802",
+    "flrNo": "18",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "1603",
+    "flrNo": "16",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "1702",
+    "flrNo": "17",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "112동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "102동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "103동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "2002",
+    "flrNo": "20",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "2002",
+    "flrNo": "20",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "116동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "115동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "1603",
+    "flrNo": "16",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "114동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "상가3동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "29.25",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "104동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "1804",
+    "flrNo": "18",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "111동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "135.5564",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "106동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "113동",
+    "hoNm": "1802",
+    "flrNo": "18",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "101동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "135.3039",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "105동",
+    "hoNm": "2004",
+    "flrNo": "20",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "110동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "91.6395",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더 힐 시그니처",
+    "dongNm": "108동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "135.8022",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  }
+]

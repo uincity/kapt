@@ -1,0 +1,7742 @@
+[
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "108동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "105동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "116동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "112동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "122.42",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "116동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "110동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "112동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "122.42",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "110동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "104동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "101동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "110동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "116동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "108동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "108동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "107동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "101동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "104동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "104동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "112동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "122.42",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "112동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "122.42",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "107동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "108동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "상가동",
+    "hoNm": "106",
+    "flrNo": "1",
+    "area": "28.8",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제2종근린생활시설(부동산중개사무소)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "107동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "116동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "104동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "101동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "104동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "116동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "108동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "101동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "110동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "108동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "110동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "105동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "104동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "110동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "101동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "108동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "101동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "116동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "116동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "105동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "110동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "104동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "108동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "108동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "110동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "상가동",
+    "hoNm": "206",
+    "flrNo": "2",
+    "area": "33.08",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "105동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "110동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "105동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "101동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "104동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "112동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "122.42",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "107동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "105동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "108동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "107동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "110동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "105동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "105동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "108동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "105동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "104동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "116동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "107동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "116동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "108동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "101동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "112동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "122.42",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "105동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "116동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "105동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "101동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "108동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "110동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "101동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "101동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "116동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "110동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "112동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "122.42",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "112동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "122.42",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "107동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "112동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "122.42",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "112동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "122.42",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "105동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "112동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "122.42",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "104동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "101동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "116동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "104동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "104동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "108동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "110동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "107동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "116동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "116동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "105동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "116동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "116동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "112동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "122.42",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "105동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "110동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "105동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "101동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "104동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "상가동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "34.8",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "107동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "116동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "108동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "107동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "104동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "110동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "105동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "110동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "상가동",
+    "hoNm": "205",
+    "flrNo": "2",
+    "area": "34.8",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "104동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "108동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "101동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "110동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "101동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "101동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "116동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "104동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "104동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "110동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "116동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "104동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "110동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "116동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "104동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "105동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "108동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "104동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "107동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "101동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "108동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "108동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "101동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "105동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "101동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "104동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "110동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "101동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "107동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "107동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "101동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "108동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "104동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "116동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "108동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "101동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "상가동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "31.28",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "107동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "110동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "112동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "122.42",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "112동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "122.42",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "101동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "105동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "107동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "112동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "122.42",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "104동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "112동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "122.42",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "107동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "116동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "112동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "122.42",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "상가동",
+    "hoNm": "105",
+    "flrNo": "1",
+    "area": "28.8",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "108동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "108동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "105동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "112동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "122.42",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "상가동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "49.72",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "104동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "112동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "122.42",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "105동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "107동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "상가동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "50.33",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "101동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "110동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "108동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "101동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "105동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "105동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "108동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "112동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "122.42",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "112동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "122.42",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "104동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "110동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "상가동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "34.73",
+    "mainPurpsCd": "04402",
+    "mainPurpsCdNm": "사무소",
+    "etcPurps": "제2종근린생활시설(사무소)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "104동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "116동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "107동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "108동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "110동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "107동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "116동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "107동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "105동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "112동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "122.42",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "104동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "116동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "107동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "105동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "112동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "122.42",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "107동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "108동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "110동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "108동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "108동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "105동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "107동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "110동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "112동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "122.42",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "112동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "122.42",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "상가동",
+    "hoNm": "103-1",
+    "flrNo": "1",
+    "area": "18.58",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제2종근린생활시설(부동산중개사무소)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "104동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "107동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "108동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "상가동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "46.04",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "108동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "105동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "108동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "101동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "108동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "108동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "112동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "122.42",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "상가동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "28.8",
+    "mainPurpsCd": "04402",
+    "mainPurpsCdNm": "사무소",
+    "etcPurps": "제2종근린생활시설(사무소)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "116동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "112동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "122.42",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "105동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "110동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "101동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "108동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "112동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "122.42",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "101동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "110동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "116동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "110동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "101동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "107동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "104동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "107동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "111동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "103동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "상가동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "40.89",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "112동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "122.42",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "113동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "106동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "117동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "84.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "102동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "116동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "114동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "109동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "105동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "146.81",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "110동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "84.85",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "101.74",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "정관신도시 롯데캐슬",
+    "dongNm": "115동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "123.35",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  }
+]

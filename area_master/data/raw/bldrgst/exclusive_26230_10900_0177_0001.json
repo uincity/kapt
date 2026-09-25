@@ -1,0 +1,3342 @@
+[
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "409호",
+    "flrNo": "4",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "707호",
+    "flrNo": "7",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "808호",
+    "flrNo": "8",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "610호",
+    "flrNo": "6",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "513호",
+    "flrNo": "5",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "114호",
+    "flrNo": "1",
+    "area": "44.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "405호",
+    "flrNo": "4",
+    "area": "44.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "308호",
+    "flrNo": "3",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "701호",
+    "flrNo": "7",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "306호",
+    "flrNo": "3",
+    "area": "44.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "807호",
+    "flrNo": "8",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "317호",
+    "flrNo": "3",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "613호",
+    "flrNo": "6",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "306호",
+    "flrNo": "3",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "702호",
+    "flrNo": "7",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "305호",
+    "flrNo": "3",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "108호",
+    "flrNo": "1",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "108호",
+    "flrNo": "1",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익상가",
+    "dongNm": "17동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "33.16",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "점포"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "709호",
+    "flrNo": "7",
+    "area": "108.26",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "712호",
+    "flrNo": "7",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "206호",
+    "flrNo": "2",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "105호",
+    "flrNo": "1",
+    "area": "44.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "209호",
+    "flrNo": "2",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "702호",
+    "flrNo": "7",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "701호",
+    "flrNo": "7",
+    "area": "108.26",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "418호",
+    "flrNo": "4",
+    "area": "108.26",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "918호",
+    "flrNo": "9",
+    "area": "108.26",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "810호",
+    "flrNo": "8",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "907호",
+    "flrNo": "9",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "108.26",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "715호",
+    "flrNo": "7",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "806호",
+    "flrNo": "8",
+    "area": "44.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익상가",
+    "dongNm": "17동",
+    "hoNm": "202-4호",
+    "flrNo": "2",
+    "area": "12.6",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "점포"
+  },
+  {
+    "bldNm": "당감삼익상가",
+    "dongNm": "17동",
+    "hoNm": "105호",
+    "flrNo": "1",
+    "area": "448",
+    "mainPurpsCd": "04401",
+    "mainPurpsCdNm": "금융업소",
+    "etcPurps": "은행"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "905호",
+    "flrNo": "9",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "305호",
+    "flrNo": "3",
+    "area": "44.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "508호",
+    "flrNo": "5",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익상가",
+    "dongNm": "17동",
+    "hoNm": "202-18호",
+    "flrNo": "2",
+    "area": "18.91",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "점포"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "709호",
+    "flrNo": "7",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "309호",
+    "flrNo": "3",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익상가",
+    "dongNm": "17동",
+    "hoNm": "202-27호",
+    "flrNo": "2",
+    "area": "20.17",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "점포"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "914호",
+    "flrNo": "9",
+    "area": "44.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "605호",
+    "flrNo": "6",
+    "area": "44.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "312호",
+    "flrNo": "3",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익상가",
+    "dongNm": "17동",
+    "hoNm": "301-1호",
+    "flrNo": "3",
+    "area": "50.66",
+    "mainPurpsCd": "03005",
+    "mainPurpsCdNm": "의원",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": "당감삼익상가",
+    "dongNm": "17동",
+    "hoNm": "301-1호",
+    "flrNo": "3",
+    "area": "67.32",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "당감삼익상가",
+    "dongNm": "17동",
+    "hoNm": "202-12호",
+    "flrNo": "2",
+    "area": "18.91",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "점포"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "216호",
+    "flrNo": "2",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "505호",
+    "flrNo": "5",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익상가",
+    "dongNm": "17동",
+    "hoNm": "202-26호",
+    "flrNo": "2",
+    "area": "17.65",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "점포"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "803호",
+    "flrNo": "8",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "509호",
+    "flrNo": "5",
+    "area": "108.26",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "205호",
+    "flrNo": "2",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "909호",
+    "flrNo": "9",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "703호",
+    "flrNo": "7",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "518호",
+    "flrNo": "5",
+    "area": "108.26",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "407호",
+    "flrNo": "4",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "213호",
+    "flrNo": "2",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "218호",
+    "flrNo": "2",
+    "area": "108.26",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "511호",
+    "flrNo": "5",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "802호",
+    "flrNo": "8",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "501호",
+    "flrNo": "5",
+    "area": "108.26",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "605호",
+    "flrNo": "6",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "107호",
+    "flrNo": "1",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "816호",
+    "flrNo": "8",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익상가",
+    "dongNm": "17동",
+    "hoNm": "202-15호",
+    "flrNo": "2",
+    "area": "12.6",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "점포"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "603호",
+    "flrNo": "6",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "707호",
+    "flrNo": "7",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "515호",
+    "flrNo": "5",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "912호",
+    "flrNo": "9",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "802호",
+    "flrNo": "8",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "108.26",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "612호",
+    "flrNo": "6",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "902호",
+    "flrNo": "9",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익상가",
+    "dongNm": "17동",
+    "hoNm": "202-6호",
+    "flrNo": "2",
+    "area": "12.6",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "점포"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "207호",
+    "flrNo": "2",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "105호",
+    "flrNo": "1",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "714호",
+    "flrNo": "7",
+    "area": "44.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익상가",
+    "dongNm": "17동",
+    "hoNm": "202-8호",
+    "flrNo": "2",
+    "area": "18.64",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "점포"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "812호",
+    "flrNo": "8",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "609호",
+    "flrNo": "6",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익상가",
+    "dongNm": "17동",
+    "hoNm": "202-10호",
+    "flrNo": "2",
+    "area": "13.39",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "점포"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "609호",
+    "flrNo": "6",
+    "area": "108.26",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "503호",
+    "flrNo": "5",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "407호",
+    "flrNo": "4",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "505호",
+    "flrNo": "5",
+    "area": "44.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "615호",
+    "flrNo": "6",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "307호",
+    "flrNo": "3",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "318호",
+    "flrNo": "3",
+    "area": "108.26",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "601호",
+    "flrNo": "6",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "717호",
+    "flrNo": "7",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "703호",
+    "flrNo": "7",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "614호",
+    "flrNo": "6",
+    "area": "44.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "916호",
+    "flrNo": "9",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "702호",
+    "flrNo": "7",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익상가",
+    "dongNm": "17동",
+    "hoNm": "202-16호",
+    "flrNo": "2",
+    "area": "12.6",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "점포"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "406호",
+    "flrNo": "4",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "611호",
+    "flrNo": "6",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "107호",
+    "flrNo": "1",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익상가",
+    "dongNm": "17동",
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "33.16",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "점포"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "903호",
+    "flrNo": "9",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "606호",
+    "flrNo": "6",
+    "area": "44.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "106호",
+    "flrNo": "1",
+    "area": "44.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "407호",
+    "flrNo": "4",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "503호",
+    "flrNo": "5",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "807호",
+    "flrNo": "8",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "111호",
+    "flrNo": "1",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "210호",
+    "flrNo": "2",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "406호",
+    "flrNo": "4",
+    "area": "44.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "602호",
+    "flrNo": "6",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "411호",
+    "flrNo": "4",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "506호",
+    "flrNo": "5",
+    "area": "44.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "901호",
+    "flrNo": "9",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "408호",
+    "flrNo": "4",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "811호",
+    "flrNo": "8",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "508호",
+    "flrNo": "5",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "405호",
+    "flrNo": "4",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "409호",
+    "flrNo": "4",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "209호",
+    "flrNo": "2",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "706호",
+    "flrNo": "7",
+    "area": "44.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "906호",
+    "flrNo": "9",
+    "area": "44.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "113호",
+    "flrNo": "1",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "603호",
+    "flrNo": "6",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "108호",
+    "flrNo": "1",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "314호",
+    "flrNo": "3",
+    "area": "44.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "309호",
+    "flrNo": "3",
+    "area": "108.26",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "112호",
+    "flrNo": "1",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "808호",
+    "flrNo": "8",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "105호",
+    "flrNo": "1",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "305호",
+    "flrNo": "3",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익상가",
+    "dongNm": "17동",
+    "hoNm": "202-24호",
+    "flrNo": "2",
+    "area": "17.65",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "점포"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "803호",
+    "flrNo": "8",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "109호",
+    "flrNo": "1",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "311호",
+    "flrNo": "3",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "910호",
+    "flrNo": "9",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "716호",
+    "flrNo": "7",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "905호",
+    "flrNo": "9",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익상가",
+    "dongNm": "17동",
+    "hoNm": "202-21호",
+    "flrNo": "2",
+    "area": "30.25",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "점포"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "915호",
+    "flrNo": "9",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "906호",
+    "flrNo": "9",
+    "area": "44.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익상가",
+    "dongNm": "17동",
+    "hoNm": "202-9호",
+    "flrNo": "2",
+    "area": "13.39",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "점포"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "115호",
+    "flrNo": "1",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "906호",
+    "flrNo": "9",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "507호",
+    "flrNo": "5",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "802호",
+    "flrNo": "8",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "705호",
+    "flrNo": "7",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "701호",
+    "flrNo": "7",
+    "area": "108.26",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "109호",
+    "flrNo": "1",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "711호",
+    "flrNo": "7",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "803호",
+    "flrNo": "8",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "608호",
+    "flrNo": "6",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "608호",
+    "flrNo": "6",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "809호",
+    "flrNo": "8",
+    "area": "108.26",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "206호",
+    "flrNo": "2",
+    "area": "44.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "602호",
+    "flrNo": "6",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "510호",
+    "flrNo": "5",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "703호",
+    "flrNo": "7",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "901호",
+    "flrNo": "9",
+    "area": "108.26",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "315호",
+    "flrNo": "3",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "808호",
+    "flrNo": "8",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "413호",
+    "flrNo": "4",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "506호",
+    "flrNo": "5",
+    "area": "44.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "710호",
+    "flrNo": "7",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "908호",
+    "flrNo": "9",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "308호",
+    "flrNo": "3",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "310호",
+    "flrNo": "3",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "405호",
+    "flrNo": "4",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "205호",
+    "flrNo": "2",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "901호",
+    "flrNo": "9",
+    "area": "108.26",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "108.26",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익상가",
+    "dongNm": "17동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "49.69",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "점포"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "516호",
+    "flrNo": "5",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "207호",
+    "flrNo": "2",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "705호",
+    "flrNo": "7",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "617호",
+    "flrNo": "6",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익상가",
+    "dongNm": "17동",
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "112",
+    "mainPurpsCd": "03005",
+    "mainPurpsCdNm": "의원",
+    "etcPurps": "의원"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "708호",
+    "flrNo": "7",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "110호",
+    "flrNo": "1",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익상가",
+    "dongNm": "17동",
+    "hoNm": "301-4호",
+    "flrNo": "3",
+    "area": "160.1",
+    "mainPurpsCd": "03005",
+    "mainPurpsCdNm": "의원",
+    "etcPurps": "의원"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "117호",
+    "flrNo": "1",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익상가",
+    "dongNm": "17동",
+    "hoNm": "202-5호",
+    "flrNo": "2",
+    "area": "12.6",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "점포"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "406호",
+    "flrNo": "4",
+    "area": "44.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "801호",
+    "flrNo": "8",
+    "area": "108.26",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "708호",
+    "flrNo": "7",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "602호",
+    "flrNo": "6",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "913호",
+    "flrNo": "9",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "505호",
+    "flrNo": "5",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "908호",
+    "flrNo": "9",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "211호",
+    "flrNo": "2",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "907호",
+    "flrNo": "9",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "805호",
+    "flrNo": "8",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "417호",
+    "flrNo": "4",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "607호",
+    "flrNo": "6",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "517호",
+    "flrNo": "5",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "415호",
+    "flrNo": "4",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익상가",
+    "dongNm": "17동",
+    "hoNm": "202-19호",
+    "flrNo": "2",
+    "area": "21.55",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "점포"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "907호",
+    "flrNo": "9",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "108.26",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "106호",
+    "flrNo": "1",
+    "area": "44.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "214호",
+    "flrNo": "2",
+    "area": "44.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "908호",
+    "flrNo": "9",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "108.26",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익상가",
+    "dongNm": "17동",
+    "hoNm": "202-2호",
+    "flrNo": "2",
+    "area": "15.64",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "점포"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "713호",
+    "flrNo": "7",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "801호",
+    "flrNo": "8",
+    "area": "108.26",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "902호",
+    "flrNo": "9",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "903호",
+    "flrNo": "9",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "206호",
+    "flrNo": "2",
+    "area": "44.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익상가",
+    "dongNm": "17동",
+    "hoNm": "202-25호",
+    "flrNo": "2",
+    "area": "17.65",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "점포"
+  },
+  {
+    "bldNm": "당감삼익상가",
+    "dongNm": "17동",
+    "hoNm": "202-3호",
+    "flrNo": "2",
+    "area": "12.6",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "점포"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "616호",
+    "flrNo": "6",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "508호",
+    "flrNo": "5",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "313호",
+    "flrNo": "3",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "107호",
+    "flrNo": "1",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "412호",
+    "flrNo": "4",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "205호",
+    "flrNo": "2",
+    "area": "44.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "607호",
+    "flrNo": "6",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "108.36",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "509호",
+    "flrNo": "5",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "807호",
+    "flrNo": "8",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "809호",
+    "flrNo": "8",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "817호",
+    "flrNo": "8",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "307호",
+    "flrNo": "3",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "608호",
+    "flrNo": "6",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "118호",
+    "flrNo": "1",
+    "area": "108.26",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "207호",
+    "flrNo": "2",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "116호",
+    "flrNo": "1",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "212호",
+    "flrNo": "2",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "902호",
+    "flrNo": "9",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "503호",
+    "flrNo": "5",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "208호",
+    "flrNo": "2",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "903호",
+    "flrNo": "9",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "818호",
+    "flrNo": "8",
+    "area": "108.26",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "410호",
+    "flrNo": "4",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "909호",
+    "flrNo": "9",
+    "area": "108.26",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "215호",
+    "flrNo": "2",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "209호",
+    "flrNo": "2",
+    "area": "108.26",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "801호",
+    "flrNo": "8",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "814호",
+    "flrNo": "8",
+    "area": "44.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "815호",
+    "flrNo": "8",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "512호",
+    "flrNo": "5",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "607호",
+    "flrNo": "6",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "706호",
+    "flrNo": "7",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익상가",
+    "dongNm": "17동",
+    "hoNm": "202-13호",
+    "flrNo": "2",
+    "area": "16.4",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "점포"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "809호",
+    "flrNo": "8",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "307호",
+    "flrNo": "3",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "618호",
+    "flrNo": "6",
+    "area": "108.26",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "501호",
+    "flrNo": "5",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "306호",
+    "flrNo": "3",
+    "area": "44.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "909호",
+    "flrNo": "9",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "106호",
+    "flrNo": "1",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "309호",
+    "flrNo": "3",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "408호",
+    "flrNo": "4",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "603호",
+    "flrNo": "6",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익상가",
+    "dongNm": "17동",
+    "hoNm": "202-1호",
+    "flrNo": "2",
+    "area": "17.02",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "점포"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "609호",
+    "flrNo": "6",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "416호",
+    "flrNo": "4",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "813호",
+    "flrNo": "8",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "806호",
+    "flrNo": "8",
+    "area": "44.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "507호",
+    "flrNo": "5",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "707호",
+    "flrNo": "7",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "506호",
+    "flrNo": "5",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "409호",
+    "flrNo": "4",
+    "area": "108.26",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "911호",
+    "flrNo": "9",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "601호",
+    "flrNo": "6",
+    "area": "108.26",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "606호",
+    "flrNo": "6",
+    "area": "44.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "705호",
+    "flrNo": "7",
+    "area": "44.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "805호",
+    "flrNo": "8",
+    "area": "44.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "606호",
+    "flrNo": "6",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "208호",
+    "flrNo": "2",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익상가",
+    "dongNm": "17동",
+    "hoNm": "301-3호",
+    "flrNo": "3",
+    "area": "84.96",
+    "mainPurpsCd": "04010",
+    "mainPurpsCdNm": "학원",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "217호",
+    "flrNo": "2",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "408호",
+    "flrNo": "4",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "414호",
+    "flrNo": "4",
+    "area": "44.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "605호",
+    "flrNo": "6",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익상가",
+    "dongNm": "17동",
+    "hoNm": "202-11호",
+    "flrNo": "2",
+    "area": "15.93",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "점포"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "509호",
+    "flrNo": "5",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "501호",
+    "flrNo": "5",
+    "area": "108.26",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "805호",
+    "flrNo": "8",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "514호",
+    "flrNo": "5",
+    "area": "44.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "208호",
+    "flrNo": "2",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "108.26",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익상가",
+    "dongNm": "17동",
+    "hoNm": "202-20호",
+    "flrNo": "2",
+    "area": "18.18",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "점포"
+  },
+  {
+    "bldNm": "당감삼익상가",
+    "dongNm": "17동",
+    "hoNm": "202-17호",
+    "flrNo": "2",
+    "area": "12.6",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "점포"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "308호",
+    "flrNo": "3",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "109호",
+    "flrNo": "1",
+    "area": "108.26",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "708호",
+    "flrNo": "7",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "601호",
+    "flrNo": "6",
+    "area": "108.26",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "806호",
+    "flrNo": "8",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "706호",
+    "flrNo": "7",
+    "area": "44.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익상가",
+    "dongNm": "17동",
+    "hoNm": "202-23호",
+    "flrNo": "2",
+    "area": "17.65",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "점포"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "108.26",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "718호",
+    "flrNo": "7",
+    "area": "108.26",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익상가",
+    "dongNm": "17동",
+    "hoNm": "202-7호",
+    "flrNo": "2",
+    "area": "15.57",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "점포"
+  },
+  {
+    "bldNm": "당감삼익",
+    "dongNm": "6동",
+    "hoNm": "905호",
+    "flrNo": "9",
+    "area": "44.76",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "316호",
+    "flrNo": "3",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "79.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익상가",
+    "dongNm": "17동",
+    "hoNm": "301-2호",
+    "flrNo": "3",
+    "area": "84.96",
+    "mainPurpsCd": "03005",
+    "mainPurpsCdNm": "의원",
+    "etcPurps": "의원"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "507호",
+    "flrNo": "5",
+    "area": "64.44",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익상가",
+    "dongNm": "17동",
+    "hoNm": "202-14호",
+    "flrNo": "2",
+    "area": "15.11",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "점포"
+  },
+  {
+    "bldNm": "당감삼익아파트",
+    "dongNm": "16동",
+    "hoNm": "709호",
+    "flrNo": "7",
+    "area": "64.43",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼익아파트",
+    "dongNm": "5동",
+    "hoNm": "917호",
+    "flrNo": "9",
+    "area": "79.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "당감삼익상가",
+    "dongNm": "17동",
+    "hoNm": "202-22호",
+    "flrNo": "2",
+    "area": "20.17",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "점포"
+  }
+]

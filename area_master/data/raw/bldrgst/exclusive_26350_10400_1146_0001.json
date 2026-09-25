@@ -1,0 +1,2792 @@
+[
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "54동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "54동",
+    "hoNm": "304호",
+    "flrNo": "3",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "54동",
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "52동",
+    "hoNm": "108호",
+    "flrNo": "1",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "51동",
+    "hoNm": "108호",
+    "flrNo": "1",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "54동",
+    "hoNm": "501호",
+    "flrNo": "5",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "50동",
+    "hoNm": "104호",
+    "flrNo": "1",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "208호",
+    "flrNo": "2",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "50동",
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "51동",
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "105호",
+    "flrNo": "1",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": null,
+    "hoNm": "상가5호",
+    "flrNo": "1",
+    "area": "28.57",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "점포"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "52동",
+    "hoNm": "206호",
+    "flrNo": "2",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "54동",
+    "hoNm": "406호",
+    "flrNo": "4",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "55동",
+    "hoNm": "208호",
+    "flrNo": "2",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "51동",
+    "hoNm": "406호",
+    "flrNo": "4",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "409호",
+    "flrNo": "4",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "55동",
+    "hoNm": "506호",
+    "flrNo": "5",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "511호",
+    "flrNo": "5",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "51동",
+    "hoNm": "305호",
+    "flrNo": "3",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "51동",
+    "hoNm": "207호",
+    "flrNo": "2",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "50동",
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "55동",
+    "hoNm": "204호",
+    "flrNo": "2",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "55동",
+    "hoNm": "308호",
+    "flrNo": "3",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "52동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "50동",
+    "hoNm": "106호",
+    "flrNo": "1",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "54동",
+    "hoNm": "404호",
+    "flrNo": "4",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "109호",
+    "flrNo": "1",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "51동",
+    "hoNm": "410호",
+    "flrNo": "4",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "406호",
+    "flrNo": "4",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "51동",
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "50동",
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "310호",
+    "flrNo": "3",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "50동",
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "52동",
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "52동",
+    "hoNm": "508호",
+    "flrNo": "5",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "51동",
+    "hoNm": "210호",
+    "flrNo": "2",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "50동",
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": null,
+    "hoNm": "상가1호",
+    "flrNo": "1",
+    "area": "82.99",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "점포"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "54동",
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "51동",
+    "hoNm": "503호",
+    "flrNo": "5",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "55동",
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "54동",
+    "hoNm": "508호",
+    "flrNo": "5",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "54동",
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "54동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "51동",
+    "hoNm": "509호",
+    "flrNo": "5",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "207호",
+    "flrNo": "2",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "51동",
+    "hoNm": "309호",
+    "flrNo": "3",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "110호",
+    "flrNo": "1",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "55동",
+    "hoNm": "304호",
+    "flrNo": "3",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "50동",
+    "hoNm": "405호",
+    "flrNo": "4",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "50동",
+    "hoNm": "503호",
+    "flrNo": "5",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "54동",
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "54동",
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "52동",
+    "hoNm": "210호",
+    "flrNo": "2",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "54동",
+    "hoNm": "108호",
+    "flrNo": "1",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "211호",
+    "flrNo": "2",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "501호",
+    "flrNo": "5",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "54동",
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "51동",
+    "hoNm": "110호",
+    "flrNo": "1",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "410호",
+    "flrNo": "4",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "51동",
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "51동",
+    "hoNm": "507호",
+    "flrNo": "5",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "51동",
+    "hoNm": "506호",
+    "flrNo": "5",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "54동",
+    "hoNm": "507호",
+    "flrNo": "5",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "412호",
+    "flrNo": "4",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "54동",
+    "hoNm": "405호",
+    "flrNo": "4",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "55동",
+    "hoNm": "405호",
+    "flrNo": "4",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "51동",
+    "hoNm": "306호",
+    "flrNo": "3",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "54동",
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "52동",
+    "hoNm": "309호",
+    "flrNo": "3",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "52동",
+    "hoNm": "405호",
+    "flrNo": "4",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "55동",
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "51동",
+    "hoNm": "204호",
+    "flrNo": "2",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "209호",
+    "flrNo": "2",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "504호",
+    "flrNo": "5",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "50동",
+    "hoNm": "506호",
+    "flrNo": "5",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "52동",
+    "hoNm": "407호",
+    "flrNo": "4",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "55동",
+    "hoNm": "501호",
+    "flrNo": "5",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "55동",
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "311호",
+    "flrNo": "3",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "54동",
+    "hoNm": "504호",
+    "flrNo": "5",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "52동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "304호",
+    "flrNo": "3",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "52동",
+    "hoNm": "304호",
+    "flrNo": "3",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "50동",
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "55동",
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "50동",
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "52동",
+    "hoNm": "307호",
+    "flrNo": "3",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "55동",
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "51동",
+    "hoNm": "408호",
+    "flrNo": "4",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "51동",
+    "hoNm": "310호",
+    "flrNo": "3",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "50동",
+    "hoNm": "105호",
+    "flrNo": "1",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "108호",
+    "flrNo": "1",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "305호",
+    "flrNo": "3",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "54동",
+    "hoNm": "206호",
+    "flrNo": "2",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "52동",
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "312호",
+    "flrNo": "3",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "307호",
+    "flrNo": "3",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "55동",
+    "hoNm": "306호",
+    "flrNo": "3",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "52동",
+    "hoNm": "506호",
+    "flrNo": "5",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "50동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "52동",
+    "hoNm": "110호",
+    "flrNo": "1",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": null,
+    "hoNm": "상가6호",
+    "flrNo": "1",
+    "area": "39.15",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "점포"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "50동",
+    "hoNm": "505호",
+    "flrNo": "5",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "55동",
+    "hoNm": "107호",
+    "flrNo": "1",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "55동",
+    "hoNm": "104호",
+    "flrNo": "1",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "54동",
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "54동",
+    "hoNm": "407호",
+    "flrNo": "4",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "408호",
+    "flrNo": "4",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "52동",
+    "hoNm": "306호",
+    "flrNo": "3",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "50동",
+    "hoNm": "504호",
+    "flrNo": "5",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "55동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "52동",
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "104호",
+    "flrNo": "1",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "506호",
+    "flrNo": "5",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "52동",
+    "hoNm": "509호",
+    "flrNo": "5",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "52동",
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "50동",
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "306호",
+    "flrNo": "3",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "55동",
+    "hoNm": "407호",
+    "flrNo": "4",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "55동",
+    "hoNm": "404호",
+    "flrNo": "4",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "55동",
+    "hoNm": "305호",
+    "flrNo": "3",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "205호",
+    "flrNo": "2",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": null,
+    "hoNm": "상가4호",
+    "flrNo": "1",
+    "area": "31.5",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "점포"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "52동",
+    "hoNm": "209호",
+    "flrNo": "2",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "55동",
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "505호",
+    "flrNo": "5",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "52동",
+    "hoNm": "501호",
+    "flrNo": "5",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": null,
+    "hoNm": "상가7호",
+    "flrNo": "2",
+    "area": "80.12",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "점포"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "404호",
+    "flrNo": "4",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "52동",
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "512호",
+    "flrNo": "5",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "51동",
+    "hoNm": "208호",
+    "flrNo": "2",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "51동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "309호",
+    "flrNo": "3",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "52동",
+    "hoNm": "205호",
+    "flrNo": "2",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "51동",
+    "hoNm": "510호",
+    "flrNo": "5",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "411호",
+    "flrNo": "4",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "54동",
+    "hoNm": "308호",
+    "flrNo": "3",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "51동",
+    "hoNm": "105호",
+    "flrNo": "1",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "55동",
+    "hoNm": "503호",
+    "flrNo": "5",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "55동",
+    "hoNm": "508호",
+    "flrNo": "5",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "51동",
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "52동",
+    "hoNm": "409호",
+    "flrNo": "4",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "51동",
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "51동",
+    "hoNm": "501호",
+    "flrNo": "5",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "54동",
+    "hoNm": "305호",
+    "flrNo": "3",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "54동",
+    "hoNm": "506호",
+    "flrNo": "5",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": null,
+    "hoNm": "관리실",
+    "flrNo": "1",
+    "area": "57.17",
+    "mainPurpsCd": "02005",
+    "mainPurpsCdNm": "부대시설",
+    "etcPurps": "관리실"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "54동",
+    "hoNm": "107호",
+    "flrNo": "1",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "54동",
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "51동",
+    "hoNm": "307호",
+    "flrNo": "3",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "54동",
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "308호",
+    "flrNo": "3",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "51동",
+    "hoNm": "109호",
+    "flrNo": "1",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "52동",
+    "hoNm": "404호",
+    "flrNo": "4",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "51동",
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "50동",
+    "hoNm": "406호",
+    "flrNo": "4",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "54동",
+    "hoNm": "105호",
+    "flrNo": "1",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "50동",
+    "hoNm": "206호",
+    "flrNo": "2",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "55동",
+    "hoNm": "408호",
+    "flrNo": "4",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "50동",
+    "hoNm": "204호",
+    "flrNo": "2",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "52동",
+    "hoNm": "510호",
+    "flrNo": "5",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "55동",
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "54동",
+    "hoNm": "307호",
+    "flrNo": "3",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "50동",
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "52동",
+    "hoNm": "104호",
+    "flrNo": "1",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "54동",
+    "hoNm": "503호",
+    "flrNo": "5",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "55동",
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "52동",
+    "hoNm": "406호",
+    "flrNo": "4",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "54동",
+    "hoNm": "205호",
+    "flrNo": "2",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "54동",
+    "hoNm": "106호",
+    "flrNo": "1",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "51동",
+    "hoNm": "405호",
+    "flrNo": "4",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "55동",
+    "hoNm": "406호",
+    "flrNo": "4",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "51동",
+    "hoNm": "508호",
+    "flrNo": "5",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "52동",
+    "hoNm": "507호",
+    "flrNo": "5",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "51동",
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "52동",
+    "hoNm": "310호",
+    "flrNo": "3",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "509호",
+    "flrNo": "5",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "51동",
+    "hoNm": "104호",
+    "flrNo": "1",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "52동",
+    "hoNm": "410호",
+    "flrNo": "4",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "55동",
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "51동",
+    "hoNm": "209호",
+    "flrNo": "2",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "51동",
+    "hoNm": "205호",
+    "flrNo": "2",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "52동",
+    "hoNm": "505호",
+    "flrNo": "5",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "55동",
+    "hoNm": "108호",
+    "flrNo": "1",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "52동",
+    "hoNm": "504호",
+    "flrNo": "5",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "52동",
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "52동",
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "51동",
+    "hoNm": "505호",
+    "flrNo": "5",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "55동",
+    "hoNm": "505호",
+    "flrNo": "5",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "52동",
+    "hoNm": "107호",
+    "flrNo": "1",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "51동",
+    "hoNm": "106호",
+    "flrNo": "1",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "52동",
+    "hoNm": "305호",
+    "flrNo": "3",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "50동",
+    "hoNm": "304호",
+    "flrNo": "3",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": null,
+    "hoNm": "노인정",
+    "flrNo": "2",
+    "area": "60.13",
+    "mainPurpsCd": "02006",
+    "mainPurpsCdNm": "복리시설",
+    "etcPurps": "노인정"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "212호",
+    "flrNo": "2",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "55동",
+    "hoNm": "207호",
+    "flrNo": "2",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "50동",
+    "hoNm": "306호",
+    "flrNo": "3",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "510호",
+    "flrNo": "5",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "52동",
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "55동",
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "107호",
+    "flrNo": "1",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "55동",
+    "hoNm": "205호",
+    "flrNo": "2",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "507호",
+    "flrNo": "5",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "204호",
+    "flrNo": "2",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "54동",
+    "hoNm": "408호",
+    "flrNo": "4",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "51동",
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "52동",
+    "hoNm": "109호",
+    "flrNo": "1",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": null,
+    "hoNm": "상가3호",
+    "flrNo": "1",
+    "area": "31.5",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "점포"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "52동",
+    "hoNm": "503호",
+    "flrNo": "5",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "55동",
+    "hoNm": "105호",
+    "flrNo": "1",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "407호",
+    "flrNo": "4",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "51동",
+    "hoNm": "107호",
+    "flrNo": "1",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "55동",
+    "hoNm": "504호",
+    "flrNo": "5",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "54동",
+    "hoNm": "208호",
+    "flrNo": "2",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "55동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "52동",
+    "hoNm": "408호",
+    "flrNo": "4",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "503호",
+    "flrNo": "5",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "50동",
+    "hoNm": "404호",
+    "flrNo": "4",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "54동",
+    "hoNm": "207호",
+    "flrNo": "2",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "51동",
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "52동",
+    "hoNm": "106호",
+    "flrNo": "1",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "508호",
+    "flrNo": "5",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "52동",
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "52동",
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "51동",
+    "hoNm": "308호",
+    "flrNo": "3",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "50동",
+    "hoNm": "305호",
+    "flrNo": "3",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "51동",
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "51동",
+    "hoNm": "407호",
+    "flrNo": "4",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "50동",
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "52동",
+    "hoNm": "208호",
+    "flrNo": "2",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "210호",
+    "flrNo": "2",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": null,
+    "hoNm": "상가2호",
+    "flrNo": "1",
+    "area": "31.5",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "점포"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "54동",
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "51동",
+    "hoNm": "206호",
+    "flrNo": "2",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "106호",
+    "flrNo": "1",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "55동",
+    "hoNm": "507호",
+    "flrNo": "5",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "50동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "54동",
+    "hoNm": "505호",
+    "flrNo": "5",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "55동",
+    "hoNm": "106호",
+    "flrNo": "1",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "52동",
+    "hoNm": "207호",
+    "flrNo": "2",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "55동",
+    "hoNm": "206호",
+    "flrNo": "2",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "52동",
+    "hoNm": "105호",
+    "flrNo": "1",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "52동",
+    "hoNm": "204호",
+    "flrNo": "2",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "51동",
+    "hoNm": "404호",
+    "flrNo": "4",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "405호",
+    "flrNo": "4",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "50동",
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "54동",
+    "hoNm": "204호",
+    "flrNo": "2",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "51동",
+    "hoNm": "409호",
+    "flrNo": "4",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "54동",
+    "hoNm": "104호",
+    "flrNo": "1",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "54동",
+    "hoNm": "306호",
+    "flrNo": "3",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "51동",
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "52동",
+    "hoNm": "308호",
+    "flrNo": "3",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "112호",
+    "flrNo": "1",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "52동",
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "51동",
+    "hoNm": "304호",
+    "flrNo": "3",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "50동",
+    "hoNm": "205호",
+    "flrNo": "2",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "206호",
+    "flrNo": "2",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "51동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "55동",
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "50동",
+    "hoNm": "501호",
+    "flrNo": "5",
+    "area": "58.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "51동",
+    "hoNm": "504호",
+    "flrNo": "5",
+    "area": "47.79",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "53동",
+    "hoNm": "111호",
+    "flrNo": "1",
+    "area": "36.33",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "시영아파트",
+    "dongNm": "55동",
+    "hoNm": "307호",
+    "flrNo": "3",
+    "area": "50.31",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  }
+]

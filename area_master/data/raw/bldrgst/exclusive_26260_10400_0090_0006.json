@@ -1,0 +1,5142 @@
+[
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "1303호",
+    "flrNo": "13",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "903호",
+    "flrNo": "9",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1908호",
+    "flrNo": "19",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "2301",
+    "flrNo": "23",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "2401",
+    "flrNo": "24",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1011호",
+    "flrNo": "10",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "2201호",
+    "flrNo": "22",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1703호",
+    "flrNo": "17",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "806호",
+    "flrNo": "8",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "2203호",
+    "flrNo": "22",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "1803",
+    "flrNo": "18",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "902호",
+    "flrNo": "9",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "704호",
+    "flrNo": "7",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "905호",
+    "flrNo": "9",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "1903",
+    "flrNo": "19",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "306호",
+    "flrNo": "3",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "2001호",
+    "flrNo": "20",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "2404",
+    "flrNo": "24",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1504호",
+    "flrNo": "15",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1306호",
+    "flrNo": "13",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "2203호",
+    "flrNo": "22",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "904호",
+    "flrNo": "9",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "2102",
+    "flrNo": "21",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "2304",
+    "flrNo": "23",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "2504호",
+    "flrNo": "25",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "1901",
+    "flrNo": "19",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "104호",
+    "flrNo": "1",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1603호",
+    "flrNo": "16",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1707호",
+    "flrNo": "17",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "2103",
+    "flrNo": "21",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "2101호",
+    "flrNo": "21",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "2201호",
+    "flrNo": "22",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "606호",
+    "flrNo": "6",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "2003",
+    "flrNo": "20",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1209호",
+    "flrNo": "12",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "701호",
+    "flrNo": "7",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "1404호",
+    "flrNo": "14",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1103호",
+    "flrNo": "11",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "604호",
+    "flrNo": "6",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "2102호",
+    "flrNo": "21",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "206호",
+    "flrNo": "2",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "111호",
+    "flrNo": "1",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1709호",
+    "flrNo": "17",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "1704호",
+    "flrNo": "17",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "803호",
+    "flrNo": "8",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "710호",
+    "flrNo": "7",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "906호",
+    "flrNo": "9",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1802호",
+    "flrNo": "18",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1407호",
+    "flrNo": "14",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1109호",
+    "flrNo": "11",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "109호",
+    "flrNo": "1",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1007호",
+    "flrNo": "10",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "601호",
+    "flrNo": "6",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "2501호",
+    "flrNo": "25",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "901호",
+    "flrNo": "9",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1206호",
+    "flrNo": "12",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "2303호",
+    "flrNo": "23",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "1702",
+    "flrNo": "17",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "1903호",
+    "flrNo": "19",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "2102",
+    "flrNo": "21",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "2202",
+    "flrNo": "22",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "2004",
+    "flrNo": "20",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "2502",
+    "flrNo": "25",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "804호",
+    "flrNo": "8",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1502호",
+    "flrNo": "15",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1611호",
+    "flrNo": "16",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1810호",
+    "flrNo": "18",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "507호",
+    "flrNo": "5",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "2103호",
+    "flrNo": "21",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1510호",
+    "flrNo": "15",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "2203",
+    "flrNo": "22",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "2004호",
+    "flrNo": "20",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "608호",
+    "flrNo": "6",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "2501",
+    "flrNo": "25",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "503호",
+    "flrNo": "5",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1501호",
+    "flrNo": "15",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "911호",
+    "flrNo": "9",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "1902호",
+    "flrNo": "19",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "311호",
+    "flrNo": "3",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "310호",
+    "flrNo": "3",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "304호",
+    "flrNo": "3",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "209호",
+    "flrNo": "2",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1308호",
+    "flrNo": "13",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "1901",
+    "flrNo": "19",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "1604호",
+    "flrNo": "16",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1608호",
+    "flrNo": "16",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "1504호",
+    "flrNo": "15",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "1204호",
+    "flrNo": "12",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1301호",
+    "flrNo": "13",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "1702",
+    "flrNo": "17",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1303호",
+    "flrNo": "13",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "803호",
+    "flrNo": "8",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "2101호",
+    "flrNo": "21",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "508호",
+    "flrNo": "5",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "2401",
+    "flrNo": "24",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "1403호",
+    "flrNo": "14",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "2402",
+    "flrNo": "24",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "2401호",
+    "flrNo": "24",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "1804호",
+    "flrNo": "18",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1708호",
+    "flrNo": "17",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "2104",
+    "flrNo": "21",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "601호",
+    "flrNo": "6",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "503호",
+    "flrNo": "5",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "2002",
+    "flrNo": "20",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "1601",
+    "flrNo": "16",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1202호",
+    "flrNo": "12",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "506호",
+    "flrNo": "5",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "2004",
+    "flrNo": "20",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1710호",
+    "flrNo": "17",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1704호",
+    "flrNo": "17",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1803호",
+    "flrNo": "18",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "408호",
+    "flrNo": "4",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "2003",
+    "flrNo": "20",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "709호",
+    "flrNo": "7",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "509호",
+    "flrNo": "5",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "308호",
+    "flrNo": "3",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "908호",
+    "flrNo": "9",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "1704",
+    "flrNo": "17",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "811호",
+    "flrNo": "8",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "1202호",
+    "flrNo": "12",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "2503호",
+    "flrNo": "25",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1102호",
+    "flrNo": "11",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "2404",
+    "flrNo": "24",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1009호",
+    "flrNo": "10",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "903호",
+    "flrNo": "9",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "504호",
+    "flrNo": "5",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "2001",
+    "flrNo": "20",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "1604",
+    "flrNo": "16",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "1103호",
+    "flrNo": "11",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "110호",
+    "flrNo": "1",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1001호",
+    "flrNo": "10",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1406호",
+    "flrNo": "14",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1110호",
+    "flrNo": "11",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "1802",
+    "flrNo": "18",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "707호",
+    "flrNo": "7",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "2204호",
+    "flrNo": "22",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "2302",
+    "flrNo": "23",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "1602호",
+    "flrNo": "16",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "607호",
+    "flrNo": "6",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1201호",
+    "flrNo": "12",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1005호",
+    "flrNo": "10",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "1603",
+    "flrNo": "16",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1911호",
+    "flrNo": "19",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "2204",
+    "flrNo": "22",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "907호",
+    "flrNo": "9",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "2201",
+    "flrNo": "22",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "505호",
+    "flrNo": "5",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1309호",
+    "flrNo": "13",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "1803호",
+    "flrNo": "18",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "2501",
+    "flrNo": "25",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "1903",
+    "flrNo": "19",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "2004호",
+    "flrNo": "20",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1304호",
+    "flrNo": "13",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "504호",
+    "flrNo": "5",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "407호",
+    "flrNo": "4",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1509호",
+    "flrNo": "15",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "106호",
+    "flrNo": "1",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "802호",
+    "flrNo": "8",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "1803",
+    "flrNo": "18",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "2301",
+    "flrNo": "23",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1607호",
+    "flrNo": "16",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1208호",
+    "flrNo": "12",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1508호",
+    "flrNo": "15",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "1701호",
+    "flrNo": "17",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "1604",
+    "flrNo": "16",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "704호",
+    "flrNo": "7",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "2403",
+    "flrNo": "24",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "1904호",
+    "flrNo": "19",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "2010호",
+    "flrNo": "20",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "1901호",
+    "flrNo": "19",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1901호",
+    "flrNo": "19",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "702호",
+    "flrNo": "7",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "404호",
+    "flrNo": "4",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "304호",
+    "flrNo": "3",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "104호",
+    "flrNo": "1",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "2504",
+    "flrNo": "25",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1204호",
+    "flrNo": "12",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1511호",
+    "flrNo": "15",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "703호",
+    "flrNo": "7",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "2204",
+    "flrNo": "22",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "1701",
+    "flrNo": "17",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "410호",
+    "flrNo": "4",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "2504",
+    "flrNo": "25",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "105호",
+    "flrNo": "1",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "2001호",
+    "flrNo": "20",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "204호",
+    "flrNo": "2",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1804호",
+    "flrNo": "18",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "2102호",
+    "flrNo": "21",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "2404호",
+    "flrNo": "24",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1211호",
+    "flrNo": "12",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "1904",
+    "flrNo": "19",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "2304",
+    "flrNo": "23",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "2101",
+    "flrNo": "21",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "1802",
+    "flrNo": "18",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1404호",
+    "flrNo": "14",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "2103호",
+    "flrNo": "21",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "1502호",
+    "flrNo": "15",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1403호",
+    "flrNo": "14",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "211호",
+    "flrNo": "2",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "706호",
+    "flrNo": "7",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1610호",
+    "flrNo": "16",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1602호",
+    "flrNo": "16",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "602호",
+    "flrNo": "6",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "2103",
+    "flrNo": "21",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "1801",
+    "flrNo": "18",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "2009호",
+    "flrNo": "20",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "801호",
+    "flrNo": "8",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "2101",
+    "flrNo": "21",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1902호",
+    "flrNo": "19",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "603호",
+    "flrNo": "6",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "1703",
+    "flrNo": "17",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "2502",
+    "flrNo": "25",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "1004호",
+    "flrNo": "10",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "1201호",
+    "flrNo": "12",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "107호",
+    "flrNo": "1",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "1503호",
+    "flrNo": "15",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "805호",
+    "flrNo": "8",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "2301호",
+    "flrNo": "23",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1107호",
+    "flrNo": "11",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "207호",
+    "flrNo": "2",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "510호",
+    "flrNo": "5",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "307호",
+    "flrNo": "3",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "603호",
+    "flrNo": "6",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "1902",
+    "flrNo": "19",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "1601호",
+    "flrNo": "16",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1409호",
+    "flrNo": "14",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1711호",
+    "flrNo": "17",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1801호",
+    "flrNo": "18",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "2403호",
+    "flrNo": "24",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "2104호",
+    "flrNo": "21",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "1602",
+    "flrNo": "16",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "2202호",
+    "flrNo": "22",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "1302호",
+    "flrNo": "13",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "108호",
+    "flrNo": "1",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "1601",
+    "flrNo": "16",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1310호",
+    "flrNo": "13",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1503호",
+    "flrNo": "15",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "2503",
+    "flrNo": "25",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "1603",
+    "flrNo": "16",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1401호",
+    "flrNo": "14",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "2011호",
+    "flrNo": "20",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "1501호",
+    "flrNo": "15",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "1602",
+    "flrNo": "16",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "1603호",
+    "flrNo": "16",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "802호",
+    "flrNo": "8",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "703호",
+    "flrNo": "7",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "1802호",
+    "flrNo": "18",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "902호",
+    "flrNo": "9",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "411호",
+    "flrNo": "4",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1907호",
+    "flrNo": "19",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "2502호",
+    "flrNo": "25",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "406호",
+    "flrNo": "4",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "2202호",
+    "flrNo": "22",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "701호",
+    "flrNo": "7",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1604호",
+    "flrNo": "16",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "708호",
+    "flrNo": "7",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "1002호",
+    "flrNo": "10",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "208호",
+    "flrNo": "2",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1904호",
+    "flrNo": "19",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "807호",
+    "flrNo": "8",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "810호",
+    "flrNo": "8",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "901호",
+    "flrNo": "9",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "1001호",
+    "flrNo": "10",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "1703",
+    "flrNo": "17",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "609호",
+    "flrNo": "6",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "909호",
+    "flrNo": "9",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1106호",
+    "flrNo": "11",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "404호",
+    "flrNo": "4",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "2303",
+    "flrNo": "23",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "2304호",
+    "flrNo": "23",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1111호",
+    "flrNo": "11",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "1402호",
+    "flrNo": "14",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "2008호",
+    "flrNo": "20",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "유치원동",
+    "hoNm": null,
+    "flrNo": "1",
+    "area": "192.41",
+    "mainPurpsCd": "10107",
+    "mainPurpsCdNm": "유치원",
+    "etcPurps": "교육연구시설(유치원)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "유치원동",
+    "hoNm": null,
+    "flrNo": "1",
+    "area": "187.2",
+    "mainPurpsCd": "10107",
+    "mainPurpsCdNm": "유치원",
+    "etcPurps": "교육연구시설(유치원)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "유치원동",
+    "hoNm": null,
+    "flrNo": "2",
+    "area": "215.2",
+    "mainPurpsCd": "10107",
+    "mainPurpsCdNm": "유치원",
+    "etcPurps": "교육연구시설(유치원)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "2002호",
+    "flrNo": "20",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "1801호",
+    "flrNo": "18",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "1804",
+    "flrNo": "18",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "2204호",
+    "flrNo": "22",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "2003호",
+    "flrNo": "20",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1203호",
+    "flrNo": "12",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "1703호",
+    "flrNo": "17",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1811호",
+    "flrNo": "18",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "2002",
+    "flrNo": "20",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1004호",
+    "flrNo": "10",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "610호",
+    "flrNo": "6",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "2202",
+    "flrNo": "22",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1108호",
+    "flrNo": "11",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "204호",
+    "flrNo": "2",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1210호",
+    "flrNo": "12",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1702호",
+    "flrNo": "17",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "2201",
+    "flrNo": "22",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "602호",
+    "flrNo": "6",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1311호",
+    "flrNo": "13",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "2403",
+    "flrNo": "24",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1411호",
+    "flrNo": "14",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "1904",
+    "flrNo": "19",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1010호",
+    "flrNo": "10",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "2203",
+    "flrNo": "22",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "1304호",
+    "flrNo": "13",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "801호",
+    "flrNo": "8",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "2104",
+    "flrNo": "21",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "1203호",
+    "flrNo": "12",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "605호",
+    "flrNo": "6",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1408호",
+    "flrNo": "14",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "1704",
+    "flrNo": "17",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "305호",
+    "flrNo": "3",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1006호",
+    "flrNo": "10",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "1804",
+    "flrNo": "18",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "2303",
+    "flrNo": "23",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "501호",
+    "flrNo": "5",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "309호",
+    "flrNo": "3",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "205호",
+    "flrNo": "2",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "405호",
+    "flrNo": "4",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "808호",
+    "flrNo": "8",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "2503",
+    "flrNo": "25",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1003호",
+    "flrNo": "10",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1104호",
+    "flrNo": "11",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "2302",
+    "flrNo": "23",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "904호",
+    "flrNo": "9",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "2104호",
+    "flrNo": "21",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1002호",
+    "flrNo": "10",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "804호",
+    "flrNo": "8",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "210호",
+    "flrNo": "2",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "1902",
+    "flrNo": "19",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1507호",
+    "flrNo": "15",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1609호",
+    "flrNo": "16",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "910호",
+    "flrNo": "9",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "2302호",
+    "flrNo": "23",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1903호",
+    "flrNo": "19",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1410호",
+    "flrNo": "14",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "702호",
+    "flrNo": "7",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "2402",
+    "flrNo": "24",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "2002호",
+    "flrNo": "20",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1701호",
+    "flrNo": "17",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1008호",
+    "flrNo": "10",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1307호",
+    "flrNo": "13",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1101호",
+    "flrNo": "11",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1808호",
+    "flrNo": "18",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "1702호",
+    "flrNo": "17",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "1301호",
+    "flrNo": "13",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "1401호",
+    "flrNo": "14",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "511호",
+    "flrNo": "5",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1207호",
+    "flrNo": "12",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "2402호",
+    "flrNo": "24",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "409호",
+    "flrNo": "4",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1909호",
+    "flrNo": "19",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1402호",
+    "flrNo": "14",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "1104호",
+    "flrNo": "11",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "2003호",
+    "flrNo": "20",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "1102호",
+    "flrNo": "11",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "1003호",
+    "flrNo": "10",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "711호",
+    "flrNo": "7",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1807호",
+    "flrNo": "18",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "705호",
+    "flrNo": "7",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "1701",
+    "flrNo": "17",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1302호",
+    "flrNo": "13",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "809호",
+    "flrNo": "8",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "501호",
+    "flrNo": "5",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1601호",
+    "flrNo": "16",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "2001",
+    "flrNo": "20",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "204동",
+    "hoNm": "1101호",
+    "flrNo": "11",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "604호",
+    "flrNo": "6",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "203동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "84.83",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "201동",
+    "hoNm": "1801",
+    "flrNo": "18",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1809호",
+    "flrNo": "18",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "611호",
+    "flrNo": "6",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "중앙하이츠2단지",
+    "dongNm": "202동",
+    "hoNm": "1910호",
+    "flrNo": "19",
+    "area": "59.9",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  }
+]

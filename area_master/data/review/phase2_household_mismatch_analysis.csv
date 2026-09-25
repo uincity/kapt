@@ -1,0 +1,15 @@
+﻿kapt_code,kapt_name,legal_dong,road_address,kapt_households,kb_complex_id,kb_name,kb_households_sum,difference,difference_abs,difference_pct,mismatch_cause_tag,detailed_cause,processing_status,recommended_next_action,verified_at
+A10024535,대신2차푸르지오,서대신동2가,부산광역시 서구 고운들로 181,815,38311,대신2차푸르지오,783,-32,32,3.93,RENTAL_DIFFERENCE,"재개발/재건축 의무임대 세대 제외 추정 (32세대 임대, KB는 분양 783세대 집계)",VERIFIED_FALLBACK,CHECK_OFFICIAL_SALE_NOTICE,2026-09-18
+A10028182,대신롯데캐슬아파트,서대신동3가,부산광역시 서구 대티로 161,753,26187,대신롯데캐슬,673,-80,80,10.62,RENTAL_DIFFERENCE,"재개발/재건축 의무임대 세대 제외 추정 (80세대 임대, KB는 분양 673세대 집계)",VERIFIED_FALLBACK,CHECK_OFFICIAL_SALE_NOTICE,2026-09-18
+A60608002,조양비취맨션,동삼동,부산광역시 영도구 절영로 504,630,6065,조양비취맨션,628,-2,2,0.32,MINOR_DIFFERENCE,"1~3세대 미세 차이 (-2세대, 오차율 0.32%) - 관리/통합 세대 가능성",PENDING_HOUSEHOLD_MISMATCH,CHECK_BUILDING_REGISTER,
+A61478901,연지자이2차,연지동,부산광역시 부산진구 초연로 11,1011,16130,연지자이2차,940,-71,71,7.02,RENTAL_DIFFERENCE,"재개발/재건축 의무임대 세대 제외 추정 (71세대 임대, KB는 분양 940세대 집계)",VERIFIED_FALLBACK,CHECK_OFFICIAL_SALE_NOTICE,2026-09-18
+A10025593,대연자이 아파트,대연동,부산광역시 남구 유엔로 246,965,34178,대연자이,950,-15,15,1.55,RENTAL_DIFFERENCE,"재개발/재건축 의무임대 세대 제외 추정 (15세대 임대, KB는 분양 950세대 집계)",VERIFIED_FALLBACK,CHECK_OFFICIAL_SALE_NOTICE,2026-09-18
+A10027989,신화명리버뷰자이아파트,금곡동,부산광역시 북구 금곡대로470번길 29,792,27681,신화명리버뷰자이,717,-75,75,9.47,RENTAL_DIFFERENCE,"재개발/재건축 의무임대 세대 제외 추정 (75세대 임대, KB는 분양 717세대 집계)",VERIFIED_FALLBACK,CHECK_OFFICIAL_SALE_NOTICE,2026-09-18
+A10028138,동원역삼정그린코아,금곡동,부산광역시 북구 효열로 135,529,26091,동원역삼정그린코아,526,-3,3,0.57,MINOR_DIFFERENCE,"1~3세대 미세 차이 (-3세대, 오차율 0.57%) - 관리/통합 세대 가능성",PENDING_HOUSEHOLD_MISMATCH,CHECK_BUILDING_REGISTER,
+A60471810,당리푸르지오,당리동,부산광역시 사하구 승학로71번길 30,542,24378,당리푸르지오,494,-48,48,8.86,RENTAL_DIFFERENCE,"재개발/재건축 의무임대 세대 제외 추정 (48세대 임대, KB는 분양 494세대 집계)",VERIFIED_FALLBACK,CHECK_OFFICIAL_SALE_NOTICE,2026-09-18
+A60472901,다대푸르지오,다대동,부산광역시 사하구 윤공단로 123,972,5824,부산다대푸르지오,772,-200,200,20.58,SPLIT_COMPLEX_OR_UNREGISTERED,대규모 세대수 차이 (-200세대) - 미분양/미등기/블록분리 추정,PENDING_HOUSEHOLD_MISMATCH,VERIFY_COMPLEX_BOUNDARY,
+A10020378,에코델타시티 푸르지오린,강동동,부산광역시 강서구 에코델타3로 43,895,1044089,에코델타시티푸르지오린,886,-9,9,1.01,KB_DATA_DIFFERENCE,"세대수 불일치 (-9세대, 1.0%)",PENDING_HOUSEHOLD_MISMATCH,CHECK_OFFICIAL_SALE_NOTICE,
+A10027159,브라운스톤연제,연산동,부산광역시 연제구 연제로8번길 29,521,1061231,브라운스톤연제,475,-46,46,8.83,RENTAL_DIFFERENCE,"재개발/재건축 의무임대 세대 제외 추정 (46세대 임대, KB는 분양 475세대 집계)",VERIFIED_FALLBACK,CHECK_OFFICIAL_SALE_NOTICE,2026-09-18
+A10020002,드파인 광안,광안동,부산광역시 수영구 수영로545번길 30,1233,1849534,드파인광안,1169,-64,64,5.19,RENTAL_DIFFERENCE,"재개발/재건축 의무임대 세대 제외 추정 (64세대 임대, KB는 분양 1169세대 집계)",VERIFIED_FALLBACK,CHECK_OFFICIAL_SALE_NOTICE,2026-09-18
+A10023104,사상 중흥S-클래스 그랜드센트럴,덕포동,부산광역시 사상구 사상로 300,1572,49064,사상중흥S-클래스그랜드센트럴,1492,-80,80,5.09,RENTAL_DIFFERENCE,"재개발/재건축 의무임대 세대 제외 추정 (80세대 임대, KB는 분양 1492세대 집계)",VERIFIED_FALLBACK,CHECK_OFFICIAL_SALE_NOTICE,2026-09-18
+A10027503,정관양우내안애,정관읍,부산광역시 기장군 정관5로 144,830,431758,정관양우내안애,828,-2,2,0.24,MINOR_DIFFERENCE,"1~3세대 미세 차이 (-2세대, 오차율 0.24%) - 관리/통합 세대 가능성",PENDING_HOUSEHOLD_MISMATCH,CHECK_BUILDING_REGISTER,

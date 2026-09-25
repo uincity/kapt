@@ -1,0 +1,7142 @@
+[
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "104호",
+    "flrNo": "1",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "703호",
+    "flrNo": "7",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "805호",
+    "flrNo": "8",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "1308호",
+    "flrNo": "13",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "705호",
+    "flrNo": "7",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "705호",
+    "flrNo": "7",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "501호",
+    "flrNo": "5",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "601호",
+    "flrNo": "6",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "804호",
+    "flrNo": "8",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "901호",
+    "flrNo": "9",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "705호",
+    "flrNo": "7",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "404호",
+    "flrNo": "4",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "1101호",
+    "flrNo": "11",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "604호",
+    "flrNo": "6",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "1002호",
+    "flrNo": "10",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "1504호",
+    "flrNo": "15",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "501호",
+    "flrNo": "5",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "801호",
+    "flrNo": "8",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "1008호",
+    "flrNo": "10",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "705호",
+    "flrNo": "7",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "605호",
+    "flrNo": "6",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "1402호",
+    "flrNo": "14",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "1007호",
+    "flrNo": "10",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "1006호",
+    "flrNo": "10",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "404호",
+    "flrNo": "4",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "상가동",
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "21.15",
+    "mainPurpsCd": "04402",
+    "mainPurpsCdNm": "사무소",
+    "etcPurps": "제2종근린생활시설(사무소)"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "1205호",
+    "flrNo": "12",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "805호",
+    "flrNo": "8",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "806호",
+    "flrNo": "8",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "808호",
+    "flrNo": "8",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "1303호",
+    "flrNo": "13",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "1201호",
+    "flrNo": "12",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "504호",
+    "flrNo": "5",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "1507호",
+    "flrNo": "15",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "1504호",
+    "flrNo": "15",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "405호",
+    "flrNo": "4",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "704호",
+    "flrNo": "7",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "1206호",
+    "flrNo": "12",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "1406호",
+    "flrNo": "14",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "908호",
+    "flrNo": "9",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "1106호",
+    "flrNo": "11",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "1506호",
+    "flrNo": "15",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "1203호",
+    "flrNo": "12",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "702호",
+    "flrNo": "7",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "상가동",
+    "hoNm": "104호",
+    "flrNo": "1",
+    "area": "20.68",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "606호",
+    "flrNo": "6",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "1403호",
+    "flrNo": "14",
+    "area": "84.92",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "1208호",
+    "flrNo": "12",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "1204호",
+    "flrNo": "12",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "상가동",
+    "hoNm": "106호",
+    "flrNo": "1",
+    "area": "20.36",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "1001호",
+    "flrNo": "10",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "404호",
+    "flrNo": "4",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "702호",
+    "flrNo": "7",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "상가동",
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "20.68",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "1502호",
+    "flrNo": "15",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "1305호",
+    "flrNo": "13",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "707호",
+    "flrNo": "7",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "1401호",
+    "flrNo": "14",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "605호",
+    "flrNo": "6",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "1203호",
+    "flrNo": "12",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "84.92",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "1503호",
+    "flrNo": "15",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "805호",
+    "flrNo": "8",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "406호",
+    "flrNo": "4",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "902호",
+    "flrNo": "9",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "1102호",
+    "flrNo": "11",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "806호",
+    "flrNo": "8",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "306호",
+    "flrNo": "3",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "1106호",
+    "flrNo": "11",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "305호",
+    "flrNo": "3",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "1404호",
+    "flrNo": "14",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "상가동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "19.74",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "902호",
+    "flrNo": "9",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "603호",
+    "flrNo": "6",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "1107호",
+    "flrNo": "11",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "1203호",
+    "flrNo": "12",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "503호",
+    "flrNo": "5",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "504호",
+    "flrNo": "5",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "306호",
+    "flrNo": "3",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "1402호",
+    "flrNo": "14",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "1101호",
+    "flrNo": "11",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "501호",
+    "flrNo": "5",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "701호",
+    "flrNo": "7",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "505호",
+    "flrNo": "5",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "905호",
+    "flrNo": "9",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "상가동",
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "278.64",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "1304호",
+    "flrNo": "13",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "1401호",
+    "flrNo": "14",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "902호",
+    "flrNo": "9",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "1301호",
+    "flrNo": "13",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "1205호",
+    "flrNo": "12",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "805호",
+    "flrNo": "8",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "205호",
+    "flrNo": "2",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "406호",
+    "flrNo": "4",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "1502호",
+    "flrNo": "15",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "1501호",
+    "flrNo": "15",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "707호",
+    "flrNo": "7",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "908호",
+    "flrNo": "9",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "204호",
+    "flrNo": "2",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "1006호",
+    "flrNo": "10",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "605호",
+    "flrNo": "6",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "1101호",
+    "flrNo": "11",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "306호",
+    "flrNo": "3",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "1301호",
+    "flrNo": "13",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "1504호",
+    "flrNo": "15",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "상가동",
+    "hoNm": "308호",
+    "flrNo": "3",
+    "area": "17.22",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "204호",
+    "flrNo": "2",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "1505호",
+    "flrNo": "15",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "1001호",
+    "flrNo": "10",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "1102호",
+    "flrNo": "11",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "9동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "105.75",
+    "mainPurpsCd": "02003",
+    "mainPurpsCdNm": "다세대주택",
+    "etcPurps": "다세대주택"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "9동",
+    "hoNm": "102호",
+    "flrNo": "2",
+    "area": "57.69",
+    "mainPurpsCd": "02003",
+    "mainPurpsCdNm": "다세대주택",
+    "etcPurps": "다세대주택"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "1502호",
+    "flrNo": "15",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "1206호",
+    "flrNo": "12",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "1004호",
+    "flrNo": "10",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "604호",
+    "flrNo": "6",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "1501호",
+    "flrNo": "15",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "406호",
+    "flrNo": "4",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "506호",
+    "flrNo": "5",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "1204호",
+    "flrNo": "12",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "1002호",
+    "flrNo": "10",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "1305호",
+    "flrNo": "13",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "804호",
+    "flrNo": "8",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "1101호",
+    "flrNo": "11",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "107호",
+    "flrNo": "1",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "405호",
+    "flrNo": "4",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "1304호",
+    "flrNo": "13",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "905호",
+    "flrNo": "0",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "1101호",
+    "flrNo": "11",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "10동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "105.75",
+    "mainPurpsCd": "02003",
+    "mainPurpsCdNm": "다세대주택",
+    "etcPurps": "다세대주택"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "10동",
+    "hoNm": "102호",
+    "flrNo": "2",
+    "area": "57.69",
+    "mainPurpsCd": "02003",
+    "mainPurpsCdNm": "다세대주택",
+    "etcPurps": "다세대주택"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "1007호",
+    "flrNo": "10",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "703호",
+    "flrNo": "7",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "703호",
+    "flrNo": "7",
+    "area": "84.92",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "1501호",
+    "flrNo": "15",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "1203호",
+    "flrNo": "12",
+    "area": "84.92",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "902호",
+    "flrNo": "9",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "1506호",
+    "flrNo": "15",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "1106호",
+    "flrNo": "11",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "903호",
+    "flrNo": "9",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "506호",
+    "flrNo": "5",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "1401호",
+    "flrNo": "14",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "107호",
+    "flrNo": "1",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "1302호",
+    "flrNo": "13",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "1201호",
+    "flrNo": "12",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "704호",
+    "flrNo": "7",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "802호",
+    "flrNo": "8",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "1401호",
+    "flrNo": "14",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "1203호",
+    "flrNo": "12",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "208호",
+    "flrNo": "2",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "204호",
+    "flrNo": "2",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "801호",
+    "flrNo": "8",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "605호",
+    "flrNo": "6",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "1101호",
+    "flrNo": "11",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "307호",
+    "flrNo": "3",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "804호",
+    "flrNo": "8",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "206호",
+    "flrNo": "2",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "306호",
+    "flrNo": "3",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "1404호",
+    "flrNo": "14",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "807호",
+    "flrNo": "8",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "106호",
+    "flrNo": "1",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "1302호",
+    "flrNo": "13",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "상가동",
+    "hoNm": "109호",
+    "flrNo": "1",
+    "area": "19.01",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "207호",
+    "flrNo": "2",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "1004호",
+    "flrNo": "10",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "703호",
+    "flrNo": "7",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "606호",
+    "flrNo": "6",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "1003호",
+    "flrNo": "10",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "1306호",
+    "flrNo": "13",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "1001호",
+    "flrNo": "10",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "907호",
+    "flrNo": "9",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "206호",
+    "flrNo": "2",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "802호",
+    "flrNo": "8",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "1501호",
+    "flrNo": "15",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "104호",
+    "flrNo": "1",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "806호",
+    "flrNo": "8",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "702호",
+    "flrNo": "7",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "608호",
+    "flrNo": "6",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "706호",
+    "flrNo": "7",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "505호",
+    "flrNo": "5",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "상가동",
+    "hoNm": "309호",
+    "flrNo": "3",
+    "area": "17.22",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "307호",
+    "flrNo": "3",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "105호",
+    "flrNo": "1",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "106호",
+    "flrNo": "1",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "804호",
+    "flrNo": "8",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "1001호",
+    "flrNo": "10",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "205호",
+    "flrNo": "2",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "906호",
+    "flrNo": "9",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "204호",
+    "flrNo": "2",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "501호",
+    "flrNo": "5",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "1301호",
+    "flrNo": "13",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "1105호",
+    "flrNo": "11",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "305호",
+    "flrNo": "3",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "1404호",
+    "flrNo": "14",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "1401호",
+    "flrNo": "14",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "1307호",
+    "flrNo": "13",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "704호",
+    "flrNo": "7",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "1503호",
+    "flrNo": "15",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "1401호",
+    "flrNo": "14",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "304호",
+    "flrNo": "3",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "704호",
+    "flrNo": "7",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "1106호",
+    "flrNo": "11",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "501호",
+    "flrNo": "5",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "1105호",
+    "flrNo": "11",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "901호",
+    "flrNo": "9",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "1003호",
+    "flrNo": "10",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "1002호",
+    "flrNo": "10",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "1003호",
+    "flrNo": "10",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "602호",
+    "flrNo": "6",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "1402호",
+    "flrNo": "14",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "1401호",
+    "flrNo": "14",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "1102호",
+    "flrNo": "11",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "601호",
+    "flrNo": "6",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "606호",
+    "flrNo": "6",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "906호",
+    "flrNo": "9",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "806호",
+    "flrNo": "8",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "702호",
+    "flrNo": "7",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "606호",
+    "flrNo": "6",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "406호",
+    "flrNo": "4",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "904호",
+    "flrNo": "9",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "404호",
+    "flrNo": "4",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "1103호",
+    "flrNo": "11",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "1104호",
+    "flrNo": "11",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "13동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "105.75",
+    "mainPurpsCd": "02003",
+    "mainPurpsCdNm": "다세대주택",
+    "etcPurps": "다세대주택"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "13동",
+    "hoNm": "101호",
+    "flrNo": "2",
+    "area": "57.69",
+    "mainPurpsCd": "02003",
+    "mainPurpsCdNm": "다세대주택",
+    "etcPurps": "다세대주택"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "1005호",
+    "flrNo": "10",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "205호",
+    "flrNo": "2",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "706호",
+    "flrNo": "7",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "603호",
+    "flrNo": "6",
+    "area": "84.92",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "904호",
+    "flrNo": "9",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "905호",
+    "flrNo": "9",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "12동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "105.75",
+    "mainPurpsCd": "02003",
+    "mainPurpsCdNm": "다세대주택",
+    "etcPurps": "다세대주택"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "12동",
+    "hoNm": "102호",
+    "flrNo": "2",
+    "area": "57.69",
+    "mainPurpsCd": "02003",
+    "mainPurpsCdNm": "다세대주택",
+    "etcPurps": "다세대주택"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "1006호",
+    "flrNo": "10",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "1406호",
+    "flrNo": "14",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "308호",
+    "flrNo": "3",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "상가동",
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "141.48",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "601호",
+    "flrNo": "6",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "505호",
+    "flrNo": "5",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "807호",
+    "flrNo": "8",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "602호",
+    "flrNo": "6",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "1002호",
+    "flrNo": "10",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "1005호",
+    "flrNo": "10",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "503호",
+    "flrNo": "5",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "1105호",
+    "flrNo": "11",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "1103호",
+    "flrNo": "11",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "1003호",
+    "flrNo": "10",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "1405호",
+    "flrNo": "14",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "804호",
+    "flrNo": "8",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "105호",
+    "flrNo": "1",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "1503호",
+    "flrNo": "15",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "906호",
+    "flrNo": "9",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "1002호",
+    "flrNo": "10",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "1101호",
+    "flrNo": "11",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "1303호",
+    "flrNo": "13",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "상가동",
+    "hoNm": "105호",
+    "flrNo": "1",
+    "area": "21.15",
+    "mainPurpsCd": "04005",
+    "mainPurpsCdNm": "제조업소",
+    "etcPurps": "제2종근린생활시설(제조업소)"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "506호",
+    "flrNo": "5",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "105호",
+    "flrNo": "1",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "305호",
+    "flrNo": "3",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "705호",
+    "flrNo": "7",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "1206호",
+    "flrNo": "12",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "801호",
+    "flrNo": "8",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "904호",
+    "flrNo": "9",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "505호",
+    "flrNo": "5",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "1306호",
+    "flrNo": "13",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "701호",
+    "flrNo": "7",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "1505호",
+    "flrNo": "15",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "1108호",
+    "flrNo": "11",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "603호",
+    "flrNo": "6",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "1402호",
+    "flrNo": "14",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "503호",
+    "flrNo": "5",
+    "area": "84.92",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "1104호",
+    "flrNo": "11",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "801호",
+    "flrNo": "8",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "1103호",
+    "flrNo": "11",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "901호",
+    "flrNo": "9",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "704호",
+    "flrNo": "7",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "1105호",
+    "flrNo": "11",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "1008호",
+    "flrNo": "10",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "11동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "105.75",
+    "mainPurpsCd": "02003",
+    "mainPurpsCdNm": "다세대주택",
+    "etcPurps": "다세대주택"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "11동",
+    "hoNm": "102호",
+    "flrNo": "2",
+    "area": "57.69",
+    "mainPurpsCd": "02003",
+    "mainPurpsCdNm": "다세대주택",
+    "etcPurps": "다세대주택"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "803호",
+    "flrNo": "8",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "305호",
+    "flrNo": "3",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "1406호",
+    "flrNo": "14",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "1403호",
+    "flrNo": "14",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "701호",
+    "flrNo": "7",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "상가동",
+    "hoNm": "110호",
+    "flrNo": "1",
+    "area": "20.36",
+    "mainPurpsCd": "04010",
+    "mainPurpsCdNm": "학원",
+    "etcPurps": "제2종근린생활시설(학원)"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "1408호",
+    "flrNo": "14",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "803호",
+    "flrNo": "8",
+    "area": "84.92",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "1303호",
+    "flrNo": "13",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "1305호",
+    "flrNo": "13",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "1104호",
+    "flrNo": "11",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "1204호",
+    "flrNo": "12",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "1207호",
+    "flrNo": "12",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "상가동",
+    "hoNm": "304호",
+    "flrNo": "3",
+    "area": "20.68",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "1304호",
+    "flrNo": "13",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "104호",
+    "flrNo": "1",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "1202호",
+    "flrNo": "12",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "207호",
+    "flrNo": "2",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "1503호",
+    "flrNo": "15",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "10동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "105.75",
+    "mainPurpsCd": "02003",
+    "mainPurpsCdNm": "다세대주택",
+    "etcPurps": "다세대주택"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "10동",
+    "hoNm": "101호",
+    "flrNo": "2",
+    "area": "57.69",
+    "mainPurpsCd": "02003",
+    "mainPurpsCdNm": "다세대주택",
+    "etcPurps": "다세대주택"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "603호",
+    "flrNo": "6",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "903호",
+    "flrNo": "9",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "1505호",
+    "flrNo": "15",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "206호",
+    "flrNo": "2",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "1104호",
+    "flrNo": "11",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "602호",
+    "flrNo": "6",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "1406호",
+    "flrNo": "14",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "903호",
+    "flrNo": "9",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "1102호",
+    "flrNo": "11",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "104호",
+    "flrNo": "1",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "1402호",
+    "flrNo": "14",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "1003호",
+    "flrNo": "10",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "606호",
+    "flrNo": "6",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "308호",
+    "flrNo": "3",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "1404호",
+    "flrNo": "14",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "706호",
+    "flrNo": "7",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "1001호",
+    "flrNo": "10",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "1202호",
+    "flrNo": "12",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "805호",
+    "flrNo": "8",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "1306호",
+    "flrNo": "13",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "1407호",
+    "flrNo": "14",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "1201호",
+    "flrNo": "12",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "903호",
+    "flrNo": "9",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "405호",
+    "flrNo": "4",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "1004호",
+    "flrNo": "10",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "604호",
+    "flrNo": "6",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "304호",
+    "flrNo": "3",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "1301호",
+    "flrNo": "13",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "8동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "105.75",
+    "mainPurpsCd": "02003",
+    "mainPurpsCdNm": "다세대주택",
+    "etcPurps": "다세대주택"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "8동",
+    "hoNm": "101호",
+    "flrNo": "2",
+    "area": "57.69",
+    "mainPurpsCd": "02003",
+    "mainPurpsCdNm": "다세대주택",
+    "etcPurps": "다세대주택"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "1202호",
+    "flrNo": "12",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "1006호",
+    "flrNo": "10",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "407호",
+    "flrNo": "4",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "602호",
+    "flrNo": "6",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "904호",
+    "flrNo": "9",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "508호",
+    "flrNo": "5",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "1303호",
+    "flrNo": "13",
+    "area": "84.92",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "1502호",
+    "flrNo": "15",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "305호",
+    "flrNo": "3",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "1205호",
+    "flrNo": "12",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "1201호",
+    "flrNo": "12",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "304호",
+    "flrNo": "3",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "601호",
+    "flrNo": "6",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "505호",
+    "flrNo": "5",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "1002호",
+    "flrNo": "10",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "1208호",
+    "flrNo": "12",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "405호",
+    "flrNo": "4",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "1304호",
+    "flrNo": "13",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "1306호",
+    "flrNo": "13",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "801호",
+    "flrNo": "8",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "603호",
+    "flrNo": "6",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "904호",
+    "flrNo": "9",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "701호",
+    "flrNo": "7",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "1506호",
+    "flrNo": "15",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "1301호",
+    "flrNo": "13",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "907호",
+    "flrNo": "9",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "1302호",
+    "flrNo": "13",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "204호",
+    "flrNo": "2",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "701호",
+    "flrNo": "7",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "1106호",
+    "flrNo": "11",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "903호",
+    "flrNo": "9",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "901호",
+    "flrNo": "9",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "803호",
+    "flrNo": "8",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "1202호",
+    "flrNo": "12",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "108호",
+    "flrNo": "1",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "1501호",
+    "flrNo": "15",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "104호",
+    "flrNo": "1",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "1503호",
+    "flrNo": "15",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "1206호",
+    "flrNo": "12",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "703호",
+    "flrNo": "7",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "1301호",
+    "flrNo": "13",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "506호",
+    "flrNo": "5",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "상가동",
+    "hoNm": "비01호",
+    "flrNo": "1",
+    "area": "133.02",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "1005호",
+    "flrNo": "10",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "105호",
+    "flrNo": "1",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "1205호",
+    "flrNo": "12",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "902호",
+    "flrNo": "9",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "503호",
+    "flrNo": "5",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "905호",
+    "flrNo": "9",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "1304호",
+    "flrNo": "13",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "1502호",
+    "flrNo": "15",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "1006호",
+    "flrNo": "10",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "601호",
+    "flrNo": "6",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "904호",
+    "flrNo": "9",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "901호",
+    "flrNo": "9",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "803호",
+    "flrNo": "8",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "702호",
+    "flrNo": "7",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "602호",
+    "flrNo": "6",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "808호",
+    "flrNo": "8",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "1501호",
+    "flrNo": "15",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "1202호",
+    "flrNo": "12",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "506호",
+    "flrNo": "5",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "805호",
+    "flrNo": "8",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "1003호",
+    "flrNo": "10",
+    "area": "84.92",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "1201호",
+    "flrNo": "12",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "906호",
+    "flrNo": "9",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "1006호",
+    "flrNo": "10",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "601호",
+    "flrNo": "6",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "1405호",
+    "flrNo": "14",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "706호",
+    "flrNo": "7",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "704호",
+    "flrNo": "7",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "1404호",
+    "flrNo": "14",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "604호",
+    "flrNo": "6",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "505호",
+    "flrNo": "5",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "1405호",
+    "flrNo": "14",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "18동",
+    "hoNm": null,
+    "flrNo": "1",
+    "area": "36.3",
+    "mainPurpsCd": "10107",
+    "mainPurpsCdNm": "유치원",
+    "etcPurps": "유치원"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "1404호",
+    "flrNo": "14",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "1506호",
+    "flrNo": "15",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "상가동",
+    "hoNm": "107호",
+    "flrNo": "1",
+    "area": "19.91",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "405호",
+    "flrNo": "4",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "305호",
+    "flrNo": "3",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "803호",
+    "flrNo": "8",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "802호",
+    "flrNo": "8",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "1004호",
+    "flrNo": "10",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "902호",
+    "flrNo": "9",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "1302호",
+    "flrNo": "13",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "802호",
+    "flrNo": "8",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "1505호",
+    "flrNo": "15",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "504호",
+    "flrNo": "5",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "1103호",
+    "flrNo": "11",
+    "area": "84.92",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "1504호",
+    "flrNo": "15",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "501호",
+    "flrNo": "5",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "401호",
+    "flrNo": "4",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "1303호",
+    "flrNo": "13",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "205호",
+    "flrNo": "2",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "1404호",
+    "flrNo": "14",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "1005호",
+    "flrNo": "10",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "408호",
+    "flrNo": "4",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "404호",
+    "flrNo": "4",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "602호",
+    "flrNo": "6",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "1304호",
+    "flrNo": "13",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "1403호",
+    "flrNo": "14",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "108호",
+    "flrNo": "1",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "1105호",
+    "flrNo": "11",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "1502호",
+    "flrNo": "15",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "1102호",
+    "flrNo": "11",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "1205호",
+    "flrNo": "12",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "301호",
+    "flrNo": "3",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "1405호",
+    "flrNo": "14",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "상가동",
+    "hoNm": "305호",
+    "flrNo": "3",
+    "area": "21.15",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "1302호",
+    "flrNo": "13",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "806호",
+    "flrNo": "8",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "1106호",
+    "flrNo": "11",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "1004호",
+    "flrNo": "10",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "1204호",
+    "flrNo": "12",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "11동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "105.75",
+    "mainPurpsCd": "02003",
+    "mainPurpsCdNm": "다세대주택",
+    "etcPurps": "다세대주택"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "11동",
+    "hoNm": "101호",
+    "flrNo": "2",
+    "area": "57.69",
+    "mainPurpsCd": "02003",
+    "mainPurpsCdNm": "다세대주택",
+    "etcPurps": "다세대주택"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "105호",
+    "flrNo": "1",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "1505호",
+    "flrNo": "15",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "1104호",
+    "flrNo": "11",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "708호",
+    "flrNo": "7",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "1203호",
+    "flrNo": "12",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "1301호",
+    "flrNo": "13",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "603호",
+    "flrNo": "6",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "1004호",
+    "flrNo": "10",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "702호",
+    "flrNo": "7",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "1507호",
+    "flrNo": "15",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "1302호",
+    "flrNo": "13",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "408호",
+    "flrNo": "4",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "905호",
+    "flrNo": "9",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "1308호",
+    "flrNo": "13",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "406호",
+    "flrNo": "4",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "13동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "105.75",
+    "mainPurpsCd": "02003",
+    "mainPurpsCdNm": "다세대주택",
+    "etcPurps": "다세대주택"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "13동",
+    "hoNm": "102호",
+    "flrNo": "2",
+    "area": "57.69",
+    "mainPurpsCd": "02003",
+    "mainPurpsCdNm": "다세대주택",
+    "etcPurps": "다세대주택"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "304호",
+    "flrNo": "3",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "605호",
+    "flrNo": "6",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "606호",
+    "flrNo": "6",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "802호",
+    "flrNo": "8",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "404호",
+    "flrNo": "4",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "901호",
+    "flrNo": "9",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "1107호",
+    "flrNo": "11",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "84.92",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "1506호",
+    "flrNo": "15",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "506호",
+    "flrNo": "5",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "206호",
+    "flrNo": "2",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "701호",
+    "flrNo": "7",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "8동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "105.75",
+    "mainPurpsCd": "02003",
+    "mainPurpsCdNm": "다세대주택",
+    "etcPurps": "다세대주택"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "8동",
+    "hoNm": "102호",
+    "flrNo": "2",
+    "area": "57.69",
+    "mainPurpsCd": "02003",
+    "mainPurpsCdNm": "다세대주택",
+    "etcPurps": "다세대주택"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "상가동",
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "19.74",
+    "mainPurpsCd": "04402",
+    "mainPurpsCdNm": "사무소",
+    "etcPurps": "제2종근린생활시설(사무소)"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "604호",
+    "flrNo": "6",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "1001호",
+    "flrNo": "10",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "상가동",
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "20.68",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "304호",
+    "flrNo": "3",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "1305호",
+    "flrNo": "13",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "1207호",
+    "flrNo": "12",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "105호",
+    "flrNo": "1",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "302호",
+    "flrNo": "3",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "1105호",
+    "flrNo": "11",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "1108호",
+    "flrNo": "11",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "12동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "105.75",
+    "mainPurpsCd": "02003",
+    "mainPurpsCdNm": "다세대주택",
+    "etcPurps": "다세대주택"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "12동",
+    "hoNm": "101호",
+    "flrNo": "2",
+    "area": "57.69",
+    "mainPurpsCd": "02003",
+    "mainPurpsCdNm": "다세대주택",
+    "etcPurps": "다세대주택"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "106호",
+    "flrNo": "1",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "803호",
+    "flrNo": "8",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "603호",
+    "flrNo": "6",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "501호",
+    "flrNo": "5",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "304호",
+    "flrNo": "3",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "1402호",
+    "flrNo": "14",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "1403호",
+    "flrNo": "14",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "304호",
+    "flrNo": "3",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "601호",
+    "flrNo": "6",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "1005호",
+    "flrNo": "10",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "1305호",
+    "flrNo": "13",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "1201호",
+    "flrNo": "12",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "706호",
+    "flrNo": "7",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "1203호",
+    "flrNo": "12",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "708호",
+    "flrNo": "7",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "1403호",
+    "flrNo": "14",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "1504호",
+    "flrNo": "15",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "208호",
+    "flrNo": "2",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "206호",
+    "flrNo": "2",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "902호",
+    "flrNo": "9",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "306호",
+    "flrNo": "3",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "1403호",
+    "flrNo": "14",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "804호",
+    "flrNo": "8",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "504호",
+    "flrNo": "5",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "1102호",
+    "flrNo": "11",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "204호",
+    "flrNo": "2",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "9동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "105.75",
+    "mainPurpsCd": "02003",
+    "mainPurpsCdNm": "다세대주택",
+    "etcPurps": "다세대주택"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "9동",
+    "hoNm": "101호",
+    "flrNo": "2",
+    "area": "57.69",
+    "mainPurpsCd": "02003",
+    "mainPurpsCdNm": "다세대주택",
+    "etcPurps": "다세대주택"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "705호",
+    "flrNo": "7",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "607호",
+    "flrNo": "6",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "1502호",
+    "flrNo": "15",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "1303호",
+    "flrNo": "13",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "702호",
+    "flrNo": "7",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "1504호",
+    "flrNo": "15",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "1406호",
+    "flrNo": "14",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "1102호",
+    "flrNo": "11",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "1103호",
+    "flrNo": "11",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "1306호",
+    "flrNo": "13",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "106호",
+    "flrNo": "1",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "1003호",
+    "flrNo": "10",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "1503호",
+    "flrNo": "15",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "604호",
+    "flrNo": "6",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "904호",
+    "flrNo": "9",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "803호",
+    "flrNo": "8",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "상가동",
+    "hoNm": "306호",
+    "flrNo": "3",
+    "area": "18.45",
+    "mainPurpsCd": "04010",
+    "mainPurpsCdNm": "학원",
+    "etcPurps": "제2종근린생활시설(학원)"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "706호",
+    "flrNo": "7",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "406호",
+    "flrNo": "4",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "903호",
+    "flrNo": "9",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "1407호",
+    "flrNo": "14",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "602호",
+    "flrNo": "6",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "205호",
+    "flrNo": "2",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "1206호",
+    "flrNo": "12",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "1202호",
+    "flrNo": "12",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "상가동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "21.15",
+    "mainPurpsCd": "04010",
+    "mainPurpsCdNm": "학원",
+    "etcPurps": "제2종근린생활시설(학원)"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "1103호",
+    "flrNo": "11",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "1104호",
+    "flrNo": "11",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "상가동",
+    "hoNm": "108호",
+    "flrNo": "1",
+    "area": "19.91",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "405호",
+    "flrNo": "4",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "503호",
+    "flrNo": "5",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "407호",
+    "flrNo": "4",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "801호",
+    "flrNo": "8",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "704호",
+    "flrNo": "7",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "17동",
+    "hoNm": "노유자시설",
+    "flrNo": "1",
+    "area": "36.3",
+    "mainPurpsCd": "10107",
+    "mainPurpsCdNm": "유치원",
+    "etcPurps": "유치원"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "17동",
+    "hoNm": "노유자시설",
+    "flrNo": "1",
+    "area": "183",
+    "mainPurpsCd": "10107",
+    "mainPurpsCdNm": "유치원",
+    "etcPurps": "유치원"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "17동",
+    "hoNm": "노유자시설",
+    "flrNo": "2",
+    "area": "183",
+    "mainPurpsCd": "10107",
+    "mainPurpsCdNm": "유치원",
+    "etcPurps": "유치원"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "801호",
+    "flrNo": "8",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "507호",
+    "flrNo": "5",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "1306호",
+    "flrNo": "13",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "508호",
+    "flrNo": "5",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "1406호",
+    "flrNo": "14",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "104호",
+    "flrNo": "1",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "1103호",
+    "flrNo": "11",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "1504호",
+    "flrNo": "15",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "504호",
+    "flrNo": "5",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "303호",
+    "flrNo": "3",
+    "area": "84.92",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "상가동",
+    "hoNm": "307호",
+    "flrNo": "3",
+    "area": "17.22",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "1408호",
+    "flrNo": "14",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "1305호",
+    "flrNo": "13",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "604호",
+    "flrNo": "6",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "1204호",
+    "flrNo": "12",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "1104호",
+    "flrNo": "11",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "806호",
+    "flrNo": "8",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "703호",
+    "flrNo": "7",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "205호",
+    "flrNo": "2",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "1402호",
+    "flrNo": "14",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "1302호",
+    "flrNo": "13",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "802호",
+    "flrNo": "8",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "1508호",
+    "flrNo": "15",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "1004호",
+    "flrNo": "10",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "507호",
+    "flrNo": "5",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "504호",
+    "flrNo": "5",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "1204호",
+    "flrNo": "12",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "1005호",
+    "flrNo": "10",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "1201호",
+    "flrNo": "12",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "1307호",
+    "flrNo": "13",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "1405호",
+    "flrNo": "14",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "1304호",
+    "flrNo": "13",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "204호",
+    "flrNo": "2",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "84.92",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "306호",
+    "flrNo": "3",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "504호",
+    "flrNo": "5",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "1501호",
+    "flrNo": "15",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "906호",
+    "flrNo": "9",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "901호",
+    "flrNo": "9",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "1303호",
+    "flrNo": "13",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "106호",
+    "flrNo": "1",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "404호",
+    "flrNo": "4",
+    "area": "84.59",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "502호",
+    "flrNo": "5",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "503호",
+    "flrNo": "5",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "905호",
+    "flrNo": "9",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "상가동",
+    "hoNm": "310호",
+    "flrNo": "3",
+    "area": "17.22",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "상가동",
+    "hoNm": "403호",
+    "flrNo": "4",
+    "area": "56.07",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "104호",
+    "flrNo": "1",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "1506호",
+    "flrNo": "15",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "607호",
+    "flrNo": "6",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "1204호",
+    "flrNo": "12",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "903호",
+    "flrNo": "9",
+    "area": "84.92",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "1206호",
+    "flrNo": "12",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "1503호",
+    "flrNo": "15",
+    "area": "84.92",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "1205호",
+    "flrNo": "12",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "804호",
+    "flrNo": "8",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "605호",
+    "flrNo": "6",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "106호",
+    "flrNo": "1",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "608호",
+    "flrNo": "6",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "206호",
+    "flrNo": "2",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "802호",
+    "flrNo": "8",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "1508호",
+    "flrNo": "15",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "상가동",
+    "hoNm": "402호",
+    "flrNo": "4",
+    "area": "40.05",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "근린생활시설"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "1001호",
+    "flrNo": "10",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "503호",
+    "flrNo": "5",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "906호",
+    "flrNo": "9",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "2동",
+    "hoNm": "703호",
+    "flrNo": "7",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "상가동",
+    "hoNm": "311호",
+    "flrNo": "3",
+    "area": "18.45",
+    "mainPurpsCd": "03001",
+    "mainPurpsCdNm": "소매점",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "3동",
+    "hoNm": "701호",
+    "flrNo": "7",
+    "area": "147.895",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "1동",
+    "hoNm": "1002호",
+    "flrNo": "10",
+    "area": "133.94",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "7동",
+    "hoNm": "1202호",
+    "flrNo": "12",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "5동",
+    "hoNm": "1405호",
+    "flrNo": "14",
+    "area": "84.86",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "6동",
+    "hoNm": "1505호",
+    "flrNo": "15",
+    "area": "84.95",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "삼성아파트",
+    "dongNm": "4동",
+    "hoNm": "1403호",
+    "flrNo": "14",
+    "area": "115.715",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  }
+]

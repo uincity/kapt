@@ -1,0 +1,8682 @@
+[
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "3703",
+    "flrNo": "37",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "4002",
+    "flrNo": "40",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "107동",
+    "hoNm": "213",
+    "flrNo": "0",
+    "area": "69.5605",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "2703",
+    "flrNo": "27",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "106동",
+    "hoNm": "2201",
+    "flrNo": "22",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "3201",
+    "flrNo": "32",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "4003",
+    "flrNo": "40",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "4101",
+    "flrNo": "41",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "2401",
+    "flrNo": "24",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "106동",
+    "hoNm": "1902",
+    "flrNo": "19",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "2203",
+    "flrNo": "22",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "4603",
+    "flrNo": "46",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "3602",
+    "flrNo": "36",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "3704",
+    "flrNo": "37",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "105동",
+    "hoNm": "2402",
+    "flrNo": "24",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "106동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "105동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "3404",
+    "flrNo": "34",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "2702",
+    "flrNo": "27",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "4702",
+    "flrNo": "47",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "2402",
+    "flrNo": "24",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "2902",
+    "flrNo": "29",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "1601",
+    "flrNo": "16",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "2604",
+    "flrNo": "26",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "105동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "1904",
+    "flrNo": "19",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "107동",
+    "hoNm": "113",
+    "flrNo": "1",
+    "area": "75.4092",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "3804",
+    "flrNo": "38",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "105동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "2704",
+    "flrNo": "27",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "106동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "1603",
+    "flrNo": "16",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "4002",
+    "flrNo": "40",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "2404",
+    "flrNo": "24",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "1901",
+    "flrNo": "19",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "4302",
+    "flrNo": "43",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "2301",
+    "flrNo": "23",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "106동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "2802",
+    "flrNo": "28",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "4803",
+    "flrNo": "48",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "1704",
+    "flrNo": "17",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "106동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "3102",
+    "flrNo": "31",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "105동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "4703",
+    "flrNo": "47",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "3304",
+    "flrNo": "33",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "4503",
+    "flrNo": "45",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "107동",
+    "hoNm": "108",
+    "flrNo": "1",
+    "area": "39.198",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "4901",
+    "flrNo": "49",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "1801",
+    "flrNo": "18",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "4202",
+    "flrNo": "42",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "105동",
+    "hoNm": "2602",
+    "flrNo": "26",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "105동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "4803",
+    "flrNo": "48",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "3103",
+    "flrNo": "31",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "106동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "4301",
+    "flrNo": "43",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "2402",
+    "flrNo": "24",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "3204",
+    "flrNo": "32",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "107동",
+    "hoNm": "211",
+    "flrNo": "2",
+    "area": "55.283",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "2504",
+    "flrNo": "25",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "2801",
+    "flrNo": "28",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "2702",
+    "flrNo": "27",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "105동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "4103",
+    "flrNo": "41",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "4402",
+    "flrNo": "44",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "107동",
+    "hoNm": "112",
+    "flrNo": "1",
+    "area": "63.406",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "2201",
+    "flrNo": "22",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "2604",
+    "flrNo": "26",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "105동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "3904",
+    "flrNo": "39",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "2103",
+    "flrNo": "21",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "106동",
+    "hoNm": "1602",
+    "flrNo": "16",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "106동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "1604",
+    "flrNo": "16",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "106동",
+    "hoNm": "2402",
+    "flrNo": "24",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "2901",
+    "flrNo": "29",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "3401",
+    "flrNo": "34",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "4501",
+    "flrNo": "45",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "2801",
+    "flrNo": "28",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "4801",
+    "flrNo": "48",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "2104",
+    "flrNo": "21",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "2501",
+    "flrNo": "25",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "105동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "3102",
+    "flrNo": "31",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "3802",
+    "flrNo": "38",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "107동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "32.6022",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "4203",
+    "flrNo": "42",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "2501",
+    "flrNo": "25",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "1603",
+    "flrNo": "16",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "3002",
+    "flrNo": "30",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "3301",
+    "flrNo": "33",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "107동",
+    "hoNm": "106",
+    "flrNo": "1",
+    "area": "72.8868",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "3801",
+    "flrNo": "38",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "106동",
+    "hoNm": "2401",
+    "flrNo": "24",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "105동",
+    "hoNm": "2301",
+    "flrNo": "23",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "2602",
+    "flrNo": "26",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "105동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "4504",
+    "flrNo": "45",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "4101",
+    "flrNo": "41",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "1602",
+    "flrNo": "16",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "105동",
+    "hoNm": "1702",
+    "flrNo": "17",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "2703",
+    "flrNo": "27",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "3603",
+    "flrNo": "36",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "1602",
+    "flrNo": "16",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "1802",
+    "flrNo": "18",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "2001",
+    "flrNo": "20",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "106동",
+    "hoNm": "2502",
+    "flrNo": "25",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "106동",
+    "hoNm": "1802",
+    "flrNo": "18",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "2403",
+    "flrNo": "24",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "2202",
+    "flrNo": "22",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "3001",
+    "flrNo": "30",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "2704",
+    "flrNo": "27",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "4203",
+    "flrNo": "42",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "3004",
+    "flrNo": "30",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "1702",
+    "flrNo": "17",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "107동",
+    "hoNm": "209",
+    "flrNo": "2",
+    "area": "38.7528",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설(교습소)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "3602",
+    "flrNo": "36",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "106동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "1702",
+    "flrNo": "17",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "107동",
+    "hoNm": "216",
+    "flrNo": "0",
+    "area": "40.8975",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "4304",
+    "flrNo": "43",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "4204",
+    "flrNo": "42",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "105동",
+    "hoNm": "2002",
+    "flrNo": "20",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "3203",
+    "flrNo": "32",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "3401",
+    "flrNo": "34",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "4102",
+    "flrNo": "41",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "2504",
+    "flrNo": "25",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "105동",
+    "hoNm": "1701",
+    "flrNo": "17",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "105동",
+    "hoNm": "2401",
+    "flrNo": "24",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "4101",
+    "flrNo": "41",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "2904",
+    "flrNo": "29",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "1703",
+    "flrNo": "17",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "4503",
+    "flrNo": "45",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "4502",
+    "flrNo": "45",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "107동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "38.727",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "105동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "4801",
+    "flrNo": "48",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "1903",
+    "flrNo": "19",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "2803",
+    "flrNo": "28",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "3202",
+    "flrNo": "32",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "2101",
+    "flrNo": "21",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "2502",
+    "flrNo": "25",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "106동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "106동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "4303",
+    "flrNo": "43",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "1702",
+    "flrNo": "17",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "3504",
+    "flrNo": "35",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "1603",
+    "flrNo": "16",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "1902",
+    "flrNo": "19",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "2503",
+    "flrNo": "25",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "1803",
+    "flrNo": "18",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "3203",
+    "flrNo": "32",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "3303",
+    "flrNo": "33",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "4603",
+    "flrNo": "46",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "105동",
+    "hoNm": "1902",
+    "flrNo": "19",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "3203",
+    "flrNo": "32",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "3103",
+    "flrNo": "31",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "2704",
+    "flrNo": "27",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "1902",
+    "flrNo": "19",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "3303",
+    "flrNo": "33",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "3401",
+    "flrNo": "34",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "2502",
+    "flrNo": "25",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "3702",
+    "flrNo": "37",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "1804",
+    "flrNo": "18",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "2804",
+    "flrNo": "28",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "4301",
+    "flrNo": "43",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "4802",
+    "flrNo": "48",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "105동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "4804",
+    "flrNo": "48",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "1901",
+    "flrNo": "19",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "3703",
+    "flrNo": "37",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "106동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "2703",
+    "flrNo": "27",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "106동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "2902",
+    "flrNo": "29",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "2103",
+    "flrNo": "21",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "106동",
+    "hoNm": "1901",
+    "flrNo": "19",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "3801",
+    "flrNo": "38",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "2102",
+    "flrNo": "21",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "3204",
+    "flrNo": "32",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "2301",
+    "flrNo": "23",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "4601",
+    "flrNo": "46",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "2003",
+    "flrNo": "20",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "4201",
+    "flrNo": "42",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "4804",
+    "flrNo": "48",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "3701",
+    "flrNo": "37",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "2803",
+    "flrNo": "28",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "3302",
+    "flrNo": "33",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "3003",
+    "flrNo": "30",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "105동",
+    "hoNm": "1801",
+    "flrNo": "18",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "2901",
+    "flrNo": "29",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "3703",
+    "flrNo": "37",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "4204",
+    "flrNo": "42",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "3804",
+    "flrNo": "38",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "1903",
+    "flrNo": "19",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "3104",
+    "flrNo": "31",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "3601",
+    "flrNo": "36",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "4304",
+    "flrNo": "43",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "4401",
+    "flrNo": "44",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "105동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "3903",
+    "flrNo": "39",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "3901",
+    "flrNo": "39",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "106동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "2104",
+    "flrNo": "21",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "1604",
+    "flrNo": "16",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "2604",
+    "flrNo": "26",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "3702",
+    "flrNo": "37",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "2701",
+    "flrNo": "27",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "2501",
+    "flrNo": "25",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "2201",
+    "flrNo": "22",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "4601",
+    "flrNo": "46",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "3901",
+    "flrNo": "39",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "2902",
+    "flrNo": "29",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "4501",
+    "flrNo": "45",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "3704",
+    "flrNo": "37",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "105동",
+    "hoNm": "2601",
+    "flrNo": "26",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "2001",
+    "flrNo": "20",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "106동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "1602",
+    "flrNo": "16",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "4902",
+    "flrNo": "49",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "4404",
+    "flrNo": "44",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "105동",
+    "hoNm": "1802",
+    "flrNo": "18",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "106동",
+    "hoNm": "2202",
+    "flrNo": "22",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "3003",
+    "flrNo": "30",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "106동",
+    "hoNm": "2101",
+    "flrNo": "21",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "4802",
+    "flrNo": "48",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "106동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "3803",
+    "flrNo": "38",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "4004",
+    "flrNo": "40",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "4004",
+    "flrNo": "40",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "3302",
+    "flrNo": "33",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "4602",
+    "flrNo": "46",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "2801",
+    "flrNo": "28",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "4602",
+    "flrNo": "46",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "3402",
+    "flrNo": "34",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "107동",
+    "hoNm": "110",
+    "flrNo": "1",
+    "area": "60.0046",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "107동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "39.2814",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "3202",
+    "flrNo": "32",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "4504",
+    "flrNo": "45",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "1801",
+    "flrNo": "18",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "3004",
+    "flrNo": "30",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "105동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "1904",
+    "flrNo": "19",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "4102",
+    "flrNo": "41",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "3502",
+    "flrNo": "35",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "3604",
+    "flrNo": "36",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "2801",
+    "flrNo": "28",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "2603",
+    "flrNo": "26",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "107동",
+    "hoNm": "206",
+    "flrNo": "2",
+    "area": "44.7426",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "4901",
+    "flrNo": "49",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "3504",
+    "flrNo": "35",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "106동",
+    "hoNm": "1702",
+    "flrNo": "17",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "2903",
+    "flrNo": "29",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "3004",
+    "flrNo": "30",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "106동",
+    "hoNm": "1601",
+    "flrNo": "16",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "106동",
+    "hoNm": "1701",
+    "flrNo": "17",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "2601",
+    "flrNo": "26",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "4304",
+    "flrNo": "43",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "4404",
+    "flrNo": "44",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "2101",
+    "flrNo": "21",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "3503",
+    "flrNo": "35",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "1701",
+    "flrNo": "17",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "105동",
+    "hoNm": "2201",
+    "flrNo": "22",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "3204",
+    "flrNo": "32",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "105동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "4801",
+    "flrNo": "48",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "4104",
+    "flrNo": "41",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "3003",
+    "flrNo": "30",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "3803",
+    "flrNo": "38",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "2001",
+    "flrNo": "20",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "4604",
+    "flrNo": "46",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "2302",
+    "flrNo": "23",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "3102",
+    "flrNo": "31",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "4704",
+    "flrNo": "47",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "1703",
+    "flrNo": "17",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "2504",
+    "flrNo": "25",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "3304",
+    "flrNo": "33",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "4402",
+    "flrNo": "44",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "3904",
+    "flrNo": "39",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "2101",
+    "flrNo": "21",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "3003",
+    "flrNo": "30",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "4303",
+    "flrNo": "43",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "105동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "4504",
+    "flrNo": "45",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "1903",
+    "flrNo": "19",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "107동",
+    "hoNm": "217",
+    "flrNo": "2",
+    "area": "44.28",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "3802",
+    "flrNo": "38",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "4601",
+    "flrNo": "46",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "2503",
+    "flrNo": "25",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "2804",
+    "flrNo": "28",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "1601",
+    "flrNo": "16",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "3303",
+    "flrNo": "33",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "4602",
+    "flrNo": "46",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "105동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "1604",
+    "flrNo": "16",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "105동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "1901",
+    "flrNo": "19",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "2402",
+    "flrNo": "24",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "3001",
+    "flrNo": "30",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "2004",
+    "flrNo": "20",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "4402",
+    "flrNo": "44",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "3403",
+    "flrNo": "34",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "107동",
+    "hoNm": "107",
+    "flrNo": "1",
+    "area": "56.712",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "4601",
+    "flrNo": "46",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "105동",
+    "hoNm": "2202",
+    "flrNo": "22",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "3802",
+    "flrNo": "38",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "3501",
+    "flrNo": "35",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "3902",
+    "flrNo": "39",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "3002",
+    "flrNo": "30",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "2402",
+    "flrNo": "24",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "1902",
+    "flrNo": "19",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "4403",
+    "flrNo": "44",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "4102",
+    "flrNo": "41",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "2403",
+    "flrNo": "24",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "4303",
+    "flrNo": "43",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "2802",
+    "flrNo": "28",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "3201",
+    "flrNo": "32",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "106동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "105동",
+    "hoNm": "1901",
+    "flrNo": "19",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "2804",
+    "flrNo": "28",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "4702",
+    "flrNo": "47",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "4103",
+    "flrNo": "41",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "106동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "3402",
+    "flrNo": "34",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "107동",
+    "hoNm": "207",
+    "flrNo": "2",
+    "area": "50.5314",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "2204",
+    "flrNo": "22",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "105동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "2503",
+    "flrNo": "25",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "2702",
+    "flrNo": "27",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "105동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "2404",
+    "flrNo": "24",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "1704",
+    "flrNo": "17",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "1802",
+    "flrNo": "18",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "1601",
+    "flrNo": "16",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "2601",
+    "flrNo": "26",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "3203",
+    "flrNo": "32",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "2901",
+    "flrNo": "29",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "4004",
+    "flrNo": "40",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "1804",
+    "flrNo": "18",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "106동",
+    "hoNm": "2601",
+    "flrNo": "26",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "2401",
+    "flrNo": "24",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "4001",
+    "flrNo": "40",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "1701",
+    "flrNo": "17",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "1703",
+    "flrNo": "17",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "4403",
+    "flrNo": "44",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "4802",
+    "flrNo": "48",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "106동",
+    "hoNm": "2302",
+    "flrNo": "23",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "106동",
+    "hoNm": "1801",
+    "flrNo": "18",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "3302",
+    "flrNo": "33",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "2601",
+    "flrNo": "26",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "3204",
+    "flrNo": "32",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "4502",
+    "flrNo": "45",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "106동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "1701",
+    "flrNo": "17",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "2603",
+    "flrNo": "26",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "105동",
+    "hoNm": "1602",
+    "flrNo": "16",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "2002",
+    "flrNo": "20",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "1903",
+    "flrNo": "19",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "106동",
+    "hoNm": "2002",
+    "flrNo": "20",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "1704",
+    "flrNo": "17",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "4602",
+    "flrNo": "46",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "4501",
+    "flrNo": "45",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "4503",
+    "flrNo": "45",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "3803",
+    "flrNo": "38",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "4903",
+    "flrNo": "49",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "1802",
+    "flrNo": "18",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "2904",
+    "flrNo": "29",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "2002",
+    "flrNo": "20",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "1802",
+    "flrNo": "18",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "2004",
+    "flrNo": "20",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "4104",
+    "flrNo": "41",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "2903",
+    "flrNo": "29",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "4604",
+    "flrNo": "46",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "4704",
+    "flrNo": "47",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "105동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "4302",
+    "flrNo": "43",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "3001",
+    "flrNo": "30",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "2701",
+    "flrNo": "27",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "105동",
+    "hoNm": "1601",
+    "flrNo": "16",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "106동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "1804",
+    "flrNo": "18",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "106동",
+    "hoNm": "2102",
+    "flrNo": "21",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "3702",
+    "flrNo": "37",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "3402",
+    "flrNo": "34",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "1904",
+    "flrNo": "19",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "3501",
+    "flrNo": "35",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "1902",
+    "flrNo": "19",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "106동",
+    "hoNm": "2001",
+    "flrNo": "20",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "2803",
+    "flrNo": "28",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "105동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "107동",
+    "hoNm": "114",
+    "flrNo": "1",
+    "area": "30.144",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "3301",
+    "flrNo": "33",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "4202",
+    "flrNo": "42",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "4801",
+    "flrNo": "48",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "3602",
+    "flrNo": "36",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "2004",
+    "flrNo": "20",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "4102",
+    "flrNo": "41",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "2802",
+    "flrNo": "28",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "2303",
+    "flrNo": "23",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "105동",
+    "hoNm": "2501",
+    "flrNo": "25",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "3401",
+    "flrNo": "34",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "4301",
+    "flrNo": "43",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "2304",
+    "flrNo": "23",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "107동",
+    "hoNm": "116",
+    "flrNo": "1",
+    "area": "47.1027",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "4502",
+    "flrNo": "45",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "1601",
+    "flrNo": "16",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "2403",
+    "flrNo": "24",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "107동",
+    "hoNm": "105",
+    "flrNo": "1",
+    "area": "38.727",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "3002",
+    "flrNo": "30",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "4604",
+    "flrNo": "46",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "3604",
+    "flrNo": "36",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "4704",
+    "flrNo": "47",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "4003",
+    "flrNo": "40",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "107동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "73.6824",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "4701",
+    "flrNo": "47",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "3102",
+    "flrNo": "31",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "3503",
+    "flrNo": "35",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "3103",
+    "flrNo": "31",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "2204",
+    "flrNo": "22",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "106동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "4701",
+    "flrNo": "47",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "107동",
+    "hoNm": "115",
+    "flrNo": "1",
+    "area": "31.296",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "1702",
+    "flrNo": "17",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "3101",
+    "flrNo": "31",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "107동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "47.637",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "107동",
+    "hoNm": "111",
+    "flrNo": "1",
+    "area": "63.406",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "106동",
+    "hoNm": "2602",
+    "flrNo": "26",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "3903",
+    "flrNo": "39",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "3803",
+    "flrNo": "38",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "4202",
+    "flrNo": "42",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "3901",
+    "flrNo": "39",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "1703",
+    "flrNo": "17",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "3701",
+    "flrNo": "37",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "1904",
+    "flrNo": "19",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "1801",
+    "flrNo": "18",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "3601",
+    "flrNo": "36",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "3902",
+    "flrNo": "39",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "4804",
+    "flrNo": "48",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "3201",
+    "flrNo": "32",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "107동",
+    "hoNm": "210",
+    "flrNo": "2",
+    "area": "482.0655",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설(일반음식점)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "3603",
+    "flrNo": "36",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "4404",
+    "flrNo": "44",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "2103",
+    "flrNo": "21",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "3303",
+    "flrNo": "33",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "3501",
+    "flrNo": "35",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "2502",
+    "flrNo": "25",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "105동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "3002",
+    "flrNo": "30",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "3603",
+    "flrNo": "36",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "3404",
+    "flrNo": "34",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "4001",
+    "flrNo": "40",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "106동",
+    "hoNm": "2501",
+    "flrNo": "25",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "2103",
+    "flrNo": "21",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "3004",
+    "flrNo": "30",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "107동",
+    "hoNm": "109",
+    "flrNo": "1",
+    "area": "43.66",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "3101",
+    "flrNo": "31",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "3504",
+    "flrNo": "35",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "4804",
+    "flrNo": "48",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "3301",
+    "flrNo": "33",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "3402",
+    "flrNo": "34",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "4302",
+    "flrNo": "43",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "4604",
+    "flrNo": "46",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "3403",
+    "flrNo": "34",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "2904",
+    "flrNo": "29",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "4401",
+    "flrNo": "44",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "3502",
+    "flrNo": "35",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "4904",
+    "flrNo": "49",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "3304",
+    "flrNo": "33",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "4504",
+    "flrNo": "45",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "2004",
+    "flrNo": "20",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "2003",
+    "flrNo": "20",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "2503",
+    "flrNo": "25",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "3304",
+    "flrNo": "33",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "105동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "4103",
+    "flrNo": "41",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "107동",
+    "hoNm": "205",
+    "flrNo": "2",
+    "area": "47.637",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "4204",
+    "flrNo": "42",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "4402",
+    "flrNo": "44",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "4201",
+    "flrNo": "42",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "4902",
+    "flrNo": "49",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "2401",
+    "flrNo": "24",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "105동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "4702",
+    "flrNo": "47",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "3601",
+    "flrNo": "36",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "3403",
+    "flrNo": "34",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "106동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "3001",
+    "flrNo": "30",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "4203",
+    "flrNo": "42",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "105동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "2603",
+    "flrNo": "26",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "2902",
+    "flrNo": "29",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "105동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "4003",
+    "flrNo": "40",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "2102",
+    "flrNo": "21",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "2804",
+    "flrNo": "28",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "107동",
+    "hoNm": "214",
+    "flrNo": "0",
+    "area": "49.613",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "2502",
+    "flrNo": "25",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "3104",
+    "flrNo": "31",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "2703",
+    "flrNo": "27",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "3202",
+    "flrNo": "32",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "107동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "31.4766",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "3902",
+    "flrNo": "39",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "3202",
+    "flrNo": "32",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "1704",
+    "flrNo": "17",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "4202",
+    "flrNo": "42",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "4701",
+    "flrNo": "47",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "3902",
+    "flrNo": "39",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "3804",
+    "flrNo": "38",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "4203",
+    "flrNo": "42",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "4001",
+    "flrNo": "40",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "3801",
+    "flrNo": "38",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "3604",
+    "flrNo": "36",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "3601",
+    "flrNo": "36",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "4103",
+    "flrNo": "41",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "105동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "2101",
+    "flrNo": "21",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "2601",
+    "flrNo": "26",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "105동",
+    "hoNm": "2302",
+    "flrNo": "23",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "105동",
+    "hoNm": "2001",
+    "flrNo": "20",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "2002",
+    "flrNo": "20",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "1701",
+    "flrNo": "17",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "2404",
+    "flrNo": "24",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "3903",
+    "flrNo": "39",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "3603",
+    "flrNo": "36",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "4904",
+    "flrNo": "49",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "3703",
+    "flrNo": "37",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "4603",
+    "flrNo": "46",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "107동",
+    "hoNm": "212",
+    "flrNo": "2",
+    "area": "55.283",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "106동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "2904",
+    "flrNo": "29",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "106동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "3704",
+    "flrNo": "37",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "4702",
+    "flrNo": "47",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "3802",
+    "flrNo": "38",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "106동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "3404",
+    "flrNo": "34",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "2903",
+    "flrNo": "29",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "106동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "2001",
+    "flrNo": "20",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "2602",
+    "flrNo": "26",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "2003",
+    "flrNo": "20",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "4204",
+    "flrNo": "42",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "2102",
+    "flrNo": "21",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "2602",
+    "flrNo": "26",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "1901",
+    "flrNo": "19",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "105동",
+    "hoNm": "2101",
+    "flrNo": "21",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "4603",
+    "flrNo": "46",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "2003",
+    "flrNo": "20",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "3904",
+    "flrNo": "39",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "4803",
+    "flrNo": "48",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "4104",
+    "flrNo": "41",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "2401",
+    "flrNo": "24",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "3604",
+    "flrNo": "36",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "2901",
+    "flrNo": "29",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "2203",
+    "flrNo": "22",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "3901",
+    "flrNo": "39",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "3101",
+    "flrNo": "31",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "1803",
+    "flrNo": "18",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "3804",
+    "flrNo": "38",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "1602",
+    "flrNo": "16",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "3503",
+    "flrNo": "35",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "3301",
+    "flrNo": "33",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "4002",
+    "flrNo": "40",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "3701",
+    "flrNo": "37",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "107동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "33.8604",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "106동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "2202",
+    "flrNo": "22",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "3903",
+    "flrNo": "39",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "2704",
+    "flrNo": "27",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "107동",
+    "hoNm": "215",
+    "flrNo": "0",
+    "area": "45.1265",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "1603",
+    "flrNo": "16",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "4703",
+    "flrNo": "47",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "2701",
+    "flrNo": "27",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "3502",
+    "flrNo": "35",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "4303",
+    "flrNo": "43",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "2403",
+    "flrNo": "24",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "106동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "1803",
+    "flrNo": "18",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "4304",
+    "flrNo": "43",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "4004",
+    "flrNo": "40",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "3404",
+    "flrNo": "34",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "4101",
+    "flrNo": "41",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "105동",
+    "hoNm": "2102",
+    "flrNo": "21",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "4002",
+    "flrNo": "40",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "4104",
+    "flrNo": "41",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "4201",
+    "flrNo": "42",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "3602",
+    "flrNo": "36",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "1804",
+    "flrNo": "18",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "2803",
+    "flrNo": "28",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "2104",
+    "flrNo": "21",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "3701",
+    "flrNo": "37",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "4401",
+    "flrNo": "44",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "2102",
+    "flrNo": "21",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "2903",
+    "flrNo": "29",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "3504",
+    "flrNo": "35",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "4403",
+    "flrNo": "44",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "107동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "44.7426",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "3103",
+    "flrNo": "31",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "4503",
+    "flrNo": "45",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "3501",
+    "flrNo": "35",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "4302",
+    "flrNo": "43",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "4501",
+    "flrNo": "45",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "4803",
+    "flrNo": "48",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "2504",
+    "flrNo": "25",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "4502",
+    "flrNo": "45",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "4703",
+    "flrNo": "47",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "3503",
+    "flrNo": "35",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "106동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "3101",
+    "flrNo": "31",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "2404",
+    "flrNo": "24",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "1803",
+    "flrNo": "18",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "2702",
+    "flrNo": "27",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "1604",
+    "flrNo": "16",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "4701",
+    "flrNo": "47",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "4001",
+    "flrNo": "40",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "4404",
+    "flrNo": "44",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "2802",
+    "flrNo": "28",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "2602",
+    "flrNo": "26",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "3904",
+    "flrNo": "39",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "2603",
+    "flrNo": "26",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "106동",
+    "hoNm": "2301",
+    "flrNo": "23",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "2604",
+    "flrNo": "26",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "3201",
+    "flrNo": "32",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "3302",
+    "flrNo": "33",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "2701",
+    "flrNo": "27",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "3403",
+    "flrNo": "34",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "4704",
+    "flrNo": "47",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "1801",
+    "flrNo": "18",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "2002",
+    "flrNo": "20",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "3104",
+    "flrNo": "31",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "3801",
+    "flrNo": "38",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "4403",
+    "flrNo": "44",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "4003",
+    "flrNo": "40",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "107동",
+    "hoNm": "208",
+    "flrNo": "2",
+    "area": "40.9638",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "4903",
+    "flrNo": "49",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "4802",
+    "flrNo": "48",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "3104",
+    "flrNo": "31",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "4703",
+    "flrNo": "47",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "3702",
+    "flrNo": "37",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "4401",
+    "flrNo": "44",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "2304",
+    "flrNo": "23",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "4301",
+    "flrNo": "43",
+    "area": "84.7416",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "2501",
+    "flrNo": "25",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "2104",
+    "flrNo": "21",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "2303",
+    "flrNo": "23",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "102동",
+    "hoNm": "3502",
+    "flrNo": "35",
+    "area": "84.9239",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "105동",
+    "hoNm": "2502",
+    "flrNo": "25",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "104동",
+    "hoNm": "3704",
+    "flrNo": "37",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "74.1253",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "105동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "61.2564",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "업무시설(오피스텔)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "101동",
+    "hoNm": "4201",
+    "flrNo": "42",
+    "area": "73.8427",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "이진 젠시티 개금",
+    "dongNm": "103동",
+    "hoNm": "2302",
+    "flrNo": "23",
+    "area": "112.0023",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  }
+]

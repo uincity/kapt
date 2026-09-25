@@ -1,0 +1,62 @@
+[
+  {
+    "bldNm": null,
+    "dongNm": null,
+    "hoNm": "203호",
+    "flrNo": "2",
+    "area": "55.37",
+    "mainPurpsCd": "02003",
+    "mainPurpsCdNm": "다세대주택",
+    "etcPurps": "다세대주택"
+  },
+  {
+    "bldNm": null,
+    "dongNm": null,
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "55.74",
+    "mainPurpsCd": "02003",
+    "mainPurpsCdNm": "다세대주택",
+    "etcPurps": "다세대주택"
+  },
+  {
+    "bldNm": null,
+    "dongNm": null,
+    "hoNm": "202호",
+    "flrNo": "2",
+    "area": "53.75",
+    "mainPurpsCd": "02003",
+    "mainPurpsCdNm": "다세대주택",
+    "etcPurps": "다세대주택"
+  },
+  {
+    "bldNm": null,
+    "dongNm": null,
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "60.26",
+    "mainPurpsCd": "02003",
+    "mainPurpsCdNm": "다세대주택",
+    "etcPurps": "다세대주택"
+  },
+  {
+    "bldNm": null,
+    "dongNm": null,
+    "hoNm": "201호",
+    "flrNo": "2",
+    "area": "60.26",
+    "mainPurpsCd": "02003",
+    "mainPurpsCdNm": "다세대주택",
+    "etcPurps": "다세대주택"
+  },
+  {
+    "bldNm": null,
+    "dongNm": null,
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "55.37",
+    "mainPurpsCd": "02003",
+    "mainPurpsCdNm": "다세대주택",
+    "etcPurps": "다세대주택"
+  }
+]

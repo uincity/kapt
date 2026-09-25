@@ -1,0 +1,86 @@
+[
+  {
+    "url": "https://api.kbland.kr/land-property/property/getLocInfoCnt?%EB%B2%95%EC%A0%95%EB%8F%99%EC%BD%94%EB%93%9C=",
+    "method": "GET",
+    "status": 200,
+    "body_sample": "{\n  \"dataHeader\": {\n    \"resultCode\": \"10000\",\n    \"message\": \"NO_ERROR\"\n  },\n  \"dataBody\": {\n    \"data\": [],\n    \"resultCode\": 11000\n  }\n}"
+  },
+  {
+    "url": "https://api.kbland.kr/land-extra/temp/serviceAllowCnt",
+    "method": "GET",
+    "status": 200,
+    "body_sample": "{\n  \"dataHeader\": {\n    \"resultCode\": \"10000\",\n    \"message\": \"NO_ERROR\"\n  },\n  \"dataBody\": {\n    \"data\": {\n      \"안심여부\": \"Y\",\n      \"일련번호\": 2,\n      \"접속허용카운트\": \"0\"\n    },\n    \"resultCode\": 11000\n  }\n}"
+  },
+  {
+    "url": "https://api.kbland.kr/land-extra/banner/byPageTypeAds?%ED%99%88%ED%99%94%EB%A9%B4%EA%B5%AC%EB%B6%84=15",
+    "method": "GET",
+    "status": 200,
+    "body_sample": "{\n  \"dataHeader\": {\n    \"resultCode\": \"10000\",\n    \"message\": \"NO_ERROR\"\n  },\n  \"dataBody\": {\n    \"data\": [],\n    \"resultCode\": 11000\n  }\n}"
+  },
+  {
+    "url": "https://api.kbland.kr/land-complex/count/complexes/rankings/views",
+    "method": "GET",
+    "status": 200,
+    "body_sample": "{\n  \"dataHeader\": {\n    \"resultCode\": \"10000\",\n    \"message\": \"NO_ERROR\"\n  },\n  \"dataBody\": {\n    \"ranks\": [\n      {\n        \"complexId\": 3717,\n        \"complexName\": \"영통포레파크원\",\n        \"complexType\": \"아파트\",\n        \"complexStatus\": null,\n        \"region\": \"경기도 수원시 영통구 영통동\",\n        \"viewCount\": 190"
+  },
+  {
+    "url": "https://api.kbland.kr/land-extra/menu/menuList",
+    "method": "GET",
+    "status": 200,
+    "body_sample": "{\n  \"dataHeader\": {\n    \"resultCode\": \"10000\",\n    \"message\": \"NO_ERROR\"\n  },\n  \"dataBody\": {\n    \"data\": {\n      \"middle\": [\n        {\n          \"메뉴일련번호\": 4,\n          \"상위메뉴일련번호\": 2,\n          \"제목명\": \"집 구하기\",\n          \"서브명\": \"\",\n          \"로그인내용\": \"\",\n          \"회원유형명\": \"0\",\n          \"신규여부\": \"\",\n"
+  },
+  {
+    "url": "https://api.kbland.kr/land-extra/banner/byPageTypeAds?%ED%99%88%ED%99%94%EB%A9%B4%EA%B5%AC%EB%B6%84=2",
+    "method": "GET",
+    "status": 200,
+    "body_sample": "{\n  \"dataHeader\": {\n    \"resultCode\": \"10000\",\n    \"message\": \"NO_ERROR\"\n  },\n  \"dataBody\": {\n    \"data\": [],\n    \"resultCode\": 11000\n  }\n}"
+  },
+  {
+    "url": "https://oapi.map.naver.com/v3/auth?ncpKeyId=nlxntynn25&url=https%3A%2F%2Fkbland.kr%2Fmap%3Fxy%3D37.51844095%2C126.92709865%2C17&time=1789694556094&callback=__naver_maps_callback__0",
+    "method": "GET",
+    "status": 200,
+    "body_sample": "__naver_maps_callback__0({\"result\":{\"callCount\":\"0\",\"callSize\":\"0\",\"apiQuota\":\"200000\",\"apiKeyInfo\":\"apiKey:map/webApiGroup\"}})"
+  },
+  {
+    "url": "https://api.kbland.kr/land-complex/map/getAllPremiumComplexMarkerList",
+    "method": "GET",
+    "status": 200,
+    "body_sample": "{\n  \"dataHeader\": {\n    \"resultCode\": \"10000\",\n    \"message\": \"NO_ERROR\"\n  },\n  \"dataBody\": {\n    \"data\": [\n      {\n        \"단지기본일련번호\": null,\n        \"일반단지명\": null,\n        \"단지마커altText내용\": \"오산헤리티지자이1단지\",\n        \"분양단지위도\": \"37.1992496\",\n        \"분양단지명\": \"오산헤리티지자이1단지\",\n        \"일반단지위도\": null,\n       "
+  },
+  {
+    "url": "https://api.kbland.kr/land-complex/map/scholMarkerList?scholCode=03,04,05&zoomLevel=17&startLat=37.5153774&startLng=126.9202322&endLat=37.5215044&endLng=126.9339651",
+    "method": "GET",
+    "status": 200,
+    "body_sample": "{\n  \"dataHeader\": {\n    \"resultCode\": \"10000\",\n    \"message\": \"NO_ERROR\"\n  },\n  \"dataBody\": {\n    \"data\": [\n      {\n        \"학교식별자\": \"B100001195\",\n        \"학교명\": \"윤중중학교\",\n        \"학교과정분류구분\": \"04\",\n        \"wgs84경도\": \"126.924124851\",\n        \"wgs84위도\": \"37.5189316547\"\n      },\n      {\n        \"학교식별자\""
+  },
+  {
+    "url": "https://api.kbland.kr/land-complex/map/allAreaNameList?selectCode=1,2,3&zoomLevel=17&startLat=37.5153774&startLng=126.9202322&endLat=37.5215044&endLng=126.9339651&%EB%AC%BC%EA%B1%B4%EC%A2%85%EB%A5%98=01,05,41&%EA%B1%B0%EB%9E%98%EC%9C%A0%ED%98%95=1,2,3&%EB%A7%A4%EB%A7%A4%EC%8B%9C%EC%9E%91%EA%B0%92=&%EB%A7%A4%EB%A7%A4%EC%A2%85%EB%A3%8C%EA%B0%92=&%EB%B3%B4%EC%A6%9D%EA%B8%88%EC%8B%9C%EC%9E%91%EA%B0%92=&%EB%B3%B4%EC%A6%9D%EA%B8%88%EC%A2%85%EB%A3%8C%EA%B0%92=&%EC%9B%94%EC%84%B8%EC%8B%9C%EC%9E%91%EA%B0%92=&%EC%9B%94%EC%84%B8%EC%A2%85%EB%A3%8C%EA%B0%92=&%EB%A9%B4%EC%A0%81%EC%8B%9C%EC%9E%91%EA%B0%92=&%EB%A9%B4%EC%A0%81%EC%A2%85%EB%A3%8C%EA%B0%92=&%EC%A4%80%EA%B3%B5%EB%85%84%EB%8F%84%EC%8B%9C%EC%9E%91%EA%B0%92=&%EC%A4%80%EA%B3%B5%EB%85%84%EB%8F%84%EC%A2%85%EB%A3%8C%EA%B0%92=&%EB%B0%A9%EC%88%98=&%EC%9A%95%EC%8B%A4%EC%88%98=&%EC%84%B8%EB%8C%80%EC%88%98%EC%8B%9C%EC%9E%91%EA%B0%92=&%EC%84%B8%EB%8C%80%EC%88%98%EC%A2%85%EB%A3%8C%EA%B0%92=&%EA%B4%80%EB%A6%AC%EB%B9%84%EC%8B%9C%EC%9E%91%EA%B0%92=&%EA%B4%80%EB%A6%AC%EB%B9%84%EC%A2%85%EB%A3%8C%EA%B0%92=&%EC%9A%A9%EC%A0%81%EB%A5%A0%EC%8B%9C%EC%9E%91%EA%B0%92=&%EC%9A%A9%EC%A0%81%EB%A5%A0%EC%A2%85%EB%A3%8C%EA%B0%92=&%EA%B1%B4%ED%8F%90%EC%9C%A8%EC%8B%9C%EC%9E%91%EA%B0%92=&%EA%B1%B4%ED%8F%90%EC%9C%A8%EC%A2%85%EB%A3%8C%EA%B0%92=&%EC%A0%84%EC%84%B8%EA%B0%80%EC%9C%A8%EC%8B%9C%EC%9E%91%EA%B0%92=&%EC%A0%84%EC%84%B8%EA%B0%80%EC%9C%A8%EC%A2%85%EB%A3%8C%EA%B0%92=&%EB%A7%A4%EB%A7%A4%EC%A0%84%EC%84%B8%EC%B0%A8%EC%8B%9C%EC%9E%91%EA%B0%92=&%EB%A7%A4%EB%A7%A4%EC%A0%84%EC%84%B8%EC%B0%A8%EC%A2%85%EB%A3%8C%EA%B0%92=&%EC%9B%94%EC%84%B8%EC%88%98%EC%9D%B5%EB%A5%A0%EC%8B%9C%EC%9E%91%EA%B0%92=&%EC%9B%94%EC%84%B8%EC%88%98%EC%9D%B5%EB%A5%A0%EC%A2%85%EB%A3%8C%EA%B0%92=&%EA%B5%AC%EC%A1%B0=&%EC%A3%BC%EC%B0%A8=&%EC%97%98%EB%A6%AC%EB%B2%A0%EC%9D%B4%ED%84%B0=&%EB%B3%B4%EC%95%88%EC%98%B5%EC%85%98=&%EB%A7%A4%EB%AC%BC=&%EC%9C%B5%EC%9E%90%EA%B8%88=&%EB%B6%84%EC%96%91%EB%8B%A8%EC%A7%80%EA%B5%AC%EB%B6%84%EC%BD%94%EB%93%9C=C01&%EC%9D%BC%EB%B0%98%EB%B6%84%EC%96%91%EC%97%AC%EB%B6%80=1,0&%EB%B6%84%EC%96%91%EC%A7%84%ED%96%89%EB%8B%A8%EA%B3%84%EC%BD%94%EB%93%9C=S01,S11,S12&%EC%98%B5%EC%85%98=&%EC%A0%90%ED%8F%AC%EC%88%98%EC%8B%9C%EC%9E%91%EA%B0%92=&%EC%A0%90%ED%8F%AC%EC%88%98%EC%A2%85%EB%A3%8C%EA%B0%92=&%EC%A7%80%EC%83%81%EC%B8%B5=&%EC%A7%80%ED%95%98%EC%B8%B5=&%EC%A7%80%EB%AA%A9=&%EC%9A%A9%EB%8F%84%EC%A7%80%EC%97%AD=&%EC%B6%94%EC%A7%84%ED%98%84%ED%99%A9=&webCheck=Y&%EC%A0%84%EC%9A%A9%EB%A9%B4%EC%A0%81%EC%84%A0%ED%83%9D%EC%97%AC%EB%B6%80=false&latitude=37.5184409&longitude=126.92709865",
+    "method": "GET",
+    "status": 200,
+    "body_sample": "{\n  \"dataHeader\": {\n    \"resultCode\": \"10000\",\n    \"message\": \"NO_ERROR\"\n  },\n  \"dataBody\": {\n    \"data\": {\n      \"투기지역\": \"0\",\n      \"투기과열지구\": \"1\",\n      \"법정동명\": \"여의도동\",\n      \"시군구명\": \"영등포구\",\n      \"법정동리스트\": [\n        {\n          \"법정동명\": \"당산동\",\n          \"법정동코드\": \"1156011700\",\n          \"wgs84중심위도\":"
+  },
+  {
+    "url": "https://api.kbland.kr/land-property/propList/stutCdFilter/count",
+    "method": "POST",
+    "status": 200,
+    "body_sample": "{\n  \"dataHeader\": {\n    \"resultCode\": \"10000\",\n    \"message\": \"NO_ERROR\"\n  },\n  \"dataBody\": {\n    \"data\": {\n      \"지역매물총건수\": 2104,\n      \"법정동명\": \"여의도동\"\n    },\n    \"resultCode\": 11000\n  }\n}"
+  },
+  {
+    "url": "https://api.kbland.kr/land-extra/userNotice/getUrgentNotice",
+    "method": "GET",
+    "status": 200,
+    "body_sample": "{\n  \"dataHeader\": {\n    \"resultCode\": \"10000\",\n    \"message\": \"NO_ERROR\"\n  },\n  \"dataBody\": {\n    \"data\": {\n      \"urgentNotice\": null\n    },\n    \"resultCode\": 11000\n  }\n}"
+  },
+  {
+    "url": "https://api.kbland.kr/land-complex/map/map250mBlwInfoList",
+    "method": "POST",
+    "status": 200,
+    "body_sample": "{\n  \"dataHeader\": {\n    \"resultCode\": \"10000\",\n    \"message\": \"NO_ERROR\"\n  },\n  \"dataBody\": {\n    \"data\": {\n      \"단지리스트\": [\n        {\n          \"매물개수\": 0,\n          \"단지기본일련번호\": 2172,\n          \"실거래전세평균가\": \"8.0\",\n          \"공급면적\": \"98\",\n          \"계약면적\": \"100\",\n          \"매물전세평균가\": null,\n          \""
+  },
+  {
+    "url": "https://api.kbland.kr/land-complex/map/getAgentInfoList",
+    "method": "POST",
+    "status": 200,
+    "body_sample": "{\n  \"dataHeader\": {\n    \"resultCode\": \"10000\",\n    \"message\": \"NO_ERROR\"\n  },\n  \"dataBody\": {\n    \"data\": {\n      \"중개업소리스트\": [\n        {\n          \"대표자명\": \"홍주형\",\n          \"중개업소식별자\": \"A_00083421\",\n          \"wgs84경도\": \"126.9264067\",\n          \"중개업소명\": \"롯데캐슬명가공인중개사사무소\",\n          \"중개업소대표사진파일명\": \"/kbs"
+  }
+]

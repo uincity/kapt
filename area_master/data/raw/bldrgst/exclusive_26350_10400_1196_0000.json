@@ -1,0 +1,8722 @@
+[
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "3802",
+    "flrNo": "38",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "3904",
+    "flrNo": "39",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "4903",
+    "flrNo": "49",
+    "area": "215.64",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "상가동",
+    "hoNm": "운동시설-1",
+    "flrNo": "2",
+    "area": "1691.91",
+    "mainPurpsCd": "13999",
+    "mainPurpsCdNm": "기타 운동시설",
+    "etcPurps": "체력단련장,골프연습장,운동장(수영)"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "905",
+    "flrNo": "9",
+    "area": "98.51",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3805",
+    "flrNo": "38",
+    "area": "98.51",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1803",
+    "flrNo": "18",
+    "area": "61.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "807",
+    "flrNo": "8",
+    "area": "90.33",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "4905",
+    "flrNo": "49",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "3001",
+    "flrNo": "30",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1707",
+    "flrNo": "17",
+    "area": "90.33",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "4502",
+    "flrNo": "45",
+    "area": "215.64",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "96.27",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1308",
+    "flrNo": "13",
+    "area": "67.62",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1005",
+    "flrNo": "10",
+    "area": "98.51",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "4403",
+    "flrNo": "44",
+    "area": "215.64",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "4003",
+    "flrNo": "40",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "4102",
+    "flrNo": "41",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1801",
+    "flrNo": "18",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2903",
+    "flrNo": "29",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1807",
+    "flrNo": "18",
+    "area": "90.33",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "3804",
+    "flrNo": "38",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "210",
+    "flrNo": "2",
+    "area": "92.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "2104",
+    "flrNo": "21",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "610",
+    "flrNo": "6",
+    "area": "92.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "4001",
+    "flrNo": "40",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "5402",
+    "flrNo": "54",
+    "area": "215.64",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "3903",
+    "flrNo": "39",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3804",
+    "flrNo": "38",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2604",
+    "flrNo": "26",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "806",
+    "flrNo": "8",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3904",
+    "flrNo": "39",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3601",
+    "flrNo": "36",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1406",
+    "flrNo": "14",
+    "area": "83.21",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "4303",
+    "flrNo": "43",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "509",
+    "flrNo": "5",
+    "area": "76.98",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1609",
+    "flrNo": "16",
+    "area": "76.98",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "3301",
+    "flrNo": "33",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1506",
+    "flrNo": "15",
+    "area": "83.21",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "5403",
+    "flrNo": "54",
+    "area": "215.64",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "3504",
+    "flrNo": "35",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "61.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2307",
+    "flrNo": "23",
+    "area": "90.33",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "3905",
+    "flrNo": "39",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "96.27",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "2903",
+    "flrNo": "29",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3003",
+    "flrNo": "30",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1602",
+    "flrNo": "16",
+    "area": "61.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "3801",
+    "flrNo": "38",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3903",
+    "flrNo": "39",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "2004",
+    "flrNo": "20",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "505",
+    "flrNo": "5",
+    "area": "92.28",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "2802",
+    "flrNo": "28",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3901",
+    "flrNo": "39",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "606",
+    "flrNo": "6",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "96.27",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "2006",
+    "flrNo": "20",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3602",
+    "flrNo": "36",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1506",
+    "flrNo": "15",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "3701",
+    "flrNo": "37",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "305",
+    "flrNo": "3",
+    "area": "98.51",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "4504",
+    "flrNo": "45",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2002",
+    "flrNo": "20",
+    "area": "61.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "605",
+    "flrNo": "6",
+    "area": "92.28",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "4104",
+    "flrNo": "41",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1801",
+    "flrNo": "18",
+    "area": "96.27",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "406",
+    "flrNo": "4",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1406",
+    "flrNo": "14",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "3603",
+    "flrNo": "36",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "706",
+    "flrNo": "7",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "4604",
+    "flrNo": "46",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "4705",
+    "flrNo": "47",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "3303",
+    "flrNo": "33",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "2905",
+    "flrNo": "29",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3004",
+    "flrNo": "30",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1109",
+    "flrNo": "11",
+    "area": "76.98",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "2002",
+    "flrNo": "20",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2110",
+    "flrNo": "21",
+    "area": "92.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3706",
+    "flrNo": "37",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "96.27",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "4501",
+    "flrNo": "45",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1509",
+    "flrNo": "15",
+    "area": "76.98",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "2601",
+    "flrNo": "26",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1205",
+    "flrNo": "12",
+    "area": "92.28",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "2403",
+    "flrNo": "24",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2003",
+    "flrNo": "20",
+    "area": "61.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2004",
+    "flrNo": "20",
+    "area": "96.27",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2701",
+    "flrNo": "27",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "2104",
+    "flrNo": "21",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "5003",
+    "flrNo": "50",
+    "area": "215.64",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2901",
+    "flrNo": "29",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1910",
+    "flrNo": "19",
+    "area": "92.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "4603",
+    "flrNo": "46",
+    "area": "215.64",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "2604",
+    "flrNo": "26",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "3904",
+    "flrNo": "39",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "2205",
+    "flrNo": "22",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1602",
+    "flrNo": "16",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "405",
+    "flrNo": "4",
+    "area": "98.51",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "4202",
+    "flrNo": "42",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1802",
+    "flrNo": "18",
+    "area": "61.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "4204",
+    "flrNo": "42",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "3001",
+    "flrNo": "30",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "4201",
+    "flrNo": "42",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1206",
+    "flrNo": "12",
+    "area": "83.21",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "2201",
+    "flrNo": "22",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "96.27",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "상가동",
+    "hoNm": "3",
+    "flrNo": "1",
+    "area": "34.24",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "상점"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "5101",
+    "flrNo": "51",
+    "area": "244.98",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "906",
+    "flrNo": "9",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "상가동",
+    "hoNm": "10",
+    "flrNo": "1",
+    "area": "36.27",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "상점"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "3303",
+    "flrNo": "33",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2804",
+    "flrNo": "28",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1005",
+    "flrNo": "10",
+    "area": "92.28",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "상가동",
+    "hoNm": "9",
+    "flrNo": "1",
+    "area": "35.49",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "상점"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "4701",
+    "flrNo": "47",
+    "area": "209.89",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3505",
+    "flrNo": "35",
+    "area": "98.51",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "4002",
+    "flrNo": "40",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "4405",
+    "flrNo": "44",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "4804",
+    "flrNo": "48",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "1801",
+    "flrNo": "18",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "3204",
+    "flrNo": "32",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "1904",
+    "flrNo": "19",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "2403",
+    "flrNo": "24",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3401",
+    "flrNo": "34",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "5103",
+    "flrNo": "51",
+    "area": "215.64",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "4205",
+    "flrNo": "42",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "96.27",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "5602",
+    "flrNo": "56",
+    "area": "215.64",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "96.27",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "2701",
+    "flrNo": "27",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "4104",
+    "flrNo": "41",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "2101",
+    "flrNo": "21",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "3602",
+    "flrNo": "36",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "상가동",
+    "hoNm": "6",
+    "flrNo": "1",
+    "area": "34.24",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "상점"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "805",
+    "flrNo": "8",
+    "area": "92.28",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1601",
+    "flrNo": "16",
+    "area": "96.27",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "5901",
+    "flrNo": "59",
+    "area": "209.89",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "707",
+    "flrNo": "7",
+    "area": "90.33",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "4403",
+    "flrNo": "44",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2109",
+    "flrNo": "21",
+    "area": "76.98",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "4901",
+    "flrNo": "49",
+    "area": "209.89",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1305",
+    "flrNo": "13",
+    "area": "98.51",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1310",
+    "flrNo": "13",
+    "area": "92.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1804",
+    "flrNo": "18",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1808",
+    "flrNo": "18",
+    "area": "67.62",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "3604",
+    "flrNo": "36",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "5005",
+    "flrNo": "50",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1605",
+    "flrNo": "16",
+    "area": "98.51",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "5002",
+    "flrNo": "50",
+    "area": "215.64",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "61.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "96.27",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2106",
+    "flrNo": "21",
+    "area": "83.21",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1309",
+    "flrNo": "13",
+    "area": "76.98",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "1702",
+    "flrNo": "17",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "96.27",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "61.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "상가동",
+    "hoNm": "15",
+    "flrNo": "1",
+    "area": "35.08",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "상점"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "4903",
+    "flrNo": "49",
+    "area": "215.64",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "806",
+    "flrNo": "8",
+    "area": "83.21",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3406",
+    "flrNo": "34",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "4401",
+    "flrNo": "44",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "3903",
+    "flrNo": "39",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2605",
+    "flrNo": "26",
+    "area": "98.51",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "3501",
+    "flrNo": "35",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "2902",
+    "flrNo": "29",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3604",
+    "flrNo": "36",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "96.27",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "306",
+    "flrNo": "3",
+    "area": "83.21",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "4305",
+    "flrNo": "43",
+    "area": "98.51",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "61.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "4005",
+    "flrNo": "40",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "4602",
+    "flrNo": "46",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "4505",
+    "flrNo": "45",
+    "area": "98.51",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3306",
+    "flrNo": "33",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "4203",
+    "flrNo": "42",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "3504",
+    "flrNo": "35",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "4406",
+    "flrNo": "44",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "3603",
+    "flrNo": "36",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "96.27",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3001",
+    "flrNo": "30",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "4604",
+    "flrNo": "46",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "4102",
+    "flrNo": "41",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "상가동",
+    "hoNm": "1",
+    "flrNo": "1",
+    "area": "43.81",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "상점"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "5703",
+    "flrNo": "57",
+    "area": "215.64",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2010",
+    "flrNo": "20",
+    "area": "92.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "3302",
+    "flrNo": "33",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "4101",
+    "flrNo": "41",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "4602",
+    "flrNo": "46",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "3503",
+    "flrNo": "35",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "2803",
+    "flrNo": "28",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1706",
+    "flrNo": "17",
+    "area": "83.21",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "306",
+    "flrNo": "3",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1703",
+    "flrNo": "17",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "5801",
+    "flrNo": "58",
+    "area": "209.89",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "61.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "207",
+    "flrNo": "2",
+    "area": "90.33",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "3405",
+    "flrNo": "34",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "3702",
+    "flrNo": "37",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3506",
+    "flrNo": "35",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "4803",
+    "flrNo": "48",
+    "area": "215.64",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2703",
+    "flrNo": "27",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "3403",
+    "flrNo": "34",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "상가동",
+    "hoNm": "7",
+    "flrNo": "1",
+    "area": "34.24",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "상점"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3204",
+    "flrNo": "32",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "4303",
+    "flrNo": "43",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "3902",
+    "flrNo": "39",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3006",
+    "flrNo": "30",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "4203",
+    "flrNo": "42",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "1802",
+    "flrNo": "18",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "4306",
+    "flrNo": "43",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1806",
+    "flrNo": "18",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "3901",
+    "flrNo": "39",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "4402",
+    "flrNo": "44",
+    "area": "215.64",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "96.27",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "4102",
+    "flrNo": "41",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2103",
+    "flrNo": "21",
+    "area": "61.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "2102",
+    "flrNo": "21",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "2703",
+    "flrNo": "27",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1505",
+    "flrNo": "15",
+    "area": "92.28",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2306",
+    "flrNo": "23",
+    "area": "83.21",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1904",
+    "flrNo": "19",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "709",
+    "flrNo": "7",
+    "area": "76.98",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "2805",
+    "flrNo": "28",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "1602",
+    "flrNo": "16",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "3702",
+    "flrNo": "37",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "1005",
+    "flrNo": "10",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2905",
+    "flrNo": "29",
+    "area": "98.51",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3205",
+    "flrNo": "32",
+    "area": "98.51",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "705",
+    "flrNo": "7",
+    "area": "98.51",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "2404",
+    "flrNo": "24",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "805",
+    "flrNo": "8",
+    "area": "98.51",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1405",
+    "flrNo": "14",
+    "area": "92.28",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1709",
+    "flrNo": "17",
+    "area": "76.98",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "2605",
+    "flrNo": "26",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "3404",
+    "flrNo": "34",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1307",
+    "flrNo": "13",
+    "area": "90.33",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "61.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "96.27",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2203",
+    "flrNo": "22",
+    "area": "61.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "2602",
+    "flrNo": "26",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "2002",
+    "flrNo": "20",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1604",
+    "flrNo": "16",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "4903",
+    "flrNo": "49",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2806",
+    "flrNo": "28",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1710",
+    "flrNo": "17",
+    "area": "92.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "61.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "905",
+    "flrNo": "9",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "3704",
+    "flrNo": "37",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1804",
+    "flrNo": "18",
+    "area": "96.27",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3403",
+    "flrNo": "34",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "상가동",
+    "hoNm": "4",
+    "flrNo": "1",
+    "area": "34.24",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "상점"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "1601",
+    "flrNo": "16",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "4403",
+    "flrNo": "44",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "1705",
+    "flrNo": "17",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "2502",
+    "flrNo": "25",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "4404",
+    "flrNo": "44",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "61.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "3002",
+    "flrNo": "30",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "5004",
+    "flrNo": "50",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "61.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2906",
+    "flrNo": "29",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "4501",
+    "flrNo": "45",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3304",
+    "flrNo": "33",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1603",
+    "flrNo": "16",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "4401",
+    "flrNo": "44",
+    "area": "209.89",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2210",
+    "flrNo": "22",
+    "area": "92.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3502",
+    "flrNo": "35",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "3705",
+    "flrNo": "37",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "2505",
+    "flrNo": "25",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "710",
+    "flrNo": "7",
+    "area": "92.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "4003",
+    "flrNo": "40",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "2401",
+    "flrNo": "24",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2805",
+    "flrNo": "28",
+    "area": "98.51",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "4605",
+    "flrNo": "46",
+    "area": "98.51",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "61.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "1205",
+    "flrNo": "12",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "3305",
+    "flrNo": "33",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "3503",
+    "flrNo": "35",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "61.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "4304",
+    "flrNo": "43",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "4902",
+    "flrNo": "49",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2008",
+    "flrNo": "20",
+    "area": "67.62",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3705",
+    "flrNo": "37",
+    "area": "98.51",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "3002",
+    "flrNo": "30",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "208",
+    "flrNo": "2",
+    "area": "67.62",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "2603",
+    "flrNo": "26",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2101",
+    "flrNo": "21",
+    "area": "96.27",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3905",
+    "flrNo": "39",
+    "area": "98.51",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "3202",
+    "flrNo": "32",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3101",
+    "flrNo": "31",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "907",
+    "flrNo": "9",
+    "area": "90.33",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3702",
+    "flrNo": "37",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "3705",
+    "flrNo": "37",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2305",
+    "flrNo": "23",
+    "area": "92.28",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "510",
+    "flrNo": "5",
+    "area": "92.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "1405",
+    "flrNo": "14",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3202",
+    "flrNo": "32",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "4503",
+    "flrNo": "45",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "2704",
+    "flrNo": "27",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "2405",
+    "flrNo": "24",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "4001",
+    "flrNo": "40",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "4503",
+    "flrNo": "45",
+    "area": "215.64",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "4602",
+    "flrNo": "46",
+    "area": "215.64",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "3701",
+    "flrNo": "37",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "1903",
+    "flrNo": "19",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3902",
+    "flrNo": "39",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "2405",
+    "flrNo": "24",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "96.27",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2601",
+    "flrNo": "26",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "3205",
+    "flrNo": "32",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2205",
+    "flrNo": "22",
+    "area": "92.28",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2007",
+    "flrNo": "20",
+    "area": "90.33",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3103",
+    "flrNo": "31",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3402",
+    "flrNo": "34",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "2304",
+    "flrNo": "23",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1701",
+    "flrNo": "17",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "5104",
+    "flrNo": "51",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3104",
+    "flrNo": "31",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "3203",
+    "flrNo": "32",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "3502",
+    "flrNo": "35",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3303",
+    "flrNo": "33",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1903",
+    "flrNo": "19",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "4501",
+    "flrNo": "45",
+    "area": "209.89",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "상가동",
+    "hoNm": "11",
+    "flrNo": "1",
+    "area": "43.22",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "상점"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "3204",
+    "flrNo": "32",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1806",
+    "flrNo": "18",
+    "area": "83.21",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "506",
+    "flrNo": "5",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2301",
+    "flrNo": "23",
+    "area": "96.27",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "1505",
+    "flrNo": "15",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "4803",
+    "flrNo": "48",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "96.27",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "3704",
+    "flrNo": "37",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1610",
+    "flrNo": "16",
+    "area": "92.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "2103",
+    "flrNo": "21",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1905",
+    "flrNo": "19",
+    "area": "98.51",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "96.27",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "4103",
+    "flrNo": "41",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "308",
+    "flrNo": "3",
+    "area": "67.62",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "2501",
+    "flrNo": "25",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "4305",
+    "flrNo": "43",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "5502",
+    "flrNo": "55",
+    "area": "215.64",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2304",
+    "flrNo": "23",
+    "area": "96.27",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "508",
+    "flrNo": "5",
+    "area": "67.62",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "61.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1209",
+    "flrNo": "12",
+    "area": "76.98",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "61.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "3405",
+    "flrNo": "34",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "3905",
+    "flrNo": "39",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "상가동",
+    "hoNm": "12",
+    "flrNo": "1",
+    "area": "121.7",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "판매시설(상점)"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "4402",
+    "flrNo": "44",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1906",
+    "flrNo": "19",
+    "area": "83.21",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "4103",
+    "flrNo": "41",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2107",
+    "flrNo": "21",
+    "area": "90.33",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1008",
+    "flrNo": "10",
+    "area": "67.62",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "4902",
+    "flrNo": "49",
+    "area": "215.64",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "3304",
+    "flrNo": "33",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "606",
+    "flrNo": "6",
+    "area": "83.21",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "4003",
+    "flrNo": "40",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "2202",
+    "flrNo": "22",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "상가동",
+    "hoNm": "2",
+    "flrNo": "1",
+    "area": "34.24",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "상점"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "2005",
+    "flrNo": "20",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "61.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3201",
+    "flrNo": "32",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "2601",
+    "flrNo": "26",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "3005",
+    "flrNo": "30",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "24",
+    "flrNo": "1",
+    "area": "19.49",
+    "mainPurpsCd": "04403",
+    "mainPurpsCdNm": "부동산중개업소",
+    "etcPurps": "제2종근린생활시설(부동산중개업소)"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "상가동",
+    "hoNm": "8",
+    "flrNo": "1",
+    "area": "34.24",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "상점"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "4402",
+    "flrNo": "44",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "705",
+    "flrNo": "7",
+    "area": "92.28",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "61.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1705",
+    "flrNo": "17",
+    "area": "92.28",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "4005",
+    "flrNo": "40",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "4601",
+    "flrNo": "46",
+    "area": "209.89",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "4702",
+    "flrNo": "47",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1405",
+    "flrNo": "14",
+    "area": "98.51",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "5601",
+    "flrNo": "56",
+    "area": "209.89",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "4005",
+    "flrNo": "40",
+    "area": "98.51",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3605",
+    "flrNo": "36",
+    "area": "98.51",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "405",
+    "flrNo": "4",
+    "area": "92.28",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "4901",
+    "flrNo": "49",
+    "area": "209.89",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "4601",
+    "flrNo": "46",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "4603",
+    "flrNo": "46",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "3804",
+    "flrNo": "38",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "4802",
+    "flrNo": "48",
+    "area": "215.64",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1408",
+    "flrNo": "14",
+    "area": "67.62",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "2502",
+    "flrNo": "25",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1208",
+    "flrNo": "12",
+    "area": "67.62",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "206",
+    "flrNo": "2",
+    "area": "83.21",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "1605",
+    "flrNo": "16",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "4105",
+    "flrNo": "41",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "3902",
+    "flrNo": "39",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "410",
+    "flrNo": "4",
+    "area": "92.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "상가동",
+    "hoNm": "20",
+    "flrNo": "1",
+    "area": "38.2",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "판매시설(상점)"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "5302",
+    "flrNo": "53",
+    "area": "215.64",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "2003",
+    "flrNo": "20",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "2105",
+    "flrNo": "21",
+    "area": "98.51",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "3004",
+    "flrNo": "30",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1708",
+    "flrNo": "17",
+    "area": "67.62",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "605",
+    "flrNo": "6",
+    "area": "98.51",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2207",
+    "flrNo": "22",
+    "area": "90.33",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "5001",
+    "flrNo": "50",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "3401",
+    "flrNo": "34",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "1105",
+    "flrNo": "11",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1701",
+    "flrNo": "17",
+    "area": "96.27",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "6002",
+    "flrNo": "60",
+    "area": "244.98",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3906",
+    "flrNo": "39",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "61.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "3402",
+    "flrNo": "34",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "2702",
+    "flrNo": "27",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "3301",
+    "flrNo": "33",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "3404",
+    "flrNo": "34",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "3805",
+    "flrNo": "38",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "4404",
+    "flrNo": "44",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "61.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3701",
+    "flrNo": "37",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1605",
+    "flrNo": "16",
+    "area": "92.28",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "408",
+    "flrNo": "4",
+    "area": "67.62",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "4605",
+    "flrNo": "46",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3206",
+    "flrNo": "32",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "96.27",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "4101",
+    "flrNo": "41",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1110",
+    "flrNo": "11",
+    "area": "92.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "2402",
+    "flrNo": "24",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2802",
+    "flrNo": "28",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3803",
+    "flrNo": "38",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2603",
+    "flrNo": "26",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "3802",
+    "flrNo": "38",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "상가동",
+    "hoNm": "18",
+    "flrNo": "1",
+    "area": "160.58",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "판매시설(상점)"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "2106",
+    "flrNo": "21",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "61.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1607",
+    "flrNo": "16",
+    "area": "90.33",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "3105",
+    "flrNo": "31",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "96.27",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1702",
+    "flrNo": "17",
+    "area": "61.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "2105",
+    "flrNo": "21",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3002",
+    "flrNo": "30",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1006",
+    "flrNo": "10",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "5603",
+    "flrNo": "56",
+    "area": "215.64",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "3605",
+    "flrNo": "36",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "5102",
+    "flrNo": "51",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "5301",
+    "flrNo": "53",
+    "area": "209.89",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "4802",
+    "flrNo": "48",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "61.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "1305",
+    "flrNo": "13",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1809",
+    "flrNo": "18",
+    "area": "76.98",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3801",
+    "flrNo": "38",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "1902",
+    "flrNo": "19",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "810",
+    "flrNo": "8",
+    "area": "92.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1603",
+    "flrNo": "16",
+    "area": "61.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2602",
+    "flrNo": "26",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "4701",
+    "flrNo": "47",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "3105",
+    "flrNo": "31",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "2005",
+    "flrNo": "20",
+    "area": "98.51",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "61.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "705",
+    "flrNo": "7",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3703",
+    "flrNo": "37",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "5001",
+    "flrNo": "50",
+    "area": "209.89",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1006",
+    "flrNo": "10",
+    "area": "83.21",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "1804",
+    "flrNo": "18",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "4502",
+    "flrNo": "45",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "4205",
+    "flrNo": "42",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "3004",
+    "flrNo": "30",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "5003",
+    "flrNo": "50",
+    "area": "215.64",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "3304",
+    "flrNo": "33",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1704",
+    "flrNo": "17",
+    "area": "96.27",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "61.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "96.27",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3806",
+    "flrNo": "38",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2208",
+    "flrNo": "22",
+    "area": "67.62",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "209",
+    "flrNo": "2",
+    "area": "76.98",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1608",
+    "flrNo": "16",
+    "area": "67.62",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "96.27",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2006",
+    "flrNo": "20",
+    "area": "83.21",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "2702",
+    "flrNo": "27",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "4202",
+    "flrNo": "42",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "5701",
+    "flrNo": "57",
+    "area": "209.89",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "4902",
+    "flrNo": "49",
+    "area": "215.64",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "405",
+    "flrNo": "4",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "3205",
+    "flrNo": "32",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "3104",
+    "flrNo": "31",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "2301",
+    "flrNo": "23",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "206",
+    "flrNo": "2",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1510",
+    "flrNo": "15",
+    "area": "92.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1907",
+    "flrNo": "19",
+    "area": "90.33",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "5102",
+    "flrNo": "51",
+    "area": "244.67",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "609",
+    "flrNo": "6",
+    "area": "76.98",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1505",
+    "flrNo": "15",
+    "area": "98.51",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "1901",
+    "flrNo": "19",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2902",
+    "flrNo": "29",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1105",
+    "flrNo": "11",
+    "area": "92.28",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1805",
+    "flrNo": "18",
+    "area": "92.28",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2309",
+    "flrNo": "23",
+    "area": "76.98",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "5202",
+    "flrNo": "52",
+    "area": "244.67",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "4101",
+    "flrNo": "41",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "3601",
+    "flrNo": "36",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "26",
+    "flrNo": "1",
+    "area": "18.09",
+    "mainPurpsCd": "04403",
+    "mainPurpsCdNm": "부동산중개업소",
+    "etcPurps": "제2종근린생활시설(부동산중개업소)"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "5903",
+    "flrNo": "59",
+    "area": "215.64",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "3403",
+    "flrNo": "34",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "5001",
+    "flrNo": "50",
+    "area": "209.89",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "3501",
+    "flrNo": "35",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "4704",
+    "flrNo": "47",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "4502",
+    "flrNo": "45",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "3102",
+    "flrNo": "31",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "3402",
+    "flrNo": "34",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "2603",
+    "flrNo": "26",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "4405",
+    "flrNo": "44",
+    "area": "98.51",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3704",
+    "flrNo": "37",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "2004",
+    "flrNo": "20",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "2505",
+    "flrNo": "25",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "4606",
+    "flrNo": "46",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "상가동",
+    "hoNm": "16",
+    "flrNo": "1",
+    "area": "26.47",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "판매시설(상점)"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "1603",
+    "flrNo": "16",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "1905",
+    "flrNo": "19",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1306",
+    "flrNo": "13",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "3803",
+    "flrNo": "38",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "5003",
+    "flrNo": "50",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "3901",
+    "flrNo": "39",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "4802",
+    "flrNo": "48",
+    "area": "215.64",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3503",
+    "flrNo": "35",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "5503",
+    "flrNo": "55",
+    "area": "215.64",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1606",
+    "flrNo": "16",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "4801",
+    "flrNo": "48",
+    "area": "209.89",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2108",
+    "flrNo": "21",
+    "area": "67.62",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "2804",
+    "flrNo": "28",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1205",
+    "flrNo": "12",
+    "area": "98.51",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "5105",
+    "flrNo": "51",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2702",
+    "flrNo": "27",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "4301",
+    "flrNo": "43",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "4703",
+    "flrNo": "47",
+    "area": "215.64",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "2401",
+    "flrNo": "24",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1107",
+    "flrNo": "11",
+    "area": "90.33",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "4302",
+    "flrNo": "43",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "706",
+    "flrNo": "7",
+    "area": "83.21",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "309",
+    "flrNo": "3",
+    "area": "76.98",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "2503",
+    "flrNo": "25",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "2704",
+    "flrNo": "27",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1305",
+    "flrNo": "13",
+    "area": "92.28",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3102",
+    "flrNo": "31",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1207",
+    "flrNo": "12",
+    "area": "90.33",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "4204",
+    "flrNo": "42",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "상가동",
+    "hoNm": "21",
+    "flrNo": "1",
+    "area": "38.2",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "판매시설(상점)"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "3003",
+    "flrNo": "30",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "507",
+    "flrNo": "5",
+    "area": "90.33",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1306",
+    "flrNo": "13",
+    "area": "83.21",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1606",
+    "flrNo": "16",
+    "area": "83.21",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "2302",
+    "flrNo": "23",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "909",
+    "flrNo": "9",
+    "area": "76.98",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "3202",
+    "flrNo": "32",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "25",
+    "flrNo": "1",
+    "area": "19.49",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "상점"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "4004",
+    "flrNo": "40",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1206",
+    "flrNo": "12",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "3103",
+    "flrNo": "31",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "4801",
+    "flrNo": "48",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3302",
+    "flrNo": "33",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "607",
+    "flrNo": "6",
+    "area": "90.33",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "4601",
+    "flrNo": "46",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1407",
+    "flrNo": "14",
+    "area": "90.33",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "61.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "4002",
+    "flrNo": "40",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "61.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "307",
+    "flrNo": "3",
+    "area": "90.33",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3802",
+    "flrNo": "38",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3203",
+    "flrNo": "32",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "96.27",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "3505",
+    "flrNo": "35",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "5002",
+    "flrNo": "50",
+    "area": "215.64",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "5002",
+    "flrNo": "50",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3005",
+    "flrNo": "30",
+    "area": "98.51",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1604",
+    "flrNo": "16",
+    "area": "96.27",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "3605",
+    "flrNo": "36",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "5803",
+    "flrNo": "58",
+    "area": "215.64",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "2504",
+    "flrNo": "25",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "2705",
+    "flrNo": "27",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2705",
+    "flrNo": "27",
+    "area": "98.51",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "4504",
+    "flrNo": "45",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "506",
+    "flrNo": "5",
+    "area": "83.21",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "2701",
+    "flrNo": "27",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "3101",
+    "flrNo": "31",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1108",
+    "flrNo": "11",
+    "area": "67.62",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2204",
+    "flrNo": "22",
+    "area": "96.27",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "4505",
+    "flrNo": "45",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "4302",
+    "flrNo": "43",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "4103",
+    "flrNo": "41",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "4401",
+    "flrNo": "44",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "505",
+    "flrNo": "5",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "2103",
+    "flrNo": "21",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "4104",
+    "flrNo": "41",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "4703",
+    "flrNo": "47",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "608",
+    "flrNo": "6",
+    "area": "67.62",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "808",
+    "flrNo": "8",
+    "area": "67.62",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "5702",
+    "flrNo": "57",
+    "area": "215.64",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1210",
+    "flrNo": "12",
+    "area": "92.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "5201",
+    "flrNo": "52",
+    "area": "244.98",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "1805",
+    "flrNo": "18",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "3102",
+    "flrNo": "31",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "4001",
+    "flrNo": "40",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3105",
+    "flrNo": "31",
+    "area": "98.51",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "4002",
+    "flrNo": "40",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "96.27",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "2801",
+    "flrNo": "28",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "2402",
+    "flrNo": "24",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "4106",
+    "flrNo": "41",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1908",
+    "flrNo": "19",
+    "area": "67.62",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "2503",
+    "flrNo": "25",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "3302",
+    "flrNo": "33",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "2204",
+    "flrNo": "22",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1904",
+    "flrNo": "19",
+    "area": "96.27",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "1703",
+    "flrNo": "17",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1007",
+    "flrNo": "10",
+    "area": "90.33",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1508",
+    "flrNo": "15",
+    "area": "67.62",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "4205",
+    "flrNo": "42",
+    "area": "98.51",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "908",
+    "flrNo": "9",
+    "area": "67.62",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "4105",
+    "flrNo": "41",
+    "area": "98.51",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "2703",
+    "flrNo": "27",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "407",
+    "flrNo": "4",
+    "area": "90.33",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "2404",
+    "flrNo": "24",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1903",
+    "flrNo": "19",
+    "area": "61.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "3805",
+    "flrNo": "38",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "905",
+    "flrNo": "9",
+    "area": "92.28",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "3101",
+    "flrNo": "31",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "4202",
+    "flrNo": "42",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1601",
+    "flrNo": "16",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "2705",
+    "flrNo": "27",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "305",
+    "flrNo": "3",
+    "area": "92.28",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "310",
+    "flrNo": "3",
+    "area": "92.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "406",
+    "flrNo": "4",
+    "area": "83.21",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1703",
+    "flrNo": "17",
+    "area": "61.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "상가동",
+    "hoNm": "5",
+    "flrNo": "1",
+    "area": "34.24",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "상점"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1902",
+    "flrNo": "19",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2904",
+    "flrNo": "29",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1909",
+    "flrNo": "19",
+    "area": "76.98",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "3502",
+    "flrNo": "35",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "1604",
+    "flrNo": "16",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "4004",
+    "flrNo": "40",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3301",
+    "flrNo": "33",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "4206",
+    "flrNo": "42",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "910",
+    "flrNo": "9",
+    "area": "92.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "2101",
+    "flrNo": "21",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "5401",
+    "flrNo": "54",
+    "area": "209.89",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "61.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2606",
+    "flrNo": "26",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "61.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1106",
+    "flrNo": "11",
+    "area": "83.21",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1706",
+    "flrNo": "17",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "3103",
+    "flrNo": "31",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2005",
+    "flrNo": "20",
+    "area": "92.28",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "2303",
+    "flrNo": "23",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "3604",
+    "flrNo": "36",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "505",
+    "flrNo": "5",
+    "area": "98.51",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "5102",
+    "flrNo": "51",
+    "area": "215.64",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "22",
+    "flrNo": "1",
+    "area": "62.93",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "상점"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "4201",
+    "flrNo": "42",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1009",
+    "flrNo": "10",
+    "area": "76.98",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "2003",
+    "flrNo": "20",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2308",
+    "flrNo": "23",
+    "area": "67.62",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "96.27",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2001",
+    "flrNo": "20",
+    "area": "96.27",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2206",
+    "flrNo": "22",
+    "area": "83.21",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "96.27",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "96.27",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "3703",
+    "flrNo": "37",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1705",
+    "flrNo": "17",
+    "area": "98.51",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2209",
+    "flrNo": "22",
+    "area": "76.98",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "96.27",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2104",
+    "flrNo": "21",
+    "area": "96.27",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "6001",
+    "flrNo": "60",
+    "area": "244.67",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2201",
+    "flrNo": "22",
+    "area": "96.27",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1905",
+    "flrNo": "19",
+    "area": "92.28",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "96.27",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "906",
+    "flrNo": "9",
+    "area": "83.21",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "상가동",
+    "hoNm": "14",
+    "flrNo": "1",
+    "area": "85.15",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "상점"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "4304",
+    "flrNo": "43",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2303",
+    "flrNo": "23",
+    "area": "61.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "809",
+    "flrNo": "8",
+    "area": "76.98",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "4803",
+    "flrNo": "48",
+    "area": "215.64",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2310",
+    "flrNo": "23",
+    "area": "92.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "708",
+    "flrNo": "7",
+    "area": "67.62",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "4503",
+    "flrNo": "45",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1010",
+    "flrNo": "10",
+    "area": "92.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "5303",
+    "flrNo": "53",
+    "area": "215.64",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "4201",
+    "flrNo": "42",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "61.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3504",
+    "flrNo": "35",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3106",
+    "flrNo": "31",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3405",
+    "flrNo": "34",
+    "area": "98.51",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "2604",
+    "flrNo": "26",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "61.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "4603",
+    "flrNo": "46",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "2605",
+    "flrNo": "26",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "2001",
+    "flrNo": "20",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "605",
+    "flrNo": "6",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1803",
+    "flrNo": "18",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "3505",
+    "flrNo": "35",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "3601",
+    "flrNo": "36",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "3201",
+    "flrNo": "32",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "1701",
+    "flrNo": "17",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3305",
+    "flrNo": "33",
+    "area": "98.51",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "4506",
+    "flrNo": "45",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "4004",
+    "flrNo": "40",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "3801",
+    "flrNo": "38",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1106",
+    "flrNo": "11",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "3703",
+    "flrNo": "37",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "409",
+    "flrNo": "4",
+    "area": "76.98",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "5902",
+    "flrNo": "59",
+    "area": "215.64",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3501",
+    "flrNo": "35",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1410",
+    "flrNo": "14",
+    "area": "92.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1906",
+    "flrNo": "19",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2202",
+    "flrNo": "22",
+    "area": "61.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "2203",
+    "flrNo": "22",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "4301",
+    "flrNo": "43",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2302",
+    "flrNo": "23",
+    "area": "61.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "4203",
+    "flrNo": "42",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "5101",
+    "flrNo": "51",
+    "area": "209.89",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "2102",
+    "flrNo": "21",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "23",
+    "flrNo": "1",
+    "area": "27.97",
+    "mainPurpsCd": "04403",
+    "mainPurpsCdNm": "부동산중개업소",
+    "etcPurps": "제2종근린생활시설(부동산중개업소)"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "3305",
+    "flrNo": "33",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "2501",
+    "flrNo": "25",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "805",
+    "flrNo": "8",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1805",
+    "flrNo": "18",
+    "area": "98.51",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "4904",
+    "flrNo": "49",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1105",
+    "flrNo": "11",
+    "area": "98.51",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "4006",
+    "flrNo": "40",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2706",
+    "flrNo": "27",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "61.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "1704",
+    "flrNo": "17",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2009",
+    "flrNo": "20",
+    "area": "76.98",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "3401",
+    "flrNo": "34",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1901",
+    "flrNo": "19",
+    "area": "96.27",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "1803",
+    "flrNo": "18",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "2904",
+    "flrNo": "29",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1802",
+    "flrNo": "18",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1702",
+    "flrNo": "17",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "3201",
+    "flrNo": "32",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3404",
+    "flrNo": "34",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "2901",
+    "flrNo": "29",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "5802",
+    "flrNo": "58",
+    "area": "215.64",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "3803",
+    "flrNo": "38",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "5103",
+    "flrNo": "51",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "4901",
+    "flrNo": "49",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "4204",
+    "flrNo": "42",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "4801",
+    "flrNo": "48",
+    "area": "209.89",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "4805",
+    "flrNo": "48",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "3104",
+    "flrNo": "31",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2102",
+    "flrNo": "21",
+    "area": "61.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1507",
+    "flrNo": "15",
+    "area": "90.33",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1704",
+    "flrNo": "17",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "2001",
+    "flrNo": "20",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "2602",
+    "flrNo": "26",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1810",
+    "flrNo": "18",
+    "area": "92.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "4702",
+    "flrNo": "47",
+    "area": "215.64",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2803",
+    "flrNo": "28",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2704",
+    "flrNo": "27",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "3005",
+    "flrNo": "30",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "2305",
+    "flrNo": "23",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "4105",
+    "flrNo": "41",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "3003",
+    "flrNo": "30",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "5101",
+    "flrNo": "51",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1901",
+    "flrNo": "19",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1902",
+    "flrNo": "19",
+    "area": "61.41",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "1409",
+    "flrNo": "14",
+    "area": "76.98",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "3602",
+    "flrNo": "36",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "5501",
+    "flrNo": "55",
+    "area": "209.89",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2105",
+    "flrNo": "21",
+    "area": "92.28",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "2504",
+    "flrNo": "25",
+    "area": "109.14",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3603",
+    "flrNo": "36",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "3203",
+    "flrNo": "32",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "96.27",
+    "mainPurpsCd": "14202",
+    "mainPurpsCdNm": "오피스텔",
+    "etcPurps": "오피스텔"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "2801",
+    "flrNo": "28",
+    "area": "135.65",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "A동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "B동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "164.32",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": "더샾 센텀스타",
+    "dongNm": "C동",
+    "hoNm": "3606",
+    "flrNo": "36",
+    "area": "115.93",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  }
+]

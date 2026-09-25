@@ -1,0 +1,6162 @@
+[
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1403호",
+    "flrNo": "12",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2511호",
+    "flrNo": "23",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1022호",
+    "flrNo": "8",
+    "area": "115.04",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2701호",
+    "flrNo": "25",
+    "area": "98.68",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1704호",
+    "flrNo": "15",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2717호",
+    "flrNo": "25",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2411호",
+    "flrNo": "22",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1609호",
+    "flrNo": "14",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1202호",
+    "flrNo": "10",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "지하1층115호",
+    "flrNo": "1",
+    "area": "46.4",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2901호",
+    "flrNo": "27",
+    "area": "98.68",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "지하1층112호",
+    "flrNo": "1",
+    "area": "11.12",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "718호",
+    "flrNo": "5",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "지하1층135호",
+    "flrNo": "1",
+    "area": "27.227",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1210호",
+    "flrNo": "10",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2318호",
+    "flrNo": "21",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1910호",
+    "flrNo": "17",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1016호",
+    "flrNo": "8",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "지하1층113호",
+    "flrNo": "1",
+    "area": "12.44",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1722호",
+    "flrNo": "15",
+    "area": "115.04",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1510호",
+    "flrNo": "13",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "722호",
+    "flrNo": "5",
+    "area": "115.04",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2905호",
+    "flrNo": "27",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2410호",
+    "flrNo": "22",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2319호",
+    "flrNo": "21",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "상가1층107호",
+    "flrNo": "1",
+    "area": "44.215",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "판매시설(상점)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2810호",
+    "flrNo": "26",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "703호",
+    "flrNo": "5",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1904호",
+    "flrNo": "17",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1814호",
+    "flrNo": "16",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2407호",
+    "flrNo": "22",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2820호",
+    "flrNo": "26",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2705호",
+    "flrNo": "25",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1519호",
+    "flrNo": "13",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1115호",
+    "flrNo": "9",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1317호",
+    "flrNo": "11",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "819호",
+    "flrNo": "6",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1416호",
+    "flrNo": "12",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1105호",
+    "flrNo": "9",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2321호",
+    "flrNo": "21",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1203호",
+    "flrNo": "10",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2404호",
+    "flrNo": "22",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1114호",
+    "flrNo": "9",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1621호",
+    "flrNo": "14",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2902호",
+    "flrNo": "27",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "지하1층104호",
+    "flrNo": "1",
+    "area": "23.24",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "702호",
+    "flrNo": "5",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2505호",
+    "flrNo": "23",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2812호",
+    "flrNo": "26",
+    "area": "98.68",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1617호",
+    "flrNo": "14",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "912호",
+    "flrNo": "7",
+    "area": "98.68",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2421호",
+    "flrNo": "22",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "지상2층202호",
+    "flrNo": "2",
+    "area": "995.08",
+    "mainPurpsCd": "04107",
+    "mainPurpsCdNm": "골프연습장",
+    "etcPurps": "운동시설(골프연습장)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1605호",
+    "flrNo": "14",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "지상3층301호",
+    "flrNo": "3",
+    "area": "2265.81",
+    "mainPurpsCd": null,
+    "mainPurpsCdNm": null,
+    "etcPurps": "병원"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1102호",
+    "flrNo": "9",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1711호",
+    "flrNo": "15",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "601호",
+    "flrNo": "4",
+    "area": "98.68",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "708호",
+    "flrNo": "5",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2101호",
+    "flrNo": "19",
+    "area": "98.68",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "지하1층134호",
+    "flrNo": "1",
+    "area": "23.004",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "907호",
+    "flrNo": "7",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1919호",
+    "flrNo": "17",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2417호",
+    "flrNo": "22",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1415호",
+    "flrNo": "12",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1618호",
+    "flrNo": "14",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "3015호",
+    "flrNo": "28",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1705호",
+    "flrNo": "15",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1217호",
+    "flrNo": "10",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2403호",
+    "flrNo": "22",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2209호",
+    "flrNo": "20",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "지하1층145호",
+    "flrNo": "1",
+    "area": "267.024",
+    "mainPurpsCd": "03004",
+    "mainPurpsCdNm": "일반목욕장",
+    "etcPurps": "일반목욕장"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1804호",
+    "flrNo": "16",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2413호",
+    "flrNo": "22",
+    "area": "115.04",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2210호",
+    "flrNo": "20",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1204호",
+    "flrNo": "10",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "상가1층104호",
+    "flrNo": "1",
+    "area": "46.605",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "판매시설(상점)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1516호",
+    "flrNo": "13",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2301호",
+    "flrNo": "21",
+    "area": "98.68",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1017호",
+    "flrNo": "8",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2711호",
+    "flrNo": "25",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "3019호",
+    "flrNo": "28",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1108호",
+    "flrNo": "9",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "3006호",
+    "flrNo": "28",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2401호",
+    "flrNo": "22",
+    "area": "98.68",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1421호",
+    "flrNo": "12",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1008호",
+    "flrNo": "8",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1720호",
+    "flrNo": "15",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1703호",
+    "flrNo": "15",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2606호",
+    "flrNo": "24",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "701호",
+    "flrNo": "5",
+    "area": "98.68",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1010호",
+    "flrNo": "8",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2418호",
+    "flrNo": "22",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1822호",
+    "flrNo": "16",
+    "area": "115.04",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "지하1층136호",
+    "flrNo": "1",
+    "area": "28.862",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "3016호",
+    "flrNo": "28",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "지하1층110호",
+    "flrNo": "1",
+    "area": "29.73",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2107호",
+    "flrNo": "19",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1504호",
+    "flrNo": "13",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1914호",
+    "flrNo": "17",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2119호",
+    "flrNo": "19",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2805호",
+    "flrNo": "26",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2312호",
+    "flrNo": "21",
+    "area": "98.68",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1121호",
+    "flrNo": "9",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2817호",
+    "flrNo": "26",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "상가1층119호",
+    "flrNo": "1",
+    "area": "37.245",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "판매시설(상점)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "지하1층103호",
+    "flrNo": "1",
+    "area": "21.52",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2102호",
+    "flrNo": "19",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2306호",
+    "flrNo": "21",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2416호",
+    "flrNo": "22",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2702호",
+    "flrNo": "25",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2019호",
+    "flrNo": "18",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1613호",
+    "flrNo": "14",
+    "area": "115.04",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2112호",
+    "flrNo": "19",
+    "area": "98.68",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "지하1층122호",
+    "flrNo": "1",
+    "area": "26.53",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1611호",
+    "flrNo": "14",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2703호",
+    "flrNo": "25",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "상가1층103호",
+    "flrNo": "1",
+    "area": "46.605",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "판매시설(상점)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2804호",
+    "flrNo": "26",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "지하1층106호",
+    "flrNo": "1",
+    "area": "58.38",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1719호",
+    "flrNo": "15",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "813호",
+    "flrNo": "6",
+    "area": "115.04",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1810호",
+    "flrNo": "16",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "3009호",
+    "flrNo": "28",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "상가1층105호",
+    "flrNo": "1",
+    "area": "46.605",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "판매시설(상점)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2216호",
+    "flrNo": "20",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1117호",
+    "flrNo": "9",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "607호",
+    "flrNo": "4",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2303호",
+    "flrNo": "21",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2918호",
+    "flrNo": "27",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2408호",
+    "flrNo": "22",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "상가1층111호",
+    "flrNo": "1",
+    "area": "46.605",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "판매시설(상점)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2904호",
+    "flrNo": "27",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "3010호",
+    "flrNo": "28",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1209호",
+    "flrNo": "10",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "지하1층102-1호",
+    "flrNo": "1",
+    "area": "17.17",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "902호",
+    "flrNo": "7",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "916호",
+    "flrNo": "7",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2514호",
+    "flrNo": "23",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1305호",
+    "flrNo": "11",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1620호",
+    "flrNo": "14",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1407호",
+    "flrNo": "12",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2422호",
+    "flrNo": "22",
+    "area": "115.04",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1120호",
+    "flrNo": "9",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "820호",
+    "flrNo": "6",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2005호",
+    "flrNo": "18",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "810호",
+    "flrNo": "6",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2008호",
+    "flrNo": "18",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "809호",
+    "flrNo": "6",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2218호",
+    "flrNo": "20",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1418호",
+    "flrNo": "12",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2117호",
+    "flrNo": "19",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "상가1층101호",
+    "flrNo": "1",
+    "area": "333.35",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1004호",
+    "flrNo": "8",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2910호",
+    "flrNo": "27",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2619호",
+    "flrNo": "24",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1207호",
+    "flrNo": "10",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1306호",
+    "flrNo": "11",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "3012호",
+    "flrNo": "28",
+    "area": "98.68",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1301호",
+    "flrNo": "11",
+    "area": "98.68",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1303호",
+    "flrNo": "11",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "706호",
+    "flrNo": "5",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "지하1층116호",
+    "flrNo": "1",
+    "area": "12.62",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1320호",
+    "flrNo": "11",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2602호",
+    "flrNo": "24",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2409호",
+    "flrNo": "22",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1014호",
+    "flrNo": "8",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2412호",
+    "flrNo": "22",
+    "area": "98.68",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "915호",
+    "flrNo": "7",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1603호",
+    "flrNo": "14",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "901호",
+    "flrNo": "7",
+    "area": "98.68",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "715호",
+    "flrNo": "5",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1112호",
+    "flrNo": "9",
+    "area": "98.68",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1003호",
+    "flrNo": "8",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2010호",
+    "flrNo": "18",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2103호",
+    "flrNo": "19",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2204호",
+    "flrNo": "20",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2308호",
+    "flrNo": "21",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "714호",
+    "flrNo": "5",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "상가1층110호",
+    "flrNo": "1",
+    "area": "46.605",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "판매시설(상점)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2622호",
+    "flrNo": "24",
+    "area": "115.04",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1905호",
+    "flrNo": "17",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1601호",
+    "flrNo": "14",
+    "area": "98.68",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "3003호",
+    "flrNo": "28",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2614호",
+    "flrNo": "24",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "지하1층111호",
+    "flrNo": "1",
+    "area": "56.6",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2517호",
+    "flrNo": "23",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1917호",
+    "flrNo": "17",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2718호",
+    "flrNo": "25",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "709호",
+    "flrNo": "5",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2508호",
+    "flrNo": "23",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2001호",
+    "flrNo": "18",
+    "area": "98.68",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2809호",
+    "flrNo": "26",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "지하1층133호",
+    "flrNo": "1",
+    "area": "22.23",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "713호",
+    "flrNo": "5",
+    "area": "115.04",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1106호",
+    "flrNo": "9",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1405호",
+    "flrNo": "12",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2208호",
+    "flrNo": "20",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2021호",
+    "flrNo": "18",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2815호",
+    "flrNo": "26",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1707호",
+    "flrNo": "15",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1007호",
+    "flrNo": "8",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1213호",
+    "flrNo": "10",
+    "area": "115.04",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "지하1층119호",
+    "flrNo": "1",
+    "area": "16.04",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2414호",
+    "flrNo": "22",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "719호",
+    "flrNo": "5",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1119호",
+    "flrNo": "9",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2002호",
+    "flrNo": "18",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1717호",
+    "flrNo": "15",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1616호",
+    "flrNo": "14",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2215호",
+    "flrNo": "20",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2120호",
+    "flrNo": "19",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1506호",
+    "flrNo": "13",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1122호",
+    "flrNo": "9",
+    "area": "115.04",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "3007호",
+    "flrNo": "28",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2720호",
+    "flrNo": "25",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1907호",
+    "flrNo": "17",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1505호",
+    "flrNo": "13",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "상가1층112호",
+    "flrNo": "1",
+    "area": "333.35",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "판매시설(상점)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2819호",
+    "flrNo": "26",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2214호",
+    "flrNo": "20",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2803호",
+    "flrNo": "26",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2206호",
+    "flrNo": "20",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1803호",
+    "flrNo": "16",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "720호",
+    "flrNo": "5",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2607호",
+    "flrNo": "24",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "604호",
+    "flrNo": "4",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2504호",
+    "flrNo": "23",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2202호",
+    "flrNo": "20",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "지하1층121호",
+    "flrNo": "1",
+    "area": "13.04",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2903호",
+    "flrNo": "27",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1701호",
+    "flrNo": "15",
+    "area": "98.68",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2118호",
+    "flrNo": "19",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2207호",
+    "flrNo": "20",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "911호",
+    "flrNo": "7",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1502호",
+    "flrNo": "13",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2006호",
+    "flrNo": "18",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "716호",
+    "flrNo": "5",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "지하1층140호",
+    "flrNo": "1",
+    "area": "21.04",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2909호",
+    "flrNo": "27",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2603호",
+    "flrNo": "24",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "지하1층127호",
+    "flrNo": "1",
+    "area": "23.94",
+    "mainPurpsCd": "04402",
+    "mainPurpsCdNm": "사무소",
+    "etcPurps": "제2종근린생활시설(사무소)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2402호",
+    "flrNo": "22",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "상가1층108호",
+    "flrNo": "1",
+    "area": "46.605",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "판매시설(상점)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1321호",
+    "flrNo": "11",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1118호",
+    "flrNo": "9",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2009호",
+    "flrNo": "18",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2309호",
+    "flrNo": "21",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1005호",
+    "flrNo": "8",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2507호",
+    "flrNo": "23",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2022호",
+    "flrNo": "18",
+    "area": "115.04",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "913호",
+    "flrNo": "7",
+    "area": "115.04",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1308호",
+    "flrNo": "11",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1815호",
+    "flrNo": "16",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1311호",
+    "flrNo": "11",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1309호",
+    "flrNo": "11",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2017호",
+    "flrNo": "18",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "지하1층132호",
+    "flrNo": "1",
+    "area": "22.23",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2713호",
+    "flrNo": "25",
+    "area": "115.04",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "806호",
+    "flrNo": "6",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2722호",
+    "flrNo": "25",
+    "area": "115.04",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1818호",
+    "flrNo": "16",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2506호",
+    "flrNo": "23",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "3001호",
+    "flrNo": "28",
+    "area": "98.68",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2801호",
+    "flrNo": "26",
+    "area": "98.68",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2121호",
+    "flrNo": "19",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1515호",
+    "flrNo": "13",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "619호",
+    "flrNo": "4",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1410호",
+    "flrNo": "12",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1713호",
+    "flrNo": "15",
+    "area": "115.04",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "3014호",
+    "flrNo": "28",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1920호",
+    "flrNo": "17",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1912호",
+    "flrNo": "17",
+    "area": "98.68",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1304호",
+    "flrNo": "11",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1319호",
+    "flrNo": "11",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1402호",
+    "flrNo": "12",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2521호",
+    "flrNo": "23",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1602호",
+    "flrNo": "14",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "상가1층120호",
+    "flrNo": "1",
+    "area": "37.245",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "판매시설(상점)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "603호",
+    "flrNo": "4",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1812호",
+    "flrNo": "16",
+    "area": "98.68",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1913호",
+    "flrNo": "17",
+    "area": "115.04",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "919호",
+    "flrNo": "7",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1607호",
+    "flrNo": "14",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1006호",
+    "flrNo": "8",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1615호",
+    "flrNo": "14",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1401호",
+    "flrNo": "12",
+    "area": "98.68",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "지하1층129호",
+    "flrNo": "1",
+    "area": "28.142",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1813호",
+    "flrNo": "16",
+    "area": "115.04",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "상가1층102호",
+    "flrNo": "1",
+    "area": "46.605",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "판매시설(상점)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "상가1층113호",
+    "flrNo": "1",
+    "area": "37.245",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "판매시설(상점)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2818호",
+    "flrNo": "26",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2108호",
+    "flrNo": "19",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1909호",
+    "flrNo": "17",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1111호",
+    "flrNo": "9",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1513호",
+    "flrNo": "13",
+    "area": "115.04",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1313호",
+    "flrNo": "11",
+    "area": "115.04",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "906호",
+    "flrNo": "7",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2615호",
+    "flrNo": "24",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "지하1층105호",
+    "flrNo": "1",
+    "area": "18.38",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "817호",
+    "flrNo": "6",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2520호",
+    "flrNo": "23",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "921호",
+    "flrNo": "7",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "712호",
+    "flrNo": "5",
+    "area": "98.68",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "816호",
+    "flrNo": "6",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2220호",
+    "flrNo": "20",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2814호",
+    "flrNo": "26",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "3022호",
+    "flrNo": "28",
+    "area": "115.04",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1009호",
+    "flrNo": "8",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "910호",
+    "flrNo": "7",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1811호",
+    "flrNo": "16",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2007호",
+    "flrNo": "18",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2222호",
+    "flrNo": "20",
+    "area": "115.04",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1216호",
+    "flrNo": "10",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1220호",
+    "flrNo": "10",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1206호",
+    "flrNo": "10",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2620호",
+    "flrNo": "24",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1201호",
+    "flrNo": "10",
+    "area": "98.68",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2420호",
+    "flrNo": "22",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2501호",
+    "flrNo": "23",
+    "area": "98.68",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "914호",
+    "flrNo": "7",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1205호",
+    "flrNo": "10",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1706호",
+    "flrNo": "15",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2822호",
+    "flrNo": "26",
+    "area": "115.04",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "811호",
+    "flrNo": "6",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1408호",
+    "flrNo": "12",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2710호",
+    "flrNo": "25",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2110호",
+    "flrNo": "19",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2906호",
+    "flrNo": "27",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1501호",
+    "flrNo": "13",
+    "area": "98.68",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1214호",
+    "flrNo": "10",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "지하1층142호",
+    "flrNo": "1",
+    "area": "17.04",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "818호",
+    "flrNo": "6",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "611호",
+    "flrNo": "4",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1518호",
+    "flrNo": "13",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2605호",
+    "flrNo": "24",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2806호",
+    "flrNo": "26",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1312호",
+    "flrNo": "11",
+    "area": "98.68",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1019호",
+    "flrNo": "8",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1916호",
+    "flrNo": "17",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "지하1층124호",
+    "flrNo": "1",
+    "area": "22.1",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "812호",
+    "flrNo": "6",
+    "area": "98.68",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1520호",
+    "flrNo": "13",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "613호",
+    "flrNo": "4",
+    "area": "115.04",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2018호",
+    "flrNo": "18",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2406호",
+    "flrNo": "22",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2016호",
+    "flrNo": "18",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1807호",
+    "flrNo": "16",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1012호",
+    "flrNo": "8",
+    "area": "98.68",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1821호",
+    "flrNo": "16",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "909호",
+    "flrNo": "7",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2317호",
+    "flrNo": "21",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2201호",
+    "flrNo": "20",
+    "area": "98.68",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2015호",
+    "flrNo": "18",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2311호",
+    "flrNo": "21",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2003호",
+    "flrNo": "18",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "상가1층116호",
+    "flrNo": "1",
+    "area": "57.62",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "판매시설(상점)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2305호",
+    "flrNo": "21",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "616호",
+    "flrNo": "4",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1222호",
+    "flrNo": "10",
+    "area": "115.04",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2714호",
+    "flrNo": "25",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1808호",
+    "flrNo": "16",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "지하1층107호",
+    "flrNo": "1",
+    "area": "35.89",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1413호",
+    "flrNo": "12",
+    "area": "115.04",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "3018호",
+    "flrNo": "28",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1714호",
+    "flrNo": "15",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1619호",
+    "flrNo": "14",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2013호",
+    "flrNo": "18",
+    "area": "115.04",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "3011호",
+    "flrNo": "28",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2310호",
+    "flrNo": "21",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1708호",
+    "flrNo": "15",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2920호",
+    "flrNo": "27",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "807호",
+    "flrNo": "6",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2116호",
+    "flrNo": "19",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1221호",
+    "flrNo": "10",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1314호",
+    "flrNo": "11",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1709호",
+    "flrNo": "15",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "620호",
+    "flrNo": "4",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1604호",
+    "flrNo": "14",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1921호",
+    "flrNo": "17",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2014호",
+    "flrNo": "18",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1522호",
+    "flrNo": "13",
+    "area": "115.04",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "802호",
+    "flrNo": "6",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2502호",
+    "flrNo": "23",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "814호",
+    "flrNo": "6",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2020호",
+    "flrNo": "18",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2621호",
+    "flrNo": "24",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2211호",
+    "flrNo": "20",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1420호",
+    "flrNo": "12",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1802호",
+    "flrNo": "16",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "지하1층144호",
+    "flrNo": "1",
+    "area": "223.62",
+    "mainPurpsCd": "03004",
+    "mainPurpsCdNm": "일반목욕장",
+    "etcPurps": "일반목욕장"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "822호",
+    "flrNo": "6",
+    "area": "115.04",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1908호",
+    "flrNo": "17",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "지하1층118호",
+    "flrNo": "1",
+    "area": "24.7",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1606호",
+    "flrNo": "14",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "상가2층201호",
+    "flrNo": "2",
+    "area": "966.555",
+    "mainPurpsCd": null,
+    "mainPurpsCdNm": null,
+    "etcPurps": "병원"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2707호",
+    "flrNo": "25",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2405호",
+    "flrNo": "22",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1307호",
+    "flrNo": "11",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1414호",
+    "flrNo": "12",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2911호",
+    "flrNo": "27",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "704호",
+    "flrNo": "5",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2415호",
+    "flrNo": "22",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2316호",
+    "flrNo": "21",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "710호",
+    "flrNo": "5",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1116호",
+    "flrNo": "9",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1411호",
+    "flrNo": "12",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "지하1층102호",
+    "flrNo": "1",
+    "area": "42.12",
+    "mainPurpsCd": "04005",
+    "mainPurpsCdNm": "제조업소",
+    "etcPurps": "제2종근린생활시설(제조업소)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2808호",
+    "flrNo": "26",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "922호",
+    "flrNo": "7",
+    "area": "115.04",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "815호",
+    "flrNo": "6",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "918호",
+    "flrNo": "7",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2320호",
+    "flrNo": "21",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2706호",
+    "flrNo": "25",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2915호",
+    "flrNo": "27",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1809호",
+    "flrNo": "16",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1422호",
+    "flrNo": "12",
+    "area": "115.04",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2503호",
+    "flrNo": "23",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2914호",
+    "flrNo": "27",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "3008호",
+    "flrNo": "28",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "614호",
+    "flrNo": "4",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2302호",
+    "flrNo": "21",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2513호",
+    "flrNo": "23",
+    "area": "115.04",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "908호",
+    "flrNo": "7",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1512호",
+    "flrNo": "13",
+    "area": "98.68",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "803호",
+    "flrNo": "6",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1521호",
+    "flrNo": "13",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2617호",
+    "flrNo": "24",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1315호",
+    "flrNo": "11",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2109호",
+    "flrNo": "19",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2716호",
+    "flrNo": "25",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1412호",
+    "flrNo": "12",
+    "area": "98.68",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "608호",
+    "flrNo": "4",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2802호",
+    "flrNo": "26",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1806호",
+    "flrNo": "16",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2213호",
+    "flrNo": "20",
+    "area": "115.04",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2709호",
+    "flrNo": "25",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "지하1층139호",
+    "flrNo": "1",
+    "area": "21.04",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1819호",
+    "flrNo": "16",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2708호",
+    "flrNo": "25",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2712호",
+    "flrNo": "25",
+    "area": "98.68",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1001호",
+    "flrNo": "8",
+    "area": "98.68",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1710호",
+    "flrNo": "15",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1614호",
+    "flrNo": "14",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2322호",
+    "flrNo": "21",
+    "area": "115.04",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "3005호",
+    "flrNo": "28",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1208호",
+    "flrNo": "10",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "3013호",
+    "flrNo": "28",
+    "area": "115.04",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "지하1층143호",
+    "flrNo": "1",
+    "area": "64.68",
+    "mainPurpsCd": "03004",
+    "mainPurpsCdNm": "일반목욕장",
+    "etcPurps": "일반목욕장"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2122호",
+    "flrNo": "19",
+    "area": "115.04",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "3002호",
+    "flrNo": "28",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1622호",
+    "flrNo": "14",
+    "area": "115.04",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2106호",
+    "flrNo": "19",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "3020호",
+    "flrNo": "28",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1906호",
+    "flrNo": "17",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2721호",
+    "flrNo": "25",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1310호",
+    "flrNo": "11",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "821호",
+    "flrNo": "6",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1915호",
+    "flrNo": "17",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "지하1층108호",
+    "flrNo": "1",
+    "area": "31.43",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "903호",
+    "flrNo": "7",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "상가1층117호",
+    "flrNo": "1",
+    "area": "57.62",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "판매시설(상점)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "상가1층118호",
+    "flrNo": "1",
+    "area": "37.245",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "판매시설(상점)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2715호",
+    "flrNo": "25",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1817호",
+    "flrNo": "16",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "상가1층114호",
+    "flrNo": "1",
+    "area": "37.245",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "판매시설(상점)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1509호",
+    "flrNo": "13",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "605호",
+    "flrNo": "4",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2004호",
+    "flrNo": "18",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1011호",
+    "flrNo": "8",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "지하1층130호",
+    "flrNo": "1",
+    "area": "16.318",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2616호",
+    "flrNo": "24",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2922호",
+    "flrNo": "27",
+    "area": "115.04",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2512호",
+    "flrNo": "23",
+    "area": "98.68",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2613호",
+    "flrNo": "24",
+    "area": "115.04",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2908호",
+    "flrNo": "27",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "지하1층109호",
+    "flrNo": "1",
+    "area": "13.15",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "804호",
+    "flrNo": "6",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1103호",
+    "flrNo": "9",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2608호",
+    "flrNo": "24",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2519호",
+    "flrNo": "23",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "지하1층123호",
+    "flrNo": "1",
+    "area": "26.53",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1406호",
+    "flrNo": "12",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "717호",
+    "flrNo": "5",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1715호",
+    "flrNo": "15",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1316호",
+    "flrNo": "11",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1409호",
+    "flrNo": "12",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1702호",
+    "flrNo": "15",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "920호",
+    "flrNo": "7",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "602호",
+    "flrNo": "4",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1716호",
+    "flrNo": "15",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2313호",
+    "flrNo": "21",
+    "area": "115.04",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2515호",
+    "flrNo": "23",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "지하1층114호",
+    "flrNo": "1",
+    "area": "13.04",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "805호",
+    "flrNo": "6",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1101호",
+    "flrNo": "9",
+    "area": "98.68",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "904호",
+    "flrNo": "7",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1721호",
+    "flrNo": "15",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "지하1층120호",
+    "flrNo": "1",
+    "area": "17.24",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1404호",
+    "flrNo": "12",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "지하1층141호",
+    "flrNo": "1",
+    "area": "13.52",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2221호",
+    "flrNo": "20",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2315호",
+    "flrNo": "21",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1507호",
+    "flrNo": "13",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "610호",
+    "flrNo": "4",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1801호",
+    "flrNo": "16",
+    "area": "98.68",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2601호",
+    "flrNo": "24",
+    "area": "98.68",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "상가1층109호",
+    "flrNo": "1",
+    "area": "46.605",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "판매시설(상점)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1503호",
+    "flrNo": "13",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "지하1층131호",
+    "flrNo": "1",
+    "area": "22.23",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2907호",
+    "flrNo": "27",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2816호",
+    "flrNo": "26",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1013호",
+    "flrNo": "8",
+    "area": "115.04",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "905호",
+    "flrNo": "7",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1608호",
+    "flrNo": "14",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1508호",
+    "flrNo": "13",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2304호",
+    "flrNo": "21",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "3004호",
+    "flrNo": "28",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "지하1층137호",
+    "flrNo": "1",
+    "area": "16.2",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "707호",
+    "flrNo": "5",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1901호",
+    "flrNo": "17",
+    "area": "98.68",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2205호",
+    "flrNo": "20",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1718호",
+    "flrNo": "15",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "801호",
+    "flrNo": "6",
+    "area": "98.68",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "609호",
+    "flrNo": "4",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1113호",
+    "flrNo": "9",
+    "area": "115.04",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1218호",
+    "flrNo": "10",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1820호",
+    "flrNo": "16",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2611호",
+    "flrNo": "24",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1610호",
+    "flrNo": "14",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1511호",
+    "flrNo": "13",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2917호",
+    "flrNo": "27",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2704호",
+    "flrNo": "25",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2219호",
+    "flrNo": "20",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2104호",
+    "flrNo": "19",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "지하1층101호",
+    "flrNo": "1",
+    "area": "23.19",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1922호",
+    "flrNo": "17",
+    "area": "115.04",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1215호",
+    "flrNo": "10",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1020호",
+    "flrNo": "8",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1219호",
+    "flrNo": "10",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2307호",
+    "flrNo": "21",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1002호",
+    "flrNo": "8",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1902호",
+    "flrNo": "17",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2807호",
+    "flrNo": "26",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2811호",
+    "flrNo": "26",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2518호",
+    "flrNo": "23",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "지하1층117호",
+    "flrNo": "1",
+    "area": "8.24",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2314호",
+    "flrNo": "21",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "3017호",
+    "flrNo": "28",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2509호",
+    "flrNo": "23",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1918호",
+    "flrNo": "17",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "상가1층115호",
+    "flrNo": "1",
+    "area": "37.245",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "판매시설(상점)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "지하1층128호",
+    "flrNo": "1",
+    "area": "22.23",
+    "mainPurpsCd": "04402",
+    "mainPurpsCdNm": "사무소",
+    "etcPurps": "제2종근린생활시설(사무소)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1211호",
+    "flrNo": "10",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2604호",
+    "flrNo": "24",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "지하1층125호",
+    "flrNo": "1",
+    "area": "24.01",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2719호",
+    "flrNo": "25",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2111호",
+    "flrNo": "19",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2419호",
+    "flrNo": "22",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2821호",
+    "flrNo": "26",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "3021호",
+    "flrNo": "28",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1612호",
+    "flrNo": "14",
+    "area": "98.68",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2919호",
+    "flrNo": "27",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1212호",
+    "flrNo": "10",
+    "area": "98.68",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2813호",
+    "flrNo": "26",
+    "area": "115.04",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2203호",
+    "flrNo": "20",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1911호",
+    "flrNo": "17",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1816호",
+    "flrNo": "16",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1107호",
+    "flrNo": "9",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1419호",
+    "flrNo": "12",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1712호",
+    "flrNo": "15",
+    "area": "98.68",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "705호",
+    "flrNo": "5",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2011호",
+    "flrNo": "18",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2609호",
+    "flrNo": "24",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2913호",
+    "flrNo": "27",
+    "area": "115.04",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1021호",
+    "flrNo": "8",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2612호",
+    "flrNo": "24",
+    "area": "98.68",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "상가1층106호",
+    "flrNo": "1",
+    "area": "44.215",
+    "mainPurpsCd": "07201",
+    "mainPurpsCdNm": "상점(소매점)",
+    "etcPurps": "판매시설(상점)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1417호",
+    "flrNo": "12",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2510호",
+    "flrNo": "23",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "612호",
+    "flrNo": "4",
+    "area": "98.68",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2912호",
+    "flrNo": "27",
+    "area": "98.68",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "지하1층138호",
+    "flrNo": "1",
+    "area": "13.52",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2921호",
+    "flrNo": "27",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "지하1층126호",
+    "flrNo": "1",
+    "area": "23.55",
+    "mainPurpsCd": "07999",
+    "mainPurpsCdNm": "기타판매시설",
+    "etcPurps": "판매시설"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2012호",
+    "flrNo": "18",
+    "area": "98.68",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1318호",
+    "flrNo": "11",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2217호",
+    "flrNo": "20",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2212호",
+    "flrNo": "20",
+    "area": "98.68",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "711호",
+    "flrNo": "5",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2105호",
+    "flrNo": "19",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "621호",
+    "flrNo": "4",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2114호",
+    "flrNo": "19",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2113호",
+    "flrNo": "19",
+    "area": "115.04",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1109호",
+    "flrNo": "9",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "917호",
+    "flrNo": "7",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "622호",
+    "flrNo": "4",
+    "area": "115.04",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1110호",
+    "flrNo": "9",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2916호",
+    "flrNo": "27",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1517호",
+    "flrNo": "13",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1104호",
+    "flrNo": "9",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2115호",
+    "flrNo": "19",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1322호",
+    "flrNo": "11",
+    "area": "115.04",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1302호",
+    "flrNo": "11",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1015호",
+    "flrNo": "8",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2516호",
+    "flrNo": "23",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1018호",
+    "flrNo": "8",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2610호",
+    "flrNo": "24",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2618호",
+    "flrNo": "24",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "808호",
+    "flrNo": "6",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "721호",
+    "flrNo": "5",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "2522호",
+    "flrNo": "23",
+    "area": "115.04",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "615호",
+    "flrNo": "4",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1514호",
+    "flrNo": "13",
+    "area": "84.21",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1903호",
+    "flrNo": "17",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  },
+  {
+    "bldNm": "한성기린프라자",
+    "dongNm": "한성기린프라자",
+    "hoNm": "1805호",
+    "flrNo": "16",
+    "area": "60",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "공동주택(아파트)"
+  }
+]

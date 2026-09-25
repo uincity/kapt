@@ -100,7 +100,11 @@ def _school_detail(row: pd.Series) -> pd.DataFrame:
 def render_elementary_demand_dashboard(root=ROOT) -> None:
     root = Path(root)
     st.title("초등학교수요분석")
-    st.caption("학교알리미 2024~2026년 학생·학급·전입전출 자료로 산출한 9단계 동결 결과")
+    st.caption(
+        "학교알리미 2024년부터 2026년까지의 학생·학급·전입전출 자료에서 학생 규모, 학급당 학생수, 순전입률, 3개년 학생수 변화와 동일학년군 증감을 산출합니다.  \n"
+        "학교 규모에 따른 신뢰도를 보정하고 각 지표를 부산 내 상대 백분위로 바꾼 뒤, 규모 20%·전입전출 25%·성장 25%·고학년 및 동일학년군 변화 30%로 결합합니다.  \n"
+        "수요점수(0점부터 100점)는 해당 학교에서 관측된 학생 유입·유지와 규모가 부산 내에서 얼마나 강한지를 나타내며, 학교 교육의 질이나 미래 수요·부동산 가치를 직접 뜻하지 않습니다."
+    )
     if not (root / DEMAND_PATH).is_file() or not (root / LONGITUDINAL_PATH).is_file():
         st.error("초등학교 수요 동결 자료를 찾을 수 없습니다.")
         st.stop()

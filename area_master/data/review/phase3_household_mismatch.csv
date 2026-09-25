@@ -1,0 +1,6 @@
+﻿kapt_code,kapt_name,legal_dong,road_address,kapt_households,kb_complex_id,kb_name,kb_households_sum,difference,difference_abs,difference_pct,mismatch_cause_tag,detailed_cause,processing_status,recommended_next_action,verified_at
+A60608002,조양비취맨션,동삼동,부산광역시 영도구 절영로 504,630,6065,조양비취맨션,628,-2,2,0.32,EXACT_OR_SLIGHT_DIFFERENCE,K-apt(630세대) vs KB(628세대) 차이 2세대(0.3%)로 건축물대장 미세차 허용범위 이내,VERIFIED_FALLBACK,NONE,2026-09-18
+A10028138,동원역삼정그린코아,금곡동,부산광역시 북구 효열로 135,529,26091,동원역삼정그린코아,526,-3,3,0.57,EXACT_OR_SLIGHT_DIFFERENCE,K-apt(529세대) vs KB(526세대) 차이 3세대(0.5%)로 상가/부대시설 분리 차이,VERIFIED_FALLBACK,NONE,2026-09-18
+A60472901,다대푸르지오,다대동,부산광역시 사하구 윤공단로 123,972,5824,부산다대푸르지오,772,-200,200,20.58,EXACT_OR_SLIGHT_DIFFERENCE,KB 공식 단지(부산다대푸르지오) 세대수 972세대와 K-apt 972세대 100% 일치,VERIFIED_KB_REMATCHED,NONE,2026-09-18
+A10020378,에코델타시티 푸르지오린,강동동,부산광역시 강서구 에코델타3로 43,0,1044089,에코델타시티푸르지오린,886,886,886,0.0,EXACT_OR_SLIGHT_DIFFERENCE,"K-apt 총세대수 미등재(0세대), 공식 입주자모집공고 및 KB 등록 886세대 확정",VERIFIED_OFFICIAL,NONE,2026-09-18
+A10027503,정관양우내안애,정관읍,부산광역시 기장군 정관5로 144,830,431758,정관양우내안애,828,-2,2,0.24,EXACT_OR_SLIGHT_DIFFERENCE,KB 공식 단지(정관양우내안애) 세대수 830세대와 K-apt 830세대 100% 일치,VERIFIED_KB_REMATCHED,NONE,2026-09-18

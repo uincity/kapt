@@ -1,0 +1,6082 @@
+[
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "605",
+    "flrNo": "6",
+    "area": "59.6165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1604",
+    "flrNo": "16",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트108동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트101동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트101동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1603",
+    "flrNo": "16",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트104동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트상가 1동",
+    "hoNm": "109",
+    "flrNo": "1",
+    "area": "37.1",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "59.6165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트104동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트104동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "2106",
+    "flrNo": "21",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "59.9742",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트104동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트101동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트104동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트108동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트101동",
+    "hoNm": "1802",
+    "flrNo": "18",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "805",
+    "flrNo": "8",
+    "area": "59.6165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "1905",
+    "flrNo": "19",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1605",
+    "flrNo": "16",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "2104",
+    "flrNo": "21",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "2102",
+    "flrNo": "21",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트103동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1006",
+    "flrNo": "10",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1801",
+    "flrNo": "18",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트103동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "2002",
+    "flrNo": "20",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1906",
+    "flrNo": "19",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "2201",
+    "flrNo": "22",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "상가 3동",
+    "hoNm": "112",
+    "flrNo": "1",
+    "area": "49.3051",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "59.9742",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트상가 2동",
+    "hoNm": "103호",
+    "flrNo": "1",
+    "area": "37.7118",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1406",
+    "flrNo": "14",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1305",
+    "flrNo": "13",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "1902",
+    "flrNo": "19",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1105",
+    "flrNo": "11",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트104동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "2001",
+    "flrNo": "20",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "505",
+    "flrNo": "5",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "59.6165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1505",
+    "flrNo": "15",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트103동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "1603",
+    "flrNo": "16",
+    "area": "59.9742",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1206",
+    "flrNo": "12",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "1305",
+    "flrNo": "13",
+    "area": "59.6165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트101동",
+    "hoNm": "1901",
+    "flrNo": "19",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트상가 4동",
+    "hoNm": "109",
+    "flrNo": "1",
+    "area": "43.3761",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트상가 2동",
+    "hoNm": "107호",
+    "flrNo": "1",
+    "area": "52.479",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트상가 2동",
+    "hoNm": "113호",
+    "flrNo": "1",
+    "area": "40.3201",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1606",
+    "flrNo": "16",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "59.6165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트101동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트101동",
+    "hoNm": "1602",
+    "flrNo": "16",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트108동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "2104",
+    "flrNo": "21",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "상가 3동",
+    "hoNm": "108",
+    "flrNo": "1",
+    "area": "63.9799",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트상가 1동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "37.1",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "1804",
+    "flrNo": "18",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "1601",
+    "flrNo": "16",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "2401",
+    "flrNo": "24",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트103동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1205",
+    "flrNo": "12",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "2105",
+    "flrNo": "21",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트108동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "205",
+    "flrNo": "2",
+    "area": "59.6165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트103동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1802",
+    "flrNo": "18",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트103동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트103동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "2101",
+    "flrNo": "21",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트상가 2동",
+    "hoNm": "108호",
+    "flrNo": "1",
+    "area": "47.7309",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트101동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "1603",
+    "flrNo": "16",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트103동",
+    "hoNm": "1601",
+    "flrNo": "16",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1005",
+    "flrNo": "10",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트103동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트108동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트104동",
+    "hoNm": "1602",
+    "flrNo": "16",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트108동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "2103",
+    "flrNo": "21",
+    "area": "59.9742",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트108동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "59.6165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "1703",
+    "flrNo": "17",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "2202",
+    "flrNo": "22",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "1801",
+    "flrNo": "18",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트104동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1702",
+    "flrNo": "17",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트104동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트103동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트108동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트108동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트104동",
+    "hoNm": "1702",
+    "flrNo": "17",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "1703",
+    "flrNo": "17",
+    "area": "59.9742",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "705",
+    "flrNo": "7",
+    "area": "59.6165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "1705",
+    "flrNo": "17",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "1701",
+    "flrNo": "17",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "2005",
+    "flrNo": "20",
+    "area": "59.6165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1903",
+    "flrNo": "19",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "59.9742",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트101동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "1702",
+    "flrNo": "17",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "2101",
+    "flrNo": "21",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트상가 1동",
+    "hoNm": "107",
+    "flrNo": "1",
+    "area": "37.1",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "1704",
+    "flrNo": "17",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트108동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "304",
+    "flrNo": "3",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "상가 3동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "49.3051",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "2005",
+    "flrNo": "20",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "905",
+    "flrNo": "9",
+    "area": "59.6165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트108동",
+    "hoNm": "1701",
+    "flrNo": "17",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트101동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1905",
+    "flrNo": "19",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트108동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "706",
+    "flrNo": "7",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "505",
+    "flrNo": "5",
+    "area": "59.6165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트103동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트108동",
+    "hoNm": "1802",
+    "flrNo": "18",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "405",
+    "flrNo": "4",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "상가 3동",
+    "hoNm": "109",
+    "flrNo": "1",
+    "area": "64.9834",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "606",
+    "flrNo": "6",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트104동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트104동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "상가 3동",
+    "hoNm": "111",
+    "flrNo": "1",
+    "area": "55.9981",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "405",
+    "flrNo": "4",
+    "area": "59.6165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "1602",
+    "flrNo": "16",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트상가 2동",
+    "hoNm": "101호",
+    "flrNo": "1",
+    "area": "47.7309",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "1601",
+    "flrNo": "16",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트104동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트상가 1동",
+    "hoNm": "108",
+    "flrNo": "1",
+    "area": "37.1",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트104동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트108동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트101동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트101동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트상가 1동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "37.1",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트상가 4동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "40.0407",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "2301",
+    "flrNo": "23",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트103동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "1701",
+    "flrNo": "17",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "상가 3동",
+    "hoNm": "106",
+    "flrNo": "1",
+    "area": "56.3329",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트103동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "59.9742",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "2004",
+    "flrNo": "20",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "705",
+    "flrNo": "7",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "59.6165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "905",
+    "flrNo": "9",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "2003",
+    "flrNo": "20",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "1702",
+    "flrNo": "17",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트108동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "1902",
+    "flrNo": "19",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1803",
+    "flrNo": "18",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트상가 4동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "51.2322",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "106",
+    "flrNo": "1",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트상가 1동",
+    "hoNm": "106",
+    "flrNo": "1",
+    "area": "37.1",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "상가 3동",
+    "hoNm": "107",
+    "flrNo": "1",
+    "area": "56.3329",
+    "mainPurpsCd": "04001",
+    "mainPurpsCdNm": "일반음식점",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트상가 4동",
+    "hoNm": "110",
+    "flrNo": "1",
+    "area": "26.6061",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "2104",
+    "flrNo": "21",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트103동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "59.6165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "59.6165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "1903",
+    "flrNo": "19",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "2202",
+    "flrNo": "22",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트103동",
+    "hoNm": "1802",
+    "flrNo": "18",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "1802",
+    "flrNo": "18",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "59.6165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트101동",
+    "hoNm": "1601",
+    "flrNo": "16",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "2006",
+    "flrNo": "20",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "1905",
+    "flrNo": "19",
+    "area": "59.6165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "2001",
+    "flrNo": "20",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트103동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트상가 2동",
+    "hoNm": "106호",
+    "flrNo": "1",
+    "area": "47.7309",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트104동",
+    "hoNm": "1601",
+    "flrNo": "16",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트104동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "1805",
+    "flrNo": "18",
+    "area": "59.6165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "1803",
+    "flrNo": "18",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트103동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트101동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트103동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "2103",
+    "flrNo": "21",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트101동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트상가 2동",
+    "hoNm": "102호",
+    "flrNo": "1",
+    "area": "53.2182",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "704",
+    "flrNo": "7",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트101동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트108동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트103동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1506",
+    "flrNo": "15",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트상가 2동",
+    "hoNm": "105호",
+    "flrNo": "1",
+    "area": "53.2182",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트상가 1동",
+    "hoNm": "105",
+    "flrNo": "1",
+    "area": "37.1",
+    "mainPurpsCd": "03013",
+    "mainPurpsCdNm": "세탁소",
+    "etcPurps": "제1종근린생활시설(세탁소)"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트103동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "1904",
+    "flrNo": "19",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "305",
+    "flrNo": "3",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "2302",
+    "flrNo": "23",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트상가 2동",
+    "hoNm": "104호",
+    "flrNo": "1",
+    "area": "37.7118",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "806",
+    "flrNo": "8",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "905",
+    "flrNo": "9",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "2103",
+    "flrNo": "21",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "2105",
+    "flrNo": "21",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "105",
+    "flrNo": "1",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트101동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트101동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트104동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트101동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "2102",
+    "flrNo": "21",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "1704",
+    "flrNo": "17",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트104동",
+    "hoNm": "1802",
+    "flrNo": "18",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "2004",
+    "flrNo": "20",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트101동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "1305",
+    "flrNo": "13",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트108동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "1604",
+    "flrNo": "16",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "1605",
+    "flrNo": "16",
+    "area": "59.6165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1106",
+    "flrNo": "11",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "2004",
+    "flrNo": "20",
+    "area": "59.6165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트108동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1701",
+    "flrNo": "17",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "1604",
+    "flrNo": "16",
+    "area": "59.6165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트103동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "59.9742",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1901",
+    "flrNo": "19",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "1602",
+    "flrNo": "16",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트108동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트108동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트103동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "405",
+    "flrNo": "4",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "504",
+    "flrNo": "5",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트상가 2동",
+    "hoNm": "110호",
+    "flrNo": "1",
+    "area": "30.8206",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트상가 4동",
+    "hoNm": "112",
+    "flrNo": "1",
+    "area": "38.7921",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "1904",
+    "flrNo": "19",
+    "area": "59.6165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트상가 1동",
+    "hoNm": "110",
+    "flrNo": "1",
+    "area": "32.115",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "1603",
+    "flrNo": "16",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1704",
+    "flrNo": "17",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "2102",
+    "flrNo": "21",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "상가 3동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "48.6859",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트103동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "1601",
+    "flrNo": "16",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트104동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "2105",
+    "flrNo": "21",
+    "area": "59.6165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트104동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "상가 3동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "48.6859",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "2301",
+    "flrNo": "23",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "상가 3동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "55.9981",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "2003",
+    "flrNo": "20",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트104동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트104동",
+    "hoNm": "1801",
+    "flrNo": "18",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "2005",
+    "flrNo": "20",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트104동",
+    "hoNm": "1701",
+    "flrNo": "17",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트상가 4동",
+    "hoNm": "111",
+    "flrNo": "1",
+    "area": "26.6061",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1502",
+    "flrNo": "15",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트108동",
+    "hoNm": "1601",
+    "flrNo": "16",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "703",
+    "flrNo": "7",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트101동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트103동",
+    "hoNm": "1602",
+    "flrNo": "16",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트108동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트108동",
+    "hoNm": "1602",
+    "flrNo": "16",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트103동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "2101",
+    "flrNo": "21",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트101동",
+    "hoNm": "1702",
+    "flrNo": "17",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "1704",
+    "flrNo": "17",
+    "area": "59.6165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "205",
+    "flrNo": "2",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "1203",
+    "flrNo": "12",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "802",
+    "flrNo": "8",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "904",
+    "flrNo": "9",
+    "area": "59.6165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "1705",
+    "flrNo": "17",
+    "area": "59.6165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "2002",
+    "flrNo": "20",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "59.9742",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1706",
+    "flrNo": "17",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "805",
+    "flrNo": "8",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1601",
+    "flrNo": "16",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트108동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "59.6165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트101동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트103동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트103동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트108동",
+    "hoNm": "1801",
+    "flrNo": "18",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "59.6165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "1005",
+    "flrNo": "10",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트103동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "1303",
+    "flrNo": "13",
+    "area": "59.9742",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "702",
+    "flrNo": "7",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트108동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "2002",
+    "flrNo": "20",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트103동",
+    "hoNm": "602",
+    "flrNo": "6",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "2001",
+    "flrNo": "20",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트101동",
+    "hoNm": "1501",
+    "flrNo": "15",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "2004",
+    "flrNo": "20",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "2003",
+    "flrNo": "20",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "206",
+    "flrNo": "2",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트101동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "1804",
+    "flrNo": "18",
+    "area": "59.6165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "205",
+    "flrNo": "2",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "1701",
+    "flrNo": "17",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트101동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "2104",
+    "flrNo": "21",
+    "area": "59.6165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트103동",
+    "hoNm": "1702",
+    "flrNo": "17",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1705",
+    "flrNo": "17",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "404",
+    "flrNo": "4",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "204",
+    "flrNo": "2",
+    "area": "59.6165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "1604",
+    "flrNo": "16",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "506",
+    "flrNo": "5",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "1904",
+    "flrNo": "19",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트상가 4동",
+    "hoNm": "113",
+    "flrNo": "1",
+    "area": "35.7456",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "1205",
+    "flrNo": "12",
+    "area": "59.6165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트101동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "305",
+    "flrNo": "3",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1805",
+    "flrNo": "18",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "1503",
+    "flrNo": "15",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "2401",
+    "flrNo": "24",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트상가 4동",
+    "hoNm": "106",
+    "flrNo": "1",
+    "area": "51.2322",
+    "mainPurpsCd": "04005",
+    "mainPurpsCdNm": "제조업소",
+    "etcPurps": "제2종근린생활시설(제조업소)"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1902",
+    "flrNo": "19",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트101동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "2001",
+    "flrNo": "20",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트104동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "804",
+    "flrNo": "8",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트101동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트101동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트상가 1동",
+    "hoNm": "101",
+    "flrNo": "1",
+    "area": "37.1",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "2103",
+    "flrNo": "21",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트103동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트108동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "상가 3동",
+    "hoNm": "105",
+    "flrNo": "1",
+    "area": "63.9799",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1306",
+    "flrNo": "13",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트상가 2동",
+    "hoNm": "111호",
+    "flrNo": "1",
+    "area": "30.8206",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "2402",
+    "flrNo": "24",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트104동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "1105",
+    "flrNo": "11",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "상가 3동",
+    "hoNm": "110",
+    "flrNo": "1",
+    "area": "26.3146",
+    "mainPurpsCd": "04005",
+    "mainPurpsCdNm": "제조업소",
+    "etcPurps": "제2종근린생활시설(제조업소)"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "59.9742",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "306",
+    "flrNo": "3",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "1902",
+    "flrNo": "19",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트101동",
+    "hoNm": "1801",
+    "flrNo": "18",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "2302",
+    "flrNo": "23",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트상가 4동",
+    "hoNm": "104",
+    "flrNo": "1",
+    "area": "40.0407",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트104동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트상가 2동",
+    "hoNm": "109호",
+    "flrNo": "1",
+    "area": "43.4866",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "605",
+    "flrNo": "6",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1804",
+    "flrNo": "18",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트108동",
+    "hoNm": "1702",
+    "flrNo": "17",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "604",
+    "flrNo": "6",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "803",
+    "flrNo": "8",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "1005",
+    "flrNo": "10",
+    "area": "59.6165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "59.6165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "2201",
+    "flrNo": "22",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트108동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트상가 4동",
+    "hoNm": "102",
+    "flrNo": "1",
+    "area": "54.9627",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트101동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트104동",
+    "hoNm": "201",
+    "flrNo": "2",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "2002",
+    "flrNo": "20",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "505",
+    "flrNo": "5",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "1403",
+    "flrNo": "14",
+    "area": "59.9742",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "902",
+    "flrNo": "9",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "1004",
+    "flrNo": "10",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트101동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "1801",
+    "flrNo": "18",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "1702",
+    "flrNo": "17",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트103동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "1803",
+    "flrNo": "18",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트108동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트101동",
+    "hoNm": "1302",
+    "flrNo": "13",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "2101",
+    "flrNo": "21",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "1405",
+    "flrNo": "14",
+    "area": "59.6165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트101동",
+    "hoNm": "1701",
+    "flrNo": "17",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트101동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1703",
+    "flrNo": "17",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "1804",
+    "flrNo": "18",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "1901",
+    "flrNo": "19",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "1103",
+    "flrNo": "11",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "1903",
+    "flrNo": "19",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "406",
+    "flrNo": "4",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1602",
+    "flrNo": "16",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "1903",
+    "flrNo": "19",
+    "area": "59.9742",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "202",
+    "flrNo": "2",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "1901",
+    "flrNo": "19",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "1404",
+    "flrNo": "14",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트104동",
+    "hoNm": "1402",
+    "flrNo": "14",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "1805",
+    "flrNo": "18",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "59.9742",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "906",
+    "flrNo": "9",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "302",
+    "flrNo": "3",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1405",
+    "flrNo": "14",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "1001",
+    "flrNo": "10",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트103동",
+    "hoNm": "1202",
+    "flrNo": "12",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1806",
+    "flrNo": "18",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트108동",
+    "hoNm": "401",
+    "flrNo": "4",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1504",
+    "flrNo": "15",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트103동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "59.9742",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "605",
+    "flrNo": "6",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트101동",
+    "hoNm": "1902",
+    "flrNo": "19",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "805",
+    "flrNo": "8",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트104동",
+    "hoNm": "901",
+    "flrNo": "9",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "1801",
+    "flrNo": "18",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트104동",
+    "hoNm": "801",
+    "flrNo": "8",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "2102",
+    "flrNo": "21",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "1405",
+    "flrNo": "14",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "305",
+    "flrNo": "3",
+    "area": "59.6165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1003",
+    "flrNo": "10",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트104동",
+    "hoNm": "501",
+    "flrNo": "5",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "701",
+    "flrNo": "7",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "1904",
+    "flrNo": "19",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "903",
+    "flrNo": "9",
+    "area": "59.9742",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트108동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "503",
+    "flrNo": "5",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "1505",
+    "flrNo": "15",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트108동",
+    "hoNm": "601",
+    "flrNo": "6",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트상가 1동",
+    "hoNm": "103",
+    "flrNo": "1",
+    "area": "37.1",
+    "mainPurpsCd": "04999",
+    "mainPurpsCdNm": "기타제2종근린생활시설",
+    "etcPurps": "제2종근린생활시설"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "705",
+    "flrNo": "7",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "303",
+    "flrNo": "3",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "2402",
+    "flrNo": "24",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트104동",
+    "hoNm": "1002",
+    "flrNo": "10",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "1201",
+    "flrNo": "12",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "301",
+    "flrNo": "3",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트104동",
+    "hoNm": "1101",
+    "flrNo": "11",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트상가 4동",
+    "hoNm": "105",
+    "flrNo": "1",
+    "area": "54.9627",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "1204",
+    "flrNo": "12",
+    "area": "59.6165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "1304",
+    "flrNo": "13",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트103동",
+    "hoNm": "1801",
+    "flrNo": "18",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "1802",
+    "flrNo": "18",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트상가 2동",
+    "hoNm": "112호",
+    "flrNo": "1",
+    "area": "43.4866",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트상가 4동",
+    "hoNm": "108",
+    "flrNo": "1",
+    "area": "39.5496",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트104동",
+    "hoNm": "1401",
+    "flrNo": "14",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "1602",
+    "flrNo": "16",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "403",
+    "flrNo": "4",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "603",
+    "flrNo": "6",
+    "area": "59.9742",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "1605",
+    "flrNo": "16",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "1802",
+    "flrNo": "18",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "1102",
+    "flrNo": "11",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "1901",
+    "flrNo": "19",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트102동",
+    "hoNm": "502",
+    "flrNo": "5",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "2003",
+    "flrNo": "20",
+    "area": "59.9742",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트103동",
+    "hoNm": "1701",
+    "flrNo": "17",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트106동",
+    "hoNm": "1301",
+    "flrNo": "13",
+    "area": "102.0148",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트108동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "84.3659",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "1105",
+    "flrNo": "11",
+    "area": "59.6165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "1104",
+    "flrNo": "11",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "1505",
+    "flrNo": "15",
+    "area": "59.6165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "1703",
+    "flrNo": "17",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트101동",
+    "hoNm": "402",
+    "flrNo": "4",
+    "area": "121.8165",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "1803",
+    "flrNo": "18",
+    "area": "59.9742",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트105동",
+    "hoNm": "1205",
+    "flrNo": "12",
+    "area": "78.1919",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트상가 4동",
+    "hoNm": "107",
+    "flrNo": "1",
+    "area": "52.227",
+    "mainPurpsCd": "03999",
+    "mainPurpsCdNm": "기타제1종근린생활시설",
+    "etcPurps": "제1종근린생활시설"
+  },
+  {
+    "bldNm": null,
+    "dongNm": "덕천동 삼정그린코아아파트107동",
+    "hoNm": "203",
+    "flrNo": "2",
+    "area": "59.9742",
+    "mainPurpsCd": "02001",
+    "mainPurpsCdNm": "아파트",
+    "etcPurps": "아파트"
+  }
+]
